@@ -1,0 +1,77 @@
+league,season,game,league_id,season_id,game_id,date,home_team_id,away_team_id,home_team,away_team,away_team_code,home_team_code,home_goals,away_goals,home_xg,away_xg,is_result,has_data,url
+ESP-La Liga,2425,2024-08-17 Valencia-Barcelona,4,2024,26987,2024-08-17 19:30:00,146,148,Valencia,Barcelona,BAR,VAL,1,2,1.55206,3.48824,True,True,https://understat.com/match/26987
+ESP-La Liga,2425,2024-08-24 Barcelona-Athletic Club,4,2024,26995,2024-08-24 17:00:00,148,147,Barcelona,Athletic Club,ATH,BAR,2,1,2.41577,1.09985,True,True,https://understat.com/match/26995
+ESP-La Liga,2425,2024-08-27 Rayo Vallecano-Barcelona,4,2024,27004,2024-08-27 19:30:00,145,148,Rayo Vallecano,Barcelona,BAR,RVL,1,2,0.392473,1.51872,True,True,https://understat.com/match/27004
+ESP-La Liga,2425,2024-08-31 Barcelona-Real Valladolid,4,2024,27012,2024-08-31 15:00:00,148,231,Barcelona,Real Valladolid,VAL,BAR,7,0,4.94022,0.422493,True,True,https://understat.com/match/27012
+ESP-La Liga,2425,2024-09-15 Girona-Barcelona,4,2024,27028,2024-09-15 14:15:00,223,148,Girona,Barcelona,BAR,GIR,1,4,1.09568,2.5936,True,True,https://understat.com/match/27028
+ESP-La Liga,2425,2024-09-22 Villarreal-Barcelona,4,2024,27037,2024-09-22 16:30:00,154,148,Villarreal,Barcelona,BAR,VIL,1,5,2.39605,4.1937,True,True,https://understat.com/match/27037
+ESP-La Liga,2425,2024-09-25 Barcelona-Getafe,4,2024,27043,2024-09-25 19:00:00,148,142,Barcelona,Getafe,GET,BAR,1,0,2.20799,0.929851,True,True,https://understat.com/match/27043
+ESP-La Liga,2425,2024-09-28 Osasuna-Barcelona,4,2024,27056,2024-09-28 19:00:00,157,148,Osasuna,Barcelona,BAR,OSA,4,2,2.50067,0.751814,True,True,https://understat.com/match/27056
+ESP-La Liga,2425,2024-10-06 Alaves-Barcelona,4,2024,27064,2024-10-06 14:15:00,158,148,Alaves,Barcelona,BAR,ALA,0,3,0.794829,2.49367,True,True,https://understat.com/match/27064
+ESP-La Liga,2425,2024-10-20 Barcelona-Sevilla,4,2024,27074,2024-10-20 19:00:00,148,138,Barcelona,Sevilla,SEV,BAR,5,1,4.08528,0.599652,True,True,https://understat.com/match/27074
+ESP-La Liga,2425,2024-10-26 Real Madrid-Barcelona,4,2024,27085,2024-10-26 19:00:00,150,148,Real Madrid,Barcelona,BAR,RMA,0,4,1.40359,2.51566,True,True,https://understat.com/match/27085
+ESP-La Liga,2425,2024-11-03 Barcelona-Espanyol,4,2024,27101,2024-11-03 15:15:00,148,141,Barcelona,Espanyol,ESP,BAR,3,1,1.94398,0.787359,True,True,https://understat.com/match/27101
+ESP-La Liga,2425,2024-11-10 Real Sociedad-Barcelona,4,2024,27108,2024-11-10 20:00:00,140,148,Real Sociedad,Barcelona,BAR,SOC,1,0,1.88518,0.514102,True,True,https://understat.com/match/27108
+ESP-La Liga,2425,2024-11-23 Celta Vigo-Barcelona,4,2024,27117,2024-11-23 20:00:00,152,148,Celta Vigo,Barcelona,BAR,CEL,2,2,2.75981,1.93782,True,True,https://understat.com/match/27117
+ESP-La Liga,2425,2024-11-30 Barcelona-Las Palmas,4,2024,27122,2024-11-30 13:00:00,148,144,Barcelona,Las Palmas,LPL,BAR,1,2,2.18354,0.599185,True,True,https://understat.com/match/27122
+ESP-La Liga,2425,2024-12-03 Mallorca-Barcelona,4,2024,27167,2024-12-03 18:00:00,239,148,Mallorca,Barcelona,BAR,MAL,1,5,0.921728,5.38074,True,True,https://understat.com/match/27167
+ESP-La Liga,2425,2024-12-07 Real Betis-Barcelona,4,2024,27139,2024-12-07 15:15:00,153,148,Real Betis,Barcelona,BAR,BET,2,2,2.76257,1.54117,True,True,https://understat.com/match/27139
+ESP-La Liga,2425,2024-12-15 Barcelona-Leganes,4,2024,27143,2024-12-15 20:00:00,148,159,Barcelona,Leganes,LEG,BAR,0,1,2.16597,0.77236,True,True,https://understat.com/match/27143
+ESP-La Liga,2425,2024-12-21 Barcelona-Atletico Madrid,4,2024,27160,2024-12-21 20:00:00,148,143,Barcelona,Atletico Madrid,ATL,BAR,1,2,3.37424,0.710716,True,True,https://understat.com/match/27160
+ESP-La Liga,2425,2025-01-18 Getafe-Barcelona,4,2024,27177,2025-01-18 20:00:00,142,148,Getafe,Barcelona,BAR,GET,1,1,1.16921,3.50383,True,True,https://understat.com/match/27177
+ESP-La Liga,2425,2025-01-26 Barcelona-Valencia,4,2024,27184,2025-01-26 20:00:00,148,146,Barcelona,Valencia,VAL,BAR,7,1,4.35875,1.30328,True,True,https://understat.com/match/27184
+ESP-La Liga,2425,2025-02-02 Barcelona-Alaves,4,2024,27200,2025-02-02 13:00:00,148,158,Barcelona,Alaves,ALA,BAR,1,0,1.18526,0.126278,True,True,https://understat.com/match/27200
+ESP-La Liga,2425,2025-02-09 Sevilla-Barcelona,4,2024,27206,2025-02-09 20:00:00,138,148,Sevilla,Barcelona,BAR,SEV,1,4,0.921429,1.93199,True,True,https://understat.com/match/27206
+ESP-La Liga,2425,2025-02-17 Barcelona-Rayo Vallecano,4,2024,27214,2025-02-17 20:00:00,148,145,Barcelona,Rayo Vallecano,RVL,BAR,1,0,2.82775,1.30941,True,True,https://understat.com/match/27214
+ESP-La Liga,2425,2025-02-22 Las Palmas-Barcelona,4,2024,27226,2025-02-22 20:00:00,144,148,Las Palmas,Barcelona,BAR,LPL,0,2,0.431009,1.66486,True,True,https://understat.com/match/27226
+ESP-La Liga,2425,2025-03-02 Barcelona-Real Sociedad,4,2024,27232,2025-03-02 15:15:00,148,140,Barcelona,Real Sociedad,SOC,BAR,4,0,3.63697,0.0,True,True,https://understat.com/match/27232
+ESP-La Liga,2425,2025-03-16 Atletico Madrid-Barcelona,4,2024,27252,2025-03-16 20:00:00,143,148,Atletico Madrid,Barcelona,BAR,ATL,2,4,1.09435,2.16215,True,True,https://understat.com/match/27252
+ESP-La Liga,2425,2025-03-27 Barcelona-Osasuna,4,2024,27244,2025-03-27 20:00:00,148,157,Barcelona,Osasuna,OSA,BAR,3,0,4.63707,0.53356,True,True,https://understat.com/match/27244
+ESP-La Liga,2425,2025-03-30 Barcelona-Girona,4,2024,27270,2025-03-30 15:15:00,148,223,Barcelona,Girona,GIR,BAR,4,1,2.75333,0.490847,True,True,https://understat.com/match/27270
+ESP-La Liga,2425,2025-04-05 Barcelona-Real Betis,4,2024,27272,2025-04-05 19:00:00,148,153,Barcelona,Real Betis,BET,BAR,1,1,1.46844,0.249939,True,True,https://understat.com/match/27272
+ESP-La Liga,2425,2025-04-12 Leganes-Barcelona,4,2024,27288,2025-04-12 19:00:00,159,148,Leganes,Barcelona,BAR,LEG,0,1,0.5988,1.10105,True,True,https://understat.com/match/27288
+ESP-La Liga,2425,2025-04-19 Barcelona-Celta Vigo,4,2024,27292,2025-04-19 14:15:00,148,152,Barcelona,Celta Vigo,CEL,BAR,4,3,2.56587,2.50499,True,True,https://understat.com/match/27292
+ESP-La Liga,2425,2025-04-22 Barcelona-Mallorca,4,2024,27305,2025-04-22 19:30:00,148,239,Barcelona,Mallorca,MAL,BAR,1,0,3.43457,0.326579,True,True,https://understat.com/match/27305
+ESP-La Liga,2425,2025-05-03 Real Valladolid-Barcelona,4,2024,27316,2025-05-03 19:00:00,231,148,Real Valladolid,Barcelona,BAR,VAL,1,2,0.745612,2.21168,True,True,https://understat.com/match/27316
+ESP-La Liga,2425,2025-05-11 Barcelona-Real Madrid,4,2024,27324,2025-05-11 14:15:00,148,150,Barcelona,Real Madrid,RMA,BAR,4,3,4.10632,2.5616,True,True,https://understat.com/match/27324
+ESP-La Liga,2425,2025-05-15 Espanyol-Barcelona,4,2024,27332,2025-05-15 19:30:00,141,148,Espanyol,Barcelona,BAR,ESP,0,2,1.51531,0.735877,True,True,https://understat.com/match/27332
+ESP-La Liga,2425,2025-05-18 Barcelona-Villarreal,4,2024,27343,2025-05-18 17:00:00,148,154,Barcelona,Villarreal,VIL,BAR,2,3,1.569,1.96183,True,True,https://understat.com/match/27343
+ESP-La Liga,2425,2025-05-25 Athletic Club-Barcelona,4,2024,27353,2025-05-25 19:00:00,147,148,Athletic Club,Barcelona,BAR,ATH,0,3,0.750806,3.36402,True,True,https://understat.com/match/27353
+ESP-La Liga,2526,2025-08-16 Mallorca-Barcelona,4,2025,29160,2025-08-16 17:30:00,239,148,Mallorca,Barcelona,BAR,MAL,0,3,0.529217,2.0243,True,True,https://understat.com/match/29160
+ESP-La Liga,2526,2025-08-23 Levante-Barcelona,4,2025,29171,2025-08-23 19:30:00,151,148,Levante,Barcelona,BAR,LEV,2,3,2.68812,2.48128,True,True,https://understat.com/match/29171
+ESP-La Liga,2526,2025-08-31 Rayo Vallecano-Barcelona,4,2025,29188,2025-08-31 19:30:00,145,148,Rayo Vallecano,Barcelona,BAR,RVL,1,1,1.87124,2.35774,True,True,https://understat.com/match/29188
+ESP-La Liga,2526,2025-09-14 Barcelona-Valencia,4,2025,29194,2025-09-14 19:00:00,148,146,Barcelona,Valencia,VAL,BAR,6,0,3.46022,0.12495,True,True,https://understat.com/match/29194
+ESP-La Liga,2526,2025-09-21 Barcelona-Getafe,4,2025,29199,2025-09-21 19:00:00,148,142,Barcelona,Getafe,GET,BAR,3,0,2.96429,0.215949,True,True,https://understat.com/match/29199
+ESP-La Liga,2526,2025-09-25 Real Oviedo-Barcelona,4,2025,29213,2025-09-25 19:30:00,289,148,Real Oviedo,Barcelona,BAR,OVI,1,3,1.45014,2.07001,True,True,https://understat.com/match/29213
+ESP-La Liga,2526,2025-09-28 Barcelona-Real Sociedad,4,2025,29220,2025-09-28 16:30:00,148,140,Barcelona,Real Sociedad,SOC,BAR,2,1,3.00954,0.957079,True,True,https://understat.com/match/29220
+ESP-La Liga,2526,2025-10-05 Sevilla-Barcelona,4,2025,29233,2025-10-05 14:15:00,138,148,Sevilla,Barcelona,BAR,SEV,4,1,2.89414,2.4823,True,True,https://understat.com/match/29233
+ESP-La Liga,2526,2025-10-18 Barcelona-Girona,4,2025,29240,2025-10-18 14:15:00,148,223,Barcelona,Girona,GIR,BAR,2,1,2.41958,1.69375,True,True,https://understat.com/match/29240
+ESP-La Liga,2526,2025-10-26 Real Madrid-Barcelona,4,2025,29254,2025-10-26 15:15:00,150,148,Real Madrid,Barcelona,BAR,RMA,2,1,3.41322,1.12434,True,True,https://understat.com/match/29254
+ESP-La Liga,2526,2025-11-02 Barcelona-Elche,4,2025,29260,2025-11-02 17:30:00,148,207,Barcelona,Elche,ELC,BAR,3,1,2.8073,0.549079,True,True,https://understat.com/match/29260
+ESP-La Liga,2526,2025-11-09 Celta Vigo-Barcelona,4,2025,29274,2025-11-09 20:00:00,152,148,Celta Vigo,Barcelona,BAR,CEL,2,4,0.512253,3.42936,True,True,https://understat.com/match/29274
+ESP-La Liga,2526,2025-11-22 Barcelona-Athletic Club,4,2025,29284,2025-11-22 15:15:00,148,147,Barcelona,Athletic Club,ATH,BAR,4,0,2.32922,1.04615,True,True,https://understat.com/match/29284
+ESP-La Liga,2526,2025-11-29 Barcelona-Alaves,4,2025,29294,2025-11-29 15:15:00,148,158,Barcelona,Alaves,ALA,BAR,3,1,2.51096,2.09256,True,True,https://understat.com/match/29294
+ESP-La Liga,2526,2025-12-02 Barcelona-Atletico Madrid,4,2025,29342,2025-12-02 20:00:00,148,143,Barcelona,Atletico Madrid,ATL,BAR,3,1,3.46121,1.35018,True,True,https://understat.com/match/29342
+ESP-La Liga,2526,2025-12-06 Real Betis-Barcelona,4,2025,29302,2025-12-06 17:30:00,153,148,Real Betis,Barcelona,BAR,BET,3,5,2.74214,3.30288,True,True,https://understat.com/match/29302
+ESP-La Liga,2526,2025-12-13 Barcelona-Osasuna,4,2025,29310,2025-12-13 17:30:00,148,157,Barcelona,Osasuna,OSA,BAR,2,0,2.14468,0.228217,True,True,https://understat.com/match/29310
+ESP-La Liga,2526,2025-12-21 Villarreal-Barcelona,4,2025,29325,2025-12-21 15:15:00,154,148,Villarreal,Barcelona,BAR,VIL,0,2,2.16466,3.27381,True,True,https://understat.com/match/29325
+ESP-La Liga,2526,2026-01-03 Espanyol-Barcelona,4,2025,29333,2026-01-03 20:00:00,141,148,Espanyol,Barcelona,BAR,ESP,0,2,1.79661,2.94252,True,True,https://understat.com/match/29333
+ESP-La Liga,2526,2026-01-18 Real Sociedad-Barcelona,4,2025,29350,2026-01-18 20:00:00,140,148,Real Sociedad,Barcelona,BAR,SOC,2,1,1.55875,3.92031,True,True,https://understat.com/match/29350
+ESP-La Liga,2526,2026-01-25 Barcelona-Real Oviedo,4,2025,29361,2026-01-25 15:15:00,148,289,Barcelona,Real Oviedo,OVI,BAR,3,0,2.59917,0.486404,True,True,https://understat.com/match/29361
+ESP-La Liga,2526,2026-01-31 Elche-Barcelona,4,2025,29373,2026-01-31 20:00:00,207,148,Elche,Barcelona,BAR,ELC,1,3,0.839,7.11049,True,True,https://understat.com/match/29373
+ESP-La Liga,2526,2026-02-07 Barcelona-Mallorca,4,2025,29381,2026-02-07 15:15:00,148,239,Barcelona,Mallorca,MAL,BAR,3,0,2.48168,1.01087,True,True,https://understat.com/match/29381
+ESP-La Liga,2526,2026-02-16 Girona-Barcelona,4,2025,29395,2026-02-16 20:00:00,223,148,Girona,Barcelona,BAR,GIR,2,1,2.8897,2.69655,True,True,https://understat.com/match/29395
+ESP-La Liga,2526,2026-02-22 Barcelona-Levante,4,2025,29401,2026-02-22 15:15:00,148,151,Barcelona,Levante,LEV,BAR,3,0,4.24402,0.602552,True,True,https://understat.com/match/29401
+ESP-La Liga,2526,2026-02-28 Barcelona-Villarreal,4,2025,29408,2026-02-28 15:15:00,148,154,Barcelona,Villarreal,VIL,BAR,4,1,3.54743,1.36182,True,True,https://understat.com/match/29408
+ESP-La Liga,2526,2026-03-07 Athletic Club-Barcelona,4,2025,29418,2026-03-07 20:00:00,147,148,Athletic Club,Barcelona,BAR,ATH,0,1,1.04698,0.560009,True,True,https://understat.com/match/29418
+ESP-La Liga,2526,2026-03-15 Barcelona-Sevilla,4,2025,29430,2026-03-15 15:15:00,148,138,Barcelona,Sevilla,SEV,BAR,5,2,3.8639,1.04304,True,True,https://understat.com/match/29430
+ESP-La Liga,2526,2026-03-22 Barcelona-Rayo Vallecano,4,2025,29441,2026-03-22 13:00:00,148,145,Barcelona,Rayo Vallecano,RVL,BAR,1,0,1.92205,2.19631,True,True,https://understat.com/match/29441
+ESP-La Liga,2526,2026-04-04 Atletico Madrid-Barcelona,4,2025,29449,2026-04-04 19:00:00,143,148,Atletico Madrid,Barcelona,BAR,ATL,1,2,0.919286,2.68584,True,True,https://understat.com/match/29449
+ESP-La Liga,2526,2026-04-11 Barcelona-Espanyol,4,2025,29459,2026-04-11 16:30:00,148,141,Barcelona,Espanyol,ESP,BAR,4,1,3.30789,1.13134,True,True,https://understat.com/match/29459
+ESP-La Liga,2526,2026-04-22 Barcelona-Celta Vigo,4,2025,29479,2026-04-22 19:30:00,148,152,Barcelona,Celta Vigo,CEL,BAR,1,0,1.54451,1.07392,True,True,https://understat.com/match/29479
+ESP-La Liga,2526,2026-04-25 Getafe-Barcelona,4,2025,29469,2026-04-25 14:15:00,142,148,Getafe,Barcelona,BAR,GET,0,2,0.607664,2.05171,True,True,https://understat.com/match/29469
+ESP-La Liga,2526,2026-05-02 Osasuna-Barcelona,4,2025,29488,2026-05-02 19:00:00,157,148,Osasuna,Barcelona,BAR,OSA,1,2,1.28813,1.56763,True,True,https://understat.com/match/29488
+ESP-La Liga,2526,2026-05-10 Barcelona-Real Madrid,4,2025,29500,2026-05-10 19:00:00,148,150,Barcelona,Real Madrid,RMA,BAR,2,0,1.72002,0.562101,True,True,https://understat.com/match/29500
+ESP-La Liga,2526,2026-05-13 Alaves-Barcelona,4,2025,29508,2026-05-13 19:30:00,158,148,Alaves,Barcelona,BAR,ALA,1,0,0.95347,0.356356,True,True,https://understat.com/match/29508
+ESP-La Liga,2526,2026-05-17 Barcelona-Real Betis,4,2025,29519,2026-05-17 17:00:00,148,153,Barcelona,Real Betis,BET,BAR,3,1,1.59946,0.985477,True,True,https://understat.com/match/29519
+ESP-La Liga,2526,2026-05-23 Valencia-Barcelona,4,2025,29534,2026-05-23 19:00:00,146,148,Valencia,Barcelona,BAR,VAL,3,1,1.83367,1.29336,True,True,https://understat.com/match/29534
