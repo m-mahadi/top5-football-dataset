@@ -16,3 +16,4 @@ _ucl.log
 _wc_shots.log
 data/**/_*.log
 data/worldcup_pull.log
+_passnet.log
