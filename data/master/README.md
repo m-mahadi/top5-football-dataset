@@ -100,3 +100,49 @@ commercially. Provided for research and educational purposes.
 The wider project also includes shot-level data (2,726 Barcelona shots with xG
 and pitch coordinates; 2,651 World Cup 2026 shots) and passing-network node
 positions. See the repository for those.
+
+---
+
+# Two surfaces
+
+The dataset ships in two forms for two audiences.
+
+## 1. Machine surface — `player_seasons.csv`
+
+Flat, one row per player-season, 202+ columns, prefixed by origin
+(`fb_`, `us_`, `ss_`, `fifa_`, `*_p90`). Load with one line of pandas; ready for
+filtering, modelling, or an agent to query. This is the canonical data.
+
+```python
+df = pd.read_csv('player_seasons.csv')
+df[(df.nineties >= 10) & (df.age <= 23)].nlargest(10, 'np_xg_p90')
+```
+
+## 2. Human surface — `players.json` + `player_cards.html`
+
+`players.json` — 3,591 nested player objects:
+
+```
+player, team, league, position, pos_group,
+identity   { age, height, foot, overall, potential, value_eur,
+             release_clause_eur, wage_eur, contract_start/end, playstyles }
+attributes { technical{15}, mental{7}, physical{8} }
+seasons    [ { season, nineties, goals, assists, xg, npxg, xa, xg_chain,
+               shots, on_ball{11}, defensive{15} } ]
+percentiles{ 18 metrics, ranked within position group }
+```
+
+Good for agents that need one player's full story without joining columns, and
+for rendering a card directly.
+
+`player_cards.html` — a self-contained searchable card viewer (2,304 players
+with a real minutes sample). Percentile bars ranked within position group,
+EA attribute blocks with quality tiering, per-season match output, and on-ball
+/ pressing detail. No build step, no network calls; open the file.
+
+Regenerate both with:
+
+```bash
+python scripts/build_cards.py    # -> players.json
+python scripts/build_viewer.py   # -> player_cards.html
+```
