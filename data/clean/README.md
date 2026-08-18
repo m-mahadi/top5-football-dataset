@@ -80,3 +80,24 @@ accurateFinalThirdPasses, keyPasses, errorLeadToShot, errorLeadToGoal`
 plus attacking fields (goals, xG, bigChancesMissed, etc.).
 
 Join key: `player_id` + `season`; or `player` + `team` + `season`.
+
+
+## Measured physical data (2025/26 only)
+
+SofaScore reports real tracking figures, not estimates:
+
+| Column | Meaning |
+|---|---|
+| `ss_topSpeed` | season maximum speed, km/h (median ≈ 34.2, max ≈ 37.2) |
+| `ss_kilometersCovered` | total distance over the season |
+| `ss_numberOfSprints` | total sprints over the season |
+
+Available for **2025/26 only** (93% of that season's rows, 0% of 2024/25).
+
+**Prefer these over `fifa_pace`.** EA's scouted pace rating correlates with
+measured top speed at only **r = 0.14** across 2,301 comparable rows, so it is
+close to noise as a speed proxy.
+
+Caveat: top speed is a season *maximum*, so more minutes means more chances to
+record a high value (r = 0.31 with minutes played). Apply a minutes floor before
+comparing players, and use sprints per 90 rather than raw totals.

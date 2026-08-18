@@ -177,6 +177,22 @@ m = m.drop(columns=[c for c in ('fifa_blank', 'fifa_name', 'fifa_team_contract',
                                 'fifa_value', 'fifa_wage', 'fifa_release_clause')
                     if c in m.columns])
 
+# columns that carry no information for anybody: constants, and FIFA group
+# aggregates that are just sums of attributes already present in the same row.
+DEAD_COLS = [
+    'ss_type',                 # constant 'overall'
+    'fifa_loan_date_end',      # constant single date
+    'fifa_birth_year',         # age is already present
+    'fifa_best_overall',       # duplicate of overall/potential
+    'fifa_total_attacking', 'fifa_total_skill', 'fifa_total_movement',
+    'fifa_total_power', 'fifa_total_mentality', 'fifa_total_defending',
+    'fifa_total_goalkeeping', 'fifa_total_stats', 'fifa_base_stats',
+]
+gone = [c for c in DEAD_COLS if c in m.columns]
+if gone:
+    m = m.drop(columns=gone)
+    print(f'dropped {len(gone)} redundant/constant columns')
+
 # drop all-empty columns: FBref serves several advanced tables near-empty, so
 # their derived per-90s carry no data, and SoFIFA's list view returns work-rate
 # blank. Shipping empty columns misleads anyone reading the schema.

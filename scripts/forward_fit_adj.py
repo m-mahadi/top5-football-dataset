@@ -34,6 +34,7 @@ agg.update({'season_nineties': 'sum', 'nineties': 'sum', 'age': 'max',
             'fifa_value_eur': 'max', 'fifa_release_clause_eur': 'max',
             'fifa_contract_end': 'max', 'fifa_pace': 'max',
             'fifa_acceleration': 'max', 'fifa_finishing': 'max',
+            'ss_topSpeed': 'max', 'ss_numberOfSprints': 'sum',
             'fifa_strength': 'max', 'fifa_composure': 'max',
             'fifa_heading_accuracy': 'max', 'fifa_attack_position': 'max',
             'fifa_best_position': 'last', 'fifa_overall_rating': 'max',
@@ -62,6 +63,7 @@ p['keyp_p90'] = p.ss_keyPasses / n
 p['bcc_p90'] = p.ss_bigChancesCreated / n
 p['dribbles_p90'] = p.ss_successfulDribbles / n
 p['np_g_minus_xg'] = p.us_np_goals - p.us_np_xg
+p['sprints_p90'] = p.ss_numberOfSprints / n
 p['goals_p90'] = p.ss_goals / n
 p['ga_p90'] = (p.ss_goals.fillna(0) + p.fb_ast.fillna(0)) / n
 
@@ -96,8 +98,8 @@ DIMS = {
     'LINK':   [('us_xa_padj90', .30), ('us_xg_chain_padj90', .25),
                ('ss_keyPasses_padj90', .20), ('ss_bigChancesCreated_padj90', .15),
                ('ss_accuratePassesPercentage', .10)],
-    'RUN':    [('fifa_pace', .40), ('ss_successfulDribbles_padj90', .35),
-               ('fifa_acceleration', .25)],
+    'RUN':    [('ss_topSpeed', .40), ('ss_successfulDribbles_padj90', .35),
+               ('sprints_p90', .25)],
 }
 # percentile ranks are computed against the ranked pool; Barca players are then
 # scored on the same scale so the benchmark is directly comparable

@@ -4,7 +4,7 @@ A merged, analysis-ready football dataset for the **2024/25 and 2025/26** season
 across the Premier League, La Liga, Serie A, Bundesliga and Ligue 1 — plus the
 scouting models built on top of it.
 
-**5,693 player-seasons · 3,591 players · 233 columns · 4 sources**
+**5,693 player-seasons · 3,591 players · 220 columns · 4 sources**
 
 ---
 
@@ -36,7 +36,7 @@ which field comes from where.
 |---|---|---|
 | **FBref** | goals, assists, shots, minutes, cards | `soccerdata` |
 | **Understat** | xG, npxG, xA, xGChain, xGBuildup | `soccerdata` |
-| **SofaScore** | duels, aerials, clearances, interceptions, tackles, own/opposition-half passing, errors, pressing, plus every shot with coordinates | public API |
+| **SofaScore** | duels, aerials, clearances, interceptions, tackles, own/opposition-half passing, errors, pressing, **measured physical data** (top speed, distance covered, sprints), plus every shot with coordinates | public API |
 | **SoFIFA** (EA FC 26) | market value, wage, release clause, contract dates, ~40 technical/mental/physical attributes | public pages |
 
 **Transfermarkt is deliberately absent.** It blocks automated access behind a
@@ -49,7 +49,7 @@ for the money side — see limitations.
 
 | File | Shape | What |
 |---|---|---|
-| `data/master/player_seasons.csv` | 5,693 × 233 | master table, one row per player-season, columns prefixed by origin (`fb_`, `us_`, `ss_`, `fifa_`, `*_p90`) |
+| `data/master/player_seasons.csv` | 5,693 × 220 | master table, one row per player-season, columns prefixed by origin (`fb_`, `us_`, `ss_`, `fifa_`, `*_p90`) |
 | `data/master/player_seasons_adj.csv` | 5,693 × 286 | the same, plus possession-adjusted volume metrics |
 | `data/master/players.json` | 3,591 | nested per-player objects with attributes, per-season output and percentile ranks |
 
@@ -76,10 +76,11 @@ elig.nlargest(10, 'np_xg_p90')[
     ['player', 'team', 'season_label', 'np_xg_p90', 'fifa_value_eur', 'fifa_contract_end']
 ]
 
-# ball-playing centre-backs: accurate, quick, low-risk
+# ball-playing centre-backs: accurate, genuinely quick, low-risk
+# ss_topSpeed is MEASURED (km/h) - prefer it over EA's scouted fifa_pace
 cb = df[(df.nineties >= 10) & (df.ss_accuratePassesPercentage > 90)]
-cb.nlargest(10, 'fifa_pace')[
-    ['player', 'team', 'ss_aerialDuelsWonPercentage', 'ss_errorLeadToShot', 'fifa_pace']
+cb.nlargest(10, 'ss_topSpeed')[
+    ['player', 'team', 'ss_topSpeed', 'ss_aerialDuelsWonPercentage', 'ss_errorLeadToShot']
 ]
 ```
 
@@ -143,8 +144,9 @@ SofaScore pull resumes from disk if interrupted.
 
 1. **SoFIFA is a current snapshot** — value, contract and attributes do not vary
    by season, and only match players still in the top-5 leagues (73% of rows).
-2. **SoFIFA values are EA's model, not transfer quotes**; pace and other
-   attributes are **scouted estimates, not measured data**. Use as a screen.
+2. **SoFIFA values are EA's model, not transfer quotes**, and its attributes are
+   scouted estimates. Note that EA's pace rating correlates with SofaScore's
+   **measured** top speed at only **r = 0.14** — prefer `ss_topSpeed` where present.
 3. **Name matching is imperfect.** Joins use normalised names, first-initial +
    surname, and club/age sanity checks. Ambiguous matches are left null rather
    than guessed, so 4–6% of rows lack one source.
@@ -153,6 +155,10 @@ SofaScore pull resumes from disk if interrupted.
 5. **No pass-level event data.** Chance-creation origins and true pass maps need
    a paid provider (StatsBomb/Opta).
 6. **Copa del Rey / Supercopa have little or no xG.**
+7. **Measured physical data (`ss_topSpeed`, `ss_kilometersCovered`,
+   `ss_numberOfSprints`) exists for 2025/26 only**, at 93% coverage that season.
+   Top speed is a season maximum, so it rises with minutes played
+   (r = 0.31) — apply a minutes floor before comparing players.
 
 Cross-source validation: SofaScore and Understat count goals independently and
 correlate at **r = 0.967** across 5,244 comparable rows — the main evidence that

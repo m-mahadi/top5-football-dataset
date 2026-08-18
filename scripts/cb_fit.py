@@ -36,6 +36,8 @@ agg.update({'season_nineties': 'sum', 'nineties': 'sum', 'age': 'max',
             'fifa_value_eur': 'max', 'fifa_release_clause_eur': 'max',
             'fifa_contract_end': 'max', 'fifa_pace': 'max',
             'fifa_sprint_speed': 'max', 'fifa_acceleration': 'max',
+            'ss_topSpeed': 'max', 'ss_numberOfSprints': 'sum',
+            'ss_kilometersCovered': 'sum',
             'fifa_best_position': 'last', 'fifa_height': 'last',
             'fifa_defensive_awareness': 'max', 'fifa_composure': 'max',
             'fifa_overall_rating': 'max', 'fifa_potential': 'max',
@@ -56,6 +58,8 @@ for base in ['ss_accuratePasses', 'ss_accurateOwnHalfPasses',
              'ss_ballRecovery', 'ss_tackles']:
     src = base + '_adj' if base + '_adj' in p.columns else base
     p[base + '_p90'] = p[src] / n
+p['sprints_p90'] = p.ss_numberOfSprints / n
+p['km_p90'] = p.ss_kilometersCovered / n
 
 # centre-backs: EA best position where known, else behavioural (a full-back does
 # not clear and head this much)
@@ -79,8 +83,7 @@ DIMS = {
     'AERIAL':  [('ss_aerialDuelsWonPercentage', .60), ('ss_aerialDuelsWon_p90', .40)],
     'DUEL':    [('ss_groundDuelsWonPercentage', .40), ('ss_tacklesWonPercentage', .30),
                 ('ss_totalDuelsWonPercentage', .30)],
-    'PACE':    [('fifa_pace', .45), ('fifa_sprint_speed', .30),
-                ('fifa_acceleration', .25)],
+    'PACE':    [('ss_topSpeed', .60), ('sprints_p90', .40)],
     'SECURE':  [('ss_errorLeadToShot_p90', -.30), ('ss_dribbledPast_p90', -.30),
                 ('ss_fouls_p90', -.20), ('fifa_defensive_awareness', .20)],
 }
@@ -120,7 +123,7 @@ cand = cand.sort_values('FIT', ascending=False)
 cand.to_csv('output/cb_fit.csv', index=False, encoding='utf-8')
 
 HDR = (f"{'player':22}{'team':15}{'age':>4}{'90s':>5}"
-       + ''.join(f'{d:>9}' for d in D) + f"{'FIT':>7}{'FLR':>5}{'€M':>6}{'exp':>6}")
+       + ''.join(f'{d:>9}' for d in D) + f"{'FIT':>7}{'FLR':>5}{'€M':>6}{'exp':>6}{'km/h':>7}")
 
 
 def show(r, mark=''):
@@ -129,7 +132,8 @@ def show(r, mark=''):
             + ''.join(f'{(r[d] if pd.notna(r[d]) else 0):>9.0f}' for d in D)
             + f"{r.FIT:>7.1f}{(r.FLOOR if pd.notna(r.FLOOR) else 0):>5.0f}"
             f"{(r.fifa_value_eur/1e6 if pd.notna(r.fifa_value_eur) else 0):>6.0f}"
-            f"{str(r.fifa_contract_end)[:4]:>6}{mark}")
+            f"{str(r.fifa_contract_end)[:4]:>6}"
+            f"{(r.ss_topSpeed if pd.notna(r.ss_topSpeed) else 0):>7.1f}{mark}")
 
 
 print('\n' + '=' * 132)
@@ -158,5 +162,7 @@ for _, r in fast.head(6).iterrows():
           f"FIT {r.FIT:>5.1f}   weak: {', '.join(f'{d} {r[d]:.0f}' for d in weak)}")
 print('=' * 132)
 print('BUILD=passing from the back  PROGRESS=ball forward  AERIAL / DUEL=defending')
-print('PACE=recovery speed for the high line  SECURE=few errors, rarely dribbled past')
+print('PACE = MEASURED top speed (km/h) + sprints per 90, from SofaScore 2025/26')
+print('  (EA scouted pace correlates with measured speed at only r=0.14 - not used)')
+print('SECURE=few errors, rarely dribbled past')
 print('Weights: BUILD .22 PACE .20 SECURE .17 DUEL .16 AERIAL .13 PROGRESS .12')
