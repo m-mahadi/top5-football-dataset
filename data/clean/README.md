@@ -64,3 +64,19 @@ def_awareness, standing_tackle, sliding_tackle, defending, physical, ...`
 - One row per player (current snapshot), **not** per season.
 - Joining: SoFIFA abbreviates first names ("K. Mbappé"), so join on
   `surname_key` + team + age rather than full name.
+
+## sofascore_player_seasons.csv (5,400 × 123) — replaces FBref's dead tables
+
+Per-player season aggregates for the top-5 leagues, both seasons, from
+SofaScore. **This is the primary source for defensive and passing detail**,
+because FBref now serves those tables empty (see ceiling note above).
+
+Key fields (all 100% populated): `minutesPlayed, aerialDuelsWon(+Percentage),
+groundDuelsWon(+Percentage), totalDuelsWonPercentage, clearances,
+interceptions, blockedShots, tackles, tacklesWon(+Percentage),
+accuratePasses(+Percentage), accurateOwnHalfPasses,
+accurateOppositionHalfPasses, accurateLongBalls(+Percentage),
+accurateFinalThirdPasses, keyPasses, errorLeadToShot, errorLeadToGoal`
+plus attacking fields (goals, xG, bigChancesMissed, etc.).
+
+Join key: `player_id` + `season`; or `player` + `team` + `season`.
