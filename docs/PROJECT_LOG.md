@@ -1,4 +1,7 @@
-# Barça Scouting Project — Working Log
+# Top-5 League Dataset — Working Log
+
+The dataset is general-purpose; it was built while answering a Barcelona
+scouting question, which is why the worked examples are Barca-flavoured.
 
 **Goal:** find Barcelona a striker and a style-fit centre-back, using Flick's
 two seasons (2024/25 + 2025/26) as the system definition.
