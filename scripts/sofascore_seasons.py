@@ -7,10 +7,14 @@ output CSV, so a dropped connection costs nothing.
 Output: data/clean/sofascore_player_seasons.csv
 """
 import json
+import sys
 import time
 from pathlib import Path
 import pandas as pd
 import tls_requests
+
+sys.path.insert(0, str(Path(__file__).parent))
+from fetch import pmap  # noqa: E402
 
 B = 'https://api.sofascore.com/api/v1'
 TOURN = {'ENG-Premier League': 17, 'ESP-La Liga': 8, 'ITA-Serie A': 23,
@@ -91,22 +95,25 @@ if OUT.exists():
 todo = [m for m in roster if (m['player_id'], str(m['season'])) not in have]
 print(f'to fetch: {len(todo)}', flush=True)
 
-# --- 3. per-player season stats ---
-for i, m in enumerate(todo, 1):
-    js = get(f"{B}/player/{m['player_id']}/unique-tournament/{m['tourn_id']}"
-             f"/season/{m['season_id']}/statistics/overall")
+# --- 3. per-player season stats (parallel) ---
+def one(meta):
+    js = get(f"{B}/player/{meta['player_id']}/unique-tournament/{meta['tourn_id']}"
+             f"/season/{meta['season_id']}/statistics/overall")
     st = (js or {}).get('statistics') or {}
-    if st:
-        rows.append({**m, **{k: v for k, v in st.items()
-                             if not isinstance(v, (dict, list))}})
-    if i % 100 == 0:
-        pd.DataFrame(rows).to_csv(OUT, index=False, encoding='utf-8')
-        print(f'  ...{i}/{len(todo)} done, {len(rows)} rows', flush=True)
-    time.sleep(0.12)
+    if not st:
+        return None
+    return {**meta, **{k: v for k, v in st.items()
+                       if not isinstance(v, (dict, list))}}
 
-df = pd.DataFrame(rows)
+
+def checkpoint(partial):
+    pd.DataFrame(rows + partial).to_csv(OUT, index=False, encoding='utf-8')
+
+
+fresh = pmap(one, todo, workers=8, label='players', every=200, on_batch=checkpoint)
+df = pd.DataFrame(rows + fresh)
 df.to_csv(OUT, index=False, encoding='utf-8')
-print(f'\n{len(df)} player-seasons, {df.shape[1]} columns -> {OUT}', flush=True)
+print(f'{len(df)} player-seasons, {df.shape[1]} columns -> {OUT}', flush=True)
 key = [c for c in ('aerialDuelsWon', 'clearances', 'interceptions',
                    'accurateOwnHalfPasses', 'errorLeadToShot', 'tacklesWon')
        if c in df.columns]

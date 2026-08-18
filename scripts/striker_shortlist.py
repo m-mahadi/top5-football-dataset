@@ -1,8 +1,11 @@
-"""Phase 2: system-fit striker shortlist for Barcelona under Flick.
+"""Phase 2 (v2): system-fit striker for Barcelona under Flick.
 
-Brief = a 9 that fits a very high line and press: scores, links play, and can
-run in behind. Not a pure poacher (Ferran Torres already gives Barca 0.221
-xG/shot). Aggregates both seasons to player level; per-90s come from totals.
+v1 was wrong: npxG/90 carried 30% of the weight, so raw chance volume dragged
+pure poachers at counter-attacking sides up the list (Sorloth: 0.85 npxG/90 but
+0.06 xA/90, age 29, 53%-possession side). A Flick 9 must also PRESS, HOLD UP,
+and LINK. This version scores five explicit dimensions from real match data and
+applies gates, so failing a core requirement cannot be bought off with goals.
+
 Output: output/striker_shortlist.csv
 """
 import numpy as np
@@ -10,108 +13,131 @@ import pandas as pd
 
 m = pd.read_csv('data/master/player_seasons.csv', low_memory=False)
 m['season'] = m.season.astype(str)
-
-# one row per player-season (transfer stints duplicate Understat season totals)
 m = m.sort_values('nineties', ascending=False).drop_duplicates(['player', 'season'])
+POS = m.set_index('player').pos.groupby(level=0).last()
 
-SUM_US = ['us_np_xg', 'us_xa', 'us_xg_chain', 'us_shots', 'us_np_goals']
-SUM_SS = ['ss_shotsFromInsideTheBox', 'ss_totalShots', 'ss_bigChancesCreated',
-          'ss_bigChancesMissed', 'ss_aerialDuelsWon', 'ss_minutesPlayed',
-          'ss_successfulDribbles', 'ss_touches']
-agg = {c: 'sum' for c in SUM_US + SUM_SS if c in m.columns}
+SUMS = ['us_np_xg', 'us_xa', 'us_xg_chain', 'us_shots', 'us_np_goals',
+        'ss_shotsFromInsideTheBox', 'ss_totalShots', 'ss_bigChancesCreated',
+        'ss_keyPasses', 'ss_possessionWonAttThird', 'ss_ballRecovery',
+        'ss_wasFouled', 'ss_dispossessed', 'ss_possessionLost',
+        'ss_successfulDribbles', 'ss_touches', 'ss_aerialDuelsWon',
+        'ss_totalDuelsWon', 'ss_minutesPlayed']
+agg = {c: 'sum' for c in SUMS if c in m.columns}
 agg.update({'season_nineties': 'sum', 'age': 'max', 'league': 'last',
-            'team': 'last', 'pos': 'last', 'season': 'nunique',
-            'fifa_value_eur': 'max', 'fifa_contract_end': 'max',
-            'fifa_pace': 'max', 'fifa_release_clause_eur': 'max',
-            'ss_aerialDuelsWonPercentage': 'mean'})
-p = m.groupby('player').agg(agg).rename(columns={'season': 'seasons_played'}).reset_index()
+            'team': 'last', 'season': 'nunique', 'fifa_value_eur': 'max',
+            'fifa_contract_end': 'max', 'fifa_pace': 'max',
+            'fifa_release_clause_eur': 'max',
+            'ss_aerialDuelsWonPercentage': 'mean',
+            'ss_groundDuelsWonPercentage': 'mean',
+            'ss_accuratePassesPercentage': 'mean',
+            'fifa_best_position': 'last', 'fifa_defensive_work_rate': 'last',
+            'fifa_stamina': 'max', 'fifa_aggression': 'max'})
+p = m.groupby('player').agg(agg).rename(columns={'season': 'seasons'}).reset_index()
+p['pos'] = p.player.map(POS)
 
-# ---- pool ----
-pool = p[(p.season_nineties >= 15) & (p.age <= 30)
-         & (p.team.astype(str) != 'Barcelona')
-         & m.set_index('player').pos.groupby(level=0).last()
-             .reindex(p.player).str.contains('FW', na=False).values].copy()
+tm = pd.read_csv('data/clean/teams/standard.csv')
+tm['poss'] = pd.to_numeric(tm.poss, errors='coerce')
+p['team_poss'] = p.team.map(tm.groupby('team').poss.mean())
 
-n90 = pool.season_nineties
-pool['np_xg_p90'] = pool.us_np_xg / n90
-pool['xa_p90'] = pool.us_xa / n90
-pool['xg_chain_p90'] = pool.us_xg_chain / n90
-pool['npxg_per_shot'] = pool.us_np_xg / pool.us_shots.replace(0, np.nan)
-pool['box_shot_share'] = (pool.ss_shotsFromInsideTheBox
-                          / pool.ss_totalShots.replace(0, np.nan))
-pool['big_chances_created_p90'] = pool.ss_bigChancesCreated / n90
-pool['np_g_minus_xg'] = pool.us_np_goals - pool.us_np_xg
-pool = pool[pool.np_xg_p90.notna()]
-print(f'pool: {len(pool)} forwards (age<=30, >=15x90, top-5, excl. Barca)')
+n = p.season_nineties.replace(0, np.nan)
+p['np_xg_p90'] = p.us_np_xg / n
+p['npxg_per_shot'] = p.us_np_xg / p.us_shots.replace(0, np.nan)
+p['xa_p90'] = p.us_xa / n
+p['xg_chain_p90'] = p.us_xg_chain / n
+p['key_passes_p90'] = p.ss_keyPasses / n
+p['big_chances_created_p90'] = p.ss_bigChancesCreated / n
+p['press_won_att3rd_p90'] = p.ss_possessionWonAttThird / n     # PRESSING
+p['ball_recov_p90'] = p.ss_ballRecovery / n
+p['fouled_p90'] = p.ss_wasFouled / n                            # HOLD-UP
+p['dispossessed_p90'] = p.ss_dispossessed / n
+p['dribbles_p90'] = p.ss_successfulDribbles / n
+p['box_shot_share'] = p.ss_shotsFromInsideTheBox / p.ss_totalShots.replace(0, np.nan)
+p['np_g_minus_xg'] = p.us_np_goals - p.us_np_xg
 
 
 def z(s):
+    s = pd.to_numeric(s, errors='coerce')
     return (s - s.mean()) / s.std(ddof=0)
 
 
-# link play = creation for others, the thing Lewandowski does NOT provide
-pool['link_z'] = z(z(pool.xa_p90) + z(pool.xg_chain_p90)
-                   + z(pool.big_chances_created_p90.fillna(0)))
-pool['pace_z'] = z(pool.fifa_pace)
-pool['pace_z'] = pool.pace_z.fillna(0)          # missing pace = neutral, flagged
-pool['no_pace_data'] = pool.fifa_pace.isna()
+BARCA = p[p.team == 'Barcelona'].copy()
+pool = p[(p.season_nineties >= 15) & (p.age <= 30) & (p.team != 'Barcelona')
+         & p.pos.str.contains('FW', na=False) & p.np_xg_p90.notna()].copy()
+print(f'pool: {len(pool)} forwards (age<=30, >=15x90, top-5, excl. Barca)')
+
+both = pd.concat([pool, BARCA[BARCA.pos.str.contains('FW', na=False)]])
 
 
-# ---- system fit: Barca play 66.8% possession, so opponents sit deep. A striker
-# whose output comes at a low-possession (counter-attacking) side faces a very
-# different problem at Barca. Team possession = style-transfer risk proxy.
-tm = pd.read_csv('data/clean/teams/standard.csv')
-tm['poss'] = pd.to_numeric(tm.poss, errors='coerce')
-poss = tm.groupby('team').poss.mean()
-pool['team_poss'] = pool.team.map(poss)
+def dims(df, ref):
+    """z-score each dimension against the POOL, so Barca players are comparable."""
+    def zz(col, invert=False):
+        s = pd.to_numeric(df[col], errors='coerce')
+        r = pd.to_numeric(ref[col], errors='coerce')
+        out = (s - r.mean()) / r.std(ddof=0)
+        return -out if invert else out
+    d = pd.DataFrame(index=df.index)
+    d['FINISH'] = 0.6 * zz('np_xg_p90') + 0.4 * zz('npxg_per_shot')
+    d['LINK'] = (0.4 * zz('xa_p90') + 0.3 * zz('xg_chain_p90')
+                 + 0.2 * zz('key_passes_p90') + 0.1 * zz('big_chances_created_p90'))
+    d['PRESS'] = 0.7 * zz('press_won_att3rd_p90') + 0.3 * zz('ball_recov_p90')
+    d['HOLDUP'] = (0.4 * zz('fouled_p90') + 0.3 * zz('ss_aerialDuelsWonPercentage')
+                   + 0.2 * zz('ss_groundDuelsWonPercentage')
+                   + 0.1 * zz('dispossessed_p90', invert=True))
+    d['SPACE'] = 0.6 * zz('fifa_pace').fillna(0) + 0.4 * zz('dribbles_p90')
+    return d
 
 
-def style(v):
-    if pd.isna(v):
-        return '?'
-    return 'possession' if v >= 55 else ('balanced' if v >= 48 else 'COUNTER-risk')
+D = dims(both, pool)
+both = pd.concat([both.reset_index(drop=True), D.reset_index(drop=True)], axis=1)
+
+# GATES: a Flick 9 cannot be elite at one thing and useless at the others.
+GATE = -0.25
+both['gates_passed'] = ((both.LINK > GATE).astype(int) + (both.PRESS > GATE).astype(int)
+                        + (both.HOLDUP > GATE).astype(int))
+W = {'FINISH': .25, 'LINK': .25, 'PRESS': .20, 'HOLDUP': .15, 'SPACE': .15}
+both['score'] = sum(both[k] * w for k, w in W.items())
+
+both['role'] = np.where(both.fifa_best_position.isin(['ST', 'CF']), 'CF',
+                        np.where(both.fifa_best_position.isna(), '?', 'wide/AM'))
+cand = both[both.team != 'Barcelona'].copy()
+qual = cand[cand.gates_passed == 3].sort_values('score', ascending=False)
+cand.sort_values('score', ascending=False).to_csv(
+    'output/striker_shortlist.csv', index=False, encoding='utf-8')
+
+hdr = (f"{'#':>2} {'player':21}{'team':15}{'age':>4}{'90s':>5}"
+       f"{'FIN':>6}{'LINK':>6}{'PRESS':>6}{'HOLD':>6}{'SPACE':>6}"
+       f"{'npxG/90':>8}{'G-xG':>6}{'€M':>6}{'exp':>6}{'poss':>6}")
 
 
-pool['style_fit'] = pool.team_poss.map(style)
+def row(i, r):
+    return (f"{i:>2} {str(r.player)[:20]:21}{str(r.team)[:14]:15}{r.age:>4.0f}"
+            f"{r.season_nineties:>5.0f}{r.FINISH:>6.1f}{r.LINK:>6.1f}"
+            f"{r.PRESS:>6.1f}{r.HOLDUP:>6.1f}{r.SPACE:>6.1f}"
+            f"{r.np_xg_p90:>8.2f}{r.np_g_minus_xg:>+6.1f}"
+            f"{(r.fifa_value_eur/1e6 if pd.notna(r.fifa_value_eur) else 0):>6.0f}"
+            f"{str(r.fifa_contract_end)[:4]:>6}"
+            f"{(r.team_poss if pd.notna(r.team_poss) else 0):>5.0f}%")
 
-W = {'np_xg_p90': .30, 'link_z': .25, 'pace_z': .20,
-     'box_shot_share': .15, 'npxg_per_shot': .10}
-pool['score'] = sum(
-    (pool[c] if c.endswith('_z') else z(pool[c].fillna(pool[c].median()))) * w
-    for c, w in W.items())
 
-for c in ['np_xg_p90', 'link_z', 'pace_z', 'box_shot_share', 'npxg_per_shot']:
-    pool[f'rank_{c}'] = pool[c].rank(ascending=False)
-
-out = pool.sort_values('score', ascending=False)
-cols = ['player', 'team', 'league', 'age', 'season_nineties', 'seasons_played',
-        'np_xg_p90', 'npxg_per_shot', 'xa_p90', 'xg_chain_p90',
-        'big_chances_created_p90', 'box_shot_share', 'fifa_pace',
-        'ss_aerialDuelsWonPercentage', 'np_g_minus_xg', 'fifa_value_eur',
-        'fifa_release_clause_eur', 'fifa_contract_end', 'no_pace_data',
-        'team_poss', 'style_fit', 'score']
-out[cols].to_csv('output/striker_shortlist.csv', index=False, encoding='utf-8')
-
-LEW = 0.253  # Lewandowski xG/shot benchmark from flick_profile.py
-show = out.head(15).copy()
-show['val'] = (show.fifa_value_eur / 1e6).round(0)
-print('\n' + '=' * 118)
-print('SYSTEM-FIT STRIKER SHORTLIST  (Barca under Flick)')
-print('=' * 118)
-print(f"{'#':>2} {'player':22}{'team':16}{'age':>4}{'90s':>6}{'npxG/90':>8}"
-      f"{'xG/sh':>7}{'xA/90':>7}{'chain':>7}{'box%':>6}{'pace':>5}"
-      f"{'G-xG':>7}{'val€M':>7}{'exp':>6}  {'style(poss%)':<16}")
-for i, (_, r) in enumerate(show.iterrows(), 1):
-    print(f"{i:>2} {r.player[:21]:22}{str(r.team)[:15]:16}{r.age:>4.0f}"
-          f"{r.season_nineties:>6.0f}{r.np_xg_p90:>8.2f}{r.npxg_per_shot:>7.3f}"
-          f"{r.xa_p90:>7.2f}{r.xg_chain_p90:>7.2f}"
-          f"{(r.box_shot_share*100 if pd.notna(r.box_shot_share) else 0):>5.0f}%"
-          f"{(r.fifa_pace if pd.notna(r.fifa_pace) else 0):>5.0f}"
-          f"{r.np_g_minus_xg:>+7.1f}{(r.val if pd.notna(r.val) else 0):>7.0f}"
-          f"{str(r.fifa_contract_end)[:4]:>6}  "
-          f"{r.style_fit:<12}{(r.team_poss if pd.notna(r.team_poss) else 0):>4.0f}%")
-print('=' * 118)
-print(f'Lewandowski benchmark: 0.253 xG/shot, pace 71, age 36, contract 2028')
-print('Barca context: 66.8% possession, 4-2-3-1, CB line x=41.7, 50% of shots in box')
-print('COUNTER-risk = player produces at a low-possession side; output may not transfer')
-print('G-xG is a REGRESSION FLAG, not a ranking input: large + = finishing likely to fall back')
+nine = qual[qual.role == 'CF']
+wide = qual[qual.role == 'wide/AM']
+print(chr(10) + '=' * 122)
+print('TRUE CENTRE-FORWARDS (best position ST/CF) - cleared all 3 system gates')
+print('=' * 122); print(hdr)
+for i, (_, r) in enumerate(nine.head(10).iterrows(), 1):
+    print(row(i, r))
+print('-' * 122)
+print('WIDE / ATTACKING-MID forwards that also cleared the gates (different role):')
+for i, (_, r) in enumerate(wide.head(6).iterrows(), 1):
+    print(row(i, r))
+print('=' * 122)
+print('BARCELONA BENCHMARK (same scale)')
+for _, r in both[both.team == 'Barcelona'].sort_values('score', ascending=False).head(4).iterrows():
+    print(row(0, r))
+print('=' * 122)
+print('FAILED GATES — high scorers who do not fit the system:')
+fail = cand[cand.gates_passed < 3].sort_values('np_xg_p90', ascending=False).head(5)
+for _, r in fail.iterrows():
+    miss = [k for k in ('LINK', 'PRESS', 'HOLDUP') if getattr(r, k) <= GATE]
+    print(f"   {str(r.player)[:22]:23}{str(r.team)[:14]:15} npxG/90 {r.np_xg_p90:.2f}"
+          f"  fails: {','.join(miss)}")

@@ -164,6 +164,19 @@ if fixed:
 print(f'Understat repaired: +{fixed} rows -> {m.us_np_xg.notna().sum()}/{len(m)} '
       f'({m.us_np_xg.notna().mean()*100:.0f}%)')
 
+# SoFIFA's combined face-stat headers are ambiguous ("Pace / Diving" serves both
+# outfield pace and GK diving). Alias the ones we actually use, drop raw dupes.
+ALIAS = {'fifa_pace_diving': 'fifa_pace',
+         'fifa_shooting_handling': 'fifa_face_shooting',
+         'fifa_passing_kicking': 'fifa_face_passing',
+         'fifa_dribbling_reflexes': 'fifa_face_dribbling',
+         'fifa_defending_pace': 'fifa_face_defending',
+         'fifa_physical_positioning': 'fifa_face_physical'}
+m = m.rename(columns={k: v for k, v in ALIAS.items() if k in m.columns})
+m = m.drop(columns=[c for c in ('fifa_blank', 'fifa_name', 'fifa_team_contract',
+                                'fifa_value', 'fifa_wage', 'fifa_release_clause')
+                    if c in m.columns])
+
 # ---------- 4. tidy ----------
 m = m.drop(columns=[c for c in ('_name', '_sur', '_team') if c in m.columns])
 m = m.loc[:, ~m.columns.duplicated()].copy()

@@ -101,6 +101,46 @@ Key SofaScore endpoints:
 - **Lewandowski: 0.253 xG/shot from median x=87.5**, 13% of all Barça shots,
   56 goals from 59.6 xG. Age 36, pace 71, contract 2028.
 
+## 6b. Striker scoring — v1 was wrong, v2 fixed it
+
+**v1 error:** npxG/90 carried 30% of the composite, so raw chance volume dragged
+system misfits up the list. Sorloth ranked 6th on 0.85 npxG/90 despite 0.06
+xA/90 (no link play), age 29, at a 53%-possession counter side.
+
+**v2:** five dimensions from real match data, plus *gates* — fail any of
+link/press/hold-up and you are excluded regardless of goals.
+
+| Dimension | Built from |
+|---|---|
+| PRESS | `ss_possessionWonAttThird` + `ss_ballRecovery` |
+| HOLDUP | `ss_wasFouled`, aerial %, ground-duel %, minus dispossessed |
+| LINK | xA, xGChain, key passes, big chances created |
+| FINISH | npxG/90 + npxG per shot |
+| SPACE | pace + successful dribbles |
+
+Gates now exclude Sorloth, Haaland, Guirassy (all fail PRESS) and Dembele
+(fails HOLDUP). Barca's own forwards set the standard: Yamal LINK 3.5,
+Raphinha 3.2, while Ferran Torres scores FIN 2.5 but PRESS -0.3.
+
+Output is split by role (SoFIFA best position ST/CF vs wide/attacking mid),
+because the link/press weighting naturally favours wingers.
+
+## 6c. SoFIFA now carries a full Football-Manager-style profile
+
+88 columns pulled (was 27): technical (finishing, crossing, curve, dribbling,
+ball control, short/long passing, long shots, heading, volleys, FK accuracy,
+penalties, standing/sliding tackle, shot power), mental (composure, vision,
+aggression, attack position, defensive awareness, interceptions, attacking and
+defensive work rate), physical (pace, acceleration, sprint speed, stamina,
+strength, jumping, agility, balance, reactions, height, weight), plus
+PlayStyles, weak foot, skill moves, reputation, potential and growth.
+
+## 6d. Pulls are parallel
+
+`scripts/fetch.py` provides `pmap()` — an 8-worker thread pool with retries and
+periodic checkpointing. Applied to the SoFIFA page pull and the 5,400-request
+SofaScore player pull. Workers kept modest to stay polite to public endpoints.
+
 ## 7. Progress
 
 - [x] Phase 0 — data pull, clean layer, master merge

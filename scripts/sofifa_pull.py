@@ -1,101 +1,133 @@
-"""SoFIFA (EA FC) pull for the top-5 leagues: market value, wage, release
-clause, CONTRACT EXPIRY, plus pace/physical/defensive attributes.
+"""SoFIFA (EA FC 26) full attribute pull for the top-5 leagues.
+
+Grabs every column SoFIFA exposes - the closest free equivalent to a Football
+Manager attribute profile: technical (finishing, passing, dribbling, crossing,
+first-touch proxy), mental (composure, vision, aggression, work rates,
+positioning proxies), physical (pace, acceleration, stamina, strength, jumping,
+balance, agility), plus PlayStyles/traits, value, wage, release clause and
+contract dates.
 
 Transfermarkt blocks automated access behind human verification, so this is the
-free substitute for the money side. Values are EA's model, not Transfermarkt
-quotes; contract dates mirror real ones. Pace here is EA's scouted rating, the
-only pace signal available free (matters for Flick's high line).
+substitute for the money side. Ratings are EA's scouted estimates, not measured.
 Output: data/clean/sofifa_players.csv
 """
 import re
-import time
+import sys
+from pathlib import Path
 import lxml.html
 import pandas as pd
-import tls_requests
+
+sys.path.insert(0, str(Path(__file__).parent))
+from fetch import get_text, pmap  # noqa: E402
 
 H = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120 Safari/537.36'}
-COLS = ['pi', 'ae', 'hi', 'wi', 'pf', 'oa', 'pt', 'bp', 'vl', 'wg', 'rc', 'jt',
-        'le', 'pac', 'sho', 'pas', 'dri', 'def', 'phy', 'ac', 'sp', 'ju', 'sr',
-        'he', 'ma', 'sa', 'sl', 'cp', 'ir']
 LEAGUES = {13: 'ENG-Premier League', 53: 'ESP-La Liga', 31: 'ITA-Serie A',
            19: 'GER-Bundesliga', 16: 'FRA-Ligue 1'}
+# every column code SoFIFA offers (basic/attacking/skill/movement/power/
+# mentality/defending/goalkeeping/special)
+COLS = ('pi ae by hi wi pf oa pt bo bp gu jt le vl wg rc '
+        'ta cr fi he sh vo '
+        'ts dr cu fr lo bl '
+        'to ac sp ag re ba '
+        'tp so ju st sr ln '
+        'te ar in po vi pe cm '
+        'td ma sa sl '
+        'tg gd gh gc gp gr '
+        'tt bs wk sk aw dw ir bt pac sho pas dri def phy ps1 tc at cp').split()
 SHOW = '&'.join('showCol%5B%5D=' + c for c in COLS)
+POS_RE = r'(?:GK|CB|LB|RB|LWB|RWB|CDM|CM|CAM|LM|RM|LW|RW|CF|ST)'
+
+
+def snake(s):
+    s = re.sub(r'[^0-9a-zA-Z]+', '_', str(s)).strip('_').lower()
+    return re.sub(r'_+', '_', s) or 'blank'
 
 
 def money(s):
     m = re.search(r'([\d.]+)\s*([MK])?', str(s).replace(',', ''))
     if not m:
         return None
-    v = float(m.group(1))
-    return v * {'M': 1e6, 'K': 1e3}.get(m.group(2), 1)
+    return float(m.group(1)) * {'M': 1e6, 'K': 1e3}.get(m.group(2), 1)
 
 
-rows = []
-for lid, lname in LEAGUES.items():
-    offset, got = 0, 0
-    while True:
-        u = f'https://sofifa.com/players?type=all&lg%5B%5D={lid}&{SHOW}&offset={offset}'
-        try:
-            r = tls_requests.get(u, headers=H, timeout=30)
-        except Exception:
-            time.sleep(3)
-            continue
-        if r.status_code != 200:
-            break
-        doc = lxml.html.fromstring(r.text)
-        heads = [th.text_content().strip() for th in doc.xpath('//table//thead//th')]
-        trs = doc.xpath('//table//tbody/tr')
-        if not trs:
-            break
-        for tr in trs:
-            cells = [td.text_content().strip() for td in tr.xpath('./td')]
-            if len(cells) != len(heads):
-                continue
+PAGES = 12  # 12 x 60 = 720 slots, comfortably above any top-5 squad list
+
+
+def page(job):
+    lid, lname, offset = job
+    t = get_text(f'https://sofifa.com/players?type=all&lg%5B%5D={lid}&{SHOW}'
+                 f'&offset={offset}')
+    if not t:
+        return None
+    doc = lxml.html.fromstring(t)
+    heads = [snake(th.text_content()) for th in doc.xpath('//table//thead//th')]
+    out = []
+    for tr in doc.xpath('//table//tbody/tr'):
+        cells = [td.text_content().strip() for td in tr.xpath('./td')]
+        if len(cells) == len(heads):
             d = dict(zip(heads, cells))
-            tc = d.get('Team & Contract', '')
-            yrs = re.findall(r'(20\d\d)', tc)
-            name_cell = d.get('Name', '')
-            rows.append({
-                'league': lname,
-                'player': re.split(r'\s{2,}', name_cell)[0].strip(),
-                'positions': ' '.join(re.split(r'\s{2,}', name_cell)[1:]).strip(),
-                'age': pd.to_numeric(d.get('Age'), errors='coerce'),
-                'overall': pd.to_numeric(d.get('Overall rating'), errors='coerce'),
-                'potential': pd.to_numeric(d.get('Potential'), errors='coerce'),
-                'team': re.sub(r'\s*20\d\d.*$', '', tc).strip(),
-                'contract_start': yrs[0] if yrs else None,
-                'contract_end': yrs[1] if len(yrs) > 1 else None,
-                'sofifa_id': d.get('ID'),
-                'value_eur': money(d.get('Value')),
-                'wage_eur': money(d.get('Wage')),
-                'release_clause_eur': money(d.get('Release clause')),
-                'best_position': d.get('Best position'),
-                'club_position': d.get('Club position'),
-                'height': d.get('Height'), 'foot': d.get('foot'),
-                'pace': pd.to_numeric(d.get('Pace / Diving'), errors='coerce'),
-                'acceleration': pd.to_numeric(d.get('Acceleration'), errors='coerce'),
-                'sprint_speed': pd.to_numeric(d.get('Sprint speed'), errors='coerce'),
-                'jumping': pd.to_numeric(d.get('Jumping'), errors='coerce'),
-                'strength': pd.to_numeric(d.get('Strength'), errors='coerce'),
-                'heading': pd.to_numeric(d.get('Heading accuracy'), errors='coerce'),
-                'def_awareness': pd.to_numeric(d.get('Defensive awareness'), errors='coerce'),
-                'standing_tackle': pd.to_numeric(d.get('Standing tackle'), errors='coerce'),
-                'sliding_tackle': pd.to_numeric(d.get('Sliding tackle'), errors='coerce'),
-                'defending': pd.to_numeric(d.get('Defending / Pace'), errors='coerce'),
-                'physical': pd.to_numeric(d.get('Physical / Positioning'), errors='coerce'),
-                'shooting': pd.to_numeric(d.get('Shooting / Handling'), errors='coerce'),
-                'passing': pd.to_numeric(d.get('Passing / Kicking'), errors='coerce'),
-                'dribbling': pd.to_numeric(d.get('Dribbling / Reflexes'), errors='coerce'),
-            })
-        got += len(trs)
-        offset += 60
-        if len(trs) < 60 or offset > 1800:
-            break
-        time.sleep(0.25)
-    print(f'  {lname}: {got}', flush=True)
+            d['league'] = lname
+            out.append(d)
+    return out or None
 
-df = pd.DataFrame(rows).drop_duplicates('sofifa_id')
+
+jobs = [(lid, lname, o) for lid, lname in LEAGUES.items()
+        for o in range(0, PAGES * 60, 60)]
+print(f'fetching {len(jobs)} pages in parallel...', flush=True)
+rows = pmap(page, jobs, workers=8, label='pages', every=10)
+print(f'rows: {len(rows)}', flush=True)
+
+df = pd.DataFrame(rows)
+
+# --- name cell carries trailing position tags: "R. Lewandowski ST" ---
+name_col = 'name' if 'name' in df.columns else df.columns[1]
+
+
+def split_name(v):
+    v = re.sub(r'\s+', ' ', str(v)).strip()
+    m = re.search(rf'\s((?:{POS_RE})(?:\s+{POS_RE})*)$', v)
+    return (v[:m.start()].strip(), m.group(1).strip()) if m else (v, '')
+
+
+parsed = df[name_col].map(split_name)
+df['player'] = [x[0] for x in parsed]
+df['positions'] = [x[1] for x in parsed]
+
+# --- "Team & Contract" cell: "Real Madrid 2024 ~ 2029" ---
+tc = 'team_contract' if 'team_contract' in df.columns else None
+if tc:
+    yrs = df[tc].map(lambda s: re.findall(r'(20\d\d)', str(s)))
+    df['team'] = df[tc].map(lambda s: re.sub(r'\s*20\d\d.*$', '', str(s)).strip())
+    df['contract_start'] = [y[0] if y else None for y in yrs]
+    df['contract_end'] = [y[1] if len(y) > 1 else None for y in yrs]
+
+for src, dst in [('value', 'value_eur'), ('wage', 'wage_eur'),
+                 ('release_clause', 'release_clause_eur')]:
+    if src in df.columns:
+        df[dst] = df[src].map(money)
+
+df['surname_key'] = (df.player.str.normalize('NFKD').str.encode('ascii', 'ignore')
+                     .str.decode('ascii').str.lower()
+                     .str.replace(r'[^a-z ]', '', regex=True).str.split().str[-1])
+
+# numeric-ify the attribute columns (they are plain integers 1-99)
+SKIP = {'player', 'positions', 'team', 'league', 'name', 'team_contract', 'value',
+        'wage', 'release_clause', 'surname_key', 'foot', 'preferred_foot',
+        'best_position', 'club_position', 'body_type', 'joined',
+        'loan_date_end', 'height', 'weight', 'playstyles',
+        'attacking_work_rate', 'defensive_work_rate', 'acceleration_type'}
+for c in df.columns:
+    if c in SKIP:
+        continue
+    conv = pd.to_numeric(df[c], errors='coerce')
+    # keep the conversion only if it did not destroy a mostly-text column
+    if conv.notna().sum() >= df[c].replace('', pd.NA).notna().sum() * 0.8:
+        df[c] = conv
+for c in ('contract_start', 'contract_end'):
+    if c in df.columns:
+        df[c] = pd.to_numeric(df[c], errors='coerce').astype('Int64')
+
+df = df.drop_duplicates('id' if 'id' in df.columns else 'player')
 df.to_csv('data/clean/sofifa_players.csv', index=False, encoding='utf-8')
-print(f'\n{len(df)} players -> data/clean/sofifa_players.csv', flush=True)
-print('with contract_end:', df.contract_end.notna().sum(), flush=True)
-print('with value:', df.value_eur.notna().sum(), flush=True)
+print(f'\n{len(df)} players x {df.shape[1]} cols -> data/clean/sofifa_players.csv')
+print('columns:', sorted(df.columns.tolist()))
