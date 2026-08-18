@@ -141,12 +141,34 @@ PlayStyles, weak foot, skill moves, reputation, potential and growth.
 periodic checkpointing. Applied to the SoFIFA page pull and the 5,400-request
 SofaScore player pull. Workers kept modest to stay polite to public endpoints.
 
+## 6e. Possession adjustment — judging the player, not the team
+
+Raw per-90s partly score the club. A striker at 68%-possession PSG is handed box
+chances; one at 48%-possession Atletico receives in transition under pressure.
+
+`scripts/team_adjust.py` splits metrics in two:
+- **Ratio metrics are already team-neutral** and are left alone: box share,
+  xG per shot, conversion %, aerial %, ground-duel %, pass accuracy.
+- **Volume metrics are adjusted** against the 48.9% league median. In-possession
+  actions (box shots, npxG, xA, key passes, presses in the attacking third) are
+  divided by relative possession; out-of-possession actions (recoveries,
+  tackles, clearances, aerials) are multiplied by it.
+
+Effects: Lewandowski's 95 box shots become 68, and his FIT falls 62.1 -> 55.8.
+Raphinha's 94 recoveries become 131 (Barca rarely defend, so each is rarer).
+Forwards at 40-47% possession sides gain up to +8.
+
+The decisive result: **Julian Alvarez barely moves, 54.5 -> 53.5, floor 21.**
+If Atletico's system were suppressing him, removing team context would rescue
+him. It does not - the dispossessions, lost ground duels and 1.57 box shots per
+90 are his own profile. Emegha moves -0.1, so his numbers were never inflated.
+
 ## 7. Progress
 
 - [x] Phase 0 — data pull, clean layer, master merge
 - [x] Phase 1 — Flick system profile (`scripts/flick_profile.py`)
 - [x] Phase 2 — striker shortlist (`scripts/striker_shortlist.py`)
-- [ ] Phase 3 — CB shortlist
+- [x] Phase 3 — CB shortlist (`scripts/cb_fit.py`)
 - [ ] Phase 4 — corroboration (season split, World Cup, shot maps)
 
 ## 8. Regenerating everything

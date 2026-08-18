@@ -49,9 +49,12 @@ IN_POSS = ['ss_shotsFromInsideTheBox', 'ss_totalShots', 'us_np_xg', 'us_xg',
            'us_xa', 'us_xg_chain', 'us_shots', 'ss_keyPasses',
            'ss_bigChancesCreated', 'ss_successfulDribbles', 'ss_wasFouled',
            'ss_dispossessed', 'ss_possessionWonAttThird', 'ss_touches',
-           'ss_accurateFinalThirdPasses', 'ss_accurateOppositionHalfPasses']
+           'ss_accurateFinalThirdPasses', 'ss_accurateOppositionHalfPasses',
+           'ss_accurateOwnHalfPasses', 'ss_accurateLongBalls', 'ss_accuratePasses',
+           'ss_totalPasses', 'ss_errorLeadToShot', 'ss_errorLeadToGoal']
 OUT_POSS = ['ss_ballRecovery', 'ss_tackles', 'ss_tacklesWon', 'ss_interceptions',
-            'ss_clearances', 'ss_blockedShots', 'ss_aerialDuelsWon']
+            'ss_clearances', 'ss_blockedShots', 'ss_aerialDuelsWon',
+            'ss_dribbledPast', 'ss_fouls', 'ss_groundDuelsWon', 'ss_duelLost']
 
 for c in IN_POSS:
     if c in m.columns:
