@@ -1,0 +1,10 @@
+# Raw scraped HTML cache — huge, regenerable
+data/_cache/
+*.err.log
+__pycache__/
+*.pyc
+
+# logs / scratch
+pull.log
+err.txt
+downloaded_files/
