@@ -1,4 +1,4 @@
-league,season,team,players_used,poss,90s,touches_touches,touches_def_pen,touches_def_3rd,touches_mid_3rd,touches_att_3rd,touches_att_pen,touches_live,take_ons_att,take_ons_succ,take_ons_succ_1,take_ons_tkld,take_ons_tkld_1,carries_carries,carries_totdist,carries_prgdist,carries_1_3,carries_cpa,carries_mis,carries_dis,rec,url
+league,season,team,players_used,poss,90s,touches_touches,touches_def_pen,touches_def_3rd,touches_mid_3rd,touches_att_3rd,touches_att_pen,touches_live,take_ons_att,take_ons_succ,take_ons_succ_pct,take_ons_tkld,take_ons_tkld_pct,carries_carries,carries_totdist,carries_prgdist,carries_1_3,carries_cpa,carries_mis,carries_dis,rec,url
 INT-World Cup,2026,Algeria,22,61.0,4.0,,,,,,,,,,,,,,,,,,,,,/en/squads/1e2dba57/Algeria-Men-Stats
 INT-World Cup,2026,Argentina,24,57.6,9.0,,,,,,,,,,,,,,,,,,,,,/en/squads/f9fddd6e/Argentina-Men-Stats
 INT-World Cup,2026,Australia,23,41.0,4.3,,,,,,,,,,,,,,,,,,,,,/en/squads/b90bf4f9/Australia-Men-Stats

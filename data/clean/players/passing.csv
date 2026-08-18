@@ -1,4 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,total_cmp,total_att,total_cmp_1,total_totdist,total_prgdist,short_cmp,short_att,short_cmp_1,medium_cmp,medium_att,medium_cmp_1,long_cmp,long_att,long_cmp_1,ast,a_xag,kp,1_3,ppa,crspa
+league,season,team,player,nation,pos,age,born,90s,total_cmp,total_att,total_cmp_pct,total_totdist,total_prgdist,short_cmp,short_att,short_cmp_pct,medium_cmp,medium_att,medium_cmp_pct,long_cmp,long_att,long_cmp_pct,ast,a_xag,kp,1_3,ppa,crspa
 ENG-Premier League,2425,Arsenal,Ben White,ENG,DF,26.0,1997.0,13.3,,,,,,,,,,,,,,,2,,,,,
 ENG-Premier League,2425,Arsenal,Bukayo Saka,ENG,"FW,MF",22.0,2001.0,19.2,,,,,,,,,,,,,,,10,,,,,
 ENG-Premier League,2425,Arsenal,David Raya,ESP,GK,28.0,1995.0,38.0,,,,,,,,,,,,,,,0,,,,,

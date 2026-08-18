@@ -1,4 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,goals_ga,goals_pka,goals_fk,goals_ck,goals_og,expected_psxg,expected_psxg_sot,expected_psxg_1,expected_90,launched_cmp,launched_att,launched_cmp_1,passes_att_gk,passes_thr,passes_launch,passes_avglen,goal_kicks_att,goal_kicks_launch,goal_kicks_avglen,crosses_opp,crosses_stp,crosses_stp_1,sweeper_opa,sweeper_opa_90,sweeper_avgdist
+league,season,team,player,nation,pos,age,born,90s,goals_ga,goals_pka,goals_fk,goals_ck,goals_og,expected_psxg,expected_psxg_sot,expected_psxg_plusminus,expected_90,launched_cmp,launched_att,launched_cmp_pct,passes_att_gk,passes_thr,passes_launch_pct,passes_avglen,goal_kicks_att,goal_kicks_launch_pct,goal_kicks_avglen,crosses_opp,crosses_stp,crosses_stp_pct,sweeper_opa,sweeper_opa_90,sweeper_avgdist
 INT-World Cup,2026,Algeria,Luca Zidane,Algeria,GK,28,1998,3.0,6,0,,,,,,,,,,,,,,,,,,,,,,,
 INT-World Cup,2026,Algeria,Oussama Benbot,Algeria,GK,31,1994,1.0,3,0,,,,,,,,,,,,,,,,,,,,,,,
 INT-World Cup,2026,Argentina,Emiliano Martínez,Argentina,GK,33,1992,9.0,8,0,,,,,,,,,,,,,,,,,,,,,,,

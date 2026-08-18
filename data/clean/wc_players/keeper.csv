@@ -1,4 +1,4 @@
-league,season,team,player,nation,pos,age,club,born,playing_time_mp,playing_time_starts,playing_time_min,playing_time_90s,performance_ga,performance_ga90,performance_sota,performance_saves,performance_save,performance_w,performance_d,performance_l,performance_cs,performance_cs_1,penalty_kicks_pkatt,penalty_kicks_pka,penalty_kicks_pksv,penalty_kicks_pkm,penalty_kicks_save
+league,season,team,player,nation,pos,age,club,born,playing_time_mp,playing_time_starts,playing_time_min,playing_time_90s,performance_ga,performance_ga90,performance_sota,performance_saves,performance_save_pct,performance_w,performance_d,performance_l,performance_cs,performance_cs_pct,penalty_kicks_pkatt,penalty_kicks_pka,penalty_kicks_pksv,penalty_kicks_pkm,penalty_kicks_save_pct
 INT-World Cup,2026,Algeria,Luca Zidane,Algeria,GK,28,2. Granada,1998,3,3,270,3.0,6,2.0,14,8,57.1,1,0,2,0,0.0,0,0,0,0,
 INT-World Cup,2026,Algeria,Oussama Benbot,Algeria,GK,31,1. USM Alger,1994,1,1,90,1.0,3,3.0,3,0,0.0,0,1,0,0,0.0,0,0,0,0,
 INT-World Cup,2026,Argentina,Emiliano Martínez,Argentina,GK,33,1. Aston Villa,1992,8,8,810,9.0,8,0.89,28,20,71.4,7,0,1,2,25.0,0,0,0,0,

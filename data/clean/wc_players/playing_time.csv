@@ -1,4 +1,4 @@
-league,season,team,player,nation,pos,age,born,playing_time_mp,playing_time_min,playing_time_mn_mp,playing_time_min_1,playing_time_90s,starts_starts,starts_mn_start,starts_compl,subs_subs,subs_mn_sub,subs_unsub,team_success_ppm,team_success_ong,team_success_onga,team_success,team_success_90,team_success_on_off
+league,season,team,player,nation,pos,age,born,playing_time_mp,playing_time_min,playing_time_mn_mp,playing_time_min_pct,playing_time_90s,starts_starts,starts_mn_start,starts_compl,subs_subs,subs_mn_sub,subs_unsub,team_success_ppm,team_success_ong,team_success_onga,team_success_plusminus,team_success_plusminus90,team_success_on_off
 INT-World Cup,2026,Algeria,Achref Abada,Algeria,DF,26,1999,0,,,,,0,,0,0,,4,,,,,,
 INT-World Cup,2026,Algeria,Adil Boulbina,Algeria,FW,23,2003,2,19.0,10.0,5.3,0.2,0,,0,2,10.0,2,0.0,0.0,0.0,0.0,0.0,1.06
 INT-World Cup,2026,Algeria,Amine Gouiri,Algeria,FW,26,2000,4,251.0,63.0,69.7,2.8,3,73.0,0,1,33.0,0,1.0,4.0,5.0,-1.0,-0.36,2.12

@@ -1,4 +1,4 @@
-league,season,team,players_used,90s,standard_gls,standard_sh,standard_sot,standard_sot_1,standard_sh_90,standard_sot_90,standard_g_sh,standard_g_sot,standard_pk,standard_pkatt,url
+league,season,team,players_used,90s,standard_gls,standard_sh,standard_sot,standard_sot_pct,standard_sh_90,standard_sot_90,standard_g_sh,standard_g_sot,standard_pk,standard_pkatt,url
 ENG-Premier League,2425,Arsenal,25,38,67,544,178,32.7,14.32,4.68,0.12,0.37,2,2,/en/squads/18bb7c10/2024-2025/Arsenal-Stats
 ENG-Premier League,2425,Aston Villa,28,38,56,478,159,33.3,12.58,4.18,0.12,0.34,3,6,/en/squads/8602292d/2024-2025/Aston-Villa-Stats
 ENG-Premier League,2425,Bournemouth,29,38,57,574,192,33.4,15.11,5.05,0.1,0.29,6,7,/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats

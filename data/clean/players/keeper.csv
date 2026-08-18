@@ -1,4 +1,4 @@
-league,season,team,player,nation,pos,age,born,playing_time_mp,playing_time_starts,playing_time_min,90s,performance_ga,performance_ga90,performance_sota,performance_saves,performance_save,performance_w,performance_d,performance_l,performance_cs,performance_cs_1,penalty_kicks_pkatt,penalty_kicks_pka,penalty_kicks_pksv,penalty_kicks_pkm,penalty_kicks_save,playing_time_90s
+league,season,team,player,nation,pos,age,born,playing_time_mp,playing_time_starts,playing_time_min,90s,performance_ga,performance_ga90,performance_sota,performance_saves,performance_save_pct,performance_w,performance_d,performance_l,performance_cs,performance_cs_pct,penalty_kicks_pkatt,penalty_kicks_pka,penalty_kicks_pksv,penalty_kicks_pkm,penalty_kicks_save_pct,playing_time_90s
 ENG-Premier League,2425,Arsenal,David Raya,ESP,GK,28.0,1995.0,38,38,3420,38.0,34,0.89,120,86,71.7,20.0,14.0,4.0,13,34.2,3,3,0,0,0.0,
 ENG-Premier League,2425,Aston Villa,Emiliano Martínez,ARG,GK,31.0,1992.0,37,37,3194,35.5,47,1.32,146,99,67.8,18.0,9.0,10.0,8,21.6,2,1,1,0,50.0,
 ENG-Premier League,2425,Aston Villa,Robin Olsen,SWE,GK,34.0,1990.0,4,1,226,2.5,6,2.39,14,8,57.1,1.0,0.0,0.0,1,100.0,1,1,0,0,0.0,

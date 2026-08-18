@@ -1,4 +1,4 @@
-league,season,team,players_used,age,playing_time_mp,playing_time_min,playing_time_mn_mp,playing_time_min_1,playing_time_90s,starts_starts,starts_mn_start,starts_compl,subs_subs,subs_mn_sub,subs_unsub,team_success_ppm,team_success_ong,team_success_onga,team_success,team_success_90,url
+league,season,team,players_used,age,playing_time_mp,playing_time_min,playing_time_mn_mp,playing_time_min_pct,playing_time_90s,starts_starts,starts_mn_start,starts_compl,subs_subs,subs_mn_sub,subs_unsub,team_success_ppm,team_success_ong,team_success_onga,team_success_plusminus,team_success_plusminus90,url
 INT-World Cup,2026,Algeria,22,27.3,4,360,90,100,4.0,44,81,25,19,21,37,1.0,5,9,-4,-1.0,/en/squads/1e2dba57/Algeria-Men-Stats
 INT-World Cup,2026,Argentina,24,29.6,8,810,101,100,9.0,88,87,45,42,30,78,2.63,19,8,11,1.22,/en/squads/f9fddd6e/Argentina-Men-Stats
 INT-World Cup,2026,Australia,23,25.3,4,390,98,100,4.3,44,85,25,19,28,37,1.25,3,3,0,0.0,/en/squads/b90bf4f9/Australia-Men-Stats

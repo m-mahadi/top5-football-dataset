@@ -1,4 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,total_cmp,total_att,total_cmp_1,total_totdist,total_prgdist,short_cmp,short_att,short_cmp_1,medium_cmp,medium_att,medium_cmp_1,long_cmp,long_att,long_cmp_1,ast,a_xag,kp,1_3,ppa,crspa
+league,season,team,player,nation,pos,age,born,90s,total_cmp,total_att,total_cmp_pct,total_totdist,total_prgdist,short_cmp,short_att,short_cmp_pct,medium_cmp,medium_att,medium_cmp_pct,long_cmp,long_att,long_cmp_pct,ast,a_xag,kp,1_3,ppa,crspa
 INT-World Cup,2026,Algeria,Adil Boulbina,Algeria,FW,23,2003,0.2,,,,,,,,,,,,,,,0,,,,,
 INT-World Cup,2026,Algeria,Amine Gouiri,Algeria,FW,26,2000,2.8,,,,,,,,,,,,,,,0,,,,,
 INT-World Cup,2026,Algeria,Anis Hadj Moussa,Algeria,MF,24,2002,1.1,,,,,,,,,,,,,,,0,,,,,

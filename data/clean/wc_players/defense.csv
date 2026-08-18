@@ -1,4 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,tackles_tkl,tackles_tklw,tackles_def_3rd,tackles_mid_3rd,tackles_att_3rd,challenges_tkl,challenges_att,challenges_tkl_1,challenges_lost,blocks_blocks,blocks_sh,blocks_pass,int,tkl_int,clr,err
+league,season,team,player,nation,pos,age,born,90s,tackles_tkl,tackles_tklw,tackles_def_3rd,tackles_mid_3rd,tackles_att_3rd,challenges_tkl,challenges_att,challenges_tkl_pct,challenges_lost,blocks_blocks,blocks_sh,blocks_pass,int,tkl_int,clr,err
 INT-World Cup,2026,Algeria,Adil Boulbina,Algeria,FW,23,2003,0.2,,0,,,,,,,,,,,0,,,
 INT-World Cup,2026,Algeria,Amine Gouiri,Algeria,FW,26,2000,2.8,,1,,,,,,,,,,,0,,,
 INT-World Cup,2026,Algeria,Anis Hadj Moussa,Algeria,MF,24,2002,1.1,,0,,,,,,,,,,,1,,,

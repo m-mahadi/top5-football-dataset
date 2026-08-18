@@ -1,4 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,touches_touches,touches_def_pen,touches_def_3rd,touches_mid_3rd,touches_att_3rd,touches_att_pen,touches_live,take_ons_att,take_ons_succ,take_ons_succ_1,take_ons_tkld,take_ons_tkld_1,carries_carries,carries_totdist,carries_prgdist,carries_1_3,carries_cpa,carries_mis,carries_dis,rec
+league,season,team,player,nation,pos,age,born,90s,touches_touches,touches_def_pen,touches_def_3rd,touches_mid_3rd,touches_att_3rd,touches_att_pen,touches_live,take_ons_att,take_ons_succ,take_ons_succ_pct,take_ons_tkld,take_ons_tkld_pct,carries_carries,carries_totdist,carries_prgdist,carries_1_3,carries_cpa,carries_mis,carries_dis,rec
 INT-World Cup,2026,Algeria,Adil Boulbina,Algeria,FW,23,2003,0.2,,,,,,,,,,,,,,,,,,,,
 INT-World Cup,2026,Algeria,Amine Gouiri,Algeria,FW,26,2000,2.8,,,,,,,,,,,,,,,,,,,,
 INT-World Cup,2026,Algeria,Anis Hadj Moussa,Algeria,MF,24,2002,1.1,,,,,,,,,,,,,,,,,,,,

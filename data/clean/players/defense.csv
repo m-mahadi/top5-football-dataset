@@ -1,4 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,tackles_tkl,tackles_tklw,tackles_def_3rd,tackles_mid_3rd,tackles_att_3rd,challenges_tkl,challenges_att,challenges_tkl_1,challenges_lost,blocks_blocks,blocks_sh,blocks_pass,int,tkl_int,clr,err
+league,season,team,player,nation,pos,age,born,90s,tackles_tkl,tackles_tklw,tackles_def_3rd,tackles_mid_3rd,tackles_att_3rd,challenges_tkl,challenges_att,challenges_tkl_pct,challenges_lost,blocks_blocks,blocks_sh,blocks_pass,int,tkl_int,clr,err
 ENG-Premier League,2425,Arsenal,Ben White,ENG,DF,26.0,1997.0,13.3,,15,,,,,,,,,,,16,,,
 ENG-Premier League,2425,Arsenal,Bukayo Saka,ENG,"FW,MF",22.0,2001.0,19.2,,15,,,,,,,,,,,3,,,
 ENG-Premier League,2425,Arsenal,David Raya,ESP,GK,28.0,1995.0,38.0,,0,,,,,,,,,,,0,,,

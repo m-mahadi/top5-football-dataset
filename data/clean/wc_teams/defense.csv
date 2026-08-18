@@ -1,4 +1,4 @@
-league,season,team,players_used,90s,tackles_tkl,tackles_tklw,tackles_def_3rd,tackles_mid_3rd,tackles_att_3rd,challenges_tkl,challenges_att,challenges_tkl_1,challenges_lost,blocks_blocks,blocks_sh,blocks_pass,int,tkl_int,clr,err,url
+league,season,team,players_used,90s,tackles_tkl,tackles_tklw,tackles_def_3rd,tackles_mid_3rd,tackles_att_3rd,challenges_tkl,challenges_att,challenges_tkl_pct,challenges_lost,blocks_blocks,blocks_sh,blocks_pass,int,tkl_int,clr,err,url
 INT-World Cup,2026,Algeria,22,4.0,,44,,,,,,,,,,,30,,,,/en/squads/1e2dba57/Algeria-Men-Stats
 INT-World Cup,2026,Argentina,24,9.0,,93,,,,,,,,,,,82,,,,/en/squads/f9fddd6e/Argentina-Men-Stats
 INT-World Cup,2026,Australia,23,4.3,,34,,,,,,,,,,,29,,,,/en/squads/b90bf4f9/Australia-Men-Stats

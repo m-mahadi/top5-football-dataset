@@ -1,4 +1,4 @@
-league,season,team,players_used,age,playing_time_mp,playing_time_min,playing_time_mn_mp,playing_time_min_1,playing_time_90s,starts_starts,starts_mn_start,starts_compl,subs_subs,subs_mn_sub,subs_unsub,team_success_ppm,team_success_ong,team_success_onga,team_success,team_success_90,url
+league,season,team,players_used,age,playing_time_mp,playing_time_min,playing_time_mn_mp,playing_time_min_pct,playing_time_90s,starts_starts,starts_mn_start,starts_compl,subs_subs,subs_mn_sub,subs_unsub,team_success_ppm,team_success_ong,team_success_onga,team_success_plusminus,team_success_plusminus90,url
 ENG-Premier League,2425,Arsenal,25,25.8,38,3420,90,100,38,418,83,272,142,18,200,1.95,69,34,35,0.92,/en/squads/18bb7c10/2024-2025/Arsenal-Stats
 ENG-Premier League,2425,Aston Villa,28,27.0,38,3420,90,100,38,418,80,246,170,23,170,1.74,58,51,7,0.18,/en/squads/8602292d/2024-2025/Aston-Villa-Stats
 ENG-Premier League,2425,Bournemouth,29,25.1,38,3420,90,100,38,418,83,254,162,18,180,1.47,58,46,12,0.32,/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats

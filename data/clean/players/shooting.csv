@@ -1,4 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,standard_gls,standard_sh,standard_sot,standard_sot_1,standard_sh_90,standard_sot_90,standard_g_sh,standard_g_sot,standard_pk,standard_pkatt
+league,season,team,player,nation,pos,age,born,90s,standard_gls,standard_sh,standard_sot,standard_sot_pct,standard_sh_90,standard_sot_90,standard_g_sh,standard_g_sot,standard_pk,standard_pkatt
 ENG-Premier League,2425,Arsenal,Ben White,ENG,DF,26.0,1997.0,13.3,0,9,2,22.2,0.68,0.15,0.0,0.0,0,0
 ENG-Premier League,2425,Arsenal,Bukayo Saka,ENG,"FW,MF",22.0,2001.0,19.2,6,67,23,34.3,3.49,1.2,0.07,0.22,1,1
 ENG-Premier League,2425,Arsenal,David Raya,ESP,GK,28.0,1995.0,38.0,0,0,0,,0.0,0.0,,,0,0

@@ -1,4 +1,4 @@
-league,season,team,players_used,90s,goals_ga,goals_pka,goals_fk,goals_ck,goals_og,expected_psxg,expected_psxg_sot,expected_psxg_1,expected_90,launched_cmp,launched_att,launched_cmp_1,passes_att_gk,passes_thr,passes_launch,passes_avglen,goal_kicks_att,goal_kicks_launch,goal_kicks_avglen,crosses_opp,crosses_stp,crosses_stp_1,sweeper_opa,sweeper_opa_90,sweeper_avgdist,url
+league,season,team,players_used,90s,goals_ga,goals_pka,goals_fk,goals_ck,goals_og,expected_psxg,expected_psxg_sot,expected_psxg_plusminus,expected_90,launched_cmp,launched_att,launched_cmp_pct,passes_att_gk,passes_thr,passes_launch_pct,passes_avglen,goal_kicks_att,goal_kicks_launch_pct,goal_kicks_avglen,crosses_opp,crosses_stp,crosses_stp_pct,sweeper_opa,sweeper_opa_90,sweeper_avgdist,url
 ENG-Premier League,2425,Arsenal,1,38,34,3,,,,,,,,,,,,,,,,,,,,,,,,/en/squads/18bb7c10/2024-2025/Arsenal-Stats
 ENG-Premier League,2425,Aston Villa,2,38,51,2,,,,,,,,,,,,,,,,,,,,,,,,/en/squads/8602292d/2024-2025/Aston-Villa-Stats
 ENG-Premier League,2425,Bournemouth,3,38,46,4,,,,,,,,,,,,,,,,,,,,,,,,/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats

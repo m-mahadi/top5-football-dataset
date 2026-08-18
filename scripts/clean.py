@@ -12,7 +12,8 @@ CLEAN.mkdir(parents=True, exist_ok=True)
 
 
 def snake(s):
-    s = re.sub(r'[^0-9a-zA-Z]+', '_', str(s)).strip('_').lower()
+    s = str(s).replace('%', '_pct').replace('+/-', '_plusminus')
+    s = re.sub(r'[^0-9a-zA-Z]+', '_', s).strip('_').lower()
     return re.sub(r'_+', '_', s)
 
 

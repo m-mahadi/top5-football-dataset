@@ -1,4 +1,4 @@
-league,season,team,players_used,90s,goals_ga,goals_pka,goals_fk,goals_ck,goals_og,expected_psxg,expected_psxg_sot,expected_psxg_1,expected_90,launched_cmp,launched_att,launched_cmp_1,passes_att_gk,passes_thr,passes_launch,passes_avglen,goal_kicks_att,goal_kicks_launch,goal_kicks_avglen,crosses_opp,crosses_stp,crosses_stp_1,sweeper_opa,sweeper_opa_90,sweeper_avgdist,url
+league,season,team,players_used,90s,goals_ga,goals_pka,goals_fk,goals_ck,goals_og,expected_psxg,expected_psxg_sot,expected_psxg_plusminus,expected_90,launched_cmp,launched_att,launched_cmp_pct,passes_att_gk,passes_thr,passes_launch_pct,passes_avglen,goal_kicks_att,goal_kicks_launch_pct,goal_kicks_avglen,crosses_opp,crosses_stp,crosses_stp_pct,sweeper_opa,sweeper_opa_90,sweeper_avgdist,url
 INT-World Cup,2026,Algeria,2,4.0,9,0,,,,,,,,,,,,,,,,,,,,,,,,/en/squads/1e2dba57/Algeria-Men-Stats
 INT-World Cup,2026,Argentina,1,9.0,8,0,,,,,,,,,,,,,,,,,,,,,,,,/en/squads/f9fddd6e/Argentina-Men-Stats
 INT-World Cup,2026,Australia,2,4.3,3,0,,,,,,,,,,,,,,,,,,,,,,,,/en/squads/b90bf4f9/Australia-Men-Stats
