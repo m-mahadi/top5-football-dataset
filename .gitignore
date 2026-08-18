@@ -8,3 +8,11 @@ __pycache__/
 pull.log
 err.txt
 downloaded_files/
+
+# scratch pull logs
+*_pull.log
+*_pull2.log
+_ucl.log
+_wc_shots.log
+data/**/_*.log
+data/worldcup_pull.log
