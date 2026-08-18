@@ -1,0 +1,265 @@
+league,season,team,players_used,90s,performance_crdy,performance_crdr,performance_2crdy,performance_fls,performance_fld,performance_off,performance_crs,performance_int,performance_tklw,performance_pkwon,performance_pkcon,performance_og,url
+ENG-Premier League,2425,Arsenal,25,38,70,6,3,401,405,80,766,225,348,2.0,3.0,0,/en/squads/18bb7c10/2024-2025/Arsenal-Stats
+ENG-Premier League,2425,Aston Villa,28,38,76,4,2,406,499,55,604,240,372,6.0,3.0,0,/en/squads/8602292d/2024-2025/Aston-Villa-Stats
+ENG-Premier League,2425,Bournemouth,29,38,97,3,0,525,400,70,832,351,399,7.0,4.0,0,/en/squads/4ba7cbea/2024-2025/Bournemouth-Stats
+ENG-Premier League,2425,Brentford,28,38,62,1,0,320,339,63,674,285,380,6.0,1.0,3,/en/squads/cd051869/2024-2025/Brentford-Stats
+ENG-Premier League,2425,Brighton,32,38,78,3,2,438,411,46,704,315,431,6.0,9.0,2,/en/squads/d07537b9/2024-2025/Brighton-and-Hove-Albion-Stats
+ENG-Premier League,2425,Chelsea,29,38,101,2,1,436,444,65,663,272,371,5.0,6.0,0,/en/squads/cff3d9bb/2024-2025/Chelsea-Stats
+ENG-Premier League,2425,Crystal Palace,29,38,80,4,3,417,403,74,605,334,450,4.0,2.0,3,/en/squads/47c64c55/2024-2025/Crystal-Palace-Stats
+ENG-Premier League,2425,Everton,26,38,82,2,1,430,384,81,682,345,433,1.0,2.0,0,/en/squads/d3fd31cc/2024-2025/Everton-Stats
+ENG-Premier League,2425,Fulham,26,38,80,2,0,432,359,43,894,302,411,3.0,4.0,2,/en/squads/fd962109/2024-2025/Fulham-Stats
+ENG-Premier League,2425,Ipswich Town,32,38,93,5,4,430,404,52,505,303,340,2.0,6.0,2,/en/squads/b74092de/2024-2025/Ipswich-Town-Stats
+ENG-Premier League,2425,Leicester City,32,38,87,0,0,420,393,63,621,327,431,3.0,4.0,3,/en/squads/a2d435b3/2024-2025/Leicester-City-Stats
+ENG-Premier League,2425,Liverpool,24,38,67,3,1,430,359,60,729,299,391,6.0,2.0,2,/en/squads/822bd0ba/2024-2025/Liverpool-Stats
+ENG-Premier League,2425,Manchester City,30,38,59,2,1,287,382,45,659,229,299,4.0,4.0,2,/en/squads/b8fd03ef/2024-2025/Manchester-City-Stats
+ENG-Premier League,2425,Manchester Utd,31,38,86,3,1,403,371,69,630,358,493,4.0,4.0,2,/en/squads/19538871/2024-2025/Manchester-United-Stats
+ENG-Premier League,2425,Newcastle,24,38,68,1,0,394,450,71,705,270,371,4.0,2.0,2,/en/squads/b2b47a98/2024-2025/Newcastle-United-Stats
+ENG-Premier League,2425,Nottingham,23,38,90,2,2,401,419,91,621,322,419,3.0,3.0,0,/en/squads/e4a775cb/2024-2025/Nottingham-Forest-Stats
+ENG-Premier League,2425,Southampton,36,38,89,3,0,459,421,49,548,305,378,2.0,9.0,0,/en/squads/33c895d4/2024-2025/Southampton-Stats
+ENG-Premier League,2425,Tottenham,31,38,72,1,1,446,483,63,752,322,414,4.0,3.0,4,/en/squads/361ca564/2024-2025/Tottenham-Hotspur-Stats
+ENG-Premier League,2425,West Ham,27,38,82,3,2,443,397,73,613,331,388,2.0,3.0,3,/en/squads/7c21e445/2024-2025/West-Ham-United-Stats
+ENG-Premier League,2425,Wolves,32,38,79,2,2,480,425,62,568,298,471,0.0,9.0,3,/en/squads/8cec06e1/2024-2025/Wolverhampton-Wanderers-Stats
+ENG-Premier League,2526,Arsenal,25,38,51,0,0,391,408,61,679,259,332,,,1,/en/squads/18bb7c10/2025-2026/Arsenal-Stats
+ENG-Premier League,2526,Aston Villa,30,38,58,1,0,379,471,43,605,223,347,,,1,/en/squads/8602292d/2025-2026/Aston-Villa-Stats
+ENG-Premier League,2526,Bournemouth,26,38,88,2,0,458,384,70,727,341,378,,,3,/en/squads/4ba7cbea/2025-2026/Bournemouth-Stats
+ENG-Premier League,2526,Brentford,26,38,69,1,0,390,339,58,679,318,331,,,3,/en/squads/cd051869/2025-2026/Brentford-Stats
+ENG-Premier League,2526,Brighton,28,38,86,0,0,453,369,64,714,311,409,,,4,/en/squads/d07537b9/2025-2026/Brighton-and-Hove-Albion-Stats
+ENG-Premier League,2526,Burnley,28,38,66,3,1,392,333,56,516,344,363,,,4,/en/squads/943e8050/2025-2026/Burnley-Stats
+ENG-Premier League,2526,Chelsea,30,38,98,8,4,419,445,58,677,358,340,,,1,/en/squads/cff3d9bb/2025-2026/Chelsea-Stats
+ENG-Premier League,2526,Crystal Palace,30,38,76,2,1,398,356,71,604,305,411,,,2,/en/squads/47c64c55/2025-2026/Crystal-Palace-Stats
+ENG-Premier League,2526,Everton,22,38,74,4,1,409,405,53,672,303,403,,,1,/en/squads/d3fd31cc/2025-2026/Everton-Stats
+ENG-Premier League,2526,Fulham,24,38,75,1,0,414,361,67,684,315,383,,,3,/en/squads/fd962109/2025-2026/Fulham-Stats
+ENG-Premier League,2526,Leeds United,24,38,64,1,1,398,416,60,677,338,394,,,1,/en/squads/5bfb9659/2025-2026/Leeds-United-Stats
+ENG-Premier League,2526,Liverpool,24,38,57,1,0,384,387,76,762,250,307,,,0,/en/squads/822bd0ba/2025-2026/Liverpool-Stats
+ENG-Premier League,2526,Manchester City,27,38,67,0,0,367,413,44,623,293,336,,,0,/en/squads/b8fd03ef/2025-2026/Manchester-City-Stats
+ENG-Premier League,2526,Manchester Utd,27,38,64,3,1,390,394,52,639,310,406,,,2,/en/squads/19538871/2025-2026/Manchester-United-Stats
+ENG-Premier League,2526,Newcastle,26,38,67,3,2,385,440,49,876,259,349,,,2,/en/squads/b2b47a98/2025-2026/Newcastle-United-Stats
+ENG-Premier League,2526,Nottingham,31,38,60,1,0,406,422,60,826,290,385,,,3,/en/squads/e4a775cb/2025-2026/Nottingham-Forest-Stats
+ENG-Premier League,2526,Sunderland,29,38,82,3,0,407,407,56,613,295,356,,,2,/en/squads/8ef52968/2025-2026/Sunderland-Stats
+ENG-Premier League,2526,Tottenham,31,38,101,4,1,462,378,58,762,310,446,,,0,/en/squads/361ca564/2025-2026/Tottenham-Hotspur-Stats
+ENG-Premier League,2526,West Ham,32,38,69,3,1,421,385,65,638,341,403,,,3,/en/squads/7c21e445/2025-2026/West-Ham-United-Stats
+ENG-Premier League,2526,Wolves,31,38,80,3,1,494,403,53,694,303,415,,,4,/en/squads/8cec06e1/2025-2026/Wolverhampton-Wanderers-Stats
+ESP-La Liga,2425,Alavés,29,38,107,5,2,623,476,77,798,309,459,8.0,11.0,2,/en/squads/8d6fd021/2024-2025/Alaves-Stats
+ESP-La Liga,2425,Athletic Club,31,38,64,3,1,483,386,68,772,344,345,5.0,5.0,1,/en/squads/2b390eca/2024-2025/Athletic-Club-Stats
+ESP-La Liga,2425,Atlético Madrid,24,38,75,3,0,412,427,72,675,260,375,4.0,5.0,2,/en/squads/db3b9613/2024-2025/Atletico-Madrid-Stats
+ESP-La Liga,2425,Barcelona,28,38,63,3,1,368,465,65,709,227,332,8.0,4.0,0,/en/squads/206d90db/2024-2025/Barcelona-Stats
+ESP-La Liga,2425,Celta Vigo,30,38,84,6,3,462,436,67,501,282,340,6.0,4.0,2,/en/squads/f25da7fb/2024-2025/Celta-Vigo-Stats
+ESP-La Liga,2425,Espanyol,27,38,88,1,0,498,432,61,619,315,397,5.0,6.0,1,/en/squads/a8661628/2024-2025/Espanyol-Stats
+ESP-La Liga,2425,Getafe,30,38,110,7,3,602,506,90,721,276,393,3.0,9.0,0,/en/squads/7848bd64/2024-2025/Getafe-Stats
+ESP-La Liga,2425,Girona,30,38,76,2,0,437,439,79,804,279,348,4.0,6.0,1,/en/squads/9024a00a/2024-2025/Girona-Stats
+ESP-La Liga,2425,Las Palmas,34,38,110,4,2,452,462,59,674,321,370,1.0,10.0,3,/en/squads/0049d422/2024-2025/Las-Palmas-Stats
+ESP-La Liga,2425,Leganés,26,38,82,6,0,503,470,84,495,332,384,7.0,8.0,3,/en/squads/7c6f2c78/2024-2025/Leganes-Stats
+ESP-La Liga,2425,Mallorca,28,38,81,6,1,466,432,78,735,326,361,4.0,3.0,1,/en/squads/2aa12281/2024-2025/Mallorca-Stats
+ESP-La Liga,2425,Osasuna,25,38,88,0,0,508,379,66,819,266,365,9.0,7.0,1,/en/squads/03c57e2b/2024-2025/Osasuna-Stats
+ESP-La Liga,2425,Rayo Vallecano,26,38,96,3,0,522,391,79,769,334,396,1.0,8.0,1,/en/squads/98e8af82/2024-2025/Rayo-Vallecano-Stats
+ESP-La Liga,2425,Real Betis,36,38,75,4,0,433,524,56,627,356,397,9.0,4.0,1,/en/squads/fc536746/2024-2025/Real-Betis-Stats
+ESP-La Liga,2425,Real Madrid,30,38,57,4,0,332,518,85,578,331,359,11.0,3.0,1,/en/squads/53a2f082/2024-2025/Real-Madrid-Stats
+ESP-La Liga,2425,Real Sociedad,31,38,85,4,0,501,417,82,739,283,401,3.0,7.0,0,/en/squads/e31d1cd9/2024-2025/Real-Sociedad-Stats
+ESP-La Liga,2425,Sevilla,35,38,98,8,3,494,402,70,612,367,390,1.0,6.0,1,/en/squads/ad2be733/2024-2025/Sevilla-Stats
+ESP-La Liga,2425,Valencia,32,38,86,1,0,442,446,72,763,302,415,4.0,9.0,3,/en/squads/dcc91a7b/2024-2025/Valencia-Stats
+ESP-La Liga,2425,Valladolid,38,38,91,5,2,459,486,67,671,311,357,3.0,7.0,1,/en/squads/17859612/2024-2025/Valladolid-Stats
+ESP-La Liga,2425,Villarreal,31,38,96,4,1,442,463,77,674,281,396,6.0,8.0,1,/en/squads/2a8183b3/2024-2025/Villarreal-Stats
+ESP-La Liga,2526,Alavés,28,38,95,5,5,568,489,74,754,299,403,,,1,/en/squads/8d6fd021/2025-2026/Alaves-Stats
+ESP-La Liga,2526,Athletic Club,29,38,79,7,2,520,391,52,923,355,348,,,1,/en/squads/2b390eca/2025-2026/Athletic-Club-Stats
+ESP-La Liga,2526,Atlético Madrid,36,38,79,5,2,425,345,79,770,298,389,,,0,/en/squads/db3b9613/2025-2026/Atletico-Madrid-Stats
+ESP-La Liga,2526,Barcelona,29,38,60,2,2,360,431,83,548,287,371,,,0,/en/squads/206d90db/2025-2026/Barcelona-Stats
+ESP-La Liga,2526,Celta Vigo,31,38,73,1,1,444,447,76,432,277,306,,,1,/en/squads/f25da7fb/2025-2026/Celta-Vigo-Stats
+ESP-La Liga,2526,Elche,32,38,81,6,2,507,538,59,596,314,403,,,0,/en/squads/6c8b07df/2025-2026/Elche-Stats
+ESP-La Liga,2526,Espanyol,25,38,91,5,3,524,458,70,801,308,373,,,1,/en/squads/a8661628/2025-2026/Espanyol-Stats
+ESP-La Liga,2526,Getafe,33,38,109,8,3,577,531,91,713,342,426,,,2,/en/squads/7848bd64/2025-2026/Getafe-Stats
+ESP-La Liga,2526,Girona,32,38,80,7,2,408,521,73,592,292,365,,,1,/en/squads/9024a00a/2025-2026/Girona-Stats
+ESP-La Liga,2526,Levante,30,38,85,5,1,467,464,58,674,331,357,,,3,/en/squads/9800b6a1/2025-2026/Levante-Stats
+ESP-La Liga,2526,Mallorca,30,38,83,5,2,467,444,50,725,270,322,,,2,/en/squads/2aa12281/2025-2026/Mallorca-Stats
+ESP-La Liga,2526,Osasuna,24,38,91,7,1,511,415,51,787,303,317,,,0,/en/squads/03c57e2b/2025-2026/Osasuna-Stats
+ESP-La Liga,2526,Oviedo,31,38,81,10,4,474,420,78,647,293,406,,,0,/en/squads/ab358912/2025-2026/Oviedo-Stats
+ESP-La Liga,2526,Rayo Vallecano,28,38,103,9,3,511,397,79,767,320,414,,,1,/en/squads/98e8af82/2025-2026/Rayo-Vallecano-Stats
+ESP-La Liga,2526,Real Betis,29,38,72,2,1,403,466,63,556,339,395,,,1,/en/squads/fc536746/2025-2026/Real-Betis-Stats
+ESP-La Liga,2526,Real Madrid,35,38,70,7,1,380,522,78,579,246,355,,,1,/en/squads/53a2f082/2025-2026/Real-Madrid-Stats
+ESP-La Liga,2526,Real Sociedad,36,38,88,4,0,541,436,90,652,305,409,,,3,/en/squads/e31d1cd9/2025-2026/Real-Sociedad-Stats
+ESP-La Liga,2526,Sevilla,33,38,108,5,2,561,457,102,620,333,433,,,0,/en/squads/ad2be733/2025-2026/Sevilla-Stats
+ESP-La Liga,2526,Valencia,27,38,70,3,0,459,431,65,696,289,360,,,3,/en/squads/dcc91a7b/2025-2026/Valencia-Stats
+ESP-La Liga,2526,Villarreal,33,38,78,3,1,454,444,68,459,344,396,,,2,/en/squads/2a8183b3/2025-2026/Villarreal-Stats
+FRA-Ligue 1,2425,Angers,30,34,49,2,0,380,398,69,575,336,392,6.0,5.0,0,/en/squads/69236f98/2024-2025/Angers-Stats
+FRA-Ligue 1,2425,Auxerre,29,34,68,4,1,404,362,48,542,350,403,4.0,8.0,3,/en/squads/5ae09109/2024-2025/Auxerre-Stats
+FRA-Ligue 1,2425,Brest,30,34,69,3,1,430,413,42,641,316,426,5.0,10.0,2,/en/squads/fb08dbb3/2024-2025/Brest-Stats
+FRA-Ligue 1,2425,Le Havre,31,34,56,4,1,379,403,50,695,324,387,6.0,6.0,1,/en/squads/5c2737db/2024-2025/Le-Havre-Stats
+FRA-Ligue 1,2425,Lens,33,34,86,8,3,499,360,84,706,321,365,2.0,9.0,0,/en/squads/fd4e0f7d/2024-2025/Lens-Stats
+FRA-Ligue 1,2425,Lille,27,34,77,2,1,410,376,48,535,271,356,8.0,4.0,1,/en/squads/cb188c0c/2024-2025/Lille-Stats
+FRA-Ligue 1,2425,Lyon,31,34,60,0,0,407,357,71,598,282,340,6.0,3.0,0,/en/squads/d53c0b06/2024-2025/Lyon-Stats
+FRA-Ligue 1,2425,Marseille,32,34,64,6,4,394,371,53,609,280,358,5.0,6.0,2,/en/squads/5725cc7b/2024-2025/Marseille-Stats
+FRA-Ligue 1,2425,Monaco,28,34,60,4,2,462,444,69,563,357,429,3.0,3.0,0,/en/squads/fd6114db/2024-2025/Monaco-Stats
+FRA-Ligue 1,2425,Montpellier,35,34,87,7,2,427,438,65,646,273,389,3.0,9.0,3,/en/squads/281b0e73/2024-2025/Montpellier-Stats
+FRA-Ligue 1,2425,Nantes,30,34,71,4,0,413,389,31,611,283,376,3.0,8.0,3,/en/squads/d7a486cd/2024-2025/Nantes-Stats
+FRA-Ligue 1,2425,Nice,31,34,59,5,2,391,417,56,599,365,399,5.0,3.0,1,/en/squads/132ebc33/2024-2025/Nice-Stats
+FRA-Ligue 1,2425,PSG,28,34,37,0,0,307,336,54,562,265,386,6.0,3.0,1,/en/squads/e2d8892c/2024-2025/Paris-Saint-Germain-Stats
+FRA-Ligue 1,2425,Reims,34,34,66,6,2,392,372,59,611,289,359,1.0,5.0,0,/en/squads/7fdd64e0/2024-2025/Reims-Stats
+FRA-Ligue 1,2425,Rennes,35,34,67,2,0,445,382,48,580,337,363,4.0,6.0,2,/en/squads/b3072e00/2024-2025/Rennes-Stats
+FRA-Ligue 1,2425,Saint-Étienne,32,34,65,3,1,449,361,46,402,328,382,4.0,15.0,2,/en/squads/d298ef2c/2024-2025/Saint-Etienne-Stats
+FRA-Ligue 1,2425,Strasbourg,30,34,71,3,1,393,417,48,496,282,335,2.0,9.0,2,/en/squads/c0d3eab4/2024-2025/Strasbourg-Stats
+FRA-Ligue 1,2425,Toulouse,27,34,54,3,0,441,415,46,580,281,364,4.0,2.0,3,/en/squads/3f8c4b5f/2024-2025/Toulouse-Stats
+FRA-Ligue 1,2526,Angers,30,34,52,2,1,377,355,59,531,303,390,,,1,/en/squads/69236f98/2025-2026/Angers-Stats
+FRA-Ligue 1,2526,Auxerre,30,34,69,7,3,467,438,44,544,353,400,,,2,/en/squads/5ae09109/2025-2026/Auxerre-Stats
+FRA-Ligue 1,2526,Brest,27,34,58,5,0,434,366,45,555,348,383,,,1,/en/squads/fb08dbb3/2025-2026/Brest-Stats
+FRA-Ligue 1,2526,Le Havre,31,34,65,4,0,466,453,69,744,317,345,,,3,/en/squads/5c2737db/2025-2026/Le-Havre-Stats
+FRA-Ligue 1,2526,Lens,30,34,66,5,2,432,384,67,773,360,389,,,0,/en/squads/fd4e0f7d/2025-2026/Lens-Stats
+FRA-Ligue 1,2526,Lille,30,34,78,5,0,370,428,47,650,313,323,,,1,/en/squads/cb188c0c/2025-2026/Lille-Stats
+FRA-Ligue 1,2526,Lorient,26,34,55,1,0,326,425,55,539,295,311,,,4,/en/squads/d2c87802/2025-2026/Lorient-Stats
+FRA-Ligue 1,2526,Lyon,32,34,61,7,2,442,423,42,676,237,307,,,2,/en/squads/d53c0b06/2025-2026/Lyon-Stats
+FRA-Ligue 1,2526,Marseille,38,34,80,4,1,432,352,41,601,278,306,,,2,/en/squads/5725cc7b/2025-2026/Marseille-Stats
+FRA-Ligue 1,2526,Metz,33,34,55,4,1,387,359,45,620,273,358,,,3,/en/squads/f83960ae/2025-2026/Metz-Stats
+FRA-Ligue 1,2526,Monaco,32,34,75,6,2,441,347,72,589,354,380,,,2,/en/squads/fd6114db/2025-2026/Monaco-Stats
+FRA-Ligue 1,2526,Nantes,33,33,67,2,0,420,440,41,542,273,351,,,1,/en/squads/d7a486cd/2025-2026/Nantes-Stats
+FRA-Ligue 1,2526,Nice,36,34,69,3,1,419,373,61,626,333,316,,,0,/en/squads/132ebc33/2025-2026/Nice-Stats
+FRA-Ligue 1,2526,PSG,28,34,37,2,1,312,300,42,508,246,319,,,1,/en/squads/e2d8892c/2025-2026/Paris-Saint-Germain-Stats
+FRA-Ligue 1,2526,Paris,31,34,72,5,3,363,336,73,544,269,331,,,1,/en/squads/056a5a75/2025-2026/Paris-FC-Stats
+FRA-Ligue 1,2526,Rennes,33,34,58,4,1,421,390,82,664,283,325,,,0,/en/squads/b3072e00/2025-2026/Rennes-Stats
+FRA-Ligue 1,2526,Strasbourg,35,34,60,5,1,383,419,62,555,257,311,,,2,/en/squads/c0d3eab4/2025-2026/Strasbourg-Stats
+FRA-Ligue 1,2526,Toulouse,26,33,78,5,1,474,349,36,489,315,322,,,0,/en/squads/3f8c4b5f/2025-2026/Toulouse-Stats
+ITA-Serie A,2425,Atalanta,32,38,67,1,1,435,393,54,778,296,347,5.0,2.0,2,/en/squads/922493f3/2024-2025/Atalanta-Stats
+ITA-Serie A,2425,Bologna,30,38,61,4,1,537,604,63,756,258,346,6.0,3.0,2,/en/squads/1d8099f8/2024-2025/Bologna-Stats
+ITA-Serie A,2425,Cagliari,28,38,68,3,3,500,397,65,758,276,303,2.0,6.0,0,/en/squads/c4260e09/2024-2025/Cagliari-Stats
+ITA-Serie A,2425,Como,38,38,87,7,3,503,518,65,568,279,412,1.0,7.0,0,/en/squads/28c9c3cd/2024-2025/Como-Stats
+ITA-Serie A,2425,Empoli,34,38,68,5,2,570,459,57,620,323,396,3.0,3.0,1,/en/squads/a3d88bd8/2024-2025/Empoli-Stats
+ITA-Serie A,2425,Fiorentina,34,38,82,3,2,440,550,88,588,275,313,6.0,3.0,1,/en/squads/421387cf/2024-2025/Fiorentina-Stats
+ITA-Serie A,2425,Genoa,37,38,71,1,0,497,448,55,663,308,385,1.0,8.0,3,/en/squads/658bf2de/2024-2025/Genoa-Stats
+ITA-Serie A,2425,Hellas Verona,32,38,98,9,5,579,352,55,562,329,434,1.0,4.0,1,/en/squads/0e72edf2/2024-2025/Hellas-Verona-Stats
+ITA-Serie A,2425,Inter,26,38,56,1,1,417,405,90,751,227,288,6.0,4.0,1,/en/squads/d609edc0/2024-2025/Internazionale-Stats
+ITA-Serie A,2425,Juventus,29,38,67,3,1,480,378,52,630,215,353,3.0,5.0,0,/en/squads/e0652b02/2024-2025/Juventus-Stats
+ITA-Serie A,2425,Lazio,27,38,93,7,3,425,484,46,864,295,319,4.0,4.0,2,/en/squads/7213da33/2024-2025/Lazio-Stats
+ITA-Serie A,2425,Lecce,31,38,61,7,1,466,427,52,628,285,372,2.0,10.0,3,/en/squads/ffcbe334/2024-2025/Lecce-Stats
+ITA-Serie A,2425,Milan,35,38,70,6,1,415,428,60,634,234,349,7.0,2.0,3,/en/squads/dc56fe14/2024-2025/Milan-Stats
+ITA-Serie A,2425,Monza,36,38,90,3,2,512,529,54,656,305,315,0.0,4.0,3,/en/squads/21680aa4/2024-2025/Monza-Stats
+ITA-Serie A,2425,Napoli,27,38,47,0,0,415,445,55,681,270,323,4.0,4.0,2,/en/squads/d48ad4ff/2024-2025/Napoli-Stats
+ITA-Serie A,2425,Parma,32,38,78,6,3,405,458,31,427,279,293,5.0,5.0,2,/en/squads/eab4234c/2024-2025/Parma-Stats
+ITA-Serie A,2425,Roma,28,38,66,1,1,405,484,59,636,282,328,6.0,4.0,1,/en/squads/cf74a709/2024-2025/Roma-Stats
+ITA-Serie A,2425,Torino,31,38,80,3,1,483,386,57,675,278,261,2.0,7.0,2,/en/squads/105360fe/2024-2025/Torino-Stats
+ITA-Serie A,2425,Udinese,31,38,88,5,3,543,379,50,679,302,346,2.0,8.0,5,/en/squads/04eea015/2024-2025/Udinese-Stats
+ITA-Serie A,2425,Venezia,36,38,75,2,2,503,451,58,529,279,361,4.0,11.0,3,/en/squads/af5d5982/2024-2025/Venezia-Stats
+ITA-Serie A,2526,Atalanta,27,38,60,2,1,450,365,73,711,313,361,,,1,/en/squads/922493f3/2025-2026/Atalanta-Stats
+ITA-Serie A,2526,Bologna,30,38,67,6,2,500,528,73,671,279,311,,,1,/en/squads/1d8099f8/2025-2026/Bologna-Stats
+ITA-Serie A,2526,Cagliari,31,38,81,2,2,524,530,61,543,334,359,,,0,/en/squads/c4260e09/2025-2026/Cagliari-Stats
+ITA-Serie A,2526,Como,24,38,81,3,1,509,449,43,617,263,374,,,0,/en/squads/28c9c3cd/2025-2026/Como-Stats
+ITA-Serie A,2526,Cremonese,32,38,73,6,0,514,463,63,685,267,300,,,2,/en/squads/9aad3a77/2025-2026/Cremonese-Stats
+ITA-Serie A,2526,Fiorentina,34,38,82,3,1,475,569,62,717,269,273,,,2,/en/squads/421387cf/2025-2026/Fiorentina-Stats
+ITA-Serie A,2526,Genoa,36,38,62,3,1,470,537,50,643,274,427,,,2,/en/squads/658bf2de/2025-2026/Genoa-Stats
+ITA-Serie A,2526,Hellas Verona,34,38,89,5,3,598,336,63,585,397,439,,,4,/en/squads/0e72edf2/2025-2026/Hellas-Verona-Stats
+ITA-Serie A,2526,Inter,29,38,64,0,0,499,396,61,875,248,356,,,1,/en/squads/d609edc0/2025-2026/Internazionale-Stats
+ITA-Serie A,2526,Juventus,27,38,52,2,1,461,365,65,745,245,366,,,2,/en/squads/e0652b02/2025-2026/Juventus-Stats
+ITA-Serie A,2526,Lazio,30,38,78,9,1,402,522,37,511,295,304,,,0,/en/squads/7213da33/2025-2026/Lazio-Stats
+ITA-Serie A,2526,Lecce,30,38,69,2,0,480,493,46,643,261,391,,,1,/en/squads/ffcbe334/2025-2026/Lecce-Stats
+ITA-Serie A,2526,Milan,26,38,64,3,2,384,424,71,639,242,315,,,1,/en/squads/dc56fe14/2025-2026/Milan-Stats
+ITA-Serie A,2526,Napoli,29,38,49,2,1,425,438,56,668,234,269,,,0,/en/squads/d48ad4ff/2025-2026/Napoli-Stats
+ITA-Serie A,2526,Parma,32,38,65,5,4,413,483,50,640,259,317,,,1,/en/squads/eab4234c/2025-2026/Parma-Stats
+ITA-Serie A,2526,Pisa,35,38,78,5,1,501,415,62,649,354,376,,,1,/en/squads/4cceedfc/2025-2026/Pisa-Stats
+ITA-Serie A,2526,Roma,29,38,68,3,1,523,506,64,694,360,339,,,0,/en/squads/cf74a709/2025-2026/Roma-Stats
+ITA-Serie A,2526,Sassuolo,34,38,83,4,1,455,462,66,445,299,308,,,2,/en/squads/e2befd26/2025-2026/Sassuolo-Stats
+ITA-Serie A,2526,Torino,30,38,71,1,0,530,377,63,665,309,337,,,0,/en/squads/105360fe/2025-2026/Torino-Stats
+ITA-Serie A,2526,Udinese,30,38,71,2,0,514,407,54,560,321,375,,,1,/en/squads/04eea015/2025-2026/Udinese-Stats
+GER-Bundesliga,2425,Augsburg,29,34,78,5,2,351,373,59,578,341,300,2.0,5.0,2,/en/squads/0cdc4311/2024-2025/Augsburg-Stats
+GER-Bundesliga,2425,Bayern Munich,29,34,48,1,0,295,341,56,612,232,300,6.0,2.0,0,/en/squads/054efa67/2024-2025/Bayern-Munich-Stats
+GER-Bundesliga,2425,Bochum,27,34,71,2,1,465,293,63,679,294,360,3.0,6.0,0,/en/squads/b42c6323/2024-2025/Bochum-Stats
+GER-Bundesliga,2425,Dortmund,28,34,71,6,3,330,343,43,698,249,319,5.0,4.0,1,/en/squads/add600ae/2024-2025/Dortmund-Stats
+GER-Bundesliga,2425,Frankfurt,26,34,55,1,1,341,304,57,539,287,341,2.0,3.0,2,/en/squads/f0ac8ee6/2024-2025/Eintracht-Frankfurt-Stats
+GER-Bundesliga,2425,Freiburg,26,34,54,2,1,316,325,61,589,276,317,3.0,4.0,1,/en/squads/a486e511/2024-2025/Freiburg-Stats
+GER-Bundesliga,2425,Gladbach,26,34,53,3,2,339,326,65,617,317,284,5.0,8.0,2,/en/squads/32f3ee20/2024-2025/Monchengladbach-Stats
+GER-Bundesliga,2425,Heidenheim,27,34,66,1,0,385,390,50,581,312,356,3.0,6.0,0,/en/squads/18d9d2a7/2024-2025/Heidenheim-Stats
+GER-Bundesliga,2425,Hoffenheim,35,34,66,2,0,391,366,70,732,291,336,2.0,6.0,3,/en/squads/033ea6b8/2024-2025/Hoffenheim-Stats
+GER-Bundesliga,2425,Holstein Kiel,27,34,77,4,2,407,350,44,482,294,328,4.0,7.0,3,/en/squads/2ac661d9/2024-2025/Holstein-Kiel-Stats
+GER-Bundesliga,2425,Leverkusen,23,34,62,1,1,325,352,64,735,234,259,5.0,4.0,4,/en/squads/c7a9f859/2024-2025/Leverkusen-Stats
+GER-Bundesliga,2425,Mainz 05,25,34,71,5,3,408,329,78,658,352,325,3.0,5.0,0,/en/squads/a224b06a/2024-2025/Mainz-05-Stats
+GER-Bundesliga,2425,RB Leipzig,29,34,68,5,2,376,333,83,563,268,333,4.0,3.0,0,/en/squads/acbb6a5b/2024-2025/RB-Leipzig-Stats
+GER-Bundesliga,2425,St Pauli,28,34,53,4,3,353,352,66,600,257,315,2.0,5.0,1,/en/squads/54864664/2024-2025/St-Pauli-Stats
+GER-Bundesliga,2425,Stuttgart,29,34,72,5,3,358,411,62,637,298,282,4.0,3.0,1,/en/squads/598bc722/2024-2025/Stuttgart-Stats
+GER-Bundesliga,2425,Union Berlin,28,34,72,1,0,419,313,67,608,312,318,3.0,6.0,1,/en/squads/7a41008f/2024-2025/Union-Berlin-Stats
+GER-Bundesliga,2425,Werder Bremen,23,34,75,4,3,335,402,72,667,315,321,4.0,3.0,3,/en/squads/62add3bf/2024-2025/Werder-Bremen-Stats
+GER-Bundesliga,2425,Wolfsburg,27,34,75,3,0,350,366,49,574,312,301,4.0,3.0,1,/en/squads/4eaa11d7/2024-2025/Wolfsburg-Stats
+GER-Bundesliga,2526,Augsburg,29,34,82,1,1,375,371,72,626,289,335,,,2,/en/squads/0cdc4311/2025-2026/Augsburg-Stats
+GER-Bundesliga,2526,Bayern Munich,32,34,58,2,1,299,291,83,549,286,283,,,0,/en/squads/054efa67/2025-2026/Bayern-Munich-Stats
+GER-Bundesliga,2526,Dortmund,27,34,63,2,0,396,327,40,669,271,310,,,0,/en/squads/add600ae/2025-2026/Dortmund-Stats
+GER-Bundesliga,2526,Frankfurt,29,34,62,4,4,352,315,44,507,314,339,,,1,/en/squads/f0ac8ee6/2025-2026/Eintracht-Frankfurt-Stats
+GER-Bundesliga,2526,Freiburg,26,34,51,3,1,318,394,67,590,283,275,,,1,/en/squads/a486e511/2025-2026/Freiburg-Stats
+GER-Bundesliga,2526,Gladbach,28,34,60,3,0,367,356,64,528,322,337,,,2,/en/squads/32f3ee20/2025-2026/Monchengladbach-Stats
+GER-Bundesliga,2526,Hamburger SV,32,34,78,8,5,402,416,59,535,300,304,,,0,/en/squads/26790c6a/2025-2026/Hamburger-SV-Stats
+GER-Bundesliga,2526,Heidenheim,30,34,48,1,0,334,341,64,578,323,322,,,1,/en/squads/18d9d2a7/2025-2026/Heidenheim-Stats
+GER-Bundesliga,2526,Hoffenheim,26,34,73,3,1,474,291,59,698,274,321,,,0,/en/squads/033ea6b8/2025-2026/Hoffenheim-Stats
+GER-Bundesliga,2526,Köln,27,34,64,3,1,283,332,61,639,275,311,,,0,/en/squads/bc357bf7/2025-2026/Koln-Stats
+GER-Bundesliga,2526,Leverkusen,28,34,70,2,2,292,358,42,619,255,290,,,1,/en/squads/c7a9f859/2025-2026/Leverkusen-Stats
+GER-Bundesliga,2526,Mainz 05,30,34,70,5,1,373,326,79,684,346,322,,,2,/en/squads/a224b06a/2025-2026/Mainz-05-Stats
+GER-Bundesliga,2526,RB Leipzig,29,34,52,0,0,315,335,48,574,302,346,,,1,/en/squads/acbb6a5b/2025-2026/RB-Leipzig-Stats
+GER-Bundesliga,2526,St Pauli,24,34,54,2,1,327,297,66,586,317,358,,,1,/en/squads/54864664/2025-2026/St-Pauli-Stats
+GER-Bundesliga,2526,Stuttgart,26,34,63,2,0,327,401,69,680,283,294,,,1,/en/squads/598bc722/2025-2026/Stuttgart-Stats
+GER-Bundesliga,2526,Union Berlin,26,34,71,3,0,417,326,55,674,289,296,,,1,/en/squads/7a41008f/2025-2026/Union-Berlin-Stats
+GER-Bundesliga,2526,Werder Bremen,28,34,77,5,3,337,304,60,611,320,354,,,2,/en/squads/62add3bf/2025-2026/Werder-Bremen-Stats
+GER-Bundesliga,2526,Wolfsburg,30,34,68,3,2,392,291,40,520,294,348,,,4,/en/squads/4eaa11d7/2025-2026/Wolfsburg-Stats
+NED-Eredivisie,2425,AZ Alkmaar,30,34,56,4,1,354,348,44,532,302,359,1.0,3.0,2,/en/squads/3986b791/2024-2025/AZ-Alkmaar-Stats
+NED-Eredivisie,2425,Ajax,37,34,53,1,0,347,394,53,566,276,254,7.0,0.0,1,/en/squads/19c3f8c4/2024-2025/Ajax-Stats
+NED-Eredivisie,2425,Almere City,33,34,53,3,0,360,287,31,630,334,333,0.0,0.0,4,/en/squads/2b41acb5/2024-2025/Almere-City-Stats
+NED-Eredivisie,2425,Feyenoord,40,34,46,2,1,284,405,39,634,264,328,3.0,3.0,0,/en/squads/fb4ca611/2024-2025/Feyenoord-Stats
+NED-Eredivisie,2425,Fortuna Sittard,30,34,69,3,2,397,355,41,604,327,344,6.0,4.0,0,/en/squads/bd08295c/2024-2025/Fortuna-Sittard-Stats
+NED-Eredivisie,2425,Go Ahead Eagles,28,34,45,2,1,304,335,48,560,187,274,2.0,4.0,1,/en/squads/e33d6108/2024-2025/Go-Ahead-Eagles-Stats
+NED-Eredivisie,2425,Groningen,29,34,58,6,2,334,340,33,466,294,385,4.0,6.0,2,/en/squads/bec05adb/2024-2025/Groningen-Stats
+NED-Eredivisie,2425,Heerenveen,30,34,45,2,0,400,334,47,565,310,380,6.0,4.0,2,/en/squads/193ff7aa/2024-2025/Heerenveen-Stats
+NED-Eredivisie,2425,Heracles Almelo,24,34,58,2,1,429,347,47,669,303,373,4.0,6.0,4,/en/squads/c882b88e/2024-2025/Heracles-Almelo-Stats
+NED-Eredivisie,2425,NAC Breda,30,34,63,5,1,354,326,29,561,300,365,1.0,7.0,1,/en/squads/8ed04be8/2024-2025/NAC-Breda-Stats
+NED-Eredivisie,2425,NEC Nijmegen,25,34,51,3,1,368,352,33,723,284,352,2.0,2.0,4,/en/squads/fc629994/2024-2025/NEC-Nijmegen-Stats
+NED-Eredivisie,2425,PSV,32,34,34,1,0,283,264,43,902,243,350,2.0,2.0,0,/en/squads/e334d850/2024-2025/PSV-Eindhoven-Stats
+NED-Eredivisie,2425,RKC Waalwijk,29,34,43,7,3,313,283,44,580,334,378,1.0,8.0,2,/en/squads/bb14adb3/2024-2025/RKC-Waalwijk-Stats
+NED-Eredivisie,2425,Sparta R.,29,34,50,3,1,326,286,45,682,316,353,2.0,5.0,2,/en/squads/146a68ce/2024-2025/Sparta-Rotterdam-Stats
+NED-Eredivisie,2425,Twente,29,34,44,1,0,349,344,58,694,265,352,5.0,2.0,0,/en/squads/a1f721d3/2024-2025/Twente-Stats
+NED-Eredivisie,2425,Utrecht,27,34,48,1,0,352,367,38,707,330,400,0.0,4.0,1,/en/squads/2a428619/2024-2025/Utrecht-Stats
+NED-Eredivisie,2425,Willem II,26,34,61,3,1,345,286,36,566,297,332,3.0,6.0,3,/en/squads/f0479d7b/2024-2025/Willem-II-Stats
+NED-Eredivisie,2425,Zwolle,26,34,52,3,2,391,355,39,481,315,399,3.0,6.0,1,/en/squads/e3db180b/2024-2025/Zwolle-Stats
+NED-Eredivisie,2526,AZ Alkmaar,34,34,63,1,1,347,373,39,486,258,372,,,2,/en/squads/3986b791/2025-2026/AZ-Alkmaar-Stats
+NED-Eredivisie,2526,Ajax,33,34,58,2,1,340,386,43,541,318,344,,,2,/en/squads/19c3f8c4/2025-2026/Ajax-Stats
+NED-Eredivisie,2526,Excelsior,31,34,42,3,1,418,276,35,567,307,298,,,0,/en/squads/740cb7d4/2025-2026/Excelsior-Stats
+NED-Eredivisie,2526,Feyenoord,36,34,54,4,2,332,387,40,679,305,325,,,0,/en/squads/fb4ca611/2025-2026/Feyenoord-Stats
+NED-Eredivisie,2526,Fortuna Sittard,33,34,69,3,0,418,375,52,554,357,375,,,3,/en/squads/bd08295c/2025-2026/Fortuna-Sittard-Stats
+NED-Eredivisie,2526,Go Ahead Eagles,29,34,53,5,3,314,332,49,774,254,254,,,3,/en/squads/e33d6108/2025-2026/Go-Ahead-Eagles-Stats
+NED-Eredivisie,2526,Groningen,25,34,57,2,2,364,329,57,633,245,325,,,1,/en/squads/bec05adb/2025-2026/Groningen-Stats
+NED-Eredivisie,2526,Heerenveen,28,34,53,2,2,375,306,43,572,272,322,,,1,/en/squads/193ff7aa/2025-2026/Heerenveen-Stats
+NED-Eredivisie,2526,Heracles Almelo,32,34,70,4,2,459,360,40,618,264,345,,,1,/en/squads/c882b88e/2025-2026/Heracles-Almelo-Stats
+NED-Eredivisie,2526,NAC Breda,29,34,54,7,1,368,421,47,761,264,341,,,1,/en/squads/8ed04be8/2025-2026/NAC-Breda-Stats
+NED-Eredivisie,2526,NEC Nijmegen,32,34,61,3,1,405,407,68,725,256,333,,,0,/en/squads/fc629994/2025-2026/NEC-Nijmegen-Stats
+NED-Eredivisie,2526,PSV,30,34,50,2,1,349,269,51,713,279,361,,,0,/en/squads/e334d850/2025-2026/PSV-Eindhoven-Stats
+NED-Eredivisie,2526,Sparta R.,30,34,65,2,1,335,351,36,636,296,352,,,3,/en/squads/146a68ce/2025-2026/Sparta-Rotterdam-Stats
+NED-Eredivisie,2526,Telstar,28,34,44,2,0,384,335,64,572,293,356,,,1,/en/squads/9babc1f9/2025-2026/Telstar-Stats
+NED-Eredivisie,2526,Twente,26,34,44,3,1,362,320,31,589,254,372,,,2,/en/squads/a1f721d3/2025-2026/Twente-Stats
+NED-Eredivisie,2526,Utrecht,32,34,50,2,2,363,356,37,663,309,326,,,0,/en/squads/2a428619/2025-2026/Utrecht-Stats
+NED-Eredivisie,2526,Volendam,32,34,52,1,0,332,387,45,537,282,355,,,2,/en/squads/8783f4ee/2025-2026/Volendam-Stats
+NED-Eredivisie,2526,Zwolle,30,34,55,5,2,392,387,54,383,353,361,,,1,/en/squads/e3db180b/2025-2026/Zwolle-Stats
+POR-Primeira Liga,2425,AVS Futebol,33,34,106,5,4,480,419,47,538,303,365,5.0,4.0,1,/en/squads/e5ce5a65/2024-2025/AVS-Futebol-Stats
+POR-Primeira Liga,2425,Arouca,28,34,89,5,2,497,434,64,615,297,350,9.0,9.0,2,/en/squads/0d36ddd4/2024-2025/Arouca-Stats
+POR-Primeira Liga,2425,Benfica,35,34,64,0,0,400,389,86,716,311,377,8.0,4.0,0,/en/squads/a77c513e/2024-2025/Benfica-Stats
+POR-Primeira Liga,2425,Boavista,32,34,92,10,3,433,473,87,578,313,329,4.0,6.0,3,/en/squads/37b7e9e2/Boavista-Stats
+POR-Primeira Liga,2425,Braga,35,34,69,4,2,483,400,68,747,280,323,5.0,3.0,1,/en/squads/69d84c29/2024-2025/Braga-Stats
+POR-Primeira Liga,2425,Casa Pia,32,34,92,5,2,504,391,41,511,297,303,4.0,8.0,1,/en/squads/b20a2b76/2024-2025/Casa-Pia-Stats
+POR-Primeira Liga,2425,Estoril,28,34,83,2,0,540,459,41,456,324,327,5.0,8.0,0,/en/squads/00c41b75/2024-2025/Estoril-Stats
+POR-Primeira Liga,2425,Estrela,40,34,102,3,2,521,534,69,511,306,373,3.0,7.0,2,/en/squads/0cb9f756/2024-2025/Estrela-Stats
+POR-Primeira Liga,2425,Famalicão,31,34,76,2,0,476,530,41,632,296,353,5.0,5.0,1,/en/squads/2de656d5/2024-2025/Famalicao-Stats
+POR-Primeira Liga,2425,Farense,37,34,91,4,2,517,445,66,629,327,365,3.0,8.0,2,/en/squads/489c9cd9/Farense-Stats
+POR-Primeira Liga,2425,Gil Vicente,34,34,72,5,2,394,516,50,451,310,341,2.0,7.0,1,/en/squads/6a329209/2024-2025/Gil-Vicente-FC-Stats
+POR-Primeira Liga,2425,Moreirense,31,34,84,2,1,497,518,56,463,283,311,2.0,5.0,0,/en/squads/e4502862/2024-2025/Moreirense-Stats
+POR-Primeira Liga,2425,Nacional,31,34,83,5,3,458,446,56,608,287,383,4.0,11.0,0,/en/squads/5c9eb756/2024-2025/Nacional-Stats
+POR-Primeira Liga,2425,Porto,32,34,92,4,1,483,438,48,671,253,275,8.0,8.0,1,/en/squads/5e876ee6/2024-2025/Porto-Stats
+POR-Primeira Liga,2425,Rio Ave,36,34,79,5,2,458,453,93,469,312,366,3.0,3.0,5,/en/squads/eea856da/2024-2025/Rio-Ave-Stats
+POR-Primeira Liga,2425,Santa Clara,25,34,117,5,4,565,426,63,522,288,326,4.0,6.0,0,/en/squads/f5b64cb1/2024-2025/Santa-Clara-Stats
+POR-Primeira Liga,2425,Sporting CP,34,34,68,6,2,391,470,37,629,252,332,8.0,4.0,2,/en/squads/13dc44fd/2024-2025/Sporting-CP-Stats
+POR-Primeira Liga,2425,Vit. Guimarães,31,34,86,1,0,497,464,55,831,267,332,3.0,7.0,0,/en/squads/3f319bc9/2024-2025/Vitoria-Guimaraes-Stats
+POR-Primeira Liga,2526,AVS Futebol,34,34,78,5,2,468,351,50,535,297,362,,,0,/en/squads/e5ce5a65/AVS-Futebol-Stats
+POR-Primeira Liga,2526,Alverca,34,34,74,4,3,426,449,39,540,264,348,,,2,/en/squads/8bbf8a25/2025-2026/Alverca-Stats
+POR-Primeira Liga,2526,Arouca,32,34,96,10,5,470,394,49,569,286,318,,,3,/en/squads/0d36ddd4/2025-2026/Arouca-Stats
+POR-Primeira Liga,2526,Benfica,36,34,66,4,1,379,516,52,689,283,341,,,1,/en/squads/a77c513e/2025-2026/Benfica-Stats
+POR-Primeira Liga,2526,Braga,34,34,76,3,3,399,385,42,551,253,279,,,1,/en/squads/69d84c29/2025-2026/Braga-Stats
+POR-Primeira Liga,2526,Casa Pia,34,34,98,4,1,549,444,50,539,280,322,,,1,/en/squads/b20a2b76/2025-2026/Casa-Pia-Stats
+POR-Primeira Liga,2526,Estoril,27,34,85,0,0,440,416,44,530,311,316,,,1,/en/squads/00c41b75/2025-2026/Estoril-Stats
+POR-Primeira Liga,2526,Estrela,38,34,90,5,2,491,498,60,493,319,350,,,1,/en/squads/0cb9f756/2025-2026/Estrela-Stats
+POR-Primeira Liga,2526,Famalicão,25,34,87,2,1,537,542,38,716,267,373,,,1,/en/squads/2de656d5/2025-2026/Famalicao-Stats
+POR-Primeira Liga,2526,Gil Vicente,29,34,81,4,1,460,471,49,643,258,318,,,1,/en/squads/6a329209/2025-2026/Gil-Vicente-FC-Stats
+POR-Primeira Liga,2526,Moreirense,31,34,87,4,1,474,504,38,503,284,301,,,0,/en/squads/e4502862/2025-2026/Moreirense-Stats
+POR-Primeira Liga,2526,Nacional,27,34,102,7,5,507,401,46,603,288,342,,,1,/en/squads/5c9eb756/2025-2026/Nacional-Stats
+POR-Primeira Liga,2526,Porto,33,34,80,3,2,473,407,72,606,310,323,,,1,/en/squads/5e876ee6/2025-2026/Porto-Stats
+POR-Primeira Liga,2526,Rio Ave,35,34,89,6,5,438,469,47,477,328,336,,,3,/en/squads/eea856da/2025-2026/Rio-Ave-Stats
+POR-Primeira Liga,2526,Santa Clara,34,34,95,4,3,505,473,57,635,286,334,,,3,/en/squads/f5b64cb1/2025-2026/Santa-Clara-Stats
+POR-Primeira Liga,2526,Sporting CP,32,34,72,3,0,416,445,47,629,227,337,,,2,/en/squads/13dc44fd/2025-2026/Sporting-CP-Stats
+POR-Primeira Liga,2526,Tondela,30,34,90,3,1,492,396,69,630,301,377,,,3,/en/squads/e442fa76/Tondela-Stats
+POR-Primeira Liga,2526,Vit. Guimarães,34,34,78,3,1,494,485,62,691,296,318,,,3,/en/squads/3f319bc9/2025-2026/Vitoria-Guimaraes-Stats

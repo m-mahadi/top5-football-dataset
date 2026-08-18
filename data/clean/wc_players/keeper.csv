@@ -1,0 +1,63 @@
+league,season,team,player,nation,pos,age,club,born,playing_time_mp,playing_time_starts,playing_time_min,playing_time_90s,performance_ga,performance_ga90,performance_sota,performance_saves,performance_save,performance_w,performance_d,performance_l,performance_cs,performance_cs_1,penalty_kicks_pkatt,penalty_kicks_pka,penalty_kicks_pksv,penalty_kicks_pkm,penalty_kicks_save
+INT-World Cup,2026,Algeria,Luca Zidane,Algeria,GK,28,2. Granada,1998,3,3,270,3.0,6,2.0,14,8,57.1,1,0,2,0,0.0,0,0,0,0,
+INT-World Cup,2026,Algeria,Oussama Benbot,Algeria,GK,31,1. USM Alger,1994,1,1,90,1.0,3,3.0,3,0,0.0,0,1,0,0,0.0,0,0,0,0,
+INT-World Cup,2026,Argentina,Emiliano Martínez,Argentina,GK,33,1. Aston Villa,1992,8,8,810,9.0,8,0.89,28,20,71.4,7,0,1,2,25.0,0,0,0,0,
+INT-World Cup,2026,Australia,Mathew Ryan,Australia,GK,34,1. Levante,1992,1,0,2,0.0,0,0.0,0,0,,0,0,0,0,,0,0,0,0,
+INT-World Cup,2026,Australia,Patrick Beach,Australia,GK,22,1. Melb City,2003,4,4,388,4.3,3,0.7,17,14,82.4,1,2,1,2,50.0,0,0,0,0,
+INT-World Cup,2026,Austria,Alexander Schlager,Austria,GK,30,1. RB Salzburg,1996,4,4,360,4.0,9,2.25,22,13,59.1,1,1,2,0,0.0,1,0,0,1,
+INT-World Cup,2026,Belgium,Senne Lammens,Belgium,GK,23,1. Manchester Utd,2002,1,0,20,0.2,1,4.5,3,2,66.7,0,0,0,0,,0,0,0,0,
+INT-World Cup,2026,Belgium,Thibaut Courtois,Belgium,GK,34,1. Real Madrid,1992,6,6,550,6.1,6,0.98,20,14,70.0,3,2,1,1,16.7,0,0,0,0,
+INT-World Cup,2026,Bosnia–Herz,Nikola Vasilj,Bosnia–Herz,GK,30,1. St Pauli,1995,4,4,360,4.0,8,2.0,14,6,42.9,1,1,2,0,0.0,1,1,0,0,0.0
+INT-World Cup,2026,Brazil,Alisson,Brazil,GK,33,1. Liverpool,1992,5,5,450,5.0,4,0.8,18,14,77.8,3,1,1,2,40.0,0,0,0,0,
+INT-World Cup,2026,Cabo Verde,Vozinha,Cabo Verde,GK,40,2. Chaves,1986,4,4,390,4.3,5,1.15,23,18,78.3,0,3,1,2,50.0,0,0,0,0,
+INT-World Cup,2026,Canada,Maxime Crépeau,Canada,GK,32,1. Orlando City,1994,5,5,450,5.0,6,1.2,12,6,50.0,2,1,2,2,40.0,0,0,0,0,
+INT-World Cup,2026,Colombia,Camilo Vargas,Colombia,GK,37,1. Atlas,1989,5,5,480,5.3,1,0.19,7,6,85.7,3,2,0,4,80.0,0,0,0,0,
+INT-World Cup,2026,Congo DR,Lionel Mpasi,Congo DR,GK,31,1. Le Havre,1994,4,4,360,4.0,5,1.25,19,14,73.7,1,1,2,0,0.0,0,0,0,0,
+INT-World Cup,2026,Croatia,Dominik Livaković,Croatia,GK,31,1. Dinamo Zagreb,1995,4,4,360,4.0,7,1.75,17,10,58.8,2,0,2,1,25.0,2,2,0,0,0.0
+INT-World Cup,2026,Curaçao,Eloy Room,Curaçao,GK,37,2. Miami FC,1989,3,3,270,3.0,9,3.0,29,20,69.0,0,1,2,1,33.3,1,1,0,0,0.0
+INT-World Cup,2026,Czechia,Matej Kovar,Czechia,GK,26,1. PSV,2000,3,3,270,3.0,6,2.0,15,9,60.0,0,1,2,0,0.0,1,1,0,0,0.0
+INT-World Cup,2026,Côte d'Ivoire,Yahia Fofana,Côte d'Ivoire,GK,25,1. Rizespor,2000,4,4,360,4.0,4,1.0,13,9,69.2,2,0,2,2,50.0,0,0,0,0,
+INT-World Cup,2026,Ecuador,Hernán Galíndez,Ecuador,GK,39,1. Huracán,1987,4,4,360,4.0,4,1.0,13,9,69.2,1,1,2,1,25.0,0,0,0,0,
+INT-World Cup,2026,Egypt,Mostafa Shobeir,Egypt,GK,26,1. Al Ahly,2000,5,5,480,5.3,7,1.31,19,12,63.2,1,3,1,0,0.0,2,0,2,0,100.0
+INT-World Cup,2026,England,Dean Henderson,England,GK,29,1. Crystal Palace,1997,1,1,90,1.0,4,4.0,9,5,55.6,1,0,0,0,0.0,0,0,0,0,
+INT-World Cup,2026,England,Jordan Pickford,England,GK,32,1. Everton,1994,7,7,660,7.3,8,1.09,23,15,65.2,5,1,1,2,28.6,1,1,0,0,0.0
+INT-World Cup,2026,France,Mike Maignan,France,GK,30,1. Milan,1995,8,8,720,8.0,10,1.25,22,12,54.5,6,0,2,4,50.0,3,2,1,0,33.3
+INT-World Cup,2026,Germany,Manuel Neuer,Germany,GK,40,1. Bayern Munich,1986,4,4,390,4.3,5,1.15,10,5,50.0,2,1,1,0,0.0,0,0,0,0,
+INT-World Cup,2026,Ghana,Benjamin Asare,Ghana,GK,33,1. Accra Hearts of Oak,1992,3,2,225,2.5,2,0.8,10,8,80.0,0,1,1,2,100.0,0,0,0,0,
+INT-World Cup,2026,Ghana,Lawrence Ati-Zigi,Ghana,GK,29,1. St. Gallen,1996,2,2,135,1.5,1,0.67,9,8,88.9,1,0,1,1,50.0,0,0,0,0,
+INT-World Cup,2026,Haiti,Johny Placide,Haiti,GK,38,2. Bastia,1988,3,3,270,3.0,8,2.67,19,11,57.9,0,0,3,0,0.0,0,0,0,0,
+INT-World Cup,2026,IR Iran,Alireza Beiranvand,IR Iran,GK,33,1. Tractor,1992,3,3,270,3.0,3,1.0,18,15,83.3,0,3,0,1,33.3,0,0,0,0,
+INT-World Cup,2026,Iraq,Ahmed Basil,Iraq,GK,29,1. Al-Shorta,1996,2,2,135,1.5,4,2.67,7,3,42.9,0,0,2,0,0.0,0,0,0,0,
+INT-World Cup,2026,Iraq,Jalal Hassan,Iraq,GK,35,1. Al-Zawra'a SC,1991,2,1,135,1.5,8,5.33,16,8,50.0,0,0,1,0,0.0,0,0,0,0,
+INT-World Cup,2026,Japan,Zion Suzuki,Japan,GK,23,1. Parma,2002,4,4,360,4.0,5,1.25,17,12,70.6,1,2,1,1,25.0,0,0,0,0,
+INT-World Cup,2026,Jordan,Yazeed Abulaila,Jordan,GK,33,1. Al-Hussein SC,1993,3,3,270,3.0,8,2.67,16,8,50.0,0,0,3,0,0.0,2,2,0,0,0.0
+INT-World Cup,2026,Korea Republic,Kim Seung-gyu,Korea Republic,GK,35,1. FC Tokyo,1990,3,3,270,3.0,3,1.0,12,9,75.0,1,0,2,0,0.0,0,0,0,0,
+INT-World Cup,2026,Mexico,Guillermo Ochoa,Mexico,GK,40,1. AEL Limassol,1985,1,0,13,0.1,0,0.0,0,0,,0,0,0,1,,0,0,0,0,
+INT-World Cup,2026,Mexico,Raúl Rangel,Mexico,GK,26,1. Guadalajara,2000,5,5,437,4.9,3,0.62,11,8,72.7,4,0,1,4,80.0,1,1,0,0,0.0
+INT-World Cup,2026,Morocco,Yassine Bounou,Morocco,GK,35,1. Al-Hilal,1991,6,6,570,6.3,6,0.95,20,14,70.0,3,2,1,2,33.3,1,0,1,0,100.0
+INT-World Cup,2026,Netherlands,Bart Verbruggen,Netherlands,GK,23,1. Brighton,2002,4,4,390,4.3,5,1.15,21,16,76.2,2,2,0,0,0.0,0,0,0,0,
+INT-World Cup,2026,New Zealand,Max Crocombe,New Zealand,GK,32,2. Millwall,1993,3,3,270,3.0,10,3.33,21,11,52.4,0,1,2,0,0.0,0,0,0,0,
+INT-World Cup,2026,Norway,Egil Selvik,Norway,GK,28,2. Watford,1997,1,1,90,1.0,4,4.0,9,5,55.6,0,0,1,0,0.0,0,0,0,0,
+INT-World Cup,2026,Norway,Ørjan Nyland,Norway,GK,35,1. Sevilla,1990,5,5,480,5.3,7,1.31,22,15,68.2,4,0,1,0,0.0,2,1,1,0,50.0
+INT-World Cup,2026,Panama,Orlando Mosquera,Panama,GK,31,1. Al-Fayha,1994,3,3,270,3.0,4,1.33,11,7,63.6,0,0,3,0,0.0,0,0,0,0,
+INT-World Cup,2026,Paraguay,Orlando Gill,Paraguay,GK,26,1. San Lorenzo,2000,5,5,480,5.3,6,1.13,29,23,79.3,1,2,2,2,40.0,1,1,0,0,0.0
+INT-World Cup,2026,Portugal,Diogo Costa,Portugal,GK,26,1. Porto,1999,5,5,450,5.0,3,0.6,22,19,86.4,2,2,1,2,40.0,0,0,0,0,
+INT-World Cup,2026,Qatar,Mahmoud Abunada,Qatar,GK,26,1. Al Rayyan SC,2000,3,3,270,3.0,10,3.33,22,12,54.5,0,1,2,0,0.0,1,1,0,0,0.0
+INT-World Cup,2026,Saudi Arabia,Mohammed Al-Owais,Saudi Arabia,GK,34,1. Al-Ula,1991,3,3,270,3.0,5,1.67,21,16,76.2,0,2,1,1,33.3,0,0,0,0,
+INT-World Cup,2026,Scotland,Angus Gunn,Scotland,GK,30,1. Nottingham,1996,3,3,270,3.0,4,1.33,12,8,66.7,1,0,2,1,33.3,0,0,0,0,
+INT-World Cup,2026,Senegal,Mory Diaw,Senegal,GK,32,1. Le Havre,1993,3,2,238,2.6,3,1.13,7,4,57.1,1,0,1,1,50.0,1,1,0,0,0.0
+INT-World Cup,2026,Senegal,Édouard Mendy,Senegal,GK,34,1. Al-Ahli,1992,2,2,152,1.7,6,3.55,14,8,57.1,0,0,2,0,0.0,0,0,0,0,
+INT-World Cup,2026,South Africa,Ronwen Williams,South Africa,GK,34,1. Sundowns,1992,4,4,360,4.0,4,1.0,15,11,73.3,1,1,2,1,25.0,0,0,0,0,
+INT-World Cup,2026,Spain,Unai Simón,Spain,GK,29,1. Athletic Club,1997,8,8,750,8.3,1,0.12,11,9,90.9,7,1,0,7,87.5,0,0,0,0,
+INT-World Cup,2026,Sweden,Jacob Widell Zetterström,Sweden,GK,27,2. Derby County,1998,2,2,180,2.0,4,2.0,15,11,73.3,0,1,1,0,0.0,0,0,0,0,
+INT-World Cup,2026,Sweden,Kristoffer Nordfeldt,Sweden,GK,36,1. AIK Stockholm,1989,2,2,180,2.0,6,3.0,9,3,33.3,1,0,1,0,0.0,0,0,0,0,
+INT-World Cup,2026,Switzerland,Gregor Kobel,Switzerland,GK,28,1. Dortmund,1997,6,6,600,6.7,6,0.9,26,20,76.9,3,2,1,2,33.3,0,0,0,0,
+INT-World Cup,2026,Tunisia,Aymen Dahmen,Tunisia,GK,29,1. Ahly Sfaxien,1997,2,2,180,2.0,7,3.5,12,5,41.7,0,0,2,0,0.0,0,0,0,0,
+INT-World Cup,2026,Tunisia,Mouhib Chamakh,Tunisia,GK,24,1. Club Africain,2001,1,1,90,1.0,5,5.0,6,1,16.7,0,0,1,0,0.0,0,0,0,0,
+INT-World Cup,2026,Türkiye,Uğurcan Çakır,Türkiye,GK,30,1. Galatasaray,1996,3,3,270,3.0,5,1.67,13,8,61.5,1,0,2,0,0.0,0,0,0,0,
+INT-World Cup,2026,USA,Matt Freese,USA,GK,27,1. NYCFC,1998,4,4,360,4.0,5,1.25,13,8,61.5,3,0,1,2,50.0,0,0,0,0,
+INT-World Cup,2026,USA,Matt Turner,USA,GK,31,1. NE Revolution,1994,1,1,90,1.0,3,3.0,3,0,0.0,0,0,1,0,0.0,0,0,0,0,
+INT-World Cup,2026,Uruguay,Fernando Muslera,Uruguay,GK,39,1. Galatasaray,1986,3,3,225,2.5,4,1.6,8,4,50.0,0,2,1,0,0.0,0,0,0,0,
+INT-World Cup,2026,Uruguay,Sergio Rochet,Uruguay,GK,33,1. Internacional,1993,1,0,45,0.5,0,0.0,0,0,,0,0,0,0,,0,0,0,0,
+INT-World Cup,2026,Uzbekistan,Abduvohid Nematov,Uzbekistan,GK,25,1. FC Nasaf,2001,2,2,180,2.0,8,4.0,13,5,38.5,0,0,2,0,0.0,1,1,0,0,0.0
+INT-World Cup,2026,Uzbekistan,Utkir Yusupov,Uzbekistan,GK,35,1. Navbahor,1991,1,1,90,1.0,3,3.0,4,1,25.0,0,0,1,0,0.0,0,0,0,0,

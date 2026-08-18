@@ -1,0 +1,1040 @@
+league,season,team,player,nation,pos,age,club,born,playing_time_mp,playing_time_starts,playing_time_min,playing_time_90s,performance_gls,performance_ast,performance_g_a,performance_g_pk,performance_pk,performance_pkatt,performance_crdy,performance_crdr,per_90_minutes_gls,per_90_minutes_ast,per_90_minutes_g_a,per_90_minutes_g_pk,per_90_minutes_g_a_pk
+INT-World Cup,2026,Algeria,Adil Boulbina,Algeria,FW,23,1. Al Duhail SC,2003,2,0,19,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Algeria,Amine Gouiri,Algeria,FW,26,1. Marseille,2000,4,3,251,2.8,1,0,1,1,0,0,0,0,0.36,0.0,0.36,0.36,0.36
+INT-World Cup,2026,Algeria,Anis Hadj Moussa,Algeria,MF,24,1. Feyenoord,2002,3,1,98,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Algeria,Aïssa Mandi,Algeria,DF,34,1. Lille,1991,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Algeria,Fares Chaïbi,Algeria,MF,23,1. Frankfurt,2002,4,4,360,4.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Algeria,Farés Ghedjemis,Algeria,"FW,MF",23,2. Frosinone,2002,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Algeria,Hicham Boudaoui,Algeria,MF,26,1. Nice,1999,3,2,128,1.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Algeria,Houssem Aouar,Algeria,MF,27,1. Al-Ittihad,1998,3,2,173,1.9,0,2,2,0,0,0,0,0,0.0,1.04,1.04,0.0,1.04
+INT-World Cup,2026,Algeria,Ibrahim Maza,Algeria,"MF,FW",20,1. Leverkusen,2005,4,4,351,3.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Algeria,Jaouen Hadjam,Algeria,DF,23,1. Young Boys,2003,3,1,109,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Algeria,Luca Zidane,Algeria,GK,28,2. Granada,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Algeria,Mohamed Amoura,Algeria,"FW,MF",26,1. Wolfsburg,2000,1,0,27,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Algeria,Nabil Bentaleb,Algeria,MF,31,1. Lille,1994,4,3,285,3.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Algeria,Nadhir Benbouali,Algeria,FW,26,1. Győr,2000,1,0,45,0.5,1,0,1,1,0,0,0,0,2.0,0.0,2.0,2.0,2.0
+INT-World Cup,2026,Algeria,Oussama Benbot,Algeria,GK,31,1. USM Alger,1994,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Algeria,Rafik Belghali,Algeria,DF,24,1. Hellas Verona,2002,4,4,331,3.7,1,0,1,1,0,0,0,0,0.27,0.0,0.27,0.27,0.27
+INT-World Cup,2026,Algeria,Ramiz Zerrouki,Algeria,MF,28,1. Twente,1998,3,2,111,1.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Algeria,Ramy Bensebaini,Algeria,DF,31,1. Dortmund,1995,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Algeria,Rayan Aït-Nouri,Algeria,DF,25,1. Manchester City,2001,4,3,284,3.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Algeria,Riyad Mahrez,Algeria,MF,35,1. Al-Ahli,1991,4,3,262,2.9,2,1,3,2,0,0,0,0,0.69,0.34,1.03,0.69,1.03
+INT-World Cup,2026,Algeria,Samir Chergui,Algeria,DF,27,1. Paris FC,1999,1,0,20,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Algeria,Zineddine Belaïd,Algeria,DF,27,1. JS Kabylie,1999,2,0,25,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Argentina,Alexis Mac Allister,Argentina,MF,27,1. Liverpool,1998,8,7,750,8.3,1,1,2,1,0,0,1,0,0.12,0.12,0.24,0.12,0.24
+INT-World Cup,2026,Argentina,Cristian Romero,Argentina,DF,28,1. Tottenham,1998,7,7,608,6.8,1,0,1,1,0,0,2,0,0.15,0.0,0.15,0.15,0.15
+INT-World Cup,2026,Argentina,Emiliano Martínez,Argentina,GK,33,1. Aston Villa,1992,8,8,810,9.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Argentina,Enzo Fernández,Argentina,MF,25,1. Chelsea,2001,7,7,659,7.3,2,0,2,2,0,0,2,1,0.27,0.0,0.27,0.27,0.27
+INT-World Cup,2026,Argentina,Exequiel Palacios,Argentina,DF,27,1. Leverkusen,1998,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Argentina,Facundo Medina,Argentina,DF,27,1. Marseille,1999,5,3,308,3.4,0,1,1,0,0,0,1,0,0.0,0.29,0.29,0.0,0.29
+INT-World Cup,2026,Argentina,Flaco López,Argentina,FW,25,1. Palmeiras,2000,2,0,20,0.2,0,1,1,0,0,0,1,0,0.0,4.5,4.5,0.0,4.5
+INT-World Cup,2026,Argentina,Giovani Lo Celso,Argentina,MF,30,1. Real Betis,1996,1,1,59,0.7,1,0,1,1,0,0,0,0,1.53,0.0,1.53,1.53,1.53
+INT-World Cup,2026,Argentina,Giuliano Simeone,Argentina,FW,23,1. Atlético Madrid,2002,3,2,192,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Argentina,Gonzalo Montiel,Argentina,DF,29,1. River Plate,1997,6,2,192,2.1,0,1,1,0,0,0,1,0,0.0,0.47,0.47,0.0,0.47
+INT-World Cup,2026,Argentina,Julián Álvarez,Argentina,FW,26,1. Atlético Madrid,2000,8,5,602,6.7,1,0,1,1,0,0,0,0,0.15,0.0,0.15,0.15,0.15
+INT-World Cup,2026,Argentina,Lautaro Martínez,Argentina,FW,28,1. Inter,1997,7,4,310,3.4,3,1,4,2,1,1,1,0,0.87,0.29,1.16,0.58,0.87
+INT-World Cup,2026,Argentina,Leandro Paredes,Argentina,MF,31,1. Boca Juniors,1994,7,4,473,5.3,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Argentina,Lionel Messi,Argentina,FW,38,1. Inter Miami,1987,8,7,740,8.2,8,4,12,8,0,2,0,0,0.97,0.49,1.46,0.97,1.46
+INT-World Cup,2026,Argentina,Lisandro Martínez,Argentina,DF,28,1. Manchester Utd,1998,7,7,624,6.9,1,1,2,1,0,0,2,0,0.14,0.14,0.29,0.14,0.29
+INT-World Cup,2026,Argentina,Marcos Senesi,Argentina,DF,29,1. Bournemouth,1997,2,1,109,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Argentina,Nahuel Molina,Argentina,DF,28,1. Atlético Madrid,1998,7,5,528,5.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Argentina,Nicolás González,Argentina,MF,28,1. Atlético Madrid,1998,7,1,259,2.9,0,1,1,0,0,0,0,0,0.0,0.35,0.35,0.0,0.35
+INT-World Cup,2026,Argentina,Nicolás Otamendi,Argentina,DF,38,1. Benfica,1988,7,1,247,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Argentina,Nicolás Paz,Argentina,MF,21,1. Como,2004,2,1,71,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Argentina,Nicolás Tagliafico,Argentina,DF,33,1. Lyon,1992,7,5,476,5.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Argentina,Rodrigo De Paul,Argentina,MF,32,1. Inter Miami,1994,7,6,491,5.5,0,1,1,0,0,0,1,0,0.0,0.18,0.18,0.0,0.18
+INT-World Cup,2026,Argentina,Thiago Almada,Argentina,MF,25,1. Atlético Madrid,2001,5,3,241,2.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Argentina,Valentín Barco,Argentina,"DF,MF",21,1. Strasbourg,2004,1,0,20,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Australia,Aiden O'Neill,Australia,MF,27,1. NYCFC,1998,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Australia,Ajdin Hrustic,Australia,MF,29,1. Heracles Almelo,1996,2,0,80,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Australia,Alessandro Circati,Australia,DF,22,1. Parma,2003,4,4,390,4.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Australia,Awer Mabil,Australia,"FW,MF",30,2. Castellón,1995,1,0,30,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Australia,Aziz Behich,Australia,MF,35,1. Melb City,1990,3,2,217,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Australia,Cameron Burgess,Australia,DF,30,2. Swansea City,1995,2,2,135,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Australia,Connor Metcalfe,Australia,MF,26,1. St Pauli,1999,4,3,315,3.5,1,0,1,1,0,0,0,0,0.29,0.0,0.29,0.29,0.29
+INT-World Cup,2026,Australia,Cristian Volpato,Australia,MF,22,1. Sassuolo,2003,3,2,160,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Australia,Harry Souttar,Australia,DF,27,2. Leicester City,1998,4,4,390,4.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Australia,Jackson Irvine,Australia,MF,33,1. St Pauli,1993,4,2,223,2.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Australia,Jacob Italiano,Australia,DF,24,1. Grazer AK,2001,2,2,163,1.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Australia,Jason Geria,Australia,DF,33,2. Albirex Niigata,1993,2,0,62,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Australia,Jordy Bos,Australia,"MF,DF",23,1. Feyenoord,2002,4,4,308,3.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Australia,Kai Trewin,Australia,"DF,MF",25,1. NYCFC,2001,1,0,75,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Australia,Lucas Herrington,Australia,DF,18,1. Colorado Rapids,2007,2,2,210,2.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Australia,Mathew Leckie,Australia,MF,35,1. Melb City,1991,1,1,60,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Australia,Mathew Ryan,Australia,GK,34,1. Levante,1992,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Australia,Mo Touré,Australia,FW,22,2. Norwich City,2004,3,2,165,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Australia,Nestory Irankunda,Australia,"FW,MF",20,2. Watford,2006,4,3,261,2.9,1,0,1,1,0,0,0,0,0.34,0.0,0.34,0.34,0.34
+INT-World Cup,2026,Australia,Nishan Velupillay,Australia,MF,25,1. Melb. Victory,2001,2,1,75,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Australia,Patrick Beach,Australia,GK,22,1. Melb City,2003,4,4,388,4.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Australia,Paul Okon-Engstler,Australia,MF,21,1. Sydney FC,2005,4,2,197,2.2,0,1,1,0,0,0,0,0,0.0,0.46,0.46,0.0,0.46
+INT-World Cup,2026,Australia,Tete Yengi,Australia,FW,25,1. Machida Zelvia,2000,2,0,24,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Austria,Alexander Prass,Austria,"DF,MF",25,1. Hoffenheim,2001,2,0,29,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Austria,Alexander Schlager,Austria,GK,30,1. RB Salzburg,1996,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Austria,Carney Chukwuemeka,Austria,MF,22,1. Dortmund,2003,3,0,83,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Austria,David Alaba,Austria,DF,33,1. Real Madrid,1992,4,4,275,3.1,0,1,1,0,0,0,0,0,0.0,0.33,0.33,0.0,0.33
+INT-World Cup,2026,Austria,Florian Grillitsch,Austria,"DF,MF",30,1. Braga,1995,2,0,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Austria,Kevin Danso,Austria,DF,27,1. Tottenham,1998,4,2,241,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Austria,Konrad Laimer,Austria,"MF,DF",29,1. Bayern Munich,1997,4,4,360,4.0,0,1,1,0,0,0,1,0,0.0,0.25,0.25,0.0,0.25
+INT-World Cup,2026,Austria,Marcel Sabitzer,Austria,MF,32,1. Dortmund,1994,4,4,360,4.0,1,0,1,1,0,0,1,0,0.25,0.0,0.25,0.25,0.25
+INT-World Cup,2026,Austria,Marco Friedl,Austria,DF,28,1. Werder Bremen,1998,1,0,24,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Austria,Marko Arnautović,Austria,FW,37,1. Red Star,1989,4,1,144,1.6,2,0,2,1,1,1,1,0,1.25,0.0,1.25,0.62,0.62
+INT-World Cup,2026,Austria,Michael Gregoritsch,Austria,FW,32,1. Augsburg,1994,3,2,188,2.1,0,1,1,0,0,0,0,0,0.0,0.48,0.48,0.0,0.48
+INT-World Cup,2026,Austria,Nicolas Seiwald,Austria,MF,25,1. RB Leipzig,2001,4,4,315,3.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Austria,Patrick Wimmer,Austria,"FW,MF",25,1. Wolfsburg,2001,2,0,21,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Austria,Paul Wanner,Austria,MF,20,1. PSV,2005,4,2,234,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Austria,Philipp Lienhart,Austria,DF,29,1. Freiburg,1996,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Austria,Phillipp Mwene,Austria,DF,32,1. Mainz 05,1994,2,2,147,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Austria,Romano Schmid,Austria,"MF,FW",26,1. Werder Bremen,2000,4,4,263,2.9,1,0,1,1,0,0,0,0,0.34,0.0,0.34,0.34,0.34
+INT-World Cup,2026,Austria,Saša Kalajdžić,Austria,FW,28,1. LASK,1997,3,1,77,0.9,1,0,1,1,0,0,0,0,1.17,0.0,1.17,1.17,1.17
+INT-World Cup,2026,Austria,Stefan Posch,Austria,DF,29,1. Mainz 05,1997,4,4,331,3.7,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Austria,Xaver Schlager,Austria,MF,28,1. RB Leipzig,1997,4,4,238,2.6,0,1,1,0,0,0,0,0,0.0,0.38,0.38,0.0,0.38
+INT-World Cup,2026,Belgium,Alexis Saelemaekers,Belgium,MF,26,1. Milan,1999,4,1,83,0.9,1,0,1,1,0,0,0,0,1.08,0.0,1.08,1.08,1.08
+INT-World Cup,2026,Belgium,Amadou Onana,Belgium,MF,24,1. Aston Villa,2001,4,2,106,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Belgium,Arthur Theate,Belgium,DF,26,1. Frankfurt,2000,3,2,228,2.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Belgium,Axel Witsel,Belgium,"DF,MF",37,1. Girona,1989,2,0,33,0.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Belgium,Brandon Mechele,Belgium,DF,33,1. Club Brugge,1993,6,6,570,6.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Belgium,Charles De Ketelaere,Belgium,"FW,MF",25,1. Atalanta,2001,5,5,350,3.9,3,1,4,3,0,0,0,0,0.77,0.26,1.03,0.77,1.03
+INT-World Cup,2026,Belgium,Diego Moreira,Belgium,MF,21,1. Strasbourg,2004,1,0,58,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Belgium,Dodi Lukebakio,Belgium,MF,28,1. Benfica,1997,3,1,164,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Belgium,Hans Vanaken,Belgium,MF,33,1. Club Brugge,1992,6,3,319,3.5,1,2,3,1,0,0,0,0,0.28,0.56,0.85,0.28,0.85
+INT-World Cup,2026,Belgium,Jeremy Doku,Belgium,MF,24,1. Manchester City,2002,5,4,309,3.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Belgium,Joaquin Seys,Belgium,DF,21,1. Club Brugge,2005,1,0,30,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Belgium,Kevin De Bruyne,Belgium,MF,34,1. Napoli,1991,5,5,382,4.2,1,0,1,1,0,0,1,0,0.24,0.0,0.24,0.24,0.24
+INT-World Cup,2026,Belgium,Leandro Trossard,Belgium,"MF,FW",31,1. Arsenal,1994,6,6,506,5.6,2,2,4,2,0,0,0,0,0.36,0.36,0.71,0.36,0.71
+INT-World Cup,2026,Belgium,Matias Fernandez-Pardo,Belgium,"FW,MF",21,1. Lille,2005,3,0,44,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Belgium,Maxim De Cuyper,Belgium,DF,25,1. Brighton,2000,6,5,442,4.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Belgium,Nathan Ngoy,Belgium,DF,23,1. Lille,2003,4,4,335,3.7,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Belgium,Nicolas Raskin,Belgium,MF,25,1. Rangers,2001,6,3,341,3.8,0,2,2,0,0,0,0,0,0.0,0.53,0.53,0.0,0.53
+INT-World Cup,2026,Belgium,Romelu Lukaku,Belgium,FW,33,1. Napoli,1993,6,1,233,2.6,3,1,4,3,0,0,1,0,1.16,0.39,1.55,1.16,1.55
+INT-World Cup,2026,Belgium,Senne Lammens,Belgium,GK,23,1. Manchester Utd,2002,1,0,20,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Belgium,Thibaut Courtois,Belgium,GK,34,1. Real Madrid,1992,6,6,550,6.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Belgium,Thomas Meunier,Belgium,DF,34,1. Lille,1991,3,2,190,2.1,0,1,1,0,0,0,0,0,0.0,0.47,0.47,0.0,0.47
+INT-World Cup,2026,Belgium,Timothy Castagne,Belgium,DF,30,1. Fulham,1995,6,5,478,5.3,0,1,1,0,0,0,1,0,0.0,0.19,0.19,0.0,0.19
+INT-World Cup,2026,Belgium,Youri Tielemans,Belgium,MF,29,1. Aston Villa,1997,5,5,474,5.3,2,0,2,1,1,1,0,0,0.38,0.0,0.38,0.19,0.19
+INT-World Cup,2026,Bosnia–Herz,Amar Dedić,Bosnia–Herz,DF,23,1. Benfica,2002,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Bosnia–Herz,Amar Memić,Bosnia–Herz,MF,25,1. Viktoria Plzeň,2001,4,2,224,2.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Bosnia–Herz,Amir Hadžiahmetović,Bosnia–Herz,MF,29,2. Hull City,1997,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Bosnia–Herz,Arjan Malic,Bosnia–Herz,DF,20,1. Sturm Graz,2005,1,1,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Bosnia–Herz,Armin Gigovic,Bosnia–Herz,MF,24,1. Young Boys,2002,2,1,79,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Bosnia–Herz,Benjamin Tahirovic,Bosnia–Herz,MF,23,1. Brøndby,2003,4,2,237,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Bosnia–Herz,Dennis Hadžikadunić,Bosnia–Herz,DF,27,2. Sampdoria,1998,1,0,27,0.3,0,1,1,0,0,0,0,0,0.0,3.33,3.33,0.0,3.33
+INT-World Cup,2026,Bosnia–Herz,Dženis Burnić,Bosnia–Herz,MF,28,2. Karlsruher,1998,2,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Bosnia–Herz,Edin Džeko,Bosnia–Herz,FW,40,2. Schalke 04,1986,3,3,176,2.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Bosnia–Herz,Ermedin Demirović,Bosnia–Herz,FW,28,1. Stuttgart,1998,4,4,354,3.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Bosnia–Herz,Ermin Mahmić,Bosnia–Herz,MF,21,1. Slovan Liberec,2005,3,0,68,0.8,2,0,2,2,0,0,1,0,2.65,0.0,2.65,2.65,2.65
+INT-World Cup,2026,Bosnia–Herz,Esmir Bajraktarevic,Bosnia–Herz,MF,21,1. PSV,2005,4,2,230,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Bosnia–Herz,Haris Tabaković,Bosnia–Herz,FW,31,2. Schalke 04,1994,1,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Bosnia–Herz,Ivan Bašić,Bosnia–Herz,MF,24,1. FC Astana,2002,3,2,179,2.0,0,1,1,0,0,0,0,0,0.0,0.5,0.5,0.0,0.5
+INT-World Cup,2026,Bosnia–Herz,Ivan Šunjić,Bosnia–Herz,MF,29,1. Pafos FC,1996,4,3,196,2.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Bosnia–Herz,Jovo Lukić,Bosnia–Herz,FW,27,1. Univ. Cluj,1998,2,1,67,0.7,1,0,1,1,0,0,1,0,1.34,0.0,1.34,1.34,1.34
+INT-World Cup,2026,Bosnia–Herz,Kerim Alajbegović,Bosnia–Herz,MF,18,1. RB Salzburg,2007,4,3,277,3.1,1,0,1,1,0,0,0,0,0.32,0.0,0.32,0.32,0.32
+INT-World Cup,2026,Bosnia–Herz,Nikola Katić,Bosnia–Herz,DF,29,2. Schalke 04,1996,4,4,317,3.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Bosnia–Herz,Nikola Vasilj,Bosnia–Herz,GK,30,1. St Pauli,1995,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Bosnia–Herz,Samed Baždar,Bosnia–Herz,FW,22,1. Gladbach,2004,1,0,29,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Bosnia–Herz,Sead Kolašinac,Bosnia–Herz,DF,32,1. Atalanta,1993,4,4,337,3.7,0,1,1,0,0,0,0,0,0.0,0.27,0.27,0.0,0.27
+INT-World Cup,2026,Bosnia–Herz,Stjepan Radeljić,Bosnia–Herz,DF,28,1. Rijeka,1997,2,2,180,2.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Bosnia–Herz,Tarik Muharemovic,Bosnia–Herz,DF,23,1. Sassuolo,2003,3,3,259,2.9,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Brazil,Alex Sandro,Brazil,"DF,MF",35,1. Flamengo,1991,1,0,9,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Brazil,Alisson,Brazil,GK,33,1. Liverpool,1992,5,5,450,5.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Brazil,Bruno Guimarães,Brazil,MF,28,1. Newcastle,1997,5,5,416,4.6,0,4,4,0,0,1,0,0,0.0,0.87,0.87,0.0,0.87
+INT-World Cup,2026,Brazil,Casemiro,Brazil,MF,34,1. Manchester Utd,1992,5,5,379,4.2,1,0,1,1,0,0,2,0,0.24,0.0,0.24,0.24,0.24
+INT-World Cup,2026,Brazil,Danilo,Brazil,DF,34,1. Flamengo,1991,5,4,405,4.5,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Brazil,Danilo Santos,Brazil,MF,25,1. Botafogo–RJ,2001,4,0,46,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Brazil,Douglas Santos,Brazil,DF,32,1. Zenit,1994,5,5,441,4.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Brazil,Endrick,Brazil,FW,19,1. Lyon,2006,4,0,114,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Brazil,Fabinho,Brazil,"DF,MF",32,1. Al-Ittihad,1993,3,0,71,0.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Brazil,Gabriel Magalhães,Brazil,DF,28,1. Arsenal,1997,5,5,450,5.0,0,1,1,0,0,0,0,0,0.0,0.2,0.2,0.0,0.2
+INT-World Cup,2026,Brazil,Gabriel Martinelli,Brazil,MF,24,1. Arsenal,2001,4,1,143,1.6,1,0,1,1,0,0,0,0,0.63,0.0,0.63,0.63,0.63
+INT-World Cup,2026,Brazil,Igor Thiago,Brazil,FW,24,1. Brentford,2001,1,1,61,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Brazil,Lucas Paquetá,Brazil,MF,28,1. Flamengo,1997,4,4,233,2.6,0,1,1,0,0,0,0,0,0.0,0.39,0.39,0.0,0.39
+INT-World Cup,2026,Brazil,Luiz Henrique,Brazil,"FW,MF",25,1. Zenit,2001,1,0,29,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Brazil,Marquinhos,Brazil,DF,32,1. PSG,1994,5,5,450,5.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Brazil,Matheus Cunha,Brazil,FW,27,1. Manchester Utd,1999,5,4,290,3.2,3,0,3,3,0,0,0,0,0.93,0.0,0.93,0.93,0.93
+INT-World Cup,2026,Brazil,Neymar,Brazil,"FW,MF",34,1. Santos,1992,2,0,39,0.4,1,0,1,0,1,1,1,0,2.31,0.0,2.31,0.0,0.0
+INT-World Cup,2026,Brazil,Raphinha,Brazil,"MF,FW",29,1. Barcelona,1996,2,2,129,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Brazil,Rayan,Brazil,"FW,MF",19,1. Bournemouth,2006,4,3,288,3.2,0,1,1,0,0,0,0,0,0.0,0.31,0.31,0.0,0.31
+INT-World Cup,2026,Brazil,Roger Ibanez,Brazil,DF,27,1. Al-Ahli,1998,1,1,45,0.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Brazil,Vinicius Júnior,Brazil,FW,25,1. Real Madrid,2000,5,5,440,4.9,4,1,5,4,0,0,0,0,0.82,0.2,1.02,0.82,1.02
+INT-World Cup,2026,Brazil,Éderson Silva,Brazil,MF,26,1. Atalanta,1999,2,0,22,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Cabo Verde,Dailon Livramento,Cabo Verde,FW,25,1. Casa Pia,2001,3,2,174,1.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Cabo Verde,Deroy Duarte,Cabo Verde,MF,26,1. Ludogorets,1999,4,2,264,2.9,1,0,1,1,0,0,0,0,0.34,0.0,0.34,0.34,0.34
+INT-World Cup,2026,Cabo Verde,Diney,Cabo Verde,DF,31,1. Al Bataeh,1995,4,4,390,4.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Cabo Verde,Garry Rodrigues,Cabo Verde,MF,35,1. Apollon Limassol,1990,2,1,76,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Cabo Verde,Gilson Benchimol,Cabo Verde,FW,24,1. Akron Tolyatti,2001,2,1,78,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Cabo Verde,Hélio Varela,Cabo Verde,FW,24,1. Maccabi Tel Aviv,2002,3,0,104,1.2,1,0,1,1,0,0,0,0,0.87,0.0,0.87,0.87,0.87
+INT-World Cup,2026,Cabo Verde,Jamiro Monteiro,Cabo Verde,MF,32,1. Zwolle,1993,4,3,281,3.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Cabo Verde,Jovane Cabral,Cabo Verde,FW,28,1. Estrela,1998,2,2,139,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Cabo Verde,João Paulo Fernandes,Cabo Verde,DF,28,1. FCSB,1998,2,1,105,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Cabo Verde,Kevin Pina,Cabo Verde,MF,29,1. Krasnodar,1997,4,4,349,3.9,1,0,1,1,0,0,1,0,0.26,0.0,0.26,0.26,0.26
+INT-World Cup,2026,Cabo Verde,Laros Duarte,Cabo Verde,MF,29,1. Puskás Akad.,1997,4,2,166,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Cabo Verde,Nuno da Costa,Cabo Verde,FW,35,1. Başakşehir,1991,4,1,159,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Cabo Verde,Pico,Cabo Verde,DF,33,1. Shamrock,1992,4,4,390,4.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Cabo Verde,Ryan Mendes,Cabo Verde,"FW,MF",36,2. 76 Iğdır Belediyespor,1990,4,4,330,3.7,0,1,1,0,0,0,0,0,0.0,0.27,0.27,0.0,0.27
+INT-World Cup,2026,Cabo Verde,Sidny Lopes Cabral,Cabo Verde,DF,23,1. Benfica,2002,3,3,285,3.2,1,0,1,1,0,0,2,0,0.32,0.0,0.32,0.32,0.32
+INT-World Cup,2026,Cabo Verde,Steven Moreira,Cabo Verde,DF,31,1. Columbus Crew,1994,4,3,301,3.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Cabo Verde,Telmo Arcanjo,Cabo Verde,MF,24,1. Vit. Guimarães,2001,2,1,57,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Cabo Verde,Vozinha,Cabo Verde,GK,40,2. Chaves,1986,4,4,390,4.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Cabo Verde,Wagner Pina,Cabo Verde,DF,23,1. Trabzonspor,2002,1,1,89,1.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Cabo Verde,Willy Semedo,Cabo Verde,FW,32,1. AC Omonia,1994,3,1,131,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Cabo Verde,Yannick,Cabo Verde,MF,30,2. Farense,1995,2,0,32,0.4,0,1,1,0,0,0,0,0,0.0,2.81,2.81,0.0,2.81
+INT-World Cup,2026,Canada,Ali Ahmed,Canada,MF,25,2. Norwich City,2000,4,3,234,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Canada,Alistair Johnston,Canada,DF,27,1. Celtic,1998,5,5,450,5.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Canada,Alphonso Davies,Canada,"DF,FW",25,1. Bayern Munich,2000,1,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Canada,Cyle Larin,Canada,FW,31,1. Mallorca,1995,4,2,190,2.1,2,0,2,2,0,0,2,0,0.95,0.0,0.95,0.95,0.95
+INT-World Cup,2026,Canada,Derek Cornelius,Canada,DF,28,1. Marseille,1997,4,4,315,3.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Canada,Ismaël Koné,Canada,MF,23,1. Sassuolo,2002,2,2,146,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Canada,Jacob Shaffelburg,Canada,MF,26,1. LAFC,1999,5,0,92,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Canada,Jayden Nelson,Canada,"FW,MF",23,1. Austin FC,2002,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Canada,Jonathan David,Canada,FW,26,1. Juventus,2000,5,5,420,4.7,3,0,3,3,0,0,1,0,0.64,0.0,0.64,0.64,0.64
+INT-World Cup,2026,Canada,Jonathan Osorio,Canada,MF,34,1. Toronto FC,1992,2,0,5,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Canada,Liam Millar,Canada,MF,26,2. Hull City,1999,3,2,162,1.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Canada,Luc De Fougerolles,Canada,DF,20,1. Fulham,2005,5,4,372,4.1,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Canada,Mathieu Choinière,Canada,MF,27,1. LAFC,1999,1,1,57,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Canada,Maxime Crépeau,Canada,GK,32,1. Orlando City,1994,5,5,450,5.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Canada,Moïse Bombito,Canada,DF,26,1. Nice,2000,3,2,193,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Canada,Nathan Saliba,Canada,MF,22,1. Anderlecht,2004,3,2,182,2.0,1,2,3,1,0,0,1,0,0.49,0.99,1.48,0.49,1.48
+INT-World Cup,2026,Canada,Niko Sigur,Canada,MF,22,1. Hajduk Split,2003,3,1,126,1.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Canada,Promise David,Canada,FW,24,1. Union SG,2001,4,0,80,0.9,1,1,2,1,0,0,0,0,1.13,1.13,2.25,1.13,2.25
+INT-World Cup,2026,Canada,Richie Laryea,Canada,DF,31,1. Toronto FC,1995,5,5,429,4.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Canada,Stephen Eustáquio,Canada,MF,29,1. Porto,1996,5,4,392,4.4,1,0,1,1,0,0,0,0,0.23,0.0,0.23,0.23,0.23
+INT-World Cup,2026,Canada,Tajon Buchanan,Canada,MF,27,1. Villarreal,1999,5,5,376,4.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Canada,Tani Oluwaseyi,Canada,FW,26,1. Villarreal,2000,5,3,259,2.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Colombia,Andrés Gómez,Colombia,MF,23,1. Vasco da Gama,2002,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Colombia,Camilo Vargas,Colombia,GK,37,1. Atlas,1989,5,5,480,5.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Colombia,Cucho,Colombia,"FW,MF",27,1. Real Betis,1999,2,0,50,0.6,0,1,1,0,0,0,0,0,0.0,1.8,1.8,0.0,1.8
+INT-World Cup,2026,Colombia,Daniel Muñoz,Colombia,DF,30,1. Crystal Palace,1996,5,4,394,4.4,2,0,2,2,0,0,0,0,0.46,0.0,0.46,0.46,0.46
+INT-World Cup,2026,Colombia,Davinson Sánchez,Colombia,DF,30,1. Galatasaray,1996,5,5,480,5.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Colombia,Deiver Machado,Colombia,DF,32,1. Nantes,1993,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Colombia,Gustavo Puerta,Colombia,MF,22,2. Racing Sant,2003,5,5,469,5.2,0,1,1,0,0,0,1,0,0.0,0.19,0.19,0.0,0.19
+INT-World Cup,2026,Colombia,James Rodríguez,Colombia,"FW,MF",34,1. Minnesota Utd,1991,5,5,313,3.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Colombia,Jaminton Campaz,Colombia,"FW,MF",26,1. Rosario Central,2000,3,0,75,0.8,1,0,1,1,0,0,0,0,1.2,0.0,1.2,1.2,1.2
+INT-World Cup,2026,Colombia,Jefferson Lerma,Colombia,MF,31,1. Crystal Palace,1994,5,5,410,4.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Colombia,Jhon Arias,Colombia,MF,28,1. Palmeiras,1997,5,5,377,4.2,1,0,1,1,0,0,1,0,0.24,0.0,0.24,0.24,0.24
+INT-World Cup,2026,Colombia,Jhon Córdoba,Colombia,FW,33,1. Krasnodar,1993,3,2,99,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Colombia,Jhon Lucumí,Colombia,DF,27,1. Bologna,1998,5,5,478,5.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Colombia,Johan Mojica,Colombia,DF,33,1. Mallorca,1992,4,4,390,4.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Colombia,Juan Quintero,Colombia,"FW,MF",33,1. River Plate,1993,4,0,121,1.3,0,1,1,0,0,0,0,0,0.0,0.74,0.74,0.0,0.74
+INT-World Cup,2026,Colombia,Kevin Castaño,Colombia,MF,25,1. River Plate,2000,2,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Colombia,Luis Díaz,Colombia,"FW,MF",29,1. Bayern Munich,1997,5,5,478,5.3,1,1,2,1,0,0,0,0,0.19,0.19,0.38,0.19,0.38
+INT-World Cup,2026,Colombia,Luis Suárez,Colombia,FW,28,1. Sporting CP,1997,5,3,331,3.7,0,1,1,0,0,0,1,0,0.0,0.27,0.27,0.0,0.27
+INT-World Cup,2026,Colombia,Richard Ríos,Colombia,MF,26,1. Benfica,2000,5,0,140,1.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Colombia,Santiago Arias,Colombia,DF,34,1. Independiente,1992,1,1,86,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Colombia,Yerry Mina,Colombia,DF,31,1. Cagliari,1994,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Congo DR,Aaron Wan-Bissaka,Congo DR,DF,28,1. West Ham,1997,4,4,354,3.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Congo DR,Arthur Masuaku,Congo DR,DF,32,1. Lens,1993,4,4,315,3.5,0,1,1,0,0,0,0,0,0.0,0.29,0.29,0.0,0.29
+INT-World Cup,2026,Congo DR,Axel Tuanzebe,Congo DR,DF,28,1. Burnley,1997,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Congo DR,Brian Cipenga,Congo DR,"MF,FW",28,2. Castellón,1998,2,2,146,1.6,1,0,1,1,0,0,0,0,0.62,0.0,0.62,0.62,0.62
+INT-World Cup,2026,Congo DR,Chancel Mbemba,Congo DR,DF,31,1. Lille,1994,4,4,360,4.0,0,1,1,0,0,0,1,0,0.0,0.25,0.25,0.0,0.25
+INT-World Cup,2026,Congo DR,Charles Pickel,Congo DR,"DF,MF",29,1. Espanyol,1997,2,0,35,0.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Congo DR,Cédric Bakambu,Congo DR,FW,35,1. Real Betis,1991,3,3,190,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Congo DR,Edo Kayembe,Congo DR,MF,28,2. Watford,1998,3,2,160,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Congo DR,Fiston Mayele,Congo DR,FW,31,1. Pyramids FC,1994,2,0,42,0.5,1,0,1,1,0,0,0,0,2.14,0.0,2.14,2.14,2.14
+INT-World Cup,2026,Congo DR,Gédéon Kalulu,Congo DR,DF,28,1. Aris Limassol,1997,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Congo DR,Joris Kayembe,Congo DR,"DF,FW",31,1. Genk,1994,4,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Congo DR,Lionel Mpasi,Congo DR,GK,31,1. Le Havre,1994,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Congo DR,Meschak Elia,Congo DR,"FW,MF",28,1. Alanyaspor,1997,2,0,46,0.5,0,1,1,0,0,0,0,0,0.0,1.96,1.96,0.0,1.96
+INT-World Cup,2026,Congo DR,Nathanaël Mbuku,Congo DR,"MF,FW",24,2. Montpellier,2002,3,2,143,1.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Congo DR,Ngal'Ayel Mukau,Congo DR,MF,21,1. Lille,2004,4,3,195,2.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Congo DR,Noah Sadiki,Congo DR,MF,21,1. Sunderland,2004,4,2,259,2.9,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Congo DR,Samuel Moutoussamy,Congo DR,MF,29,1. Atromitos,1996,4,4,330,3.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Congo DR,Simon Banza,Congo DR,"FW,MF",29,1. Al Jazira Club,1996,2,0,40,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Congo DR,Steve Kapuadi,Congo DR,DF,28,1. Widzew Łódź,1998,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Congo DR,Theo Bongonda,Congo DR,"FW,MF",30,1. Spartak Moscow,1995,2,0,34,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Congo DR,Yoane Wissa,Congo DR,FW,29,1. Newcastle,1996,4,4,360,4.0,3,0,3,2,1,1,0,0,0.75,0.0,0.75,0.5,0.5
+INT-World Cup,2026,Croatia,Andrej Kramarić,Croatia,"FW,MF",34,1. Hoffenheim,1991,3,0,59,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Croatia,Ante Budimir,Croatia,FW,34,1. Osasuna,1991,3,2,155,1.7,1,0,1,1,0,0,0,0,0.58,0.0,0.58,0.58,0.58
+INT-World Cup,2026,Croatia,Dominik Livaković,Croatia,GK,31,1. Dinamo Zagreb,1995,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Croatia,Igor Matanović,Croatia,FW,23,1. Freiburg,2003,3,0,95,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Croatia,Ivan Perišić,Croatia,"MF,DF",37,1. PSV,1989,4,4,360,4.0,1,1,2,1,0,0,2,0,0.25,0.25,0.5,0.25,0.5
+INT-World Cup,2026,Croatia,Josip Stanišić,Croatia,"DF,MF",26,1. Bayern Munich,2000,4,4,360,4.0,0,1,1,0,0,0,0,0,0.0,0.25,0.25,0.0,0.25
+INT-World Cup,2026,Croatia,Josip Šutalo,Croatia,DF,26,1. Ajax,2000,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Croatia,Joško Gvardiol,Croatia,DF,24,1. Manchester City,2002,4,2,139,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Croatia,Luka Modrić,Croatia,MF,40,1. Milan,1985,4,4,317,3.5,0,1,1,0,0,0,1,0,0.0,0.28,0.28,0.0,0.28
+INT-World Cup,2026,Croatia,Luka Sučić,Croatia,"FW,MF",23,1. Real Sociedad,2002,1,0,19,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Croatia,Luka Vušković,Croatia,DF,19,1. Hamburger SV,2007,1,1,65,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Croatia,Marco Pašalić,Croatia,MF,25,1. Orlando City,2000,3,1,99,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Croatia,Marin Pongračić,Croatia,DF,28,1. Fiorentina,1997,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Croatia,Mario Pašalić,Croatia,MF,31,1. Atalanta,1995,4,1,123,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Croatia,Martin Baturina,Croatia,"MF,FW",23,1. Como,2003,4,4,321,3.6,1,0,1,1,0,0,0,0,0.28,0.0,0.28,0.28,0.28
+INT-World Cup,2026,Croatia,Mateo Kovačić,Croatia,MF,32,1. Manchester City,1994,4,3,270,3.0,0,1,1,0,0,0,0,0,0.0,0.33,0.33,0.0,0.33
+INT-World Cup,2026,Croatia,Nikola Vlašić,Croatia,MF,28,1. Torino,1997,3,2,189,2.1,1,0,1,1,0,0,0,0,0.48,0.0,0.48,0.48,0.48
+INT-World Cup,2026,Croatia,Petar Musa,Croatia,FW,28,1. FC Dallas,1998,2,2,110,1.2,1,0,1,1,0,0,0,0,0.82,0.0,0.82,0.82,0.82
+INT-World Cup,2026,Croatia,Petar Sučić,Croatia,"MF,FW",22,1. Inter,2003,4,3,289,3.2,1,1,2,1,0,0,1,0,0.31,0.31,0.62,0.31,0.62
+INT-World Cup,2026,Curaçao,Armando Obispo,Curaçao,DF,27,1. PSV,1999,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Curaçao,Brandley Kuwas,Curaçao,"FW,MF",33,1. Volendam,1992,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Curaçao,Deveron Fonville,Curaçao,DF,23,1. NEC Nijmegen,2003,3,3,241,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Curaçao,Eloy Room,Curaçao,GK,37,2. Miami FC,1989,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Curaçao,Gervane Kastaneer,Curaçao,"FW,MF",30,1. Terengganu City,1996,3,0,30,0.3,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Curaçao,Godfried Roemeratoe,Curaçao,MF,26,2. RKC Waalwijk,1999,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Curaçao,Jearl Margaritha,Curaçao,"FW,MF",26,2. Beveren,2000,2,0,41,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Curaçao,Jeremy Antonisse,Curaçao,"FW,MF",24,1. AE Kifisia,2002,2,0,75,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Curaçao,Joshua Brenet,Curaçao,DF,32,1. Kayserispor,1994,2,2,179,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Curaçao,Juninho Bacuna,Curaçao,MF,28,1. Volendam,1997,3,3,254,2.8,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Curaçao,Juriën Gaari,Curaçao,DF,32,2. Abha,1993,2,2,166,1.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Curaçao,Jürgen Locadia,Curaçao,FW,32,2. Miami FC,1993,3,3,235,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Curaçao,Kenji Gorré,Curaçao,"FW,MF",31,1. Maccabi Haifa,1994,1,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Curaçao,Leandro Bacuna,Curaçao,MF,34,2. 76 Iğdır Belediyespor,1991,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Curaçao,Livano Comenencia,Curaçao,MF,22,1. Zürich,2004,3,3,233,2.6,1,0,1,1,0,0,1,0,0.39,0.0,0.39,0.39,0.39
+INT-World Cup,2026,Curaçao,Riechedly Bazoer,Curaçao,DF,29,1. Konyaspor,1996,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Curaçao,Roshon van Eijma,Curaçao,DF,28,2. RKC Waalwijk,1998,1,0,15,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Curaçao,Sherel Floranus,Curaçao,DF,27,1. Zwolle,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Curaçao,Shurandy Sambo,Curaçao,DF,24,1. Sparta R.,2001,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Curaçao,Sontje Hansen,Curaçao,FW,24,2. Middlesbrough,2002,1,1,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Curaçao,Tahith Chong,Curaçao,MF,26,2. Sheffield United,1999,3,3,247,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Curaçao,Tyrese Noslin,Curaçao,MF,23,1. Telstar,2002,1,0,14,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Czechia,Adam Hložek,Czechia,FW,23,1. Hoffenheim,2002,3,2,156,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Czechia,Alexandr Sojka,Czechia,"MF,DF",23,1. Viktoria Plzeň,2003,3,2,141,1.6,0,1,1,0,0,0,0,0,0.0,0.64,0.64,0.0,0.64
+INT-World Cup,2026,Czechia,David Douděra,Czechia,MF,28,1. Slavia Prague,1998,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Czechia,David Zima,Czechia,DF,25,1. Slavia Prague,2000,1,0,13,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Czechia,Denis Višinský,Czechia,FW,23,1. Viktoria Plzeň,2003,1,1,55,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Czechia,Jaroslav Zelený,Czechia,MF,33,1. Sparta Prague,1992,2,1,126,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Czechia,Ladislav Krejčí,Czechia,DF,27,1. Wolves,1999,3,3,270,3.0,1,0,1,1,0,0,1,0,0.33,0.0,0.33,0.33,0.33
+INT-World Cup,2026,Czechia,Lukáš Provod,Czechia,FW,29,1. Slavia Prague,1996,3,1,122,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Czechia,Lukáš Červ,Czechia,MF,25,1. Viktoria Plzeň,2001,2,2,163,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Czechia,Matej Kovar,Czechia,GK,26,1. PSV,2000,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Czechia,Michal Sadílek,Czechia,MF,27,1. Slavia Prague,1999,3,2,183,2.0,1,0,1,1,0,0,0,0,0.49,0.0,0.49,0.49,0.49
+INT-World Cup,2026,Czechia,Mojmír Chytil,Czechia,FW,27,1. Slavia Prague,1999,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Czechia,Patrik Schick,Czechia,FW,30,1. Leverkusen,1996,3,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Czechia,Pavel Šulc,Czechia,FW,25,1. Lyon,2000,3,2,189,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Czechia,Robin Hranáč,Czechia,DF,26,1. Hoffenheim,2000,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Czechia,Tomáš Chorý,Czechia,FW,31,1. Slavia Prague,1995,2,0,31,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Czechia,Tomáš Holeš,Czechia,DF,33,1. Slavia Prague,1993,2,2,153,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Czechia,Tomáš Souček,Czechia,MF,31,1. West Ham,1995,3,1,137,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Czechia,Vladimír Coufal,Czechia,"MF,DF",33,1. Hoffenheim,1992,3,3,270,3.0,0,1,1,0,0,0,0,0,0.0,0.33,0.33,0.0,0.33
+INT-World Cup,2026,Czechia,Vladimír Darida,Czechia,MF,35,1. Hradec Králové,1990,1,1,54,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Czechia,Štěpán Chaloupek,Czechia,DF,23,1. Slavia Prague,2003,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Côte d'Ivoire,Amad Diallo,Côte d'Ivoire,"MF,FW",23,1. Manchester Utd,2002,4,2,185,2.1,2,0,2,2,0,0,0,0,0.97,0.0,0.97,0.97,0.97
+INT-World Cup,2026,Côte d'Ivoire,Ange-Yoan Bonny,Côte d'Ivoire,FW,22,1. Inter,2003,4,3,234,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Côte d'Ivoire,Bazoumana Touré,Côte d'Ivoire,MF,20,1. Hoffenheim,2006,3,1,80,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Côte d'Ivoire,Christ Inao Oulaï,Côte d'Ivoire,MF,20,1. Trabzonspor,2006,4,2,208,2.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Côte d'Ivoire,Christopher Opéri,Côte d'Ivoire,DF,29,1. Başakşehir,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Côte d'Ivoire,Elye Wahi,Côte d'Ivoire,FW,23,1. Nice,2003,3,1,110,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Côte d'Ivoire,Emmanuel Agbadou,Côte d'Ivoire,DF,28,1. Beşiktaş,1997,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Côte d'Ivoire,Evann Guessand,Côte d'Ivoire,"FW,MF",24,1. Crystal Palace,2001,2,0,17,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Côte d'Ivoire,Franck Kessié,Côte d'Ivoire,MF,29,1. Al-Ahli,1996,4,4,346,3.8,1,0,1,1,0,0,1,0,0.26,0.0,0.26,0.26,0.26
+INT-World Cup,2026,Côte d'Ivoire,Ghislain Konan,Côte d'Ivoire,DF,30,1. Gil Vicente FC,1995,3,3,269,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Côte d'Ivoire,Guéla Doué,Côte d'Ivoire,DF,23,1. Strasbourg,2002,4,3,277,3.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Côte d'Ivoire,Ibrahim Sangaré,Côte d'Ivoire,MF,28,1. Nottingham,1997,4,3,268,3.0,0,1,1,0,0,0,0,0,0.0,0.34,0.34,0.0,0.34
+INT-World Cup,2026,Côte d'Ivoire,Jean Seri,Côte d'Ivoire,MF,34,1. NK Maribor,1991,1,0,14,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Côte d'Ivoire,Nicolas Pépé,Côte d'Ivoire,FW,31,1. Villarreal,1995,4,3,234,2.6,2,1,3,2,0,0,1,0,0.77,0.38,1.15,0.77,1.15
+INT-World Cup,2026,Côte d'Ivoire,Odilon Kossounou,Côte d'Ivoire,DF,25,1. Atalanta,2001,4,3,272,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Côte d'Ivoire,Oumar Diakité,Côte d'Ivoire,FW,22,1. Cercle Brugge,2003,2,0,28,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Côte d'Ivoire,Ousmane Diomande,Côte d'Ivoire,DF,22,1. Sporting CP,2003,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Côte d'Ivoire,Seko Fofana,Côte d'Ivoire,MF,31,1. Porto,1995,2,1,92,1.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Côte d'Ivoire,Simon Adingra,Côte d'Ivoire,"FW,MF",24,1. Monaco,2002,1,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Côte d'Ivoire,Wilfried Singo,Côte d'Ivoire,DF,25,1. Galatasaray,2000,2,2,171,1.9,0,1,1,0,0,0,0,0,0.0,0.53,0.53,0.0,0.53
+INT-World Cup,2026,Côte d'Ivoire,Yahia Fofana,Côte d'Ivoire,GK,25,1. Rizespor,2000,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Côte d'Ivoire,Yan Diomandé,Côte d'Ivoire,"MF,FW",19,1. RB Leipzig,2006,4,4,329,3.7,0,1,1,0,0,0,0,0,0.0,0.27,0.27,0.0,0.27
+INT-World Cup,2026,Ecuador,Alan Franco,Ecuador,DF,27,1. Atlético Mineiro,1998,4,4,251,2.8,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ecuador,Alan Minda,Ecuador,MF,23,1. Atlético Mineiro,2003,1,1,55,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ecuador,Enner Valencia,Ecuador,FW,36,1. Pachuca,1989,4,4,287,3.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ecuador,Félix Torres Caicedo,Ecuador,DF,29,1. Internacional,1997,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ecuador,Gonzalo Plata,Ecuador,FW,25,1. Flamengo,2000,4,4,360,4.0,1,0,1,1,0,0,1,0,0.25,0.0,0.25,0.25,0.25
+INT-World Cup,2026,Ecuador,Hernán Galíndez,Ecuador,GK,39,1. Huracán,1987,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ecuador,Jackson Porozo,Ecuador,DF,25,1. Tijuana,2000,1,0,29,0.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ecuador,Joel Ordóñez,Ecuador,DF,22,1. Club Brugge,2004,3,3,225,2.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ecuador,John Yeboah,Ecuador,MF,25,2. Venezia,2000,4,4,311,3.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ecuador,Jordy Alcivar,Ecuador,MF,26,1. Independiente,1999,1,1,45,0.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ecuador,Jordy Caicedo,Ecuador,FW,28,1. Huracán,1997,3,0,20,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ecuador,Kendry Páez,Ecuador,MF,19,1. River Plate,2007,1,0,12,0.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ecuador,Kevin Rodríguez,Ecuador,FW,26,1. Union SG,2000,4,0,118,1.3,0,1,1,0,0,0,0,0,0.0,0.76,0.76,0.0,0.76
+INT-World Cup,2026,Ecuador,Moisés Caicedo,Ecuador,MF,24,1. Chelsea,2001,4,4,360,4.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ecuador,Nilson Angulo,Ecuador,MF,22,1. Sunderland,2003,4,2,218,2.4,1,0,1,1,0,0,0,0,0.41,0.0,0.41,0.41,0.41
+INT-World Cup,2026,Ecuador,Pedro Vite,Ecuador,MF,24,1. UNAM,2002,4,4,360,4.0,0,1,1,0,0,0,0,0,0.0,0.25,0.25,0.0,0.25
+INT-World Cup,2026,Ecuador,Pervis Estupiñán,Ecuador,MF,28,1. Milan,1998,2,1,89,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ecuador,Piero Hincapié,Ecuador,DF,24,1. Arsenal,2002,4,4,339,3.8,0,0,0,0,0,0,1,1,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ecuador,Willian Pacho,Ecuador,DF,24,1. PSG,2001,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ecuador,Yaimar Medina,Ecuador,"DF,MF",21,1. Genk,2004,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ecuador,Ángelo Preciado,Ecuador,"DF,MF",28,1. Atlético Mineiro,1998,4,0,109,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Egypt,Ahmed Fatouh,Egypt,DF,28,1. Zamalek SC,1998,3,3,267,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Egypt,Emam Ashour,Egypt,MF,28,1. Al Ahly,1998,5,5,362,4.0,2,0,2,2,0,0,0,0,0.5,0.0,0.5,0.5,0.5
+INT-World Cup,2026,Egypt,Haissem Hassan,Egypt,MF,24,1. Oviedo,2002,2,1,126,1.4,0,1,1,0,0,0,2,0,0.0,0.71,0.71,0.0,0.71
+INT-World Cup,2026,Egypt,Hamdy Fathy,Egypt,"DF,MF",31,1. Al-Wakrah,1994,4,3,238,2.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Egypt,Hamza Abdelkarim,Egypt,FW,18,4. Barcelona B,2008,4,0,60,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Egypt,Hossam Abdelmaguid,Egypt,DF,25,1. Zamalek SC,2001,2,0,59,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Egypt,Ibrahim Adel,Egypt,MF,25,1. Nordsjælland,2001,1,0,3,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Egypt,Karim Hafez,Egypt,DF,30,1. Pyramids FC,1996,3,2,172,1.9,0,1,1,0,0,0,0,0,0.0,0.52,0.52,0.0,0.52
+INT-World Cup,2026,Egypt,Mahmoud Saber,Egypt,MF,24,1. ZED,2001,2,1,46,0.5,1,0,1,1,0,0,1,0,1.96,0.0,1.96,1.96,1.96
+INT-World Cup,2026,Egypt,Marwan Attia,Egypt,MF,27,1. Al Ahly,1998,5,4,434,4.8,0,1,1,0,0,0,2,0,0.0,0.21,0.21,0.0,0.21
+INT-World Cup,2026,Egypt,Mohamed Abdelmonem,Egypt,DF,27,1. Nice,1999,2,1,14,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Egypt,Mohamed Hany,Egypt,DF,30,1. Al Ahly,1996,5,5,480,5.3,0,1,1,0,0,0,0,0,0.0,0.19,0.19,0.0,0.19
+INT-World Cup,2026,Egypt,Mohamed Salah,Egypt,"FW,MF",33,1. Liverpool,1992,5,5,425,4.7,1,2,3,1,0,0,0,0,0.21,0.42,0.64,0.21,0.64
+INT-World Cup,2026,Egypt,Mohanad Lasheen,Egypt,MF,30,,1996,4,4,359,4.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Egypt,Mostafa Shobeir,Egypt,GK,26,1. Al Ahly,2000,5,5,480,5.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Egypt,Mostafa Ziko,Egypt,"FW,MF",29,1. Pyramids FC,1997,5,5,370,4.1,2,1,3,2,0,0,0,0,0.49,0.24,0.73,0.49,0.73
+INT-World Cup,2026,Egypt,Omar Marmoush,Egypt,"FW,MF",27,1. Manchester City,1999,5,3,326,3.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Egypt,Ramy Rabia,Egypt,DF,33,1. Al Ain,1993,5,3,372,4.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Egypt,Trézéguet,Egypt,MF,31,1. Al Ahly,1994,4,1,164,1.8,1,1,2,1,0,0,0,0,0.55,0.55,1.1,0.55,1.1
+INT-World Cup,2026,Egypt,Yasser Ibrahim,Egypt,DF,33,1. Al Ahly,1993,5,4,467,5.2,1,0,1,1,0,0,2,0,0.19,0.0,0.19,0.19,0.19
+INT-World Cup,2026,Egypt,Zizo,Egypt,MF,30,1. Al Ahly,1996,4,0,56,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,England,Anthony Gordon,England,MF,25,1. Barcelona,2001,6,5,396,4.4,1,3,4,1,0,0,0,0,0.23,0.68,0.91,0.23,0.91
+INT-World Cup,2026,England,Bukayo Saka,England,MF,24,1. Arsenal,2001,7,3,358,4.0,3,3,6,2,1,1,0,0,0.75,0.75,1.51,0.5,1.26
+INT-World Cup,2026,England,Dan Burn,England,DF,34,1. Newcastle,1992,3,0,35,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,England,Dean Henderson,England,GK,29,1. Crystal Palace,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,England,Declan Rice,England,MF,27,1. Arsenal,1999,7,7,557,6.2,1,2,3,1,0,0,2,0,0.16,0.32,0.48,0.16,0.48
+INT-World Cup,2026,England,Djed Spence,England,DF,25,1. Tottenham,2000,8,4,404,4.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,England,Eberechi Eze,England,MF,27,1. Arsenal,1998,5,1,211,2.3,0,1,1,0,0,0,0,0,0.0,0.43,0.43,0.0,0.43
+INT-World Cup,2026,England,Elliot Anderson,England,MF,23,1. Nottingham,2002,8,7,632,7.0,0,1,1,0,0,0,1,0,0.0,0.14,0.14,0.0,0.14
+INT-World Cup,2026,England,Ezri Konsa,England,DF,28,1. Aston Villa,1997,8,7,647,7.2,1,0,1,1,0,0,0,0,0.14,0.0,0.14,0.14,0.14
+INT-World Cup,2026,England,Harry Kane,England,FW,32,1. Bayern Munich,1993,7,7,652,7.2,6,1,7,4,2,2,0,0,0.83,0.14,0.97,0.55,0.69
+INT-World Cup,2026,England,Ivan Toney,England,FW,30,1. Al-Ahli,1996,2,1,79,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,England,Jarell Quansah,England,DF,23,1. Leverkusen,2003,3,3,197,2.2,0,0,0,0,0,0,1,1,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,England,John Stones,England,DF,32,1. Manchester City,1994,5,3,330,3.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,England,Jordan Henderson,England,MF,35,1. Brentford,1990,1,0,7,0.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,England,Jordan Pickford,England,GK,32,1. Everton,1994,7,7,660,7.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,England,Jude Bellingham,England,MF,22,1. Real Madrid,2003,8,7,614,6.8,7,1,8,7,0,0,1,0,1.03,0.15,1.17,1.03,1.17
+INT-World Cup,2026,England,Marc Guéhi,England,DF,25,1. Manchester City,2000,8,7,663,7.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,England,Marcus Rashford,England,MF,28,1. Barcelona,1997,6,3,223,2.5,1,1,2,1,0,0,0,0,0.4,0.4,0.81,0.4,0.81
+INT-World Cup,2026,England,Morgan Rogers,England,MF,23,1. Aston Villa,2002,7,3,339,3.8,0,1,1,0,0,0,0,0,0.0,0.27,0.27,0.0,0.27
+INT-World Cup,2026,England,Nico O'Reilly,England,DF,21,1. Manchester City,2005,7,5,461,5.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,England,Noni Madueke,England,MF,24,1. Arsenal,2002,5,4,286,3.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,England,Ollie Watkins,England,"FW,MF",30,1. Aston Villa,1995,2,0,52,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,England,Reece James,England,DF,26,1. Chelsea,1999,5,3,319,3.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,England,Trevoh Chalobah,England,"DF,MF",26,1. Chelsea,1999,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,France,Adrien Rabiot,France,MF,31,1. Milan,1995,7,7,585,6.5,0,1,1,0,0,0,1,0,0.0,0.15,0.15,0.0,0.15
+INT-World Cup,2026,France,Aurélien Tchouaméni,France,MF,26,1. Real Madrid,2000,4,4,360,4.0,0,1,1,0,0,0,1,0,0.0,0.25,0.25,0.0,0.25
+INT-World Cup,2026,France,Bradley Barcola,France,MF,23,1. PSG,2002,8,4,384,4.3,3,1,4,3,0,0,1,0,0.7,0.23,0.94,0.7,0.94
+INT-World Cup,2026,France,Dayot Upamecano,France,DF,27,1. Bayern Munich,1998,8,7,660,7.3,0,1,1,0,0,0,0,0,0.0,0.14,0.14,0.0,0.14
+INT-World Cup,2026,France,Désiré Doué,France,MF,21,1. PSG,2005,8,4,400,4.4,1,1,2,1,0,0,0,0,0.23,0.23,0.45,0.23,0.45
+INT-World Cup,2026,France,Ibrahima Konaté,France,DF,27,1. Liverpool,1999,2,1,60,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,France,Jean-Philippe Mateta,France,FW,28,1. Crystal Palace,1997,3,0,24,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,France,Jules Koundé,France,DF,27,1. Barcelona,1998,8,7,599,6.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,France,Kylian Mbappé,France,FW,27,1. Real Madrid,1998,8,8,695,7.7,10,4,14,9,1,2,1,0,1.29,0.52,1.81,1.17,1.68
+INT-World Cup,2026,France,Lucas Digne,France,DF,32,1. Aston Villa,1993,6,5,463,5.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,France,Maghnes Akliouche,France,MF,24,1. Monaco,2002,1,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,France,Malo Gusto,France,DF,23,1. Chelsea,2003,5,1,121,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,France,Manu Koné,France,MF,25,1. Roma,2001,5,4,385,4.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,France,Marcus Thuram,France,"FW,MF",28,1. Inter,1997,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,France,Maxence Lacroix,France,DF,26,1. Crystal Palace,2000,3,2,241,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,France,Michael Olise,France,MF,24,1. Bayern Munich,2001,8,8,646,7.2,0,7,7,0,0,0,1,0,0.0,0.98,0.98,0.0,0.98
+INT-World Cup,2026,France,Mike Maignan,France,GK,30,1. Milan,1995,8,8,720,8.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,France,Ousmane Dembélé,France,MF,29,1. PSG,1997,8,7,592,6.6,6,2,8,6,0,0,0,0,0.91,0.3,1.22,0.91,1.22
+INT-World Cup,2026,France,Rayan Cherki,France,MF,22,1. Manchester City,2003,7,1,130,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,France,Theo Hernández,France,DF,28,1. Al-Hilal,1997,5,3,257,2.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,France,Warren Zaïre-Emery,France,MF,20,1. PSG,2006,2,1,110,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,France,William Saliba,France,DF,25,1. Arsenal,2001,6,6,479,5.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Germany,Aleksandar Pavlovic,Germany,MF,22,1. Bayern Munich,2004,4,4,272,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Germany,Angelo Stiller,Germany,MF,25,1. Stuttgart,2001,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Germany,Antonio Rüdiger,Germany,DF,33,1. Real Madrid,1993,4,2,262,2.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Germany,David Raum,Germany,DF,28,1. RB Leipzig,1998,2,1,108,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Germany,Deniz Undav,Germany,FW,29,1. Stuttgart,1996,4,1,151,1.7,3,2,5,3,0,0,0,0,1.79,1.19,2.98,1.79,2.98
+INT-World Cup,2026,Germany,Felix Nmecha,Germany,MF,25,1. Dortmund,2000,4,4,270,3.0,1,1,2,1,0,0,0,0,0.33,0.33,0.67,0.33,0.67
+INT-World Cup,2026,Germany,Florian Wirtz,Germany,MF,23,1. Liverpool,2003,4,4,361,4.0,0,3,3,0,0,0,0,0,0.0,0.75,0.75,0.0,0.75
+INT-World Cup,2026,Germany,Jamal Musiala,Germany,MF,23,1. Bayern Munich,2003,4,3,270,3.0,1,0,1,1,0,0,1,0,0.33,0.0,0.33,0.33,0.33
+INT-World Cup,2026,Germany,Jamie Leweling,Germany,"FW,MF",25,1. Stuttgart,2001,1,0,31,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Germany,Jonathan Tah,Germany,DF,30,1. Bayern Munich,1996,4,4,372,4.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Germany,Joshua Kimmich,Germany,DF,31,1. Bayern Munich,1995,4,4,351,3.9,0,2,2,0,0,0,0,0,0.0,0.51,0.51,0.0,0.51
+INT-World Cup,2026,Germany,Kai Havertz,Germany,FW,27,1. Arsenal,1999,4,4,353,3.9,3,0,3,2,1,1,1,0,0.76,0.0,0.76,0.51,0.51
+INT-World Cup,2026,Germany,Leon Goretzka,Germany,MF,31,1. Bayern Munich,1995,3,0,99,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Germany,Leroy Sané,Germany,MF,30,1. Galatasaray,1996,4,4,326,3.6,1,0,1,1,0,0,0,0,0.28,0.0,0.28,0.28,0.28
+INT-World Cup,2026,Germany,Malick Thiaw,Germany,"DF,MF",24,1. Newcastle,2001,2,0,42,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Germany,Manuel Neuer,Germany,GK,40,1. Bayern Munich,1986,4,4,390,4.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Germany,Maximilian Beier,Germany,"FW,MF",23,1. Dortmund,2002,1,0,27,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Germany,Nadiem Amiri,Germany,MF,29,1. Mainz 05,1996,2,0,42,0.5,0,1,1,0,0,0,0,0,0.0,2.14,2.14,0.0,2.14
+INT-World Cup,2026,Germany,Nathaniel Brown,Germany,DF,22,1. Frankfurt,2003,3,3,282,3.1,1,1,2,1,0,0,0,0,0.32,0.32,0.64,0.32,0.64
+INT-World Cup,2026,Germany,Nick Woltemade,Germany,"FW,MF",24,1. Newcastle,2002,1,0,33,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Germany,Nico Schlotterbeck,Germany,DF,26,1. Dortmund,1999,2,2,135,1.5,1,0,1,1,0,0,0,0,0.67,0.0,0.67,0.67,0.67
+INT-World Cup,2026,Germany,Pascal Groß,Germany,"DF,MF",34,1. Brighton,1991,1,0,18,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Germany,Waldemar Anton,Germany,"DF,MF",29,1. Dortmund,1996,2,0,50,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ghana,Abdul Fatawu Issahaku,Ghana,"FW,MF",22,2. Leicester City,2004,4,0,132,1.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ghana,Abdul Rahman Baba,Ghana,"DF,MF",31,1. PAOK,1994,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ghana,Alidu Seidu,Ghana,DF,26,1. Rennes,2000,1,0,78,0.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ghana,Antoine Semenyo,Ghana,"MF,FW",26,1. Manchester City,2000,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ghana,Benjamin Asare,Ghana,GK,33,1. Accra Hearts of Oak,1992,3,2,225,2.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ghana,Brandon Thomas-Asante,Ghana,"FW,MF",27,2. Coventry City,1998,2,0,53,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ghana,Caleb Yirenkyi,Ghana,MF,20,1. Nordsjælland,2006,4,3,264,2.9,1,0,1,1,0,0,2,0,0.34,0.0,0.34,0.34,0.34
+INT-World Cup,2026,Ghana,Derrick Luckassen,Ghana,DF,30,1. Pafos FC,1995,2,2,180,2.0,1,0,1,1,0,0,0,0,0.5,0.0,0.5,0.5,0.5
+INT-World Cup,2026,Ghana,Elisha Owusu,Ghana,MF,28,1. Auxerre,1997,3,2,151,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ghana,Ernest Nuamah,Ghana,MF,22,1. Lyon,2003,3,1,89,1.0,0,1,1,0,0,0,0,0,0.0,1.01,1.01,0.0,1.01
+INT-World Cup,2026,Ghana,Gideon Mensah,Ghana,DF,27,1. Auxerre,1998,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ghana,Iñaki Williams,Ghana,"MF,FW",31,1. Athletic Club,1994,2,2,126,1.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ghana,Jerome Opoku,Ghana,DF,27,1. Başakşehir,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ghana,Jonas Adjetey,Ghana,DF,22,1. Wolfsburg,2003,3,3,225,2.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ghana,Jordan Ayew,Ghana,FW,34,2. Leicester City,1991,4,4,300,3.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ghana,Kamaldeen Sulemana,Ghana,"MF,FW",24,1. Atlanta Utd,2002,2,2,127,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ghana,Kojo Peprah Oppong,Ghana,DF,22,1. Nice,2004,2,0,49,0.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ghana,Kwasi Sibo,Ghana,MF,27,1. Oviedo,1998,4,3,248,2.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ghana,Lawrence Ati-Zigi,Ghana,GK,29,1. St. Gallen,1996,2,2,135,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ghana,Marvin Senaya,Ghana,DF,25,1. Auxerre,2001,4,4,278,3.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ghana,Prince Kwabena Adu,Ghana,FW,22,1. Viktoria Plzeň,2003,3,0,39,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Ghana,Thomas Partey,Ghana,MF,33,1. Villarreal,1993,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Haiti,Carlens Arcus,Haiti,"MF,DF",29,1. Angers,1996,3,2,146,1.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Haiti,Danley Jean-Jacques,Haiti,MF,26,1. Philadelphia,2000,3,3,259,2.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Haiti,Derrick Etienne,Haiti,"FW,MF",29,1. Toronto FC,1996,1,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Haiti,Dominique Simon,Haiti,MF,25,1. 1. FC Tatran Prešov B,2000,2,0,56,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Haiti,Duckens Nazon,Haiti,"FW,MF",32,1. Esteghlal,1994,1,0,24,0.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Haiti,Frantzdy Pierrot,Haiti,FW,31,1. Rizespor,1995,3,2,143,1.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Haiti,Hannes Delcroix,Haiti,DF,27,1. Lugano,1999,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Haiti,Jean-Kevin Duverne,Haiti,DF,28,1. Gent,1997,2,2,169,1.9,0,1,1,0,0,0,0,0,0.0,0.53,0.53,0.0,0.53
+INT-World Cup,2026,Haiti,Jean-Ricner Bellegarde,Haiti,MF,27,1. Wolves,1998,3,3,260,2.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Haiti,Johny Placide,Haiti,GK,38,2. Bastia,1988,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Haiti,Josué Casimir,Haiti,MF,24,1. Auxerre,2001,3,2,182,2.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Haiti,Lenny Joseph,Haiti,FW,25,1. Ferencváros,2000,3,1,117,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Haiti,Louicius Deedson,Haiti,MF,25,1. FC Dallas,2001,3,1,112,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Haiti,Martin Expérience,Haiti,"DF,MF",27,2. Nancy,1999,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Haiti,Ricardo Adé,Haiti,DF,36,1. LDU Quito,1990,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Haiti,Ruben Providence,Haiti,MF,24,2. Almere City,2001,3,3,220,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Haiti,Wilson Isidor,Haiti,FW,25,1. Sunderland,2000,3,2,186,2.1,1,0,1,1,0,0,0,0,0.48,0.0,0.48,0.48,0.48
+INT-World Cup,2026,Haiti,Yassin Fortuné,Haiti,"FW,MF",27,2. Vizela,1999,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,IR Iran,Ali Alipour,IR Iran,FW,30,1. Persepolis,1995,1,0,38,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,IR Iran,Ali Nemati,IR Iran,DF,30,1. Foolad,1996,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,IR Iran,Alireza Beiranvand,IR Iran,GK,33,1. Tractor,1992,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,IR Iran,Alireza Jahanbakhsh,IR Iran,"FW,MF",32,1. Dender,1993,2,0,46,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,IR Iran,Amirhossein Hosseinzadeh,IR Iran,FW,25,1. Tractor,2000,2,0,17,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,IR Iran,Aria Yousefi,IR Iran,MF,24,1. Sepahan,2002,1,1,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,IR Iran,Ehsan Hajsafi,IR Iran,DF,36,1. Sepahan,1990,2,1,91,1.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,IR Iran,Hossein Kanaanizadegan,IR Iran,DF,32,1. Persepolis,1994,2,2,135,1.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,IR Iran,Mehdi Ghayedi,IR Iran,FW,27,1. Al-Nasr Dubai,1998,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,IR Iran,Mehdi Taremi,IR Iran,FW,33,1. Olympiacos,1992,3,3,259,2.9,0,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,IR Iran,Mehdi Torabi,IR Iran,MF,31,1. Tractor,1994,1,0,25,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,IR Iran,Milad Mohammadi,IR Iran,DF,32,1. Persepolis,1993,3,2,205,2.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,IR Iran,Mohammad Ghorbani,IR Iran,MF,25,1. Al-Wahda FC,2001,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,IR Iran,Mohammad Mohebi,IR Iran,MF,27,1. Rostov,1998,3,3,244,2.7,1,0,1,1,0,0,0,0,0.37,0.0,0.37,0.37,0.37
+INT-World Cup,2026,IR Iran,Ramin Rezaeian,IR Iran,"DF,MF",36,1. Foolad,1990,3,3,270,3.0,2,1,3,2,0,0,0,0,0.67,0.33,1.0,0.67,1.0
+INT-World Cup,2026,IR Iran,Saeid Ezatolahi,IR Iran,MF,29,1. Al-Ahli Dubai FC,1996,3,3,264,2.9,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,IR Iran,Saleh Hardani,IR Iran,DF,27,1. Esteghlal,1998,2,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,IR Iran,Saman Ghoddos,IR Iran,MF,32,1. Al-Ittihad Kalba,1993,3,3,208,2.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,IR Iran,Shahriar Moghanlou,IR Iran,FW,31,1. Al-Ittihad Kalba,1994,3,1,88,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,IR Iran,Shoja' Khalilzadeh,IR Iran,DF,37,1. Tractor,1989,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Ahmed Basil,Iraq,GK,29,1. Al-Shorta,1996,2,2,135,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Ahmed Maknzi,Iraq,DF,24,1. Al-Karma,2001,1,0,33,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Ahmed Qasem,Iraq,"MF,FW",22,1. Nashville SC,2003,3,2,123,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Aimar Sher,Iraq,MF,23,1. Sarpsborg 08,2002,1,0,23,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Akam Hashim,Iraq,DF,27,1. Al-Zawra'a SC,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Ali Al Hamadi,Iraq,FW,24,2. Ipswich Town,2002,3,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Ali Jasim,Iraq,MF,22,1. Al-Najma,2004,2,2,129,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Ali Yousif,Iraq,FW,30,1. Al-Talaba,1996,1,0,33,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Amir Al Ammari,Iraq,MF,28,1. Cracovia,1997,3,3,247,2.7,0,1,1,0,0,0,2,0,0.0,0.36,0.36,0.0,0.36
+INT-World Cup,2026,Iraq,Ayman Hussein,Iraq,FW,30,1. Al-Karma,1996,2,2,115,1.3,1,0,1,1,0,0,0,0,0.78,0.0,0.78,0.78,0.78
+INT-World Cup,2026,Iraq,Frans Dhia Putros,Iraq,DF,32,1. Persib Bandung,1993,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Hussein Ali,Iraq,DF,24,1. Pogoń Szczecin,2002,2,2,162,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Ibrahim Bayesh,Iraq,"MF,FW",26,1. Al Dhafra SCC,2000,3,3,235,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Jalal Hassan,Iraq,GK,35,1. Al-Zawra'a SC,1991,2,1,135,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Kevin Yakob,Iraq,MF,25,1. AGF,2000,1,0,24,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Manaf Younis,Iraq,DF,29,1. Al-Shorta,1996,1,0,75,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Marko Farji,Iraq,MF,22,2. Venezia,2004,2,0,54,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Merchas Doski,Iraq,DF,26,1. Viktoria Plzeň,1999,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Mohanad Ali,Iraq,FW,25,1. Dibba Al Fujairah,2000,1,0,13,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Mustafa Saadoon,Iraq,DF,25,1. Al-Shorta,2001,1,0,18,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Rebin Sulaka,Iraq,DF,34,1. Port FC,1992,2,1,43,0.5,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Youssef Amyn,Iraq,MF,22,1. AEK Larnaca,2003,1,0,31,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Zaid Ismail,Iraq,MF,24,1. Al-Talaba,2002,2,2,117,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Zaid Tahseen,Iraq,DF,25,1. Pakhtakor Tashkent FK,2001,2,2,149,1.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Iraq,Zidane Iqbal,Iraq,MF,23,1. Utrecht,2003,3,2,188,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Japan,Ao Tanaka,Japan,MF,27,1. Leeds United,1998,3,2,193,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Japan,Ayase Ueda,Japan,FW,27,1. Feyenoord,1998,4,4,321,3.6,2,1,3,2,0,0,0,0,0.56,0.28,0.84,0.56,0.84
+INT-World Cup,2026,Japan,Ayumu Seko,Japan,DF,26,1. Le Havre,2000,2,1,86,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Japan,Daichi Kamada,Japan,MF,29,1. Crystal Palace,1996,4,4,329,3.7,2,0,2,2,0,0,1,0,0.55,0.0,0.55,0.55,0.55
+INT-World Cup,2026,Japan,Daizen Maeda,Japan,MF,28,1. Celtic,1997,3,3,244,2.7,1,0,1,1,0,0,0,0,0.37,0.0,0.37,0.37,0.37
+INT-World Cup,2026,Japan,Hiroki Ito,Japan,DF,27,1. Bayern Munich,1999,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Japan,Junnosuke Suzuki,Japan,DF,22,1. FC Copenhagen,2003,2,0,43,0.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Japan,Junya Itō,Japan,MF,33,1. Genk,1993,4,2,216,2.4,1,0,1,1,0,0,0,0,0.42,0.0,0.42,0.42,0.42
+INT-World Cup,2026,Japan,Kaishū Sano,Japan,MF,25,1. Mainz 05,2000,3,3,270,3.0,1,1,2,1,0,0,1,0,0.33,0.33,0.67,0.33,0.67
+INT-World Cup,2026,Japan,Keisuke Gotō,Japan,FW,21,1. Sint-Truiden,2005,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Japan,Keito Nakamura,Japan,MF,25,2. Reims,2000,4,4,307,3.4,1,1,2,1,0,0,0,0,0.29,0.29,0.59,0.29,0.59
+INT-World Cup,2026,Japan,Kento Shiogai,Japan,FW,21,1. Wolfsburg,2005,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Japan,Ko Itakura,Japan,DF,29,1. Ajax,1997,2,2,128,1.4,0,1,1,0,0,0,0,0,0.0,0.7,0.7,0.0,0.7
+INT-World Cup,2026,Japan,Kōki Ogawa,Japan,FW,28,1. NEC Nijmegen,1997,3,0,42,0.5,0,1,1,0,0,0,0,0,0.0,2.14,2.14,0.0,2.14
+INT-World Cup,2026,Japan,Ritsu Doan,Japan,MF,27,1. Frankfurt,1998,4,4,278,3.1,0,1,1,0,0,0,0,0,0.0,0.32,0.32,0.0,0.32
+INT-World Cup,2026,Japan,Shogo Taniguchi,Japan,DF,34,1. Sint-Truiden,1991,3,2,232,2.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Japan,Shuto Machino,Japan,FW,26,1. Gladbach,1999,1,0,13,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Japan,Takefusa Kubo,Japan,MF,25,1. Real Sociedad,2001,1,1,74,0.8,0,1,1,0,0,0,0,0,0.0,1.22,1.22,0.0,1.22
+INT-World Cup,2026,Japan,Takehiro Tomiyasu,Japan,DF,27,1. Ajax,1998,3,2,184,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Japan,Tsuyoshi Watanabe,Japan,DF,29,1. Feyenoord,1997,2,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Japan,Yuito Suzuki,Japan,"FW,MF",24,1. Freiburg,2001,1,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Japan,Yukinari Sugawara,Japan,MF,25,1. Werder Bremen,2000,4,1,148,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Japan,Yūto Nagatomo,Japan,"DF,MF",39,1. FC Tokyo,1986,1,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Japan,Zion Suzuki,Japan,GK,23,1. Parma,2002,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Jordan,Abdallah Nasib,Jordan,DF,32,1. Al-Zawra'a SC,1994,3,3,260,2.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Jordan,Ali Azaizeh,Jordan,MF,22,1. Al-Shabab,2004,3,1,54,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Jordan,Ali Olwan,Jordan,MF,26,1. Al-Sailiya SC,2000,3,3,268,3.0,1,0,1,1,0,0,0,0,0.34,0.0,0.34,0.34,0.34
+INT-World Cup,2026,Jordan,Amer Jamous,Jordan,MF,23,1. Al-Zawra'a SC,2002,1,0,15,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Jordan,Husam Abu Dahab,Jordan,DF,26,1. Al-Salmiya SC,2000,2,2,178,2.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Jordan,Ihsan Haddad,Jordan,DF,32,1. Al-Hussein SC,1994,3,3,260,2.9,0,1,1,0,0,0,0,0,0.0,0.35,0.35,0.0,0.35
+INT-World Cup,2026,Jordan,Mahmoud Al-Mardi,Jordan,MF,32,1. Al-Hussein SC,1993,3,1,130,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Jordan,Mo Abualnadi,Jordan,DF,25,1. Selangor FA,2001,1,1,71,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Jordan,Mohammad Abu Hasheesh,Jordan,DF,31,1. Al-Karma,1995,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Jordan,Mohammad Al-Dawud,Jordan,"FW,MF",34,1. Al-Wehdat SC,1992,1,0,3,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Jordan,Mohannad Abu Taha,Jordan,DF,23,1. Al-Quwa Al-Jawiya,2003,3,3,264,2.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Jordan,Musa Al-Taamari,Jordan,FW,29,1. Rennes,1997,3,2,215,2.4,1,1,2,1,0,0,0,0,0.42,0.42,0.84,0.42,0.84
+INT-World Cup,2026,Jordan,Nizar Al Rashdan,Jordan,MF,27,1. Qatar SC,1999,3,3,255,2.8,1,0,1,1,0,0,0,0,0.35,0.0,0.35,0.35,0.35
+INT-World Cup,2026,Jordan,Noor Al Rawabdeh,Jordan,MF,29,1. Selangor FA,1997,3,3,270,3.0,0,1,1,0,0,0,0,0,0.0,0.33,0.33,0.0,0.33
+INT-World Cup,2026,Jordan,Odeh Al-Fakhouri,Jordan,"MF,FW",20,1. Pyramids FC,2005,3,2,148,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Jordan,Saed Al-Rosan,Jordan,DF,29,1. Al-Hussein SC,1997,1,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Jordan,Salim Obaid,Jordan,DF,34,1. Al-Hussein SC,1992,3,0,21,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Jordan,Sharara,Jordan,FW,28,1. Raja Casablanca,1997,2,0,2,0.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Jordan,Yazan Al-Arab,Jordan,DF,30,1. FC Seoul,1996,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Jordan,Yazeed Abulaila,Jordan,GK,33,1. Al-Hussein SC,1993,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Korea Republic,Cho Gue-sung,Korea Republic,FW,28,1. Midtjylland,1998,2,0,31,0.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Korea Republic,Eom Ji-sung,Korea Republic,MF,24,2. Swansea City,2002,2,0,42,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Korea Republic,Hwang Hee-chan,Korea Republic,FW,30,1. Wolves,1996,3,1,108,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Korea Republic,Hwang In-beom,Korea Republic,MF,29,1. Feyenoord,1996,3,3,263,2.9,1,1,2,1,0,0,0,0,0.34,0.34,0.68,0.34,0.68
+INT-World Cup,2026,Korea Republic,Jens Castrop,Korea Republic,MF,22,1. Gladbach,2003,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Korea Republic,Kim Jin-gyu,Korea Republic,MF,29,1. Jeonbuk,1997,2,0,52,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Korea Republic,Kim Min-jae,Korea Republic,DF,29,1. Bayern Munich,1996,3,3,245,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Korea Republic,Kim Moon-hwan,Korea Republic,MF,30,1. Daejeon Hana,1995,1,1,70,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Korea Republic,Kim Seung-gyu,Korea Republic,GK,35,1. FC Tokyo,1990,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Korea Republic,Lee Gi-hyuk,Korea Republic,DF,25,1. Gangwon FC,2000,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Korea Republic,Lee Han-beom,Korea Republic,DF,23,1. Midtjylland,2002,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Korea Republic,Lee Jae-sung,Korea Republic,FW,33,1. Mainz 05,1992,2,2,117,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Korea Republic,Lee Kang-in,Korea Republic,FW,25,1. PSG,2001,3,3,270,3.0,0,1,1,0,0,0,1,0,0.0,0.33,0.33,0.0,0.33
+INT-World Cup,2026,Korea Republic,Lee Tae-seok,Korea Republic,MF,23,1. Austria Wien,2002,2,2,113,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Korea Republic,Oh Hyeon-gyu,Korea Republic,FW,25,1. Beşiktaş,2001,3,1,129,1.4,1,0,1,1,0,0,0,0,0.7,0.0,0.7,0.7,0.7
+INT-World Cup,2026,Korea Republic,Paik Seung-ho,Korea Republic,MF,29,2. Birmingham City,1997,3,3,204,2.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Korea Republic,Park Jinseob,Korea Republic,"DF,MF",30,1. Zhejiang,1995,2,0,32,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Korea Republic,Seol Young-woo,Korea Republic,MF,27,1. Red Star,1998,3,3,250,2.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Korea Republic,Son Heung-min,Korea Republic,FW,33,1. LAFC,1992,3,2,169,1.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Korea Republic,Yang Hyun-jun,Korea Republic,"FW,MF",24,1. Celtic,2002,1,0,20,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Mexico,Alexis Vega,Mexico,"FW,MF",28,1. Toluca,1997,1,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Mexico,Armando González,Mexico,FW,23,1. Guadalajara,2003,1,0,15,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Mexico,Brian Gutiérrez,Mexico,MF,22,1. Guadalajara,2003,4,2,198,2.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Mexico,César Huerta,Mexico,"FW,MF",25,1. Anderlecht,2000,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Mexico,César Montes,Mexico,DF,29,1. Loko Moscow,1997,4,4,314,3.5,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Mexico,Edson Álvarez,Mexico,"MF,DF",28,1. West Ham,1997,4,2,240,2.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Mexico,Erik Lira,Mexico,MF,26,1. Cruz Azul,2000,4,4,345,3.8,0,1,1,0,0,0,0,0,0.0,0.26,0.26,0.0,0.26
+INT-World Cup,2026,Mexico,Gilberto Mora,Mexico,MF,17,1. Tijuana,2008,4,3,213,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Mexico,Guillermo Martínez Ayala,Mexico,FW,31,1. UNAM,1995,2,1,72,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Mexico,Guillermo Ochoa,Mexico,GK,40,1. AEL Limassol,1985,1,0,13,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Mexico,Israel Reyes,Mexico,DF,26,1. América,2000,4,2,202,2.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Mexico,Jesús Gallardo,Mexico,DF,31,1. Toluca,1994,5,4,373,4.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Mexico,Johan Vásquez,Mexico,DF,27,1. Genoa,1998,4,4,360,4.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Mexico,Jorge Sánchez,Mexico,DF,28,1. PAOK,1997,4,4,348,3.9,0,1,1,0,0,0,1,0,0.0,0.26,0.26,0.0,0.26
+INT-World Cup,2026,Mexico,Julián Quiñones,Mexico,"FW,MF",29,1. Al-Qadsiah,1997,5,5,410,4.6,4,1,5,4,0,0,0,0,0.88,0.22,1.1,0.88,1.1
+INT-World Cup,2026,Mexico,Luis Chávez,Mexico,MF,30,1. Dynamo Moskva,1996,1,0,25,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Mexico,Luis Romo,Mexico,MF,31,1. Guadalajara,1995,4,4,264,2.9,1,1,2,1,0,0,0,0,0.34,0.34,0.68,0.34,0.68
+INT-World Cup,2026,Mexico,Mateo Chávez,Mexico,DF,22,1. AZ Alkmaar,2004,1,1,77,0.9,1,0,1,1,0,0,0,0,1.17,0.0,1.17,1.17,1.17
+INT-World Cup,2026,Mexico,Obed Vargas,Mexico,MF,20,1. Atlético Madrid,2005,3,0,66,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Mexico,Orbelín Pineda,Mexico,"FW,MF",30,1. AEK Athens,1996,2,0,31,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Mexico,Raúl Jiménez,Mexico,FW,35,1. Fulham,1991,4,4,317,3.5,3,0,3,2,1,1,0,0,0.85,0.0,0.85,0.57,0.57
+INT-World Cup,2026,Mexico,Raúl Rangel,Mexico,GK,26,1. Guadalajara,2000,5,5,437,4.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Mexico,Roberto Alvarado,Mexico,"FW,MF",27,1. Guadalajara,1998,5,5,428,4.8,0,3,3,0,0,0,0,0,0.0,0.63,0.63,0.0,0.63
+INT-World Cup,2026,Mexico,Santiago Giménez,Mexico,FW,25,1. Milan,2001,4,0,86,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Mexico,Álvaro Fidalgo,Mexico,MF,29,1. Real Betis,1997,3,1,96,1.1,1,0,1,1,0,0,0,0,0.94,0.0,0.94,0.94,0.94
+INT-World Cup,2026,Morocco,Achraf Hakimi,Morocco,DF,27,1. PSG,1998,6,6,570,6.3,1,2,3,1,0,0,1,0,0.16,0.32,0.47,0.16,0.47
+INT-World Cup,2026,Morocco,Amine Sbai,Morocco,"FW,MF",25,1. Angers,2000,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Morocco,Anass Salah-Eddine,Morocco,DF,24,1. PSV,2002,4,2,212,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Morocco,Ayoub El Kaabi,Morocco,FW,32,1. Olympiacos,1993,1,1,69,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Morocco,Ayoube Amaimouni,Morocco,MF,21,1. Frankfurt,2004,2,0,18,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Morocco,Ayyoub Bouaddi,Morocco,MF,18,1. Lille,2007,5,5,381,4.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Morocco,Azzedine Ounahi,Morocco,MF,26,1. Girona,2000,6,5,435,4.8,2,0,2,2,0,0,1,0,0.41,0.0,0.41,0.41,0.41
+INT-World Cup,2026,Morocco,Bilal El Khannouss,Morocco,"MF,FW",22,1. Stuttgart,2004,6,6,461,5.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Morocco,Brahim Díaz,Morocco,MF,26,1. Real Madrid,1999,6,6,457,5.1,0,4,4,0,0,0,0,0,0.0,0.79,0.79,0.0,0.79
+INT-World Cup,2026,Morocco,Chadi Riad,Morocco,DF,22,1. Crystal Palace,2003,4,4,344,3.8,0,1,1,0,0,0,0,0,0.0,0.26,0.26,0.0,0.26
+INT-World Cup,2026,Morocco,Chemsdine Talbi,Morocco,MF,21,1. Sunderland,2005,5,1,179,2.0,0,1,1,0,0,0,0,0,0.0,0.5,0.5,0.0,0.5
+INT-World Cup,2026,Morocco,Gessime Yassine,Morocco,MF,20,1. Strasbourg,2005,3,0,80,0.9,1,0,1,1,0,0,0,0,1.13,0.0,1.13,1.13,1.13
+INT-World Cup,2026,Morocco,Ismael Saibari,Morocco,FW,25,1. PSV,2001,5,5,381,4.2,3,0,3,3,0,0,0,0,0.71,0.0,0.71,0.71,0.71
+INT-World Cup,2026,Morocco,Issa Diop,Morocco,DF,29,1. Fulham,1997,5,5,476,5.3,1,0,1,1,0,0,3,0,0.19,0.0,0.19,0.19,0.19
+INT-World Cup,2026,Morocco,Marwane Saâdane,Morocco,"DF,MF",34,1. Al-Fateh,1992,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Morocco,Neil El Aynaoui,Morocco,MF,24,1. Roma,2001,6,6,562,6.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Morocco,Noussair Mazraoui,Morocco,DF,28,1. Manchester Utd,1997,6,5,477,5.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Morocco,Redouane Halhal,Morocco,DF,23,1. Mechelen,2003,2,2,180,2.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Morocco,Samir El Mourabet,Morocco,MF,20,1. Strasbourg,2005,5,0,81,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Morocco,Sofyan Amrabat,Morocco,MF,29,1. Real Betis,1996,3,1,147,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Morocco,Soufiane Rahimi,Morocco,FW,30,1. Al Ain,1996,6,0,163,1.8,2,1,3,2,0,0,0,0,1.1,0.55,1.66,1.1,1.66
+INT-World Cup,2026,Morocco,Yassine Bounou,Morocco,GK,35,1. Al-Hilal,1991,6,6,570,6.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Morocco,Zakaria El Ouahdi,Morocco,"DF,MF",24,1. Genk,2001,1,0,17,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Netherlands,Bart Verbruggen,Netherlands,GK,23,1. Brighton,2002,4,4,390,4.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Netherlands,Brian Brobbey,Netherlands,FW,24,1. Sunderland,2002,4,3,223,2.5,3,0,3,3,0,0,0,0,1.21,0.0,1.21,1.21,1.21
+INT-World Cup,2026,Netherlands,Cody Gakpo,Netherlands,FW,27,1. Liverpool,1999,4,4,368,4.1,3,1,4,3,0,0,0,0,0.73,0.24,0.98,0.73,0.98
+INT-World Cup,2026,Netherlands,Crysencio Summerville,Netherlands,FW,24,1. West Ham,2001,4,2,253,2.8,2,2,4,2,0,0,1,0,0.71,0.71,1.42,0.71,1.42
+INT-World Cup,2026,Netherlands,Denzel Dumfries,Netherlands,"DF,MF",30,1. Inter,1996,4,4,390,4.3,0,2,2,0,0,0,0,0,0.0,0.46,0.46,0.0,0.46
+INT-World Cup,2026,Netherlands,Donyell Malen,Netherlands,FW,27,1. Roma,1999,3,3,185,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Netherlands,Frenkie de Jong,Netherlands,MF,29,1. Barcelona,1997,4,4,328,3.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Netherlands,Guus Til,Netherlands,"FW,MF",28,1. PSV,1997,1,0,32,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Netherlands,Jan Paul van Hecke,Netherlands,DF,26,1. Brighton,2000,4,4,390,4.3,1,0,1,1,0,0,0,0,0.23,0.0,0.23,0.23,0.23
+INT-World Cup,2026,Netherlands,Jorrel Hato,Netherlands,DF,20,1. Chelsea,2006,1,0,35,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Netherlands,Justin Kluivert,Netherlands,"FW,MF",27,1. Bournemouth,1999,2,0,27,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Netherlands,Marten de Roon,Netherlands,"DF,MF",35,1. Atalanta,1991,1,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Netherlands,Memphis,Netherlands,"FW,MF",32,1. Corinthians,1994,3,0,54,0.6,0,1,1,0,0,0,1,0,0.0,1.67,1.67,0.0,1.67
+INT-World Cup,2026,Netherlands,Micky van de Ven,Netherlands,"DF,MF",25,1. Tottenham,2001,3,3,265,2.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Netherlands,Nathan Aké,Netherlands,DF,31,1. Manchester City,1995,3,2,170,1.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Netherlands,Noa Lang,Netherlands,"FW,MF",26,1. Galatasaray,1999,2,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Netherlands,Quinten Timber,Netherlands,MF,24,1. Marseille,2001,2,0,55,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Netherlands,Ryan Gravenberch,Netherlands,MF,24,1. Liverpool,2002,4,4,345,3.8,0,2,2,0,0,0,0,0,0.0,0.52,0.52,0.0,0.52
+INT-World Cup,2026,Netherlands,Teun Koopmeiners,Netherlands,"DF,MF",28,1. Juventus,1998,4,0,122,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Netherlands,Tijjani Reijnders,Netherlands,MF,27,1. Manchester City,1998,3,3,199,2.2,0,1,1,0,0,0,0,0,0.0,0.45,0.45,0.0,0.45
+INT-World Cup,2026,Netherlands,Virgil van Dijk,Netherlands,DF,34,1. Liverpool,1991,4,4,390,4.3,1,1,2,1,0,0,0,0,0.23,0.23,0.46,0.23,0.46
+INT-World Cup,2026,Netherlands,Wout Weghorst,Netherlands,FW,33,1. Ajax,1992,1,0,50,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,New Zealand,Ben Old,New Zealand,MF,23,2. Saint-Étienne,2002,3,0,93,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,New Zealand,Callan Elliot,New Zealand,DF,26,1. Auckland FC,1999,1,0,13,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,New Zealand,Callum McCowatt,New Zealand,MF,27,1. Silkeborg,1999,3,2,159,1.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,New Zealand,Chris Wood,New Zealand,FW,34,1. Nottingham,1991,3,3,270,3.0,0,2,2,0,0,0,0,0,0.0,0.67,0.67,0.0,0.67
+INT-World Cup,2026,New Zealand,Elijah Just,New Zealand,MF,26,1. Motherwell,2000,3,3,264,2.9,3,0,3,3,0,0,1,0,1.02,0.0,1.02,1.02,1.02
+INT-World Cup,2026,New Zealand,Finn Surman,New Zealand,DF,22,1. Portland Timbers,2003,3,3,270,3.0,1,0,1,1,0,0,0,0,0.33,0.0,0.33,0.33,0.33
+INT-World Cup,2026,New Zealand,Francis de Vries,New Zealand,DF,31,1. Auckland FC,1994,2,0,18,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,New Zealand,Jesse Randall,New Zealand,MF,23,1. Auckland FC,2002,3,0,61,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,New Zealand,Joe Bell,New Zealand,MF,27,1. Viking,1999,3,3,243,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,New Zealand,Liberato Cacace,New Zealand,DF,25,2. Wrexham,2000,3,3,220,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,New Zealand,Marko Stamenic,New Zealand,MF,24,2. Swansea City,2002,3,3,269,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,New Zealand,Max Crocombe,New Zealand,GK,32,2. Millwall,1993,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,New Zealand,Michael Boxall,New Zealand,DF,37,1. Minnesota Utd,1988,3,2,207,2.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,New Zealand,Ryan Thomas,New Zealand,MF,31,1. Zwolle,1994,3,1,83,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,New Zealand,Sarpreet Singh,New Zealand,MF,27,1. Wellington,1999,3,3,209,2.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,New Zealand,Tim Payne,New Zealand,DF,32,1. Wellington,1994,3,3,224,2.5,0,1,1,0,0,0,0,0,0.0,0.4,0.4,0.0,0.4
+INT-World Cup,2026,New Zealand,Tyler Bindon,New Zealand,DF,21,2. Sheffield United,2005,3,1,97,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Norway,Alexander Sørloth,Norway,FW,30,1. Atlético Madrid,1995,5,5,337,3.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Norway,Andreas Schjelderup,Norway,FW,22,1. Benfica,2004,6,2,252,2.8,1,3,4,1,0,0,0,0,0.36,1.07,1.43,0.36,1.43
+INT-World Cup,2026,Norway,Antonio Nusa,Norway,FW,21,1. RB Leipzig,2005,6,4,318,3.5,1,0,1,1,0,0,1,0,0.28,0.0,0.28,0.28,0.28
+INT-World Cup,2026,Norway,David Møller Wolfe,Norway,DF,24,1. Wolves,2002,5,5,430,4.8,0,1,1,0,0,0,0,0,0.0,0.21,0.21,0.0,0.21
+INT-World Cup,2026,Norway,Egil Selvik,Norway,GK,28,2. Watford,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Norway,Erling Haaland,Norway,FW,25,1. Manchester City,2000,5,5,465,5.2,7,0,7,7,0,0,0,0,1.35,0.0,1.35,1.35,1.35
+INT-World Cup,2026,Norway,Fredrik André Bjørkan,Norway,DF,27,1. Bodø/Glimt,1998,1,1,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Norway,Fredrik Aursnes,Norway,"MF,DF",30,1. Benfica,1995,6,3,304,3.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Norway,Henrik Falchener,Norway,DF,23,1. Viking,2003,1,1,65,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Norway,Jens Petter Hauge,Norway,"DF,FW",26,1. Bodø/Glimt,1999,1,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Norway,Julian Ryerson,Norway,DF,28,1. Dortmund,1997,4,4,223,2.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Norway,Jørgen Strand Larsen,Norway,FW,26,1. Crystal Palace,2000,2,1,105,1.2,0,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Norway,Kristian Thorstvedt,Norway,MF,27,1. Sassuolo,1999,2,1,63,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Norway,Kristoffer Ajer,Norway,DF,28,1. Brentford,1998,5,5,480,5.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Norway,Leo Østigård,Norway,DF,26,1. Genoa,1999,5,1,146,1.6,1,0,1,1,0,0,0,0,0.62,0.0,0.62,0.62,0.62
+INT-World Cup,2026,Norway,Marcus Pedersen,Norway,DF,25,1. Torino,2000,4,1,236,2.6,1,0,1,1,0,0,0,0,0.38,0.0,0.38,0.38,0.38
+INT-World Cup,2026,Norway,Martin Ødegaard,Norway,MF,27,1. Arsenal,1998,5,5,470,5.2,0,4,4,0,0,0,0,0,0.0,0.77,0.77,0.0,0.77
+INT-World Cup,2026,Norway,Morten Thorsby,Norway,MF,30,1. Cremonese,1996,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Norway,Oscar Bobb,Norway,FW,22,1. Fulham,2003,6,1,225,2.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Norway,Patrick Berg,Norway,MF,28,1. Bodø/Glimt,1997,6,4,445,4.9,0,2,2,0,0,0,1,0,0.0,0.4,0.4,0.0,0.4
+INT-World Cup,2026,Norway,Sander Berge,Norway,MF,28,1. Fulham,1998,5,5,480,5.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Norway,Sondre Langås,Norway,DF,25,2. Derby County,2001,1,0,25,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Norway,Thelo Aasgaard,Norway,MF,24,1. Rangers,2002,1,1,90,1.0,1,0,1,1,0,0,0,0,1.0,0.0,1.0,1.0,1.0
+INT-World Cup,2026,Norway,Torbjørn Heggem,Norway,DF,27,1. Bologna,1999,5,5,443,4.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Norway,Ørjan Nyland,Norway,GK,35,1. Sevilla,1990,5,5,480,5.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Panama,Alberto Quintero,Panama,"FW,MF",38,1. Plaza Amador,1987,1,0,3,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Panama,Andrés Andrade Cedeño,Panama,DF,27,1. LASK,1998,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Panama,Aníbal Godoy,Panama,MF,36,1. San Diego FC,1990,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Panama,Azarías Londoño,Panama,MF,24,1. Univ Católica,2001,3,0,56,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Panama,Carlos Harvey,Panama,MF,26,1. Minnesota Utd,2000,3,3,267,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Panama,Cecilio Waterman,Panama,FW,35,1. U Concepción,1991,2,1,76,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Panama,Cristian Martínez,Panama,"MF,FW",29,1. Kiryat Shmona,1997,3,3,242,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Panama,César Blackman,Panama,"MF,DF",28,1. Slovan Bratislava,1998,2,2,178,2.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Panama,Erick Davis,Panama,DF,35,1. Plaza Amador,1991,2,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Panama,Fidel Escobar,Panama,DF,31,1. Saprissa,1995,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Panama,Ismael Díaz,Panama,"FW,MF",29,1. León,1997,2,0,37,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Panama,Jiovany Ramos,Panama,DF,29,1. Puerto Cabello,1997,2,2,166,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Panama,Jorge Gutiérrez,Panama,DF,27,1. Dep. La Guaira,1998,1,1,87,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Panama,José Córdoba,Panama,DF,25,2. Norwich City,2001,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Panama,José Fajardo,Panama,FW,32,1. Univ Católica,1993,3,1,155,1.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Panama,José Luis Rodríguez,Panama,"MF,FW",27,1. FC Juárez,1998,3,3,233,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Panama,Michael Amir Murillo,Panama,"DF,MF",30,1. Beşiktaş,1996,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Panama,Orlando Mosquera,Panama,GK,31,1. Al-Fayha,1994,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Panama,Tomás Rodríguez,Panama,FW,27,1. Saprissa,1999,2,1,46,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Panama,Yoel Bárcenas,Panama,MF,32,1. Mazatlán,1993,3,3,249,2.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,Alexandro Maidana,Paraguay,DF,20,1. Talleres–C,2005,2,1,55,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,Andrés Cubas,Paraguay,MF,30,1. Vancouver,1996,5,5,480,5.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,Antonio Sanabria,Paraguay,FW,30,1. Cremonese,1996,2,1,83,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,Braian Ojeda,Paraguay,MF,25,1. Orlando City,2000,1,0,22,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,Damián Bobadilla,Paraguay,MF,24,1. São Paulo,2001,4,2,189,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,Diego Gómez,Paraguay,MF,23,1. Brighton,2003,4,4,304,3.4,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,Fabián Balbuena,Paraguay,DF,34,1. Grêmio,1991,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,Gabriel Ávalos,Paraguay,FW,35,1. Independiente,1990,4,2,141,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,Gustavo Caballero,Paraguay,"FW,MF",24,2. Portsmouth,2001,2,0,96,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,Gustavo Gómez,Paraguay,DF,33,1. Palmeiras,1993,5,5,480,5.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,Gustavo Velásquez,Paraguay,DF,35,1. Cerro Porteño,1991,5,2,246,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,Isidro Pitta,Paraguay,FW,26,1. RB Bragantino,1999,1,1,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,José Canale,Paraguay,DF,29,1. Lanús,1996,4,1,161,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,Juan Cáceres,Paraguay,DF,26,1. Dynamo Moskva,2000,5,5,436,4.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,Julio Enciso,Paraguay,FW,22,1. Strasbourg,2004,5,5,386,4.3,1,2,3,1,0,0,0,0,0.23,0.47,0.7,0.23,0.7
+INT-World Cup,2026,Paraguay,Júnior Alonso,Paraguay,DF,33,1. Atlético Mineiro,1993,5,4,390,4.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,Kaku,Paraguay,MF,31,1. Al Ain,1995,1,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,Matías Galarza,Paraguay,MF,24,1. Atlanta Utd,2002,4,4,388,4.3,1,1,2,1,0,0,2,0,0.23,0.23,0.46,0.23,0.46
+INT-World Cup,2026,Paraguay,Mauricio,Paraguay,MF,25,1. Palmeiras,2001,4,0,173,1.9,1,0,1,1,0,0,0,0,0.52,0.0,0.52,0.52,0.52
+INT-World Cup,2026,Paraguay,Miguel Almirón,Paraguay,"MF,FW",32,1. Atlanta Utd,1994,4,4,282,3.1,0,0,0,0,0,0,1,1,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,Omar Alderete,Paraguay,DF,29,1. Sunderland,1996,4,4,320,3.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,Orlando Gill,Paraguay,GK,26,1. San Lorenzo,2000,5,5,480,5.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,Ramón Sosa,Paraguay,"FW,MF",26,1. Palmeiras,1999,1,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Paraguay,Álex Arce,Paraguay,FW,30,1. Ind. Rivadavia,1995,2,0,53,0.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Portugal,Bernardo Silva,Portugal,MF,31,1. Manchester City,1994,4,1,97,1.1,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Portugal,Bruno Fernandes,Portugal,MF,31,1. Manchester Utd,1994,5,5,422,4.7,0,1,1,0,0,0,0,0,0.0,0.21,0.21,0.0,0.21
+INT-World Cup,2026,Portugal,Cristiano Ronaldo,Portugal,FW,41,1. Al-Nassr,1985,5,5,440,4.9,3,0,3,2,1,1,0,0,0.61,0.0,0.61,0.41,0.41
+INT-World Cup,2026,Portugal,Diogo Costa,Portugal,GK,26,1. Porto,1999,5,5,450,5.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Portugal,Diogo Dalot,Portugal,"DF,MF",27,1. Manchester Utd,1999,2,0,65,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Portugal,Francisco Conceição,Portugal,MF,23,1. Juventus,2002,4,0,126,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Portugal,Francisco Trincão,Portugal,"FW,MF",26,1. Sporting CP,1999,1,0,28,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Portugal,Gonçalo Ramos,Portugal,FW,24,1. PSG,2001,2,0,36,0.4,1,0,1,1,0,0,0,0,2.5,0.0,2.5,2.5,2.5
+INT-World Cup,2026,Portugal,João Cancelo,Portugal,DF,32,1. Barcelona,1994,5,5,312,3.5,0,1,1,0,0,0,0,0,0.0,0.29,0.29,0.0,0.29
+INT-World Cup,2026,Portugal,João Félix,Portugal,MF,26,1. Al-Nassr,1999,3,3,201,2.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Portugal,João Neves,Portugal,MF,21,1. PSG,2004,5,4,390,4.3,1,0,1,1,0,0,0,0,0.23,0.0,0.23,0.23,0.23
+INT-World Cup,2026,Portugal,Matheus Nunes,Portugal,"DF,MF",27,1. Manchester City,1998,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Portugal,Nuno Mendes,Portugal,DF,23,1. PSG,2002,5,5,395,4.4,1,0,1,1,0,0,0,0,0.23,0.0,0.23,0.23,0.23
+INT-World Cup,2026,Portugal,Nélson Semedo,Portugal,"DF,MF",32,1. Fenerbahçe,1993,4,0,127,1.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Portugal,Pedro Neto,Portugal,MF,26,1. Chelsea,2000,5,5,350,3.9,0,1,1,0,0,0,0,0,0.0,0.26,0.26,0.0,0.26
+INT-World Cup,2026,Portugal,Rafael Leão,Portugal,MF,27,1. Milan,1999,5,1,158,1.8,1,1,2,1,0,0,0,0,0.57,0.57,1.14,0.57,1.14
+INT-World Cup,2026,Portugal,Renato Veiga,Portugal,DF,22,1. Villarreal,2003,5,5,450,5.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Portugal,Rúben Dias,Portugal,DF,29,1. Manchester City,1997,4,4,360,4.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Portugal,Rúben Neves,Portugal,MF,29,1. Al-Hilal,1997,2,1,55,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Portugal,Samu Costa,Portugal,MF,25,1. Mallorca,2000,1,0,21,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Portugal,Tomás Araújo,Portugal,DF,24,1. Benfica,2002,1,1,90,1.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Portugal,Vitinha,Portugal,MF,26,1. PSG,2000,5,5,376,4.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Qatar,Abdulaziz Hatem,Qatar,MF,36,1. Al Rayyan SC,1990,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Qatar,Ahmed Al-Ganehi,Qatar,FW,25,1. Al-Gharafa Sports Club,2000,1,0,36,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Qatar,Ahmed Alaaeldin,Qatar,FW,33,1. Al Rayyan SC,1993,2,0,43,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Qatar,Ahmed Fathy,Qatar,MF,33,1. Al-Arabi,1993,3,1,150,1.7,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Qatar,Akram Afif,Qatar,"FW,MF",29,1. Al Sadd,1996,3,3,238,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Qatar,Al-Hashmi Al-Hussain,Qatar,MF,22,1. Al-Arabi,2003,1,0,32,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Qatar,Almoez Ali,Qatar,FW,29,1. Al Duhail SC,1996,1,0,19,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Qatar,Assim Madibo,Qatar,MF,29,1. Al-Wakrah,1996,2,2,131,1.5,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Qatar,Ayoub Al-Oui,Qatar,DF,21,1. Al-Gharafa Sports Club,2005,2,2,149,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Qatar,Boualem Khoukhi,Qatar,DF,35,1. Al Sadd,1990,3,3,270,3.0,1,0,1,1,0,0,0,0,0.33,0.0,0.33,0.33,0.33
+INT-World Cup,2026,Qatar,Edmilson Junior,Qatar,"MF,FW",31,1. Al Duhail SC,1994,3,3,210,2.3,0,1,1,0,0,0,0,0,0.0,0.43,0.43,0.0,0.43
+INT-World Cup,2026,Qatar,Hassan Al-Haydos,Qatar,MF,35,1. Al Sadd,1990,2,1,57,0.6,1,0,1,1,0,0,0,0,1.58,0.0,1.58,1.58,1.58
+INT-World Cup,2026,Qatar,Homam Ahmed,Qatar,DF,26,2. Cultural Leonesa,1999,2,2,122,1.4,0,1,1,0,0,0,0,1,0.0,0.74,0.74,0.0,0.74
+INT-World Cup,2026,Qatar,Issa Laye,Qatar,"MF,DF",28,1. Al-Arabi,1997,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Qatar,Jassem Gaber,Qatar,MF,24,1. Al Rayyan SC,2002,3,3,149,1.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Qatar,Karim Boudiaf,Qatar,MF,35,1. Al Duhail SC,1990,2,1,102,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Qatar,Lucas Mendes,Qatar,DF,35,1. Al-Wakrah,1990,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Qatar,Mahmoud Abunada,Qatar,GK,26,1. Al Rayyan SC,2000,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Qatar,Mohamed Manai,Qatar,DF,23,1. Al-Shamal Sports Club,2002,3,0,69,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Qatar,Ró-Ró,Qatar,DF,35,1. Al Sadd,1990,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Qatar,Sultan Al-Brake,Qatar,DF,30,1. Al Duhail SC,1996,2,1,141,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Qatar,Yusuf Abdurisag,Qatar,FW,26,1. Al-Wakrah,1999,2,2,98,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Saudi Arabia,Abdulelah Al-Amri,Saudi Arabia,DF,29,,1997,3,3,239,2.7,1,0,1,1,0,0,1,0,0.38,0.0,0.38,0.38,0.38
+INT-World Cup,2026,Saudi Arabia,Abdullah Al-Hamdan,Saudi Arabia,FW,26,1. Al-Nassr,1999,3,0,71,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Saudi Arabia,Abdullah Al-Khaibari,Saudi Arabia,MF,29,1. Al-Nassr,1996,3,3,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Saudi Arabia,Alaa Al Hejji,Saudi Arabia,MF,30,1. Neom,1995,2,0,32,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Saudi Arabia,Ali Lajami,Saudi Arabia,DF,30,1. Al-Hilal,1996,3,1,149,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Saudi Arabia,Firas Al-Buraikan,Saudi Arabia,FW,26,1. Al-Ahli,2000,3,3,238,2.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Saudi Arabia,Hassan Al Tambakti,Saudi Arabia,DF,27,1. Al-Hilal,1999,3,3,212,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Saudi Arabia,Khalid Al Ghannam,Saudi Arabia,MF,25,1. Al-Ettifaq,2000,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Saudi Arabia,Mohamed Kanno,Saudi Arabia,MF,31,1. Al-Hilal,1994,3,2,225,2.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Saudi Arabia,Mohammed Abu Al-Shamat,Saudi Arabia,MF,23,1. Al-Qadsiah,2002,3,1,136,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Saudi Arabia,Mohammed Al-Owais,Saudi Arabia,GK,34,1. Al-Ula,1991,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Saudi Arabia,Moteb Al-Harbi,Saudi Arabia,DF,26,1. Al-Hilal,2000,3,2,188,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Saudi Arabia,Musab Al Juwayr,Saudi Arabia,"MF,FW",22,1. Al-Qadsiah,2003,3,2,152,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Saudi Arabia,Nasser Al-Dawsari,Saudi Arabia,MF,27,1. Al-Hilal,1998,3,2,207,2.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Saudi Arabia,Nawaf Boushal,Saudi Arabia,DF,26,1. Al-Nassr,1999,2,1,91,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Saudi Arabia,Salem Al-Dawsari,Saudi Arabia,MF,34,1. Al-Hilal,1991,3,3,245,2.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Saudi Arabia,Saud Abdulhamid,Saudi Arabia,DF,26,1. Lens,1999,3,3,269,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Saudi Arabia,Sultan Mendash,Saudi Arabia,MF,31,1. Al-Hilal,1994,1,1,65,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Scotland,Aaron Hickey,Scotland,DF,24,1. Brentford,2002,1,1,74,0.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Scotland,Andy Robertson,Scotland,DF,32,1. Liverpool,1994,3,3,225,2.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Scotland,Angus Gunn,Scotland,GK,30,1. Nottingham,1996,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Scotland,Anthony Ralston,Scotland,DF,27,1. Celtic,1998,2,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Scotland,Ben Gannon-Doak,Scotland,MF,20,1. Bournemouth,2005,3,2,186,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Scotland,Ché Adams,Scotland,FW,29,1. Torino,1996,3,2,145,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Scotland,Findlay Curtis,Scotland,MF,19,1. Kilmarnock,2006,2,0,9,0.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Scotland,Grant Hanley,Scotland,DF,34,1. Hibernian,1991,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Scotland,Jack Hendry,Scotland,DF,31,1. Al-Ettifaq,1995,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Scotland,John McGinn,Scotland,MF,31,1. Aston Villa,1994,3,3,259,2.9,1,0,1,1,0,0,0,0,0.35,0.0,0.35,0.35,0.35
+INT-World Cup,2026,Scotland,Kenny McLean,Scotland,MF,34,2. Norwich City,1992,3,1,118,1.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Scotland,Kieran Tierney,Scotland,MF,29,1. Celtic,1997,2,1,104,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Scotland,Lawrence Shankland,Scotland,FW,30,1. Hearts,1995,2,2,171,1.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Scotland,Lewis Ferguson,Scotland,MF,26,1. Bologna,1999,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Scotland,Lyndon Dykes,Scotland,"FW,MF",30,2. Charlton Athletic,1995,2,0,36,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Scotland,Nathan Patterson,Scotland,DF,24,1. Everton,2001,3,2,185,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Scotland,Ross Stewart,Scotland,FW,29,2. Southampton,1996,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Scotland,Ryan Christie,Scotland,MF,31,1. Bournemouth,1995,3,1,95,1.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Scotland,Scott McKenna,Scotland,DF,29,1. Dinamo Zagreb,1996,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Scotland,Scott McTominay,Scotland,MF,29,1. Napoli,1996,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Senegal,Abdoulaye Seck,Senegal,DF,34,1. Maccabi Haifa,1992,1,1,57,0.6,0,1,1,0,0,0,1,0,0.0,1.58,1.58,0.0,1.58
+INT-World Cup,2026,Senegal,Assane Diao,Senegal,MF,20,1. Como,2005,1,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Senegal,Bamba Dieng,Senegal,FW,26,1. Lorient,2000,1,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Senegal,Bara Sapoko Ndiaye,Senegal,MF,18,1. Bayern Munich,2007,1,0,26,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Senegal,El Hadji Malick Diouf,Senegal,DF,21,1. West Ham,2004,3,2,171,1.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Senegal,Habib Diarra,Senegal,MF,22,1. Sunderland,2004,3,2,143,1.6,2,0,2,2,0,0,0,0,1.26,0.0,1.26,1.26,1.26
+INT-World Cup,2026,Senegal,Ibrahim Mbaye,Senegal,MF,18,1. PSG,2008,4,1,157,1.7,1,0,1,1,0,0,0,0,0.57,0.0,0.57,0.57,0.57
+INT-World Cup,2026,Senegal,Idrissa Gueye,Senegal,MF,36,1. Everton,1989,4,4,361,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Senegal,Iliman Ndiaye,Senegal,FW,26,1. Everton,2000,3,1,114,1.3,1,2,3,1,0,0,0,0,0.79,1.58,2.37,0.79,2.37
+INT-World Cup,2026,Senegal,Ismail Jakobs,Senegal,DF,26,1. Galatasaray,1999,3,2,219,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Senegal,Ismaila Sarr,Senegal,"MF,FW",28,1. Crystal Palace,1998,4,4,364,4.0,4,1,5,4,0,0,0,0,0.99,0.25,1.24,0.99,1.24
+INT-World Cup,2026,Senegal,Kalidou Koulibaly,Senegal,DF,34,1. Al-Hilal,1991,2,2,161,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Senegal,Krépin Diatta,Senegal,DF,27,1. Monaco,1999,4,4,390,4.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Senegal,Lamine Camara,Senegal,MF,22,1. Monaco,2004,4,3,248,2.8,0,1,1,0,0,0,1,0,0.0,0.36,0.36,0.0,0.36
+INT-World Cup,2026,Senegal,Mory Diaw,Senegal,GK,32,1. Le Havre,1993,3,2,238,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Senegal,Moussa Niakhaté,Senegal,DF,30,1. Lyon,1996,4,4,390,4.3,0,1,1,0,0,0,0,0,0.0,0.23,0.23,0.0,0.23
+INT-World Cup,2026,Senegal,Nicolas Jackson,Senegal,FW,24,1. Bayern Munich,2001,4,2,234,2.6,0,1,1,0,0,0,0,0,0.0,0.38,0.38,0.0,0.38
+INT-World Cup,2026,Senegal,Pape Gueye,Senegal,MF,27,1. Villarreal,1999,4,3,234,2.6,2,1,3,2,0,0,1,0,0.77,0.38,1.15,0.77,1.15
+INT-World Cup,2026,Senegal,Pape Matar Sarr,Senegal,MF,23,1. Tottenham,2002,2,0,67,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Senegal,Pathé Ciss,Senegal,DF,32,1. Rayo Vallecano,1994,4,1,184,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Senegal,Sadio Mané,Senegal,"MF,FW",34,1. Al-Nassr,1992,4,4,362,4.0,0,1,1,0,0,0,0,0,0.0,0.25,0.25,0.0,0.25
+INT-World Cup,2026,Senegal,Édouard Mendy,Senegal,GK,34,1. Al-Ahli,1992,2,2,152,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,South Africa,Aubrey Modiba,South Africa,DF,30,1. Sundowns,1995,4,4,346,3.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,South Africa,Evidence Makgopa,South Africa,FW,26,1. Orlando Pirates,2000,4,2,215,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,South Africa,Ime Okon,South Africa,DF,22,2. Hannover 96,2004,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,South Africa,Iqraam Rayners,South Africa,FW,30,1. Sundowns,1995,4,2,161,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,South Africa,Jayden Adams,South Africa,MF,25,1. Sundowns,2001,3,2,116,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,South Africa,Kamogelo Sebelebele,South Africa,"DF,MF",23,1. Orlando Pirates,2002,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,South Africa,Khuliso Mudau,South Africa,DF,31,1. Sundowns,1995,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,South Africa,Lyle Foster,South Africa,FW,25,1. Burnley,2000,1,1,55,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,South Africa,Mbekezeli Mbokazi,South Africa,DF,20,1. Chicago Fire,2005,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,South Africa,Nkosinathi Sibisi,South Africa,DF,30,1. Orlando Pirates,1995,1,1,90,1.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,South Africa,Oswin Appollis,South Africa,"MF,FW",24,1. Orlando Pirates,2001,4,3,255,2.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,South Africa,Relebohile Mofokeng,South Africa,MF,21,1. Orlando Pirates,2004,3,2,169,1.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,South Africa,Ronwen Williams,South Africa,GK,34,1. Sundowns,1992,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,South Africa,Sphephelo Sithole,South Africa,MF,27,1. Tondela,1999,3,3,229,2.5,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,South Africa,Teboho Mokoena,South Africa,MF,29,1. Sundowns,1997,3,3,270,3.0,1,0,1,0,1,1,2,0,0.33,0.0,0.33,0.0,0.0
+INT-World Cup,2026,South Africa,Thalente Mbatha,South Africa,MF,26,1. Orlando Pirates,2000,4,2,260,2.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,South Africa,Thapelo Maseko,South Africa,"MF,FW",22,1. AEL Limassol,2003,3,3,242,2.7,1,0,1,1,0,0,0,0,0.37,0.0,0.37,0.37,0.37
+INT-World Cup,2026,South Africa,Themba Zwane,South Africa,"FW,MF",36,1. Sundowns,1989,1,0,23,0.3,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,South Africa,Tshepang Moremi,South Africa,MF,25,1. Orlando Pirates,2000,2,0,34,0.4,0,1,1,0,0,0,0,0,0.0,2.65,2.65,0.0,2.65
+INT-World Cup,2026,Spain,Aymeric Laporte,Spain,DF,32,1. Athletic Club,1994,8,8,727,8.1,0,1,1,0,0,0,1,0,0.0,0.12,0.12,0.0,0.12
+INT-World Cup,2026,Spain,Borja Iglesias,Spain,FW,33,1. Celta Vigo,1993,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Spain,Dani Olmo,Spain,MF,28,1. Barcelona,1998,8,6,491,5.5,0,2,2,0,0,0,0,0,0.0,0.37,0.37,0.0,0.37
+INT-World Cup,2026,Spain,Eric García,Spain,"DF,MF",25,1. Barcelona,2001,1,0,22,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Spain,Fabián Ruiz Peña,Spain,MF,30,1. PSG,1996,8,4,321,3.6,1,0,1,1,0,0,0,0,0.28,0.0,0.28,0.28,0.28
+INT-World Cup,2026,Spain,Ferran Torres,Spain,FW,26,1. Barcelona,2000,8,1,288,3.2,1,1,2,1,0,0,1,0,0.31,0.31,0.62,0.31,0.62
+INT-World Cup,2026,Spain,Gavi,Spain,FW,21,1. Barcelona,2004,2,1,76,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Spain,Lamine Yamal,Spain,"MF,FW",18,1. Barcelona,2007,8,7,614,6.8,1,0,1,1,0,0,0,0,0.15,0.0,0.15,0.15,0.15
+INT-World Cup,2026,Spain,Marc Cucurella,Spain,DF,27,1. Chelsea,1998,8,8,750,8.3,0,2,2,0,0,0,1,0,0.0,0.24,0.24,0.0,0.24
+INT-World Cup,2026,Spain,Marc Pubill,Spain,DF,22,1. Atlético Madrid,2003,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Spain,Marcos Llorente,Spain,DF,31,1. Atlético Madrid,1995,3,2,187,2.1,0,1,1,0,0,0,0,0,0.0,0.48,0.48,0.0,0.48
+INT-World Cup,2026,Spain,Martín Zubimendi,Spain,MF,27,1. Arsenal,1999,1,0,22,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Spain,Mikel Merino,Spain,MF,29,1. Arsenal,1996,8,1,199,2.2,2,0,2,2,0,0,0,0,0.9,0.0,0.9,0.9,0.9
+INT-World Cup,2026,Spain,Mikel Oyarzabal,Spain,FW,29,1. Real Sociedad,1997,8,8,601,6.7,5,1,6,4,1,1,0,0,0.75,0.15,0.9,0.6,0.75
+INT-World Cup,2026,Spain,Nico Williams,Spain,MF,23,1. Athletic Club,2002,6,0,113,1.3,0,1,1,0,0,0,0,0,0.0,0.8,0.8,0.0,0.8
+INT-World Cup,2026,Spain,Pau Cubarsí,Spain,DF,19,1. Barcelona,2007,8,8,750,8.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Spain,Pedri,Spain,MF,23,1. Barcelona,2002,8,5,499,5.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Spain,Pedro Porro,Spain,DF,26,1. Tottenham,1999,6,6,563,6.3,2,0,2,2,0,0,0,0,0.32,0.0,0.32,0.32,0.32
+INT-World Cup,2026,Spain,Rodri,Spain,MF,29,1. Manchester City,1996,8,8,724,8.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Spain,Unai Simón,Spain,GK,29,1. Athletic Club,1997,8,8,750,8.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Spain,Yéremy Pino,Spain,"FW,MF",23,1. Crystal Palace,2002,2,0,70,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Spain,Álex Baena,Spain,"MF,FW",24,1. Atlético Madrid,2001,7,7,481,5.3,1,1,2,1,0,0,1,0,0.19,0.19,0.37,0.19,0.37
+INT-World Cup,2026,Sweden,Alexander Bernhardsson,Sweden,MF,27,2. Holstein Kiel,1998,3,3,217,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Sweden,Alexander Isak,Sweden,FW,26,1. Liverpool,1999,4,4,357,4.0,1,3,4,1,0,0,0,0,0.25,0.76,1.01,0.25,1.01
+INT-World Cup,2026,Sweden,Anthony Elanga,Sweden,"MF,FW",24,1. Newcastle,2002,4,2,217,2.4,2,0,2,2,0,0,0,0,0.83,0.0,0.83,0.83,0.83
+INT-World Cup,2026,Sweden,Benjamin Nygren,Sweden,MF,24,1. Celtic,2001,4,2,130,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Sweden,Besfort Zeneli,Sweden,MF,23,1. Union SG,2002,2,0,60,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Sweden,Carl Starfelt,Sweden,DF,31,1. Celta Vigo,1995,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Sweden,Daniel Svensson,Sweden,DF,24,1. Dortmund,2002,3,1,98,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Sweden,Elliot Stroud,Sweden,MF,23,1. Mjällby,2002,4,2,166,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Sweden,Gabriel Gudmundsson,Sweden,"MF,DF",27,1. Leeds United,1999,4,4,330,3.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Sweden,Gustaf Lagerbielke,Sweden,DF,26,1. Braga,2000,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Sweden,Gustaf Nilsson,Sweden,FW,29,1. Club Brugge,1997,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Sweden,Isak Hien,Sweden,DF,27,1. Atalanta,1999,3,3,216,2.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Sweden,Jacob Widell Zetterström,Sweden,GK,27,2. Derby County,1998,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Sweden,Jesper Karlström,Sweden,MF,30,1. Udinese,1995,2,2,138,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Sweden,Ken Sema,Sweden,"FW,MF",32,1. Pafos FC,1993,1,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Sweden,Kristoffer Nordfeldt,Sweden,GK,36,1. AIK Stockholm,1989,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Sweden,Lucas Bergvall,Sweden,MF,20,1. Tottenham,2006,4,1,181,2.0,0,1,1,0,0,0,1,0,0.0,0.5,0.5,0.0,0.5
+INT-World Cup,2026,Sweden,Mattias Svanberg,Sweden,MF,27,1. Wolfsburg,1999,2,0,16,0.2,1,0,1,1,0,0,0,0,5.63,0.0,5.63,5.63,5.63
+INT-World Cup,2026,Sweden,Taha Ali,Sweden,"FW,MF",27,1. Malmö,1998,2,0,37,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Sweden,Victor Lindelöf,Sweden,"DF,MF",31,1. Aston Villa,1994,4,4,356,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Sweden,Viktor Gyökeres,Sweden,FW,28,1. Arsenal,1998,4,4,360,4.0,1,2,3,1,0,0,1,0,0.25,0.5,0.75,0.25,0.75
+INT-World Cup,2026,Sweden,Yasin Ayari,Sweden,MF,22,1. Brighton,2003,4,4,339,3.8,2,0,2,2,0,0,1,0,0.53,0.0,0.53,0.53,0.53
+INT-World Cup,2026,Switzerland,Ardon Jashari,Switzerland,MF,23,1. Milan,2002,3,1,72,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Switzerland,Breel Embolo,Switzerland,FW,29,1. Rennes,1997,6,6,501,5.6,2,2,4,1,1,1,2,1,0.36,0.36,0.72,0.18,0.54
+INT-World Cup,2026,Switzerland,Cedric Itten,Switzerland,"FW,MF",29,2. Düsseldorf,1996,3,0,42,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Switzerland,Christian Fassnacht,Switzerland,"FW,MF",32,1. Young Boys,1993,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Switzerland,Dan Ndoye,Switzerland,"MF,FW",25,1. Nottingham,2000,6,5,406,4.5,2,0,2,2,0,0,0,0,0.44,0.0,0.44,0.44,0.44
+INT-World Cup,2026,Switzerland,Denis Zakaria,Switzerland,DF,29,1. Monaco,1996,4,4,357,4.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Switzerland,Djibril Sow,Switzerland,MF,29,1. Sevilla,1997,4,2,253,2.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Switzerland,Eray Cömert,Switzerland,DF,28,1. Valencia,1998,1,0,31,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Switzerland,Fabian Rieder,Switzerland,"MF,FW",24,1. Augsburg,2002,5,3,302,3.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Switzerland,Granit Xhaka,Switzerland,MF,33,1. Sunderland,1992,6,6,600,6.7,1,0,1,0,1,1,2,0,0.15,0.0,0.15,0.0,0.0
+INT-World Cup,2026,Switzerland,Gregor Kobel,Switzerland,GK,28,1. Dortmund,1997,6,6,600,6.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Switzerland,Johan Manzambi,Switzerland,"MF,FW",20,1. Freiburg,2005,4,2,199,2.2,3,2,5,3,0,0,0,0,1.36,0.9,2.26,1.36,2.26
+INT-World Cup,2026,Switzerland,Luca Jaquez,Switzerland,DF,23,1. Stuttgart,2003,2,1,78,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Switzerland,Manuel Akanji,Switzerland,DF,30,1. Inter,1995,6,6,600,6.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Switzerland,Michel Aebischer,Switzerland,"MF,FW",29,1. Pisa,1997,4,2,156,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Switzerland,Miro Muheim,Switzerland,"DF,MF",28,1. Hamburger SV,1998,3,0,87,1.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Switzerland,Nico Elvedi,Switzerland,DF,29,1. Gladbach,1996,6,6,600,6.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Switzerland,Noah Okafor,Switzerland,"FW,MF",26,1. Leeds United,2000,1,0,20,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Switzerland,Remo Freuler,Switzerland,MF,34,1. Bologna,1992,6,6,592,6.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Switzerland,Ricardo Rodríguez,Switzerland,DF,33,1. Real Betis,1992,6,6,517,5.7,0,1,1,0,0,0,0,0,0.0,0.17,0.17,0.0,0.17
+INT-World Cup,2026,Switzerland,Ruben Vargas,Switzerland,MF,27,1. Sevilla,1998,6,3,284,3.2,2,1,3,2,0,0,0,0,0.63,0.32,0.95,0.63,0.95
+INT-World Cup,2026,Switzerland,Silvan Widmer,Switzerland,DF,33,1. Mainz 05,1993,5,1,175,1.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Switzerland,Zeki Amdouni,Switzerland,"FW,MF",25,1. Burnley,2000,4,0,73,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Tunisia,Ali Abdi,Tunisia,DF,32,1. Nice,1993,3,3,269,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Tunisia,Anis Ben Slimane,Tunisia,"MF,FW",25,2. Norwich City,2001,3,3,240,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Tunisia,Aymen Dahmen,Tunisia,GK,29,1. Ahly Sfaxien,1997,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Tunisia,Dylan Bronn,Tunisia,DF,30,1. Servette FC,1995,1,1,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Tunisia,Elias Achouri,Tunisia,"FW,MF",27,1. FC Copenhagen,1999,3,0,43,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Tunisia,Elias Saad,Tunisia,"MF,FW",26,2. Hannover 96,1999,2,2,116,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Tunisia,Ellyes Skhiri,Tunisia,"MF,DF",31,1. Frankfurt,1995,3,3,250,2.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Tunisia,Firas Chaouat,Tunisia,FW,30,1. Club Africain,1996,3,0,49,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Tunisia,Hadj Mahmoud,Tunisia,MF,26,1. Lugano,2000,2,0,43,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Tunisia,Hannibal Mejbri,Tunisia,MF,23,1. Burnley,2003,3,3,270,3.0,0,2,2,0,0,0,0,0,0.0,0.67,0.67,0.0,0.67
+INT-World Cup,2026,Tunisia,Hazem Mastouri,Tunisia,FW,28,1. D. Makhachkala,1997,1,1,89,1.0,1,0,1,1,0,0,0,0,1.01,0.0,1.01,1.01,1.01
+INT-World Cup,2026,Tunisia,Ismaël Gharbi,Tunisia,MF,22,1. Augsburg,2004,3,1,127,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Tunisia,Mohamed Amine Ben Hamida,Tunisia,DF,30,1. Espérance Tunis,1995,3,2,202,2.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Tunisia,Montassar Talbi,Tunisia,DF,28,1. Lorient,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Tunisia,Mortadha Ben Ouanes,Tunisia,"DF,MF",31,1. Kasımpaşa,1994,1,0,23,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Tunisia,Mouhib Chamakh,Tunisia,GK,24,1. Club Africain,2001,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Tunisia,Omar Rekik,Tunisia,DF,24,1. NK Maribor,2001,2,2,180,2.0,1,0,1,1,0,0,0,0,0.5,0.0,0.5,0.5,0.5
+INT-World Cup,2026,Tunisia,Rani Khedira,Tunisia,MF,32,1. Union Berlin,1994,3,2,149,1.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Tunisia,Sebastian Tounekti,Tunisia,FW,23,1. Celtic,2002,3,1,84,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Tunisia,Yan Valery,Tunisia,DF,27,1. Young Boys,1999,3,3,251,2.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Türkiye,Abdülkerim Bardakcı,Türkiye,DF,31,1. Galatasaray,1994,3,3,265,2.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Türkiye,Arda Güler,Türkiye,MF,21,1. Real Madrid,2005,3,3,270,3.0,1,0,1,1,0,0,0,0,0.33,0.0,0.33,0.33,0.33
+INT-World Cup,2026,Türkiye,Barış Alper Yılmaz,Türkiye,"MF,FW",26,1. Galatasaray,2000,3,2,179,2.0,1,1,2,1,0,0,0,0,0.5,0.5,1.01,0.5,1.01
+INT-World Cup,2026,Türkiye,Can Uzun,Türkiye,MF,20,1. Frankfurt,2005,2,0,38,0.4,0,1,1,0,0,0,0,0,0.0,2.37,2.37,0.0,2.37
+INT-World Cup,2026,Türkiye,Deniz Gül,Türkiye,FW,21,1. Porto,2004,2,0,37,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Türkiye,Eren Elmalı,Türkiye,DF,25,1. Galatasaray,2000,2,1,111,1.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Türkiye,Ferdi Kadioglu,Türkiye,DF,26,1. Brighton,1999,2,2,159,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Türkiye,Hakan Çalhanoğlu,Türkiye,MF,32,1. Inter,1994,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Türkiye,Kaan Ayhan,Türkiye,"DF,MF",31,1. Galatasaray,1994,1,0,3,0.0,1,0,1,1,0,0,0,0,30.0,0.0,30.0,30.0,30.0
+INT-World Cup,2026,Türkiye,Kenan Yıldız,Türkiye,MF,21,1. Juventus,2005,3,2,218,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Türkiye,Kerem Aktürkoğlu,Türkiye,FW,27,1. Fenerbahçe,1998,2,2,129,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Türkiye,Merih Demiral,Türkiye,DF,28,1. Al-Ahli,1998,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Türkiye,Mert Müldür,Türkiye,DF,27,1. Fenerbahçe,1999,3,1,101,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Türkiye,Orkun Kökçü,Türkiye,MF,25,1. Beşiktaş,2000,3,2,153,1.7,0,1,1,0,0,0,0,0,0.0,0.59,0.59,0.0,0.59
+INT-World Cup,2026,Türkiye,Ozan Kabak,Türkiye,DF,26,1. Hoffenheim,2000,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Türkiye,Oğuz Aydın,Türkiye,DF,25,1. Fenerbahçe,2000,1,1,89,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Türkiye,Salih Özcan,Türkiye,MF,28,1. Dortmund,1998,2,1,100,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Türkiye,Uğurcan Çakır,Türkiye,GK,30,1. Galatasaray,1996,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Türkiye,Yunus Akgün,Türkiye,MF,25,1. Galatasaray,2000,2,1,88,1.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Türkiye,Zeki Çelik,Türkiye,DF,29,1. Roma,1997,2,2,163,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Türkiye,Çağlar Söyüncü,Türkiye,DF,30,1. Fenerbahçe,1996,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Türkiye,İrfan Can Kahveci,Türkiye,MF,30,1. Kasımpaşa,1995,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Türkiye,İsmail Yüksek,Türkiye,MF,27,1. Fenerbahçe,1999,2,2,139,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,USA,Alejandro Zendejas,USA,"FW,MF",28,1. América,1998,1,0,14,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,USA,Alex Freeman,USA,DF,21,1. Villarreal,2004,5,4,374,4.2,1,1,2,1,0,0,0,0,0.24,0.24,0.48,0.24,0.48
+INT-World Cup,2026,USA,Antonee Robinson,USA,"DF,MF",28,1. Fulham,1997,4,4,348,3.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,USA,Auston Trusty,USA,DF,27,1. Celtic,1998,2,1,101,1.1,1,0,1,1,0,0,0,0,0.89,0.0,0.89,0.89,0.89
+INT-World Cup,2026,USA,Brenden Aaronson,USA,MF,25,1. Leeds United,2000,1,1,76,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,USA,Chris Richards,USA,DF,26,1. Crystal Palace,2000,4,4,360,4.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,USA,Christian Pulisic,USA,MF,27,1. Milan,1998,4,3,223,2.5,0,1,1,0,0,0,0,0,0.0,0.4,0.4,0.0,0.4
+INT-World Cup,2026,USA,Folarin Balogun,USA,FW,24,1. Monaco,2001,4,4,312,3.5,3,0,3,3,0,0,1,1,0.87,0.0,0.87,0.87,0.87
+INT-World Cup,2026,USA,Gio Reyna,USA,MF,23,1. Gladbach,2002,5,1,131,1.5,1,0,1,1,0,0,0,0,0.69,0.0,0.69,0.69,0.69
+INT-World Cup,2026,USA,Haji Wright,USA,"FW,MF",28,2. Coventry City,1998,2,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,USA,Joe Scally,USA,DF,23,1. Gladbach,2002,2,1,87,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,USA,Malik Tillman,USA,MF,24,1. Leverkusen,2002,5,4,356,4.0,2,1,3,2,0,0,1,0,0.51,0.25,0.76,0.51,0.76
+INT-World Cup,2026,USA,Mark McKenzie,USA,DF,27,1. Toulouse,1999,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,USA,Matt Freese,USA,GK,27,1. NYCFC,1998,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,USA,Matt Turner,USA,GK,31,1. NE Revolution,1994,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,USA,Max Arfsten,USA,MF,25,1. Columbus Crew,2001,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,USA,Miles Robinson,USA,DF,29,1. FC Cincinnati,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,USA,Ricardo Pepi,USA,FW,23,1. PSV,2003,5,2,204,2.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,USA,Sebastian Berhalter,USA,MF,25,1. Vancouver,2001,5,1,187,2.1,1,1,2,1,0,0,1,0,0.48,0.48,0.96,0.48,0.96
+INT-World Cup,2026,USA,Sergiño Dest,USA,MF,25,1. PSV,2000,5,4,297,3.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,USA,Tim Ream,USA,DF,38,1. Charlotte,1987,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,USA,Timothy Weah,USA,MF,26,1. Marseille,2000,2,1,76,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,USA,Tyler Adams,USA,MF,27,1. Bournemouth,1999,4,4,341,3.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,USA,Weston McKennie,USA,MF,27,1. Juventus,1998,5,5,443,4.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uruguay,Agustín Canobbio,Uruguay,FW,27,1. Fluminense,1998,3,2,224,2.5,1,0,1,1,0,0,0,1,0.4,0.0,0.4,0.4,0.4
+INT-World Cup,2026,Uruguay,Brian Rodríguez,Uruguay,"FW,MF",26,1. América,2000,3,0,41,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uruguay,Darwin Núñez,Uruguay,FW,26,1. Al-Hilal,1999,3,2,156,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uruguay,Federico Valverde,Uruguay,MF,27,1. Real Madrid,1998,3,3,236,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uruguay,Federico Viñas,Uruguay,FW,27,1. Oviedo,1998,3,2,192,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uruguay,Fernando Muslera,Uruguay,GK,39,1. Galatasaray,1986,3,3,225,2.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uruguay,Guillermo Varela,Uruguay,DF,33,1. Flamengo,1993,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uruguay,Juan Manuel Sanabria,Uruguay,DF,26,1. Atlético San Luis,2000,3,2,204,2.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uruguay,Manuel Ugarte,Uruguay,MF,25,1. Manchester Utd,2001,3,3,184,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uruguay,Mathías Olivera,Uruguay,DF,28,1. Napoli,1997,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uruguay,Matías Viña,Uruguay,DF,28,1. Flamengo,1997,1,1,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uruguay,Maxi Araújo,Uruguay,"FW,MF",26,1. Sporting CP,2000,3,3,250,2.8,2,1,3,2,0,0,0,0,0.72,0.36,1.08,0.72,1.08
+INT-World Cup,2026,Uruguay,Nicolás De La Cruz,Uruguay,MF,29,1. Flamengo,1997,3,0,86,1.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uruguay,Rodrigo Aguirre,Uruguay,FW,31,1. América,1994,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uruguay,Rodrigo Bentancur,Uruguay,MF,28,1. Tottenham,1997,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uruguay,Sebastián Cáceres,Uruguay,DF,26,1. América,1999,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uruguay,Sergio Rochet,Uruguay,GK,33,1. Internacional,1993,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uzbekistan,Abbosbek Fayzullayev,Uzbekistan,MF,22,1. Başakşehir,2003,3,3,220,2.4,1,0,1,1,0,0,0,0,0.41,0.0,0.41,0.41,0.41
+INT-World Cup,2026,Uzbekistan,Abdukodir Khusanov,Uzbekistan,DF,22,1. Manchester City,2004,3,3,270,3.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uzbekistan,Abdulla Abdullaev,Uzbekistan,DF,28,1. Dibba Al Fujairah,1997,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uzbekistan,Abduvohid Nematov,Uzbekistan,GK,25,1. FC Nasaf,2001,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uzbekistan,Akmal Mozgovoy,Uzbekistan,MF,27,1. Pakhtakor Tashkent FK,1999,3,2,216,2.4,0,1,1,0,0,0,0,0,0.0,0.42,0.42,0.0,0.42
+INT-World Cup,2026,Uzbekistan,Aziz Gʻaniyev,Uzbekistan,MF,28,,1998,2,1,122,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uzbekistan,Azizbek Amonov,Uzbekistan,FW,28,1. FK Bukhara Nurafshon,1997,1,0,14,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uzbekistan,Bekhruz Karimov,Uzbekistan,DF,18,1. FC Surkhon,2007,2,2,179,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uzbekistan,Dostonbek Khamdamov,Uzbekistan,MF,29,1. Pakhtakor Tashkent FK,1996,2,1,103,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uzbekistan,Eldor Shomurodov,Uzbekistan,FW,30,1. Başakşehir,1995,3,3,269,3.0,1,0,1,1,0,0,0,0,0.33,0.0,0.33,0.33,0.33
+INT-World Cup,2026,Uzbekistan,Farrukh Sayfiev,Uzbekistan,"DF,MF",35,1. Neftchi FK,1991,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uzbekistan,Igor Sergeev,Uzbekistan,FW,33,1. Persepolis,1993,3,0,28,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uzbekistan,Jakhongir Urozov,Uzbekistan,DF,22,1. FK Dinamo Samarqand,2004,2,1,95,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uzbekistan,Jamshid Iskanderov,Uzbekistan,"FW,MF",32,1. Neftchi FK,1993,1,0,9,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uzbekistan,Khojiakbar Alijonov,Uzbekistan,MF,29,1. Pakhtakor Tashkent FK,1997,2,1,135,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uzbekistan,Odiljon Hamrobekov,Uzbekistan,MF,30,1. Tractor,1996,2,1,77,0.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uzbekistan,Oston Urunov,Uzbekistan,MF,25,1. Persepolis,2000,2,1,63,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uzbekistan,Otabek Shukurov,Uzbekistan,MF,29,1. Baniyas FC,1996,3,3,237,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uzbekistan,Ruslanbek Jiyanov,Uzbekistan,FW,25,1. Navbahor,2001,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uzbekistan,Rustam Ashurmatov,Uzbekistan,DF,29,1. Esteghlal,1996,3,3,256,2.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uzbekistan,Sherzod Esanov,Uzbekistan,MF,23,1. FK Bukhara Nurafshon,2003,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uzbekistan,Sherzod Nasrullaev,Uzbekistan,"DF,MF",27,1. FC Nasaf,1998,3,3,180,2.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+INT-World Cup,2026,Uzbekistan,Utkir Yusupov,Uzbekistan,GK,35,1. Navbahor,1991,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0

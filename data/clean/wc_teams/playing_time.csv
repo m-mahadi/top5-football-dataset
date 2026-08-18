@@ -1,0 +1,49 @@
+league,season,team,players_used,age,playing_time_mp,playing_time_min,playing_time_mn_mp,playing_time_min_1,playing_time_90s,starts_starts,starts_mn_start,starts_compl,subs_subs,subs_mn_sub,subs_unsub,team_success_ppm,team_success_ong,team_success_onga,team_success,team_success_90,url
+INT-World Cup,2026,Algeria,22,27.3,4,360,90,100,4.0,44,81,25,19,21,37,1.0,5,9,-4,-1.0,/en/squads/1e2dba57/Algeria-Men-Stats
+INT-World Cup,2026,Argentina,24,29.6,8,810,101,100,9.0,88,87,45,42,30,78,2.63,19,8,11,1.22,/en/squads/f9fddd6e/Argentina-Men-Stats
+INT-World Cup,2026,Australia,23,25.3,4,390,98,100,4.3,44,85,25,19,28,37,1.25,3,3,0,0.0,/en/squads/b90bf4f9/Australia-Men-Stats
+INT-World Cup,2026,Austria,20,28.8,4,360,90,100,4.0,44,77,24,20,28,40,1.0,6,9,-3,-0.75,/en/squads/d5121f10/Austria-Men-Stats
+INT-World Cup,2026,Belgium,23,29.2,6,570,95,100,6.3,66,81,34,31,28,50,1.83,14,7,7,1.11,/en/squads/361422b9/Belgium-Men-Stats
+INT-World Cup,2026,Bosnia–Herz,23,26.6,4,360,90,100,4.0,44,79,23,20,24,39,1.0,5,8,-3,-0.75,/en/squads/6c5ef1c3/Bosnia-and-Herzegovina-Men-Stats
+INT-World Cup,2026,Brazil,22,29.2,5,450,90,100,5.0,55,80,32,23,23,47,2.0,10,4,6,1.2,/en/squads/304635c3/Brazil-Men-Stats
+INT-World Cup,2026,Cabo Verde,21,30.8,4,390,98,100,4.3,44,84,23,21,28,37,0.75,4,5,-1,-0.23,/en/squads/31fa6fa6/Cabo-Verde-Men-Stats
+INT-World Cup,2026,Canada,22,26.9,5,450,90,100,5.0,55,80,30,25,22,45,1.4,9,6,3,0.6,/en/squads/9c6d90a0/Canada-Men-Stats
+INT-World Cup,2026,Colombia,21,30.0,5,480,96,100,5.3,55,86,33,22,25,53,2.2,5,1,4,0.75,/en/squads/ab73cfe5/Colombia-Men-Stats
+INT-World Cup,2026,Congo DR,21,28.8,4,360,90,100,4.0,44,82,24,20,19,40,1.0,5,5,0,0.0,/en/squads/9be9f315/Congo-DR-Men-Stats
+INT-World Cup,2026,Croatia,19,29.1,4,360,90,100,4.0,44,82,26,18,20,42,1.5,6,7,-1,-0.25,/en/squads/7b08e376/Croatia-Men-Stats
+INT-World Cup,2026,Curaçao,22,28.9,3,270,90,100,3.0,33,84,20,13,15,32,0.33,1,9,-8,-2.67,/en/squads/e0f5893a/Curacao-Men-Stats
+INT-World Cup,2026,Czechia,21,27.8,3,270,90,100,3.0,33,80,20,14,22,29,0.33,2,6,-4,-1.33,/en/squads/2740937c/Czechia-Men-Stats
+INT-World Cup,2026,Côte d'Ivoire,22,25.5,4,360,90,100,4.0,44,82,24,20,18,40,1.5,5,4,1,0.25,/en/squads/24772b12/Cote-dIvoire-Men-Stats
+INT-World Cup,2026,Ecuador,21,26.8,4,360,90,100,4.0,44,81,25,18,23,42,1.0,2,4,-2,-0.5,/en/squads/123acaf8/Ecuador-Men-Stats
+INT-World Cup,2026,Egypt,21,29.3,5,480,96,100,5.3,55,85,31,25,24,43,1.2,8,7,1,0.19,/en/squads/b8889750/Egypt-Men-Stats
+INT-World Cup,2026,England,24,26.5,8,750,94,100,8.3,88,84,48,39,20,75,2.38,20,12,8,0.96,/en/squads/1862c019/England-Men-Stats
+INT-World Cup,2026,France,22,26.9,8,720,90,100,8.0,88,83,55,33,20,87,2.25,20,10,10,1.25,/en/squads/b1b36dcd/France-Men-Stats
+INT-World Cup,2026,Germany,23,28.1,4,390,98,100,4.3,44,84,23,21,29,36,1.75,11,5,6,1.38,/en/squads/c1e40422/Germany-Men-Stats
+INT-World Cup,2026,Ghana,22,27.4,4,360,90,100,4.0,44,79,26,19,25,40,1.0,2,3,-1,-0.25,/en/squads/9349828d/Ghana-Men-Stats
+INT-World Cup,2026,Haiti,18,28.6,3,270,90,100,3.0,33,82,20,13,21,32,0.0,2,8,-6,-2.0,/en/squads/61828292/Haiti-Men-Stats
+INT-World Cup,2026,IR Iran,20,31.7,3,270,90,100,3.0,33,81,21,12,25,33,1.0,3,3,0,0.0,/en/squads/6a08f71e/IR-Iran-Men-Stats
+INT-World Cup,2026,Iraq,25,26.4,3,270,90,100,3.0,33,73,17,15,33,30,0.0,1,12,-11,-3.67,/en/squads/ec843efd/Iraq-Men-Stats
+INT-World Cup,2026,Japan,24,27.5,4,360,90,100,4.0,44,82,24,20,18,37,1.25,8,5,3,0.75,/en/squads/ffcf1690/Japan-Men-Stats
+INT-World Cup,2026,Jordan,20,28.2,3,270,90,100,3.0,33,85,18,15,12,30,0.0,3,8,-5,-1.67,/en/squads/3e22f0fa/Jordan-Men-Stats
+INT-World Cup,2026,Korea Republic,20,28.2,3,270,90,100,3.0,33,78,18,15,26,30,1.0,2,3,-1,-0.33,/en/squads/473f0fbf/Korea-Republic-Men-Stats
+INT-World Cup,2026,Mexico,25,27.6,5,450,90,100,5.0,55,81,29,25,19,49,2.4,10,3,7,1.4,/en/squads/b009a548/Mexico-Men-Stats
+INT-World Cup,2026,Morocco,23,26.0,6,570,95,100,6.3,66,86,37,29,21,61,1.83,10,6,4,0.63,/en/squads/af41ccda/Morocco-Men-Stats
+INT-World Cup,2026,Netherlands,22,27.2,4,390,98,100,4.3,44,87,23,21,23,38,2.0,11,5,6,1.38,/en/squads/5bb5024a/Netherlands-Men-Stats
+INT-World Cup,2026,New Zealand,17,28.1,3,270,90,100,3.0,33,81,18,15,19,29,0.33,4,10,-6,-2.0,/en/squads/259855f0/New-Zealand-Men-Stats
+INT-World Cup,2026,Norway,25,27.1,6,570,95,100,6.3,66,83,38,28,28,61,2.0,13,11,2,0.32,/en/squads/599eba19/Norway-Men-Stats
+INT-World Cup,2026,Panama,20,28.8,3,270,90,100,3.0,33,84,20,13,15,32,0.0,0,4,-4,-1.33,/en/squads/6061a82d/Panama-Men-Stats
+INT-World Cup,2026,Paraguay,24,28.0,5,480,96,100,5.3,55,85,29,25,23,48,1.0,3,6,-3,-0.56,/en/squads/d2043442/Paraguay-Men-Stats
+INT-World Cup,2026,Portugal,22,27.7,5,450,90,100,5.0,55,79,31,24,24,51,1.6,8,3,5,1.0,/en/squads/4a1b4ea8/Portugal-Men-Stats
+INT-World Cup,2026,Qatar,22,29.7,3,270,90,100,3.0,33,75,17,15,27,28,0.33,2,10,-8,-2.67,/en/squads/9b696ed1/Qatar-Men-Stats
+INT-World Cup,2026,Saudi Arabia,18,28.6,3,270,90,100,3.0,33,79,18,15,24,30,0.67,1,5,-4,-1.33,/en/squads/6e84edac/Saudi-Arabia-Men-Stats
+INT-World Cup,2026,Scotland,20,29.1,3,270,90,100,3.0,33,84,18,15,14,30,1.0,1,4,-3,-1.0,/en/squads/602d3994/Scotland-Men-Stats
+INT-World Cup,2026,Senegal,22,28.5,4,390,98,100,4.3,44,84,23,21,27,37,0.75,10,9,1,0.23,/en/squads/9ab5c684/Senegal-Men-Stats
+INT-World Cup,2026,South Africa,19,26.7,4,360,90,100,4.0,44,83,30,13,21,42,1.0,2,4,-2,-0.5,/en/squads/506f1741/South-Africa-Men-Stats
+INT-World Cup,2026,Spain,22,26.3,8,750,94,100,8.3,88,84,50,38,22,82,2.75,14,1,13,1.56,/en/squads/b561dd30/Spain-Men-Stats
+INT-World Cup,2026,Sweden,22,26.7,4,360,90,100,4.0,44,82,24,20,17,39,1.0,7,10,-3,-0.75,/en/squads/296f69e7/Sweden-Men-Stats
+INT-World Cup,2026,Switzerland,23,29.4,6,600,100,100,6.7,66,89,33,32,20,51,1.83,10,6,4,0.6,/en/squads/81021a70/Switzerland-Men-Stats
+INT-World Cup,2026,Tunisia,20,27.4,3,270,90,100,3.0,33,82,18,15,18,28,0.0,2,12,-10,-3.33,/en/squads/a7c7562a/Tunisia-Men-Stats
+INT-World Cup,2026,Türkiye,23,26.6,3,270,90,100,3.0,33,82,18,15,17,30,1.0,3,5,-2,-0.67,/en/squads/ac6bcf92/Turkiye-Men-Stats
+INT-World Cup,2026,USA,24,26.7,5,450,90,100,5.0,55,84,32,22,15,48,1.8,11,8,3,0.6,/en/squads/0f66725b/United-States-Men-Stats
+INT-World Cup,2026,Uruguay,17,28.6,3,270,90,100,3.0,33,80,20,12,27,29,0.67,3,4,-1,-0.33,/en/squads/870e020f/Uruguay-Men-Stats
+INT-World Cup,2026,Uzbekistan,23,26.9,3,270,90,100,3.0,33,80,18,15,22,30,0.0,2,11,-9,-3.0,/en/squads/cd389e75/Uzbekistan-Men-Stats
