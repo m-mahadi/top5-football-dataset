@@ -1,0 +1,54 @@
+============================================================================================
+Pedri   |   Barcelona   |   ESP-La Liga
+MF  (CM best)   age 22   174cm 5'9"  Right footed
+value EUR 165M   release clause EUR 351M   contract 2020.0-2030.0   OVR 90 / POT 93
+PlayStyles: Incisive pass Long ball pass Tiki taka Inventive Technical Relentless
+============================================================================================
+
+ATTRIBUTES  (SoFIFA / EA FC 26 - scouted ratings, not measured)
+
+TECHNICAL
+  Crossing              76       Finishing             77       Heading               50       
+  Short passing         92       Volleys               56       Dribbling             90       
+  Curve                 83       FK accuracy           62       Long passing          88       
+  Ball control          91       Shot power            76       Long shots            79       
+  Standing tackle       85       Sliding tackle        79       Penalties             53       
+
+MENTAL
+  Aggression            72       Interceptions         86       Att. positioning      83       
+  Vision                91       Composure             92       Def. awareness        74       
+  Reactions             87       
+
+PHYSICAL
+  Acceleration          79       Sprint speed          76       Pace                  77       
+  Agility               89       Balance               92       Jumping               72       
+  Stamina               90       Strength              73       Weight                60kg 132lbs
+
+SPECIAL
+  Weak foot             4        Skill moves           4        Int. reputation       4        
+  Total stats           2247     Growth                3        
+--------------------------------------------------------------------------------------------
+
+MATCH OUTPUT  (FBref + Understat + SofaScore, actual matches played)
+  season      90s  Gls  Ast     xG   npxG     xA  xGChain  KeyP Shots
+  2024/25    32.0    4    5   2.51   2.51   7.81    31.43    70    24
+  2025/26    23.4    2    9   2.39   2.39   5.95    25.24    64    21
+
+ON-BALL / PASSING  (SofaScore, latest season)
+
+
+  Touches               2463     Passes                2055     Pass acc %            91.6     
+  Own-half passes       603      Opp-half passes       1279     Final-third passes    664      
+  Long balls            94       Big chances created   8        Dribbles              38       
+  Dispossessed          29       Possession lost       267      
+
+DEFENSIVE / PRESSING  (SofaScore, latest season)
+
+
+  Poss. won att 3rd     18       Ball recoveries       163      Tackles               50       
+  Tackles won           29       Interceptions         24       Clearances            23       
+  Blocked shots         5        Aerials won           10       Aerial win %          83.3     
+  Ground duel %         59.8     Was fouled            43       Fouls                 9        
+  Dribbled past         32       Error -> shot         1        Error -> goal         0        
+============================================================================================
+columns held for this player: 231 of 252
