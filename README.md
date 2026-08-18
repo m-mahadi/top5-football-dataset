@@ -8,27 +8,45 @@ scouting models built on top of it.
 
 ---
 
-## Why this exists
+## What you get
 
-FBref, the usual free source for advanced football stats, currently serves its
-advanced tables **near-empty**. Verified on a fresh 7.5 MB fetch with caching
-disabled — not a stale-cache artifact:
+Every player who logged minutes in the top five leagues, with the metrics that
+actually matter, already merged and documented:
 
-| FBref table | Empty columns | Usable? |
+| | |
+|---|---|
+| **Attacking** | xG, non-penalty xG, xA, xGChain, xGBuildup, shots, shots inside the box, big chances, conversion |
+| **Defending** | aerial and ground duels won (% and volume), clearances, interceptions, blocks, tackles won %, errors leading to shots/goals, times dribbled past |
+| **Passing** | accuracy, own-half vs opposition-half split, final-third passes, long balls, key passes |
+| **Pressing** | possession won in the attacking third, ball recoveries |
+| **Physical** | **measured** top speed (km/h), distance covered, sprints *(2025/26)* |
+| **Market** | value, wage, release clause, contract dates, ~40 EA attribute ratings |
+| **Shot-level** | 2,726 Barcelona shots and 2,651 World Cup 2026 shots with xG and pitch coordinates |
+
+Coverage: xG on **94%** of rows, defensive and passing detail on **96%**,
+value/contract on **73%**. Full breakdown in
+[`docs/DATA_QUALITY.md`](docs/DATA_QUALITY.md).
+
+## Why it needed building
+
+FBref is the usual free source for advanced football stats, and it currently
+serves its advanced tables **near-empty**. Verified on a fresh 7.5 MB fetch with
+caching disabled, so this is not a stale-cache artifact:
+
+| FBref table | State at source | What this dataset uses instead |
 |---|---|---|
-| `possession` | 20 / 20 | no |
-| `gca` (chance creation) | 16 / 16 | no |
-| `passing` | 19 / 20 | no |
-| `defense` | 14 / 16 | tackles-won and interceptions only |
-| `keeper_adv` | 23 / 25 | no |
-| `standard`, `shooting`, `playing_time`, `keeper`, `misc` | 0 | **yes** |
+| `possession` | 20 / 20 columns empty | SofaScore touches, duels, dribbles |
+| `gca` (chance creation) | 16 / 16 empty | Understat xA + xGChain, SofaScore key passes |
+| `passing` | 19 / 20 empty | SofaScore passing splits by pitch zone |
+| `defense` | 14 / 16 empty | SofaScore duels, clearances, interceptions, errors |
+| `keeper_adv` | 23 / 25 empty | SofaScore goalkeeper detail |
+| `standard`, `shooting`, `playing_time`, `keeper`, `misc` | **fine** | used directly |
 
-Expected goals, progression (PrgC/PrgP) and aerial duels are stripped
-everywhere. Anything built on FBref advanced stats right now is quietly running
-on empty columns.
-
-This repo routes around that by combining four sources, and documents exactly
-which field comes from where.
+Expected goals, progression (PrgC/PrgP) and aerial duels are stripped from FBref
+everywhere. So anything built on FBref advanced stats today is quietly running
+on empty columns — **this dataset fills every one of those gaps from other
+sources**, and labels each column with its origin so you always know where a
+number came from.
 
 ## Sources
 
