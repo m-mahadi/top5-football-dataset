@@ -66,6 +66,23 @@ u.to_csv(CLEAN / 'understat_players.csv', index=False, encoding='utf-8')
 print(f'[merge] understat_players: {u.shape}')
 
 # 3) Unified Barca shot table: La Liga (Understat, 0-1) + UCL (SofaScore, 0-100)
+def norm_situation(v):  # Understat and SofaScore use different taxonomies
+    t = str(v).lower().replace('-', '_').replace(' ', '_')
+    if 'penalt' in t:
+        return 'penalty'
+    if 'corner' in t:
+        return 'corner'
+    if 'freekick' in t or 'free_kick' in t:
+        return 'free_kick'
+    if 'setpiece' in t or 'set_piece' in t:
+        return 'set_piece'
+    if 'fast' in t or 'counter' in t:
+        return 'fast_break'
+    if t in ('openplay', 'open_play', 'regular', 'assisted'):
+        return 'open_play'
+    return t
+
+
 def norm_outcome(v):  # harmonise result labels across sources
     t = str(v).lower()
     if 'own' in t:
@@ -80,7 +97,7 @@ ll = pd.DataFrame({
     'season': ll['season'].astype(str), 'competition': 'La Liga', 'date': ll.get('date'),
     'team': ll['team'].map(canon_team), 'player': ll['player'],
     'xg': ll['xg'], 'x': ll['location_x'] * 100, 'y': ll['location_y'] * 100,
-    'situation': ll['situation'], 'body_part': ll.get('shotType', ll.get('body_part')),
+    'situation': ll['situation'].map(norm_situation), 'body_part': ll.get('shotType', ll.get('body_part')),
     'outcome': ll['result'].map(norm_outcome),
     'minute': ll['minute'], 'source': 'understat',
 })
@@ -89,7 +106,7 @@ uc = pd.DataFrame({
     'season': uc['season'].astype(str), 'competition': 'Champions League', 'date': uc['date'],
     'team': uc['team'].map(canon_team), 'player': uc['player'],
     'xg': uc['xg'], 'x': uc['x'], 'y': uc['y'],
-    'situation': uc['situation'], 'body_part': uc['body_part'],
+    'situation': uc['situation'].map(norm_situation), 'body_part': uc['body_part'],
     'outcome': uc['shot_type'].map(norm_outcome),
     'minute': uc['minute'], 'source': 'sofascore',
 })
@@ -115,6 +132,7 @@ ws = pd.read_csv('data/worldcup/sofascore_shots.csv')
 ws['team'] = ws['team'].map(canon_team)
 ws['opponent'] = ws['opponent'].map(canon_team)
 ws['outcome'] = ws['shot_type'].map(norm_outcome)
+ws['situation'] = ws['situation'].map(norm_situation)
 ws.to_csv(CLEAN / 'wc_shots.csv', index=False, encoding='utf-8')
 print(f'[copy] wc_shots: {ws.shape}')
 print('\nclean layer written to data/clean/')
