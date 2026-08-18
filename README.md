@@ -1,38 +1,168 @@
-# barca-analytics
+# Top-5 European Leagues — Player Dataset & Scouting Toolkit
 
-Football data to answer: **what would help Barcelona most this season** — which
-striker signing, which centre-back for the style, etc.
+A merged, analysis-ready football dataset for the **2024/25 and 2025/26** seasons
+across the Premier League, La Liga, Serie A, Bundesliga and Ligue 1 — plus the
+scouting models built on top of it.
 
-## Data
+**5,693 player-seasons · 3,591 players · 233 columns · 4 sources**
 
-Full FBref season stats, **top-7 leagues**, seasons **2024-2025** and **2025-2026**:
+---
 
-| Leagues | Premier League, La Liga, Serie A, Bundesliga, Ligue 1, Primeira Liga (POR), Eredivisie (NED) |
-|---|---|
-| Player stats | `data/players/<type>.csv` |
-| Team stats | `data/teams/<type>.csv` |
-| Match results | `data/schedule/matches.csv` |
+## Why this exists
 
-Stat types (`<type>`): `standard shooting passing passing_types gca defense
-possession playing_time misc keeper keeper_adv`.
+FBref, the usual free source for advanced football stats, currently serves its
+advanced tables **near-empty**. Verified on a fresh 7.5 MB fetch with caching
+disabled — not a stale-cache artifact:
 
-Each CSV holds all 7 leagues x both seasons (indexed by league/season/team[/player]).
+| FBref table | Empty columns | Usable? |
+|---|---|---|
+| `possession` | 20 / 20 | no |
+| `gca` (chance creation) | 16 / 16 | no |
+| `passing` | 19 / 20 | no |
+| `defense` | 14 / 16 | tackles-won and interceptions only |
+| `keeper_adv` | 23 / 25 | no |
+| `standard`, `shooting`, `playing_time`, `keeper`, `misc` | 0 | **yes** |
+
+Expected goals, progression (PrgC/PrgP) and aerial duels are stripped
+everywhere. Anything built on FBref advanced stats right now is quietly running
+on empty columns.
+
+This repo routes around that by combining four sources, and documents exactly
+which field comes from where.
 
 ## Sources
 
-- **FBref** (StatsBomb-powered) via [`soccerdata`](https://github.com/probberechts/soccerdata) — all advanced per-90 stats, free.
-- Not yet pulled: **Transfermarkt** (market values / fees / contracts) — needed to turn "good player" into "realistic signing". Add when doing the signing shortlist.
-- Not pulled: Understat shot-level xG (top-5 only) — FBref xG covers the season-level question.
+| Source | Provides | Access |
+|---|---|---|
+| **FBref** | goals, assists, shots, minutes, cards | `soccerdata` |
+| **Understat** | xG, npxG, xA, xGChain, xGBuildup | `soccerdata` |
+| **SofaScore** | duels, aerials, clearances, interceptions, tackles, own/opposition-half passing, errors, pressing, plus every shot with coordinates | public API |
+| **SoFIFA** (EA FC 26) | market value, wage, release clause, contract dates, ~40 technical/mental/physical attributes | public pages |
 
-## Refresh
+**Transfermarkt is deliberately absent.** It blocks automated access behind a
+human-verification wall, which was not circumvented. SoFIFA valuations stand in
+for the money side — see limitations.
+
+## Two surfaces
+
+**For code and agents**
+
+| File | Shape | What |
+|---|---|---|
+| `data/master/player_seasons.csv` | 5,693 × 233 | master table, one row per player-season, columns prefixed by origin (`fb_`, `us_`, `ss_`, `fifa_`, `*_p90`) |
+| `data/master/player_seasons_adj.csv` | 5,693 × 286 | the same, plus possession-adjusted volume metrics |
+| `data/master/players.json` | 3,591 | nested per-player objects with attributes, per-season output and percentile ranks |
+
+**For humans**
+
+`output/player_cards.html` — a self-contained, searchable card viewer (2,304
+players with a real minutes sample). Percentile bars ranked within position
+group, attribute blocks with quality tiering, per-season output, on-ball and
+pressing detail. No build step, no network calls.
+
+Also included: 2,726 Barcelona shots (La Liga + Champions League) with xG and
+pitch coordinates, 2,651 World Cup 2026 shots, and passing-network node
+positions.
+
+## Quick start
+
+```python
+import pandas as pd
+df = pd.read_csv('data/master/player_seasons.csv')
+
+# best young forwards by non-penalty xG per 90 (min ~900 minutes)
+elig = df[(df.nineties >= 10) & (df.age <= 23) & df.pos.str.contains('FW', na=False)]
+elig.nlargest(10, 'np_xg_p90')[
+    ['player', 'team', 'season_label', 'np_xg_p90', 'fifa_value_eur', 'fifa_contract_end']
+]
+
+# ball-playing centre-backs: accurate, quick, low-risk
+cb = df[(df.nineties >= 10) & (df.ss_accuratePassesPercentage > 90)]
+cb.nlargest(10, 'fifa_pace')[
+    ['player', 'team', 'ss_aerialDuelsWonPercentage', 'ss_errorLeadToShot', 'fifa_pace']
+]
+```
+
+Full column dictionary: [`data/clean/README.md`](data/clean/README.md).
+Quality report: [`docs/DATA_QUALITY.md`](docs/DATA_QUALITY.md).
+
+## Methods worth stealing
+
+Two ideas here generalise beyond this dataset.
+
+**1. Possession adjustment — judge the player, not his team.**
+A forward at a 68%-possession side is handed chances; one at 48% receives in
+transition under pressure. `scripts/team_adjust.py` splits metrics in two:
+ratio metrics (box share, xG per shot, duel and pass percentages) are already
+team-neutral and left alone; volume metrics are scaled against league-median
+possession — in-possession actions divided by relative possession,
+out-of-possession actions multiplied by it.
+
+**2. Filter by type, then rank by level.**
+Similarity finds players who do the same *job*, not players who do it *well*.
+`scripts/type_then_quality.py` takes the N closest season profiles to a template
+player, then ranks only those on the fit model. The nearest profile match to a
+given striker is often a distinctly lesser player.
+
+## Repo layout
+
+```
+data/
+  players/ teams/ schedule/     raw FBref pulls
+  understat/                    xG by season
+  barcelona/  worldcup/         shot-level and match-level data
+  clean/                        tidy, flat, documented
+  master/                       merged dataset + nested JSON
+scripts/                        every pull, clean, merge and model step
+docs/                           project log, data quality report
+output/                         card viewer, shot maps, model results
+```
+
+## Regenerate everything
 
 ```bash
 pip install -r requirements.txt
-python scripts/pull.py
+
+python scripts/pull.py               # FBref league data
+python scripts/understat_pull.py     # xG
+python scripts/sofascore_seasons.py  # defensive/passing detail (resumable)
+python scripts/sofifa_pull.py        # value, contract, attributes
+python scripts/clean.py              # tidy layer
+python scripts/scout_base.py         # FBref + Understat spine
+python scripts/build_master.py       # merged master
+python scripts/team_adjust.py        # possession-adjusted columns
+python scripts/build_cards.py        # players.json
+python scripts/build_viewer.py       # card viewer
+python scripts/validate.py           # quality report
 ```
 
-Portugal + Netherlands aren't in soccerdata by default — they're added via
-`~/soccerdata/config/league_dict.json` (FBref names "Primeira Liga",
-"Eredivisie"). `scripts/fbref_full.py` unlocks the stat pages soccerdata 1.9.1
-otherwise hides. FBref requires a real browser (Selenium auto-installs a driver);
-first run downloads chromedriver.
+Network pulls run in parallel (`scripts/fetch.py`, 8 workers) and the long
+SofaScore pull resumes from disk if interrupted.
+
+## Limitations
+
+1. **SoFIFA is a current snapshot** — value, contract and attributes do not vary
+   by season, and only match players still in the top-5 leagues (73% of rows).
+2. **SoFIFA values are EA's model, not transfer quotes**; pace and other
+   attributes are **scouted estimates, not measured data**. Use as a screen.
+3. **Name matching is imperfect.** Joins use normalised names, first-initial +
+   surname, and club/age sanity checks. Ambiguous matches are left null rather
+   than guessed, so 4–6% of rows lack one source.
+4. **Squad membership drifts** — the data reflects 24/25 and 25/26, not the
+   current transfer window.
+5. **No pass-level event data.** Chance-creation origins and true pass maps need
+   a paid provider (StatsBomb/Opta).
+6. **Copa del Rey / Supercopa have little or no xG.**
+
+Cross-source validation: SofaScore and Understat count goals independently and
+correlate at **r = 0.967** across 5,244 comparable rows — the main evidence that
+the name joins are sound.
+
+## Licence and terms
+
+The **code** in `scripts/` is MIT licensed — see [LICENSE](LICENSE).
+
+The **data** is not mine to license. It was collected from publicly accessible
+pages; no paywall, login or bot-protection was circumvented. Each source retains
+rights to its own data under its own terms. Provided for research and education —
+**verify the relevant terms before redistributing or using commercially.**

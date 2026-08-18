@@ -177,6 +177,14 @@ m = m.drop(columns=[c for c in ('fifa_blank', 'fifa_name', 'fifa_team_contract',
                                 'fifa_value', 'fifa_wage', 'fifa_release_clause')
                     if c in m.columns])
 
+# drop all-empty columns: FBref serves several advanced tables near-empty, so
+# their derived per-90s carry no data, and SoFIFA's list view returns work-rate
+# blank. Shipping empty columns misleads anyone reading the schema.
+empty = [c for c in m.columns if m[c].notna().sum() == 0]
+if empty:
+    m = m.drop(columns=empty)
+    print(f'dropped {len(empty)} all-empty columns: {", ".join(sorted(empty))}')
+
 # ---------- 4. tidy ----------
 m = m.drop(columns=[c for c in ('_name', '_sur', '_team') if c in m.columns])
 m = m.loc[:, ~m.columns.duplicated()].copy()

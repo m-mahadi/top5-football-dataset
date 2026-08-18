@@ -1,3 +1,11 @@
-soccerdata==1.9.1
-pandas
-lxml
+# core
+pandas>=2.0
+numpy>=1.24
+lxml>=4.9
+
+# data sources
+soccerdata==1.9.1      # FBref + Understat readers
+tls-requests>=1.0      # SofaScore / SoFIFA fetching (TLS fingerprinting)
+
+# visualisation (shot maps, pass maps)
+matplotlib>=3.7

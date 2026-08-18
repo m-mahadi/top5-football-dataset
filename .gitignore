@@ -17,3 +17,6 @@ _wc_shots.log
 data/**/_*.log
 data/worldcup_pull.log
 _passnet.log
+
+__pycache__/
+*.pyc
