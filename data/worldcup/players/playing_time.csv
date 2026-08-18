@@ -1,0 +1,1251 @@
+,,,,nation,pos,age,born,Playing Time,Playing Time,Playing Time,Playing Time,Playing Time,Starts,Starts,Starts,Subs,Subs,Subs,Team Success,Team Success,Team Success,Team Success,Team Success,Team Success
+,,,,,,,,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off
+league,season,team,player,,,,,,,,,,,,,,,,,,,,,
+INT-World Cup,2026,Algeria,Achref Abada,Algeria,DF,26,1999,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Algeria,Adil Boulbina,Algeria,FW,23,2003,2,19,10,5.3,0.2,0,,0,2,10,2,0.0,0,0,0,0.0,1.06
+INT-World Cup,2026,Algeria,Amine Gouiri,Algeria,FW,26,2000,4,251,63,69.7,2.8,3,73,0,1,33,0,1.0,4,5,-1,-0.36,2.12
+INT-World Cup,2026,Algeria,Anis Hadj Moussa,Algeria,MF,24,2002,3,98,33,27.2,1.1,1,63,0,2,18,1,1.0,1,2,-1,-0.92,0.11
+INT-World Cup,2026,Algeria,Aïssa Mandi,Algeria,DF,34,1991,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,5,9,-4,-1.0,
+INT-World Cup,2026,Algeria,Fares Chaïbi,Algeria,MF,23,2002,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,5,9,-4,-1.0,
+INT-World Cup,2026,Algeria,Farés Ghedjemis,Algeria,"FW,MF",23,2002,1,1,1,0.3,0.0,0,,0,1,1,3,1.0,0,1,-1,-90.0,-89.25
+INT-World Cup,2026,Algeria,Hicham Boudaoui,Algeria,MF,26,1999,3,128,43,35.6,1.4,2,54,0,1,20,1,1.0,0,3,-3,-2.11,-1.72
+INT-World Cup,2026,Algeria,Houssem Aouar,Algeria,MF,27,1998,3,173,58,48.1,1.9,2,73,0,1,27,1,0.33,2,5,-3,-1.56,-1.08
+INT-World Cup,2026,Algeria,Ibrahim Maza,Algeria,"MF,FW",20,2005,4,351,88,97.5,3.9,4,88,3,0,,0,1.0,5,9,-4,-1.03,-1.03
+INT-World Cup,2026,Algeria,Jaouen Hadjam,Algeria,DF,23,2003,3,109,36,30.3,1.2,1,70,0,2,20,1,1.33,2,2,0,0.0,1.43
+INT-World Cup,2026,Algeria,Luca Zidane,Algeria,GK,28,1998,3,270,90,75.0,3.0,3,90,3,0,,1,1.0,2,6,-4,-1.33,-1.33
+INT-World Cup,2026,Algeria,Melvin Mastil,Algeria,GK,26,2000,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Algeria,Mohamed Amine Tougai,Algeria,DF,26,2000,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Algeria,Mohamed Amoura,Algeria,"FW,MF",26,2000,1,27,27,7.5,0.3,0,,0,1,27,0,0.0,0,1,-1,-3.33,-2.52
+INT-World Cup,2026,Algeria,Nabil Bentaleb,Algeria,MF,31,1994,4,285,71,79.2,3.2,3,80,1,1,45,0,1.0,5,8,-3,-0.95,0.25
+INT-World Cup,2026,Algeria,Nadhir Benbouali,Algeria,FW,26,2000,1,45,45,12.5,0.5,0,,0,1,45,2,3.0,2,0,2,4.0,5.71
+INT-World Cup,2026,Algeria,Oussama Benbot,Algeria,GK,31,1994,1,90,90,25.0,1.0,1,90,1,0,,3,1.0,3,3,0,0.0,1.33
+INT-World Cup,2026,Algeria,Rafik Belghali,Algeria,DF,24,2002,4,331,83,91.9,3.7,4,83,2,0,,0,1.0,4,8,-4,-1.09,-1.09
+INT-World Cup,2026,Algeria,Ramiz Zerrouki,Algeria,MF,28,1998,3,111,37,30.8,1.2,2,51,0,1,9,1,1.0,0,3,-3,-2.43,-2.07
+INT-World Cup,2026,Algeria,Ramy Bensebaini,Algeria,DF,31,1995,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,5,9,-4,-1.0,
+INT-World Cup,2026,Algeria,Rayan Aït-Nouri,Algeria,DF,25,2001,4,284,71,78.9,3.2,3,88,2,1,20,0,1.0,3,7,-4,-1.27,-1.27
+INT-World Cup,2026,Algeria,Riyad Mahrez,Algeria,MF,35,1991,4,262,66,72.8,2.9,3,78,1,1,27,0,1.0,4,7,-3,-1.03,-0.11
+INT-World Cup,2026,Algeria,Samir Chergui,Algeria,DF,27,1999,1,20,20,5.6,0.2,0,,0,1,20,3,1.0,1,1,0,0.0,1.06
+INT-World Cup,2026,Algeria,Yassine Titraoui,Algeria,MF,22,2003,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Algeria,Zineddine Belaïd,Algeria,DF,27,1999,2,25,13,6.9,0.3,0,,0,2,13,2,2.0,1,1,0,0.0,1.07
+INT-World Cup,2026,Argentina,Alexis Mac Allister,Argentina,MF,27,1998,8,750,94,92.6,8.3,7,103,7,1,30,0,2.63,17,7,10,1.2,-0.3
+INT-World Cup,2026,Argentina,Cristian Romero,Argentina,DF,28,1998,7,608,87,75.1,6.8,7,87,2,0,,1,2.57,12,6,6,0.89,-1.34
+INT-World Cup,2026,Argentina,Emiliano Martínez,Argentina,GK,33,1992,8,810,101,100.0,9.0,8,101,8,0,,0,2.63,19,8,11,1.22,
+INT-World Cup,2026,Argentina,Enzo Fernández,Argentina,MF,25,2001,7,659,94,81.4,7.3,7,94,5,0,,1,2.57,14,6,8,1.09,-0.7
+INT-World Cup,2026,Argentina,Exequiel Palacios,Argentina,DF,27,1998,1,90,90,11.1,1.0,1,90,1,0,,7,3.0,3,1,2,2.0,0.87
+INT-World Cup,2026,Argentina,Facundo Medina,Argentina,DF,27,1999,5,308,62,38.0,3.4,3,85,1,2,26,3,2.4,5,2,3,0.88,-0.56
+INT-World Cup,2026,Argentina,Flaco López,Argentina,FW,25,2000,2,20,10,2.5,0.2,0,,0,2,10,6,3.0,2,0,2,9.0,7.97
+INT-World Cup,2026,Argentina,Gerónimo Rulli,Argentina,GK,34,1992,0,,,,,0,,0,0,,8,,,,,,
+INT-World Cup,2026,Argentina,Giovani Lo Celso,Argentina,MF,30,1996,1,59,59,7.3,0.7,1,59,0,0,,7,3.0,2,1,1,1.53,0.33
+INT-World Cup,2026,Argentina,Giuliano Simeone,Argentina,FW,23,2002,3,192,64,23.7,2.1,2,71,0,1,51,5,2.0,2,3,-1,-0.47,-2.22
+INT-World Cup,2026,Argentina,Gonzalo Montiel,Argentina,DF,29,1997,6,192,32,23.7,2.1,2,51,0,4,23,2,2.5,9,0,9,4.22,3.93
+INT-World Cup,2026,Argentina,Juan Musso,Argentina,GK,32,1994,0,,,,,0,,0,0,,8,,,,,,
+INT-World Cup,2026,Argentina,Julián Álvarez,Argentina,FW,26,2000,8,602,75,74.3,6.7,5,96,2,3,40,0,2.63,15,6,9,1.35,0.48
+INT-World Cup,2026,Argentina,Lautaro Martínez,Argentina,FW,28,1997,7,310,44,38.3,3.4,4,60,0,3,24,1,3.0,12,3,9,2.61,2.25
+INT-World Cup,2026,Argentina,Leandro Paredes,Argentina,MF,31,1994,7,473,68,58.4,5.3,4,88,2,3,40,1,2.57,10,7,3,0.57,-1.57
+INT-World Cup,2026,Argentina,Lionel Messi,Argentina,FW,38,1987,8,740,93,91.4,8.2,7,101,6,1,31,0,2.63,17,7,10,1.22,-0.07
+INT-World Cup,2026,Argentina,Lisandro Martínez,Argentina,DF,28,1998,7,624,89,77.0,6.9,7,89,5,0,,1,2.57,14,6,8,1.15,-0.3
+INT-World Cup,2026,Argentina,Marcos Senesi,Argentina,DF,29,1997,2,109,55,13.5,1.2,1,90,1,1,19,6,1.5,3,2,1,0.83,-0.46
+INT-World Cup,2026,Argentina,Nahuel Molina,Argentina,DF,28,1998,7,528,75,65.2,5.9,5,84,1,2,54,1,2.57,7,7,0,0.0,-3.51
+INT-World Cup,2026,Argentina,Nicolás González,Argentina,MF,28,1998,7,259,37,32.0,2.9,1,45,0,6,36,1,2.57,12,2,10,3.47,3.31
+INT-World Cup,2026,Argentina,Nicolás Otamendi,Argentina,DF,38,1988,7,247,35,30.5,2.7,1,90,1,6,26,1,2.57,8,2,6,2.19,1.39
+INT-World Cup,2026,Argentina,Nicolás Paz,Argentina,MF,21,2004,2,71,36,8.8,0.8,1,60,0,1,11,6,3.0,2,1,1,1.27,0.05
+INT-World Cup,2026,Argentina,Nicolás Tagliafico,Argentina,DF,33,1992,7,476,68,58.8,5.3,5,86,2,2,22,1,2.57,7,6,1,0.19,-2.51
+INT-World Cup,2026,Argentina,Rodrigo De Paul,Argentina,MF,32,1994,7,491,70,60.6,5.5,6,79,1,1,19,1,2.57,8,3,5,0.92,-0.78
+INT-World Cup,2026,Argentina,Thiago Almada,Argentina,MF,25,2001,5,241,48,29.8,2.7,3,60,0,2,31,3,3.0,6,1,5,1.87,0.92
+INT-World Cup,2026,Argentina,Valentín Barco,Argentina,"DF,MF",21,2004,1,20,20,2.5,0.2,0,,0,1,20,7,3.0,1,0,1,4.5,3.36
+INT-World Cup,2026,Australia,Aiden O'Neill,Australia,MF,27,1998,4,360,90,92.3,4.0,4,90,3,0,,0,1.25,3,3,0,0.0,0.0
+INT-World Cup,2026,Australia,Ajdin Hrustic,Australia,MF,29,1996,2,80,40,20.5,0.9,0,,0,2,40,2,1.0,0,0,0,0.0,0.0
+INT-World Cup,2026,Australia,Alessandro Circati,Australia,DF,22,2003,4,390,98,100.0,4.3,4,98,4,0,,0,1.25,3,3,0,0.0,
+INT-World Cup,2026,Australia,Awer Mabil,Australia,"FW,MF",30,1995,1,30,30,7.7,0.3,0,,0,1,30,3,1.0,0,0,0,0.0,0.0
+INT-World Cup,2026,Australia,Aziz Behich,Australia,MF,35,1990,3,217,72,55.6,2.4,2,105,2,1,7,1,1.67,1,1,0,0.0,0.0
+INT-World Cup,2026,Australia,Cameron Burgess,Australia,DF,30,1995,2,135,68,34.6,1.5,2,68,1,0,,2,1.5,2,2,0,0.0,0.0
+INT-World Cup,2026,Australia,Cammy Devlin,Australia,MF,28,1998,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Australia,Connor Metcalfe,Australia,MF,26,1999,4,315,79,80.8,3.5,3,90,2,1,45,0,1.25,3,1,2,0.57,2.97
+INT-World Cup,2026,Australia,Cristian Volpato,Australia,MF,22,2003,3,160,53,41.0,1.8,2,65,0,1,30,1,0.67,1,1,0,0.0,0.0
+INT-World Cup,2026,Australia,Harry Souttar,Australia,DF,27,1998,4,390,98,100.0,4.3,4,98,4,0,,0,1.25,3,3,0,0.0,
+INT-World Cup,2026,Australia,Jackson Irvine,Australia,MF,33,1993,4,223,56,57.2,2.5,2,102,1,2,10,0,1.25,1,1,0,0.0,0.0
+INT-World Cup,2026,Australia,Jacob Italiano,Australia,DF,24,2001,2,163,82,41.8,1.8,2,82,1,0,,0,1.5,1,2,-1,-0.55,-0.95
+INT-World Cup,2026,Australia,Jason Geria,Australia,DF,33,1993,2,62,31,15.9,0.7,0,,0,2,31,2,1.5,1,0,1,1.45,1.73
+INT-World Cup,2026,Australia,Jordy Bos,Australia,"MF,DF",23,2002,4,308,77,79.0,3.4,4,77,2,0,,0,1.25,2,3,-1,-0.29,-1.39
+INT-World Cup,2026,Australia,Kai Trewin,Australia,"DF,MF",25,2001,1,75,75,19.2,0.8,0,,0,1,75,3,1.0,1,0,1,1.2,1.49
+INT-World Cup,2026,Australia,Lucas Herrington,Australia,DF,18,2007,2,210,105,53.8,2.3,2,105,2,0,,2,1.0,1,1,0,0.0,0.0
+INT-World Cup,2026,Australia,Mathew Leckie,Australia,MF,35,1991,1,60,60,15.4,0.7,1,60,0,0,,1,0.0,0,2,-2,-3.0,-3.55
+INT-World Cup,2026,Australia,Mathew Ryan,Australia,GK,34,1992,1,2,2,0.5,0.0,0,,0,1,2,3,1.0,0,0,0,0.0,0.0
+INT-World Cup,2026,Australia,Miloš Degenek,Australia,"DF,MF",32,1994,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Australia,Mo Touré,Australia,FW,22,2004,3,165,55,42.3,1.8,2,59,0,1,47,1,1.33,1,2,-1,-0.55,-0.95
+INT-World Cup,2026,Australia,Nestory Irankunda,Australia,"FW,MF",20,2006,4,261,65,66.9,2.9,3,72,0,1,45,0,1.25,2,1,1,0.34,1.04
+INT-World Cup,2026,Australia,Nishan Velupillay,Australia,MF,25,2001,2,75,38,19.2,0.8,1,45,0,1,30,2,1.5,1,2,-1,-1.2,-1.49
+INT-World Cup,2026,Australia,Patrick Beach,Australia,GK,22,2003,4,388,97,99.5,4.3,4,97,3,0,,0,1.25,3,3,0,0.0,0.0
+INT-World Cup,2026,Australia,Paul Izzo,Australia,GK,31,1995,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Australia,Paul Okon-Engstler,Australia,MF,21,2005,4,197,49,50.5,2.2,2,80,0,2,19,0,1.25,2,2,0,0.0,0.0
+INT-World Cup,2026,Australia,Tete Yengi,Australia,FW,25,2000,2,24,12,6.2,0.3,0,,0,2,12,2,2.0,1,0,1,3.75,4.0
+INT-World Cup,2026,Austria,Alessandro Schöpf,Austria,MF,32,1994,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Austria,Alexander Prass,Austria,"DF,MF",25,2001,2,29,15,8.1,0.3,0,,0,2,15,2,0.0,0,2,-2,-6.21,-5.93
+INT-World Cup,2026,Austria,Alexander Schlager,Austria,GK,30,1996,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,6,9,-3,-0.75,
+INT-World Cup,2026,Austria,Carney Chukwuemeka,Austria,MF,22,2003,3,83,28,23.1,0.9,0,,0,3,28,1,1.0,2,3,-1,-1.08,-0.43
+INT-World Cup,2026,Austria,David Affengruber,Austria,DF,25,2001,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Austria,David Alaba,Austria,DF,33,1992,4,275,69,76.4,3.1,4,69,1,0,,0,1.0,3,7,-4,-1.31,-2.37
+INT-World Cup,2026,Austria,Dejan Ljubičić,Austria,MF,28,1997,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Austria,Florian Grillitsch,Austria,"DF,MF",30,1995,2,90,45,25.0,1.0,0,,0,2,45,2,0.5,2,4,-2,-2.0,-1.67
+INT-World Cup,2026,Austria,Florian Wiegele,Austria,GK,25,2001,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Austria,Kevin Danso,Austria,DF,27,1998,4,241,60,66.9,2.7,2,90,2,2,31,0,1.0,3,6,-3,-1.12,-1.12
+INT-World Cup,2026,Austria,Konrad Laimer,Austria,"MF,DF",29,1997,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,6,9,-3,-0.75,
+INT-World Cup,2026,Austria,Marcel Sabitzer,Austria,MF,32,1994,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,6,9,-3,-0.75,
+INT-World Cup,2026,Austria,Marco Friedl,Austria,DF,28,1998,1,24,24,6.7,0.3,0,,0,1,24,3,0.0,0,1,-1,-3.75,-3.21
+INT-World Cup,2026,Austria,Marko Arnautović,Austria,FW,37,1989,4,144,36,40.0,1.6,1,45,0,3,33,0,1.0,3,5,-2,-1.25,-0.83
+INT-World Cup,2026,Austria,Michael Gregoritsch,Austria,FW,32,1994,3,188,63,52.2,2.1,2,72,0,1,45,1,0.33,2,4,-2,-0.96,-0.43
+INT-World Cup,2026,Austria,Michael Svoboda,Austria,DF,27,1998,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Austria,Nicolas Seiwald,Austria,MF,25,2001,4,315,79,87.5,3.5,4,79,3,0,,0,1.0,6,7,-1,-0.29,3.71
+INT-World Cup,2026,Austria,Patrick Pentz,Austria,GK,29,1997,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Austria,Patrick Wimmer,Austria,"FW,MF",25,2001,2,21,11,5.8,0.2,0,,0,2,11,2,1.5,1,1,0,0.0,0.8
+INT-World Cup,2026,Austria,Paul Wanner,Austria,MF,20,2005,4,234,59,65.0,2.6,2,79,1,2,39,0,1.0,4,6,-2,-0.77,-0.05
+INT-World Cup,2026,Austria,Philipp Lienhart,Austria,DF,29,1996,2,180,90,50.0,2.0,2,90,2,0,,2,2.0,6,4,2,1.0,3.5
+INT-World Cup,2026,Austria,Phillipp Mwene,Austria,DF,32,1994,2,147,74,40.8,1.6,2,74,0,0,,2,2.0,3,3,0,0.0,1.27
+INT-World Cup,2026,Austria,Romano Schmid,Austria,"MF,FW",26,2000,4,263,66,73.1,2.9,4,66,0,0,,0,1.0,3,4,-1,-0.34,1.51
+INT-World Cup,2026,Austria,Saša Kalajdžić,Austria,FW,28,1997,3,77,26,21.4,0.9,1,45,0,2,16,1,1.33,2,2,0,0.0,0.95
+INT-World Cup,2026,Austria,Stefan Posch,Austria,DF,29,1997,4,331,83,91.9,3.7,4,83,2,0,,0,1.0,6,7,-1,-0.27,5.93
+INT-World Cup,2026,Austria,Xaver Schlager,Austria,MF,28,1997,4,238,60,66.1,2.6,4,60,1,0,,0,1.0,2,5,-3,-1.13,-1.13
+INT-World Cup,2026,Belgium,Alexis Saelemaekers,Belgium,MF,26,1999,4,83,21,14.6,0.9,1,57,0,3,9,2,1.75,3,2,1,1.08,-0.02
+INT-World Cup,2026,Belgium,Amadou Onana,Belgium,MF,24,2001,4,106,27,18.6,1.2,2,38,0,2,16,1,2.5,4,2,2,1.7,0.73
+INT-World Cup,2026,Belgium,Arthur Theate,Belgium,DF,26,2000,3,228,76,40.0,2.5,2,105,2,1,18,3,2.33,8,3,5,1.97,1.45
+INT-World Cup,2026,Belgium,Axel Witsel,Belgium,"DF,MF",37,1989,2,33,17,5.8,0.4,0,,0,2,17,4,1.5,1,1,0,0.0,-1.17
+INT-World Cup,2026,Belgium,Brandon Mechele,Belgium,DF,33,1993,6,570,95,100.0,6.3,6,95,6,0,,0,1.83,14,7,7,1.11,
+INT-World Cup,2026,Belgium,Charles De Ketelaere,Belgium,"FW,MF",25,2001,5,350,70,61.4,3.9,5,70,1,0,,1,2.0,8,6,2,0.51,-1.53
+INT-World Cup,2026,Belgium,Diego Moreira,Belgium,MF,21,2004,1,58,58,10.2,0.6,0,,0,1,58,5,3.0,3,0,3,4.66,3.95
+INT-World Cup,2026,Belgium,Dodi Lukebakio,Belgium,MF,28,1997,3,164,55,28.8,1.8,1,66,0,2,49,3,2.33,6,1,5,2.74,2.3
+INT-World Cup,2026,Belgium,Hans Vanaken,Belgium,MF,33,1992,6,319,53,56.0,3.5,3,70,1,3,36,0,1.83,9,5,4,1.13,0.05
+INT-World Cup,2026,Belgium,Jeremy Doku,Belgium,MF,24,2002,5,309,62,54.2,3.4,4,71,1,1,24,0,2.0,5,5,0,0.0,-2.41
+INT-World Cup,2026,Belgium,Joaquin Seys,Belgium,DF,21,2005,1,30,30,5.3,0.3,0,,0,1,30,5,0.0,0,1,-1,-3.0,-4.33
+INT-World Cup,2026,Belgium,Kevin De Bruyne,Belgium,MF,34,1991,5,382,76,67.0,4.2,5,76,0,0,,1,1.6,5,4,1,0.24,-2.64
+INT-World Cup,2026,Belgium,Koni De Winter,Belgium,DF,24,2002,0,,,,,0,,0,0,,6,,,,,,
+INT-World Cup,2026,Belgium,Leandro Trossard,Belgium,"MF,FW",31,1994,6,506,84,88.8,5.6,6,84,2,0,,0,1.83,10,5,5,0.89,-1.92
+INT-World Cup,2026,Belgium,Matias Fernandez-Pardo,Belgium,"FW,MF",21,2005,3,44,15,7.7,0.5,0,,0,3,15,3,1.67,3,1,2,4.09,3.24
+INT-World Cup,2026,Belgium,Maxim De Cuyper,Belgium,DF,25,2000,6,442,74,77.5,4.9,5,81,3,1,35,0,1.83,11,5,6,1.22,0.52
+INT-World Cup,2026,Belgium,Mike Penders,Belgium,GK,20,2005,0,,,,,0,,0,0,,6,,,,,,
+INT-World Cup,2026,Belgium,Nathan Ngoy,Belgium,DF,23,2003,4,335,84,58.8,3.7,4,84,3,0,,1,1.25,6,4,2,0.54,-1.38
+INT-World Cup,2026,Belgium,Nicolas Raskin,Belgium,MF,25,2001,6,341,57,59.8,3.8,3,78,1,3,35,0,1.83,10,3,7,1.85,1.85
+INT-World Cup,2026,Belgium,Romelu Lukaku,Belgium,FW,33,1993,6,233,39,40.9,2.6,1,72,0,5,32,0,1.83,6,2,4,1.55,0.74
+INT-World Cup,2026,Belgium,Senne Lammens,Belgium,GK,23,2002,1,20,20,3.5,0.2,0,,0,1,20,5,0.0,0,1,-1,-4.5,-5.81
+INT-World Cup,2026,Belgium,Thibaut Courtois,Belgium,GK,34,1992,6,550,92,96.5,6.1,6,92,5,0,,0,1.83,14,6,8,1.31,5.81
+INT-World Cup,2026,Belgium,Thomas Meunier,Belgium,DF,34,1991,3,190,63,33.3,2.1,2,74,1,1,43,3,1.67,4,1,3,1.42,0.47
+INT-World Cup,2026,Belgium,Timothy Castagne,Belgium,DF,30,1995,6,478,80,83.9,5.3,5,89,4,1,33,0,1.83,13,7,6,1.13,0.15
+INT-World Cup,2026,Belgium,Youri Tielemans,Belgium,MF,29,1997,5,474,95,83.2,5.3,5,95,4,0,,0,2.2,11,5,6,1.14,0.2
+INT-World Cup,2026,Belgium,Zeno Debast,Belgium,DF,22,2003,0,,,,,0,,0,0,,1,,,,,,
+INT-World Cup,2026,Bosnia–Herz,Amar Dedić,Bosnia–Herz,DF,23,2002,3,270,90,75.0,3.0,3,90,3,0,,1,0.33,2,7,-5,-1.67,-3.67
+INT-World Cup,2026,Bosnia–Herz,Amar Memić,Bosnia–Herz,MF,25,2001,4,224,56,62.2,2.5,2,82,1,2,31,0,1.0,3,5,-2,-0.8,-0.14
+INT-World Cup,2026,Bosnia–Herz,Amir Hadžiahmetović,Bosnia–Herz,MF,29,1997,1,6,6,1.7,0.1,0,,0,1,6,3,0.0,1,2,-1,-15.0,-14.49
+INT-World Cup,2026,Bosnia–Herz,Arjan Malic,Bosnia–Herz,DF,20,2005,1,45,45,12.5,0.5,1,45,0,0,,3,3.0,2,1,1,2.0,3.14
+INT-World Cup,2026,Bosnia–Herz,Armin Gigovic,Bosnia–Herz,MF,24,2002,2,79,40,21.9,0.9,1,50,0,1,29,2,0.5,0,2,-2,-2.28,-1.96
+INT-World Cup,2026,Bosnia–Herz,Benjamin Tahirovic,Bosnia–Herz,MF,23,2003,4,237,59,65.8,2.6,2,76,1,2,43,0,1.0,2,2,0,0.0,2.2
+INT-World Cup,2026,Bosnia–Herz,Dennis Hadžikadunić,Bosnia–Herz,DF,27,1998,1,27,27,7.5,0.3,0,,0,1,27,3,3.0,1,0,1,3.33,4.41
+INT-World Cup,2026,Bosnia–Herz,Dženis Burnić,Bosnia–Herz,MF,28,1998,2,16,8,4.4,0.2,0,,0,2,8,2,2.0,0,0,0,0.0,0.78
+INT-World Cup,2026,Bosnia–Herz,Edin Džeko,Bosnia–Herz,FW,40,1986,3,176,59,48.9,2.0,3,59,0,0,,1,1.0,2,2,0,0.0,1.47
+INT-World Cup,2026,Bosnia–Herz,Ermedin Demirović,Bosnia–Herz,FW,28,1998,4,354,89,98.3,3.9,4,89,3,0,,0,1.0,4,6,-2,-0.51,14.49
+INT-World Cup,2026,Bosnia–Herz,Ermin Mahmić,Bosnia–Herz,MF,21,2005,3,68,23,18.9,0.8,0,,0,3,23,1,1.0,2,2,0,0.0,0.92
+INT-World Cup,2026,Bosnia–Herz,Esmir Bajraktarevic,Bosnia–Herz,MF,21,2005,4,230,58,63.9,2.6,2,82,1,2,34,0,1.0,5,6,-1,-0.39,0.99
+INT-World Cup,2026,Bosnia–Herz,Haris Tabaković,Bosnia–Herz,FW,31,1994,1,16,16,4.4,0.2,0,,0,1,16,3,0.0,0,1,-1,-5.63,-5.1
+INT-World Cup,2026,Bosnia–Herz,Ivan Bašić,Bosnia–Herz,MF,24,2002,3,179,60,49.7,2.0,2,76,1,1,28,1,1.33,5,5,0,0.0,1.49
+INT-World Cup,2026,Bosnia–Herz,Ivan Šunjić,Bosnia–Herz,MF,29,1996,4,196,49,54.4,2.2,3,60,0,1,17,0,1.0,2,5,-3,-1.38,-1.38
+INT-World Cup,2026,Bosnia–Herz,Jovo Lukić,Bosnia–Herz,FW,27,1998,2,67,34,18.6,0.7,1,61,0,1,6,2,0.5,2,2,0,0.0,0.92
+INT-World Cup,2026,Bosnia–Herz,Kerim Alajbegović,Bosnia–Herz,MF,18,2007,4,277,69,76.9,3.1,3,87,1,1,17,0,1.0,3,7,-4,-1.3,-2.38
+INT-World Cup,2026,Bosnia–Herz,Martin Zlomislić,Bosnia–Herz,GK,27,1998,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Bosnia–Herz,Mladen Jurkas,Bosnia–Herz,GK,18,2007,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Bosnia–Herz,Nihad Mujakić,Bosnia–Herz,DF,28,1998,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Bosnia–Herz,Nikola Katić,Bosnia–Herz,DF,29,1996,4,317,79,88.1,3.5,4,79,2,0,,0,1.0,4,7,-3,-0.85,-0.85
+INT-World Cup,2026,Bosnia–Herz,Nikola Vasilj,Bosnia–Herz,GK,30,1995,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,5,8,-3,-0.75,
+INT-World Cup,2026,Bosnia–Herz,Samed Baždar,Bosnia–Herz,FW,22,2004,1,29,29,8.1,0.3,0,,0,1,29,3,1.0,0,1,-1,-3.1,-2.56
+INT-World Cup,2026,Bosnia–Herz,Sead Kolašinac,Bosnia–Herz,DF,32,1993,4,337,84,93.6,3.7,4,84,2,0,,0,1.0,5,7,-2,-0.53,3.38
+INT-World Cup,2026,Bosnia–Herz,Stjepan Radeljić,Bosnia–Herz,DF,28,1997,2,180,90,50.0,2.0,2,90,2,0,,2,1.5,3,3,0,0.0,1.5
+INT-World Cup,2026,Bosnia–Herz,Tarik Muharemovic,Bosnia–Herz,DF,23,2003,3,259,86,71.9,2.9,3,86,2,0,,0,0.33,1,4,-3,-1.04,-1.04
+INT-World Cup,2026,Brazil,Alex Sandro,Brazil,"DF,MF",35,1991,1,9,9,2.0,0.1,0,,0,1,9,4,3.0,0,0,0,0.0,-1.22
+INT-World Cup,2026,Brazil,Alisson,Brazil,GK,33,1992,5,450,90,100.0,5.0,5,90,5,0,,0,2.0,10,4,6,1.2,
+INT-World Cup,2026,Brazil,Bruno Guimarães,Brazil,MF,28,1997,5,416,83,92.4,4.6,5,83,1,0,,0,2.0,8,3,5,1.08,-1.57
+INT-World Cup,2026,Brazil,Casemiro,Brazil,MF,34,1992,5,379,76,84.2,4.2,5,76,2,0,,0,2.0,9,4,5,1.19,-0.08
+INT-World Cup,2026,Brazil,Danilo,Brazil,DF,34,1991,5,405,81,90.0,4.5,4,90,4,1,45,0,2.0,9,3,6,1.33,1.33
+INT-World Cup,2026,Brazil,Danilo Santos,Brazil,MF,25,2001,4,46,12,10.2,0.5,0,,0,4,12,1,1.75,1,2,-1,-1.96,-3.52
+INT-World Cup,2026,Brazil,Douglas Santos,Brazil,DF,32,1994,5,441,88,98.0,4.9,5,88,4,0,,0,2.0,10,4,6,1.22,1.22
+INT-World Cup,2026,Brazil,Ederson Moraes,Brazil,GK,32,1993,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Brazil,Endrick,Brazil,FW,19,2006,4,114,29,25.3,1.3,0,,0,4,29,1,2.25,3,2,1,0.79,-0.55
+INT-World Cup,2026,Brazil,Fabinho,Brazil,"DF,MF",32,1993,3,71,24,15.8,0.8,0,,0,3,24,2,2.33,1,0,1,1.27,0.08
+INT-World Cup,2026,Brazil,Gabriel Magalhães,Brazil,DF,28,1997,5,450,90,100.0,5.0,5,90,5,0,,0,2.0,10,4,6,1.2,
+INT-World Cup,2026,Brazil,Gabriel Martinelli,Brazil,MF,24,2001,4,143,36,31.8,1.6,1,66,0,3,26,1,2.25,1,0,1,0.63,-0.84
+INT-World Cup,2026,Brazil,Gleison Bremer,Brazil,DF,29,1997,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Brazil,Igor Thiago,Brazil,FW,24,2001,1,61,61,13.6,0.7,1,61,0,0,,4,1.0,1,1,0,0.0,-1.39
+INT-World Cup,2026,Brazil,Lucas Paquetá,Brazil,MF,28,1997,4,233,58,51.8,2.6,4,58,0,0,,0,2.5,7,2,5,1.93,1.52
+INT-World Cup,2026,Brazil,Luiz Henrique,Brazil,"FW,MF",25,2001,1,29,29,6.4,0.3,0,,0,1,29,4,1.0,0,0,0,0.0,-1.28
+INT-World Cup,2026,Brazil,Léo Pereira,Brazil,DF,30,1996,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Brazil,Marquinhos,Brazil,DF,32,1994,5,450,90,100.0,5.0,5,90,5,0,,0,2.0,10,4,6,1.2,
+INT-World Cup,2026,Brazil,Matheus Cunha,Brazil,FW,27,1999,5,290,58,64.4,3.2,4,65,0,1,30,0,2.0,7,1,6,1.86,1.86
+INT-World Cup,2026,Brazil,Neymar,Brazil,"FW,MF",34,1992,2,39,20,8.7,0.4,0,,0,2,20,1,1.5,1,2,-1,-2.31,-3.84
+INT-World Cup,2026,Brazil,Raphinha,Brazil,"MF,FW",29,1996,2,129,65,28.7,1.4,2,65,1,0,,1,2.0,3,1,2,1.4,0.27
+INT-World Cup,2026,Brazil,Rayan,Brazil,"FW,MF",19,2006,4,288,72,64.0,3.2,3,79,1,1,51,1,2.25,6,1,5,1.56,1.01
+INT-World Cup,2026,Brazil,Roger Ibanez,Brazil,DF,27,1998,1,45,45,10.0,0.5,1,45,0,0,,4,1.0,1,1,0,0.0,-1.33
+INT-World Cup,2026,Brazil,Vinicius Júnior,Brazil,FW,25,2000,5,440,88,97.8,4.9,5,88,4,0,,0,2.0,10,4,6,1.23,1.23
+INT-World Cup,2026,Brazil,Wéverton,Brazil,GK,38,1987,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Brazil,Éderson Silva,Brazil,MF,26,1999,2,22,11,4.9,0.2,0,,0,2,11,3,1.5,1,1,0,0.0,-1.26
+INT-World Cup,2026,Cabo Verde,C.J. dos Santos,Cabo Verde,GK,25,2000,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Cabo Verde,Dailon Livramento,Cabo Verde,FW,25,2001,3,174,58,44.6,1.9,2,60,0,1,54,1,0.67,1,2,-1,-0.52,-0.52
+INT-World Cup,2026,Cabo Verde,Deroy Duarte,Cabo Verde,MF,26,1999,4,264,66,67.7,2.9,2,95,1,2,38,0,0.75,2,2,0,0.0,0.71
+INT-World Cup,2026,Cabo Verde,Diney,Cabo Verde,DF,31,1995,4,390,98,100.0,4.3,4,98,4,0,,0,0.75,4,5,-1,-0.23,
+INT-World Cup,2026,Cabo Verde,Garry Rodrigues,Cabo Verde,MF,35,1990,2,76,38,19.5,0.8,1,57,0,1,19,2,1.0,1,2,-1,-1.18,-1.18
+INT-World Cup,2026,Cabo Verde,Gilson Benchimol,Cabo Verde,FW,24,2001,2,78,39,20.0,0.9,1,57,0,1,21,2,0.5,2,3,-1,-1.15,-1.15
+INT-World Cup,2026,Cabo Verde,Hélio Varela,Cabo Verde,FW,24,2002,3,104,35,26.7,1.2,0,,0,3,35,1,0.67,2,2,0,0.0,0.31
+INT-World Cup,2026,Cabo Verde,Jamiro Monteiro,Cabo Verde,MF,32,1993,4,281,70,72.1,3.1,3,76,0,1,54,0,0.75,3,4,-1,-0.32,-0.32
+INT-World Cup,2026,Cabo Verde,Jovane Cabral,Cabo Verde,FW,28,1998,2,139,70,35.6,1.5,2,70,0,0,,2,0.5,1,1,0,0.0,0.36
+INT-World Cup,2026,Cabo Verde,João Paulo Fernandes,Cabo Verde,DF,28,1998,2,105,53,26.9,1.2,1,90,1,1,15,2,1.0,0,0,0,0.0,0.32
+INT-World Cup,2026,Cabo Verde,Kelvin Pires,Cabo Verde,DF,26,2000,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Cabo Verde,Kevin Pina,Cabo Verde,MF,29,1997,4,349,87,89.5,3.9,4,87,2,0,,0,0.75,3,4,-1,-0.26,-0.26
+INT-World Cup,2026,Cabo Verde,Laros Duarte,Cabo Verde,MF,29,1997,4,166,42,42.6,1.8,2,63,0,2,20,0,0.75,1,1,0,0.0,0.4
+INT-World Cup,2026,Cabo Verde,Logan Costa,Cabo Verde,DF,25,2001,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Cabo Verde,Márcio Rosa,Cabo Verde,GK,29,1997,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Cabo Verde,Nuno da Costa,Cabo Verde,FW,35,1991,4,159,40,40.8,1.8,1,66,0,3,31,0,0.75,2,1,1,0.57,1.35
+INT-World Cup,2026,Cabo Verde,Pico,Cabo Verde,DF,33,1992,4,390,98,100.0,4.3,4,98,4,0,,0,0.75,4,5,-1,-0.23,
+INT-World Cup,2026,Cabo Verde,Ryan Mendes,Cabo Verde,"FW,MF",36,1990,4,330,83,84.6,3.7,4,83,2,0,,0,0.75,3,3,0,0.0,1.5
+INT-World Cup,2026,Cabo Verde,Sidny Lopes Cabral,Cabo Verde,DF,23,2002,3,285,95,73.1,3.2,3,95,2,0,,0,0.67,4,5,-1,-0.32,-0.32
+INT-World Cup,2026,Cabo Verde,Steven Moreira,Cabo Verde,DF,31,1994,4,301,75,77.2,3.3,3,100,3,1,1,0,0.75,4,5,-1,-0.3,-0.3
+INT-World Cup,2026,Cabo Verde,Stopira,Cabo Verde,DF,38,1988,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Cabo Verde,Telmo Arcanjo,Cabo Verde,MF,24,2001,2,57,29,14.6,0.6,1,45,0,1,12,1,1.0,1,2,-1,-1.58,-1.58
+INT-World Cup,2026,Cabo Verde,Vozinha,Cabo Verde,GK,40,1986,4,390,98,100.0,4.3,4,98,4,0,,0,0.75,4,5,-1,-0.23,
+INT-World Cup,2026,Cabo Verde,Wagner Pina,Cabo Verde,DF,23,2002,1,89,89,22.8,1.0,1,89,0,0,,3,1.0,0,0,0,0.0,0.3
+INT-World Cup,2026,Cabo Verde,Willy Semedo,Cabo Verde,FW,32,1994,3,131,44,33.6,1.5,1,60,0,2,36,1,0.67,1,2,-1,-0.69,-0.69
+INT-World Cup,2026,Cabo Verde,Yannick,Cabo Verde,MF,30,1995,2,32,16,8.2,0.4,0,,0,2,16,2,0.5,1,1,0,0.0,0.25
+INT-World Cup,2026,Canada,Alfie Jones,Canada,"DF,MF",28,1997,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Canada,Ali Ahmed,Canada,MF,25,2000,4,234,59,52.0,2.6,3,68,0,1,30,1,1.0,5,3,2,0.77,0.35
+INT-World Cup,2026,Canada,Alistair Johnston,Canada,DF,27,1998,5,450,90,100.0,5.0,5,90,5,0,,0,1.4,9,6,3,0.6,
+INT-World Cup,2026,Canada,Alphonso Davies,Canada,"DF,FW",25,2000,1,16,16,3.6,0.2,0,,0,1,16,4,3.0,1,0,1,5.63,5.21
+INT-World Cup,2026,Canada,Cyle Larin,Canada,FW,31,1995,4,190,48,42.2,2.1,2,74,1,2,22,1,1.0,7,4,3,1.42,1.42
+INT-World Cup,2026,Canada,Dayne St. Clair,Canada,GK,29,1997,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Canada,Derek Cornelius,Canada,DF,28,1997,4,315,79,70.0,3.5,4,79,3,0,,1,1.75,6,3,3,0.86,0.86
+INT-World Cup,2026,Canada,Ismaël Koné,Canada,MF,23,2002,2,146,73,32.4,1.6,2,73,1,0,,0,2.0,4,1,3,1.85,1.85
+INT-World Cup,2026,Canada,Jacob Shaffelburg,Canada,MF,26,1999,5,92,18,20.4,1.0,0,,0,5,18,0,1.4,4,2,2,1.96,1.71
+INT-World Cup,2026,Canada,Jayden Nelson,Canada,"FW,MF",23,2002,1,4,4,0.9,0.0,0,,0,1,4,4,0.0,0,1,-1,-22.5,-23.31
+INT-World Cup,2026,Canada,Joel Waterman,Canada,DF,30,1996,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Canada,Jonathan David,Canada,FW,26,2000,5,420,84,93.3,4.7,5,84,4,0,,0,1.4,8,6,2,0.43,-2.57
+INT-World Cup,2026,Canada,Jonathan Osorio,Canada,MF,34,1992,2,5,3,1.1,0.1,0,,0,2,3,3,0.5,0,1,-1,-18.0,-18.81
+INT-World Cup,2026,Canada,Liam Millar,Canada,MF,26,1999,3,162,54,36.0,1.8,2,65,0,1,33,2,1.33,1,1,0,0.0,-0.94
+INT-World Cup,2026,Canada,Luc De Fougerolles,Canada,DF,20,2005,5,372,74,82.7,4.1,4,85,3,1,32,0,1.4,7,6,1,0.24,-2.07
+INT-World Cup,2026,Canada,Mathieu Choinière,Canada,MF,27,1999,1,57,57,12.7,0.6,1,57,0,0,,4,0.0,0,2,-2,-3.16,-4.3
+INT-World Cup,2026,Canada,Maxime Crépeau,Canada,GK,32,1994,5,450,90,100.0,5.0,5,90,5,0,,0,1.4,9,6,3,0.6,
+INT-World Cup,2026,Canada,Moïse Bombito,Canada,DF,26,2000,3,193,64,42.9,2.1,2,74,1,1,45,2,2.0,3,3,0,0.0,-1.05
+INT-World Cup,2026,Canada,Nathan Saliba,Canada,MF,22,2004,3,182,61,40.4,2.0,2,74,1,1,34,2,2.0,4,2,2,0.99,0.65
+INT-World Cup,2026,Canada,Niko Sigur,Canada,MF,22,2003,3,126,42,28.0,1.4,1,86,0,2,20,2,2.0,2,2,0,0.0,-0.83
+INT-World Cup,2026,Canada,Owen Goodman,Canada,GK,22,2003,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Canada,Promise David,Canada,FW,24,2001,4,80,20,17.8,0.9,0,,0,4,20,1,1.0,3,2,1,1.13,0.64
+INT-World Cup,2026,Canada,Richie Laryea,Canada,DF,31,1995,5,429,86,95.3,4.8,5,86,3,0,,0,1.4,9,4,5,1.05,9.62
+INT-World Cup,2026,Canada,Stephen Eustáquio,Canada,MF,29,1996,5,392,78,87.1,4.4,4,90,3,1,33,0,1.4,9,4,5,1.15,4.25
+INT-World Cup,2026,Canada,Tajon Buchanan,Canada,MF,27,1999,5,376,75,83.6,4.2,5,75,0,0,,0,1.4,5,5,0,0.0,-3.65
+INT-World Cup,2026,Canada,Tani Oluwaseyi,Canada,FW,26,2000,5,259,52,57.6,2.9,3,69,0,2,27,0,1.4,3,2,1,0.35,-0.59
+INT-World Cup,2026,Colombia,Andrés Gómez,Colombia,MF,23,2002,1,1,1,0.2,0.0,0,,0,1,1,4,3.0,1,0,1,90.0,89.44
+INT-World Cup,2026,Colombia,Camilo Vargas,Colombia,GK,37,1989,5,480,96,100.0,5.3,5,96,5,0,,0,2.2,5,1,4,0.75,
+INT-World Cup,2026,Colombia,Cucho,Colombia,"FW,MF",27,1999,2,50,25,10.4,0.6,0,,0,2,25,3,2.0,1,0,1,1.8,1.17
+INT-World Cup,2026,Colombia,Daniel Muñoz,Colombia,DF,30,1996,5,394,79,82.1,4.4,4,98,4,1,4,0,2.2,5,1,4,0.91,0.91
+INT-World Cup,2026,Colombia,David Ospina,Colombia,GK,37,1988,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Colombia,Davinson Sánchez,Colombia,DF,30,1996,5,480,96,100.0,5.3,5,96,5,0,,0,2.2,5,1,4,0.75,
+INT-World Cup,2026,Colombia,Deiver Machado,Colombia,DF,32,1993,1,90,90,18.8,1.0,1,90,1,0,,4,1.0,0,0,0,0.0,-0.92
+INT-World Cup,2026,Colombia,Gustavo Puerta,Colombia,MF,22,2003,5,469,94,97.7,5.2,5,94,4,0,,0,2.2,4,1,3,0.58,-7.61
+INT-World Cup,2026,Colombia,James Rodríguez,Colombia,"FW,MF",34,1991,5,313,63,65.2,3.5,5,63,0,0,,0,2.2,3,1,2,0.58,-0.5
+INT-World Cup,2026,Colombia,Jaminton Campaz,Colombia,"FW,MF",26,2000,3,75,25,15.6,0.8,0,,0,3,25,2,2.33,1,0,1,1.2,0.53
+INT-World Cup,2026,Colombia,Jefferson Lerma,Colombia,MF,31,1994,5,410,82,85.4,4.6,5,82,3,0,,0,2.2,5,1,4,0.88,0.88
+INT-World Cup,2026,Colombia,Jhon Arias,Colombia,MF,28,1997,5,377,75,78.5,4.2,5,75,0,0,,0,2.2,4,1,3,0.72,-0.16
+INT-World Cup,2026,Colombia,Jhon Córdoba,Colombia,FW,33,1993,3,99,33,20.6,1.1,2,33,0,1,33,2,2.33,1,0,1,0.91,0.2
+INT-World Cup,2026,Colombia,Jhon Lucumí,Colombia,DF,27,1998,5,478,96,99.6,5.3,5,96,4,0,,0,2.2,5,1,4,0.75,0.75
+INT-World Cup,2026,Colombia,Johan Mojica,Colombia,DF,33,1992,4,390,98,81.3,4.3,4,98,4,0,,1,2.5,5,1,4,0.92,0.92
+INT-World Cup,2026,Colombia,Jorge Carrascal,Colombia,"FW,MF",28,1998,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Colombia,Juan Camilo Portilla,Colombia,MF,27,1998,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Colombia,Juan Quintero,Colombia,"FW,MF",33,1993,4,121,30,25.2,1.3,0,,0,4,30,1,2.0,1,0,1,0.74,-0.01
+INT-World Cup,2026,Colombia,Kevin Castaño,Colombia,MF,25,2000,2,16,8,3.3,0.2,0,,0,2,8,3,2.0,1,0,1,5.63,5.04
+INT-World Cup,2026,Colombia,Luis Díaz,Colombia,"FW,MF",29,1997,5,478,96,99.6,5.3,5,96,3,0,,0,2.2,4,1,3,0.56,-44.44
+INT-World Cup,2026,Colombia,Luis Suárez,Colombia,FW,28,1997,5,331,66,69.0,3.7,3,72,0,2,57,0,2.2,3,1,2,0.54,-0.66
+INT-World Cup,2026,Colombia,Richard Ríos,Colombia,MF,26,2000,5,140,28,29.2,1.6,0,,0,5,28,0,2.2,1,0,1,0.64,-0.15
+INT-World Cup,2026,Colombia,Santiago Arias,Colombia,DF,34,1992,1,86,86,17.9,1.0,1,86,0,0,,4,1.0,0,0,0,0.0,-0.91
+INT-World Cup,2026,Colombia,Willer Ditta,Colombia,DF,28,1998,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Colombia,Yerry Mina,Colombia,DF,31,1994,1,2,2,0.4,0.0,0,,0,1,2,4,1.0,0,0,0,0.0,-0.75
+INT-World Cup,2026,Colombia,Álvaro David Montero,Colombia,GK,31,1995,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Congo DR,Aaron Tshibola,Congo DR,MF,31,1995,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Congo DR,Aaron Wan-Bissaka,Congo DR,DF,28,1997,4,354,89,98.3,3.9,4,89,3,0,,0,1.0,5,5,0,0.0,0.0
+INT-World Cup,2026,Congo DR,Arthur Masuaku,Congo DR,DF,32,1993,4,315,79,87.5,3.5,4,79,0,0,,0,1.0,4,4,0,0.0,0.0
+INT-World Cup,2026,Congo DR,Axel Tuanzebe,Congo DR,DF,28,1997,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,5,5,0,0.0,
+INT-World Cup,2026,Congo DR,Brian Cipenga,Congo DR,"MF,FW",28,1998,2,146,73,40.6,1.6,2,73,0,0,,2,1.5,2,2,0,0.0,0.0
+INT-World Cup,2026,Congo DR,Chancel Mbemba,Congo DR,DF,31,1994,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,5,5,0,0.0,
+INT-World Cup,2026,Congo DR,Charles Pickel,Congo DR,"DF,MF",29,1997,2,35,18,9.7,0.4,0,,0,2,18,2,0.5,0,1,-1,-2.57,-2.85
+INT-World Cup,2026,Congo DR,Cédric Bakambu,Congo DR,FW,35,1991,3,190,63,52.8,2.1,3,63,0,0,,1,1.33,1,2,-1,-0.47,-1.0
+INT-World Cup,2026,Congo DR,Dylan Batubinsika,Congo DR,DF,30,1996,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Congo DR,Edo Kayembe,Congo DR,MF,28,1998,3,160,53,44.4,1.8,2,73,0,1,15,1,0.33,1,2,-1,-0.56,-1.01
+INT-World Cup,2026,Congo DR,Fiston Mayele,Congo DR,FW,31,1994,2,42,21,11.7,0.5,0,,0,2,21,2,1.5,3,0,3,6.43,7.28
+INT-World Cup,2026,Congo DR,Gaël Kakuta,Congo DR,"FW,MF",34,1991,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Congo DR,Gédéon Kalulu,Congo DR,DF,28,1997,1,6,6,1.7,0.1,0,,0,1,6,3,1.0,0,0,0,0.0,0.0
+INT-World Cup,2026,Congo DR,Joris Kayembe,Congo DR,"DF,FW",31,1994,4,45,11,12.5,0.5,0,,0,4,11,0,1.0,1,1,0,0.0,0.0
+INT-World Cup,2026,Congo DR,Lionel Mpasi,Congo DR,GK,31,1994,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,5,5,0,0.0,
+INT-World Cup,2026,Congo DR,Matthieu Epolo,Congo DR,GK,21,2005,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Congo DR,Meschak Elia,Congo DR,"FW,MF",28,1997,2,46,23,12.8,0.5,0,,0,2,23,2,1.5,2,2,0,0.0,0.0
+INT-World Cup,2026,Congo DR,Nathanaël Mbuku,Congo DR,"MF,FW",24,2002,3,143,48,39.7,1.6,2,67,0,1,9,1,1.0,2,1,1,0.63,1.04
+INT-World Cup,2026,Congo DR,Ngal'Ayel Mukau,Congo DR,MF,21,2004,4,195,49,54.2,2.2,3,59,0,1,19,0,1.0,4,2,2,0.92,2.01
+INT-World Cup,2026,Congo DR,Noah Sadiki,Congo DR,MF,21,2004,4,259,65,71.9,2.9,2,90,2,2,40,0,1.0,4,4,0,0.0,0.0
+INT-World Cup,2026,Congo DR,Samuel Moutoussamy,Congo DR,MF,29,1996,4,330,83,91.7,3.7,4,83,1,0,,0,1.0,3,5,-2,-0.55,-6.55
+INT-World Cup,2026,Congo DR,Simon Banza,Congo DR,"FW,MF",29,1996,2,40,20,11.1,0.4,0,,0,2,20,2,0.5,0,1,-1,-2.25,-2.53
+INT-World Cup,2026,Congo DR,Steve Kapuadi,Congo DR,DF,28,1998,2,180,90,50.0,2.0,2,90,2,0,,2,0.5,1,2,-1,-0.5,-1.0
+INT-World Cup,2026,Congo DR,Theo Bongonda,Congo DR,"FW,MF",30,1995,2,34,17,9.4,0.4,0,,0,2,17,2,1.5,2,1,1,2.65,2.92
+INT-World Cup,2026,Congo DR,Timothy Fayulu,Congo DR,GK,26,1999,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Congo DR,Yoane Wissa,Congo DR,FW,29,1996,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,5,5,0,0.0,
+INT-World Cup,2026,Croatia,Andrej Kramarić,Croatia,"FW,MF",34,1991,3,59,20,16.4,0.7,0,,0,3,20,1,1.0,1,1,0,0.0,0.3
+INT-World Cup,2026,Croatia,Ante Budimir,Croatia,FW,34,1991,3,155,52,43.1,1.7,2,55,0,1,45,1,2.0,2,0,2,1.16,2.48
+INT-World Cup,2026,Croatia,Dominik Kotarski,Croatia,GK,26,2000,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Croatia,Dominik Livaković,Croatia,GK,31,1995,4,360,90,100.0,4.0,4,90,4,0,,0,1.5,6,7,-1,-0.25,
+INT-World Cup,2026,Croatia,Duje Ćaleta-Car,Croatia,DF,29,1996,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Croatia,Igor Matanović,Croatia,FW,23,2003,3,95,32,26.4,1.1,0,,0,3,32,1,1.0,2,4,-2,-1.89,-2.23
+INT-World Cup,2026,Croatia,Ivan Perišić,Croatia,"MF,DF",37,1989,4,360,90,100.0,4.0,4,90,4,0,,0,1.5,6,7,-1,-0.25,
+INT-World Cup,2026,Croatia,Ivor Pandur,Croatia,GK,26,2000,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Croatia,Josip Stanišić,Croatia,"DF,MF",26,2000,4,360,90,100.0,4.0,4,90,4,0,,0,1.5,6,7,-1,-0.25,
+INT-World Cup,2026,Croatia,Josip Šutalo,Croatia,DF,26,2000,4,360,90,100.0,4.0,4,90,4,0,,0,1.5,6,7,-1,-0.25,
+INT-World Cup,2026,Croatia,Joško Gvardiol,Croatia,DF,24,2002,4,139,35,38.6,1.5,2,68,1,2,2,0,1.5,2,5,-3,-1.94,-2.76
+INT-World Cup,2026,Croatia,Kristijan Jakić,Croatia,"DF,MF",29,1997,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Croatia,Luka Modrić,Croatia,MF,40,1985,4,317,79,88.1,3.5,4,79,2,0,,0,1.5,6,6,0,0.0,2.09
+INT-World Cup,2026,Croatia,Luka Sučić,Croatia,"FW,MF",23,2002,1,19,19,5.3,0.2,0,,0,1,19,3,3.0,0,0,0,0.0,0.26
+INT-World Cup,2026,Croatia,Luka Vušković,Croatia,DF,19,2007,1,65,65,18.1,0.7,1,65,0,0,,3,0.0,2,3,-1,-1.38,-1.38
+INT-World Cup,2026,Croatia,Marco Pašalić,Croatia,MF,25,2000,3,99,33,27.5,1.1,1,71,0,2,14,1,2.0,1,1,0,0.0,0.34
+INT-World Cup,2026,Croatia,Marin Pongračić,Croatia,DF,28,1997,3,270,90,75.0,3.0,3,90,3,0,,1,2.0,4,3,1,0.33,2.33
+INT-World Cup,2026,Croatia,Mario Pašalić,Croatia,MF,31,1995,4,123,31,34.2,1.4,1,77,0,3,15,0,1.5,3,4,-1,-0.73,-0.73
+INT-World Cup,2026,Croatia,Martin Baturina,Croatia,"MF,FW",23,2003,4,321,80,89.2,3.6,4,80,1,0,,0,1.5,6,5,1,0.28,4.9
+INT-World Cup,2026,Croatia,Martin Erlić,Croatia,DF,28,1998,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Croatia,Mateo Kovačić,Croatia,MF,32,1994,4,270,68,75.0,3.0,3,79,0,1,33,0,1.5,3,3,0,0.0,1.0
+INT-World Cup,2026,Croatia,Nikola Moro,Croatia,MF,28,1998,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Croatia,Nikola Vlašić,Croatia,MF,28,1997,3,189,63,52.5,2.1,2,88,0,1,13,1,1.0,3,3,0,0.0,0.53
+INT-World Cup,2026,Croatia,Petar Musa,Croatia,FW,28,1998,2,110,55,30.6,1.2,2,55,0,0,,2,1.5,2,3,-1,-0.82,-0.82
+INT-World Cup,2026,Croatia,Petar Sučić,Croatia,"MF,FW",22,2003,4,289,72,80.3,3.2,3,90,3,1,19,0,1.5,5,7,-2,-0.62,-1.89
+INT-World Cup,2026,Croatia,Toni Fruk,Croatia,"FW,MF",25,2001,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Curaçao,Ar'jany Martha,Curaçao,"DF,FW",22,2003,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Curaçao,Armando Obispo,Curaçao,DF,27,1999,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,1,9,-8,-2.67,
+INT-World Cup,2026,Curaçao,Brandley Kuwas,Curaçao,"FW,MF",33,1992,1,1,1,0.4,0.0,0,,0,1,1,2,0.0,0,0,0,0.0,2.68
+INT-World Cup,2026,Curaçao,Deveron Fonville,Curaçao,DF,23,2003,3,241,80,89.3,2.7,3,80,1,0,,0,0.33,1,9,-8,-2.99,-2.99
+INT-World Cup,2026,Curaçao,Eloy Room,Curaçao,GK,37,1989,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,1,9,-8,-2.67,
+INT-World Cup,2026,Curaçao,Gervane Kastaneer,Curaçao,"FW,MF",30,1996,3,30,10,11.1,0.3,0,,0,3,10,0,0.33,0,1,-1,-3.0,-0.38
+INT-World Cup,2026,Curaçao,Godfried Roemeratoe,Curaçao,MF,26,1999,1,7,7,2.6,0.1,0,,0,1,7,2,1.0,0,0,0,0.0,2.74
+INT-World Cup,2026,Curaçao,Jearl Margaritha,Curaçao,"FW,MF",26,2000,2,41,21,15.2,0.5,0,,0,2,21,1,0.5,0,3,-3,-6.59,-4.62
+INT-World Cup,2026,Curaçao,Jeremy Antonisse,Curaçao,"FW,MF",24,2002,2,75,38,27.8,0.8,0,,0,2,38,1,0.0,0,5,-5,-6.0,-4.62
+INT-World Cup,2026,Curaçao,Joshua Brenet,Curaçao,DF,32,1994,2,179,90,66.3,2.0,2,90,1,0,,1,0.5,0,2,-2,-1.01,4.93
+INT-World Cup,2026,Curaçao,Juninho Bacuna,Curaçao,MF,28,1997,3,254,85,94.1,2.8,3,85,2,0,,0,0.33,1,9,-8,-2.83,-2.83
+INT-World Cup,2026,Curaçao,Juriën Gaari,Curaçao,DF,32,1993,2,166,83,61.5,1.8,2,83,1,0,,1,0.5,0,2,-2,-1.08,4.11
+INT-World Cup,2026,Curaçao,Jürgen Locadia,Curaçao,FW,32,1993,3,235,78,87.0,2.6,3,78,0,0,,0,0.33,1,6,-5,-1.91,5.8
+INT-World Cup,2026,Curaçao,Kenji Gorré,Curaçao,"FW,MF",31,1994,1,16,16,5.9,0.2,0,,0,1,16,2,1.0,0,0,0,0.0,2.83
+INT-World Cup,2026,Curaçao,Kevin Felida,Curaçao,MF,26,1999,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Curaçao,Leandro Bacuna,Curaçao,MF,34,1991,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,1,9,-8,-2.67,
+INT-World Cup,2026,Curaçao,Livano Comenencia,Curaçao,MF,22,2004,3,233,78,86.3,2.6,3,78,1,0,,0,0.33,1,8,-7,-2.7,-0.27
+INT-World Cup,2026,Curaçao,Riechedly Bazoer,Curaçao,DF,29,1996,1,90,90,33.3,1.0,1,90,1,0,,2,0.0,1,7,-6,-6.0,-5.0
+INT-World Cup,2026,Curaçao,Roshon van Eijma,Curaçao,DF,28,1998,1,15,15,5.6,0.2,0,,0,1,15,2,1.0,0,0,0,0.0,2.82
+INT-World Cup,2026,Curaçao,Sherel Floranus,Curaçao,DF,27,1998,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,1,9,-8,-2.67,
+INT-World Cup,2026,Curaçao,Shurandy Sambo,Curaçao,DF,24,2001,1,1,1,0.4,0.0,0,,0,1,1,2,0.0,0,0,0,0.0,2.68
+INT-World Cup,2026,Curaçao,Sontje Hansen,Curaçao,FW,24,2002,1,45,45,16.7,0.5,1,45,0,0,,2,0.0,1,3,-2,-4.0,-1.6
+INT-World Cup,2026,Curaçao,Tahith Chong,Curaçao,MF,26,1999,3,247,82,91.5,2.7,3,82,1,0,,0,0.33,1,8,-7,-2.55,1.36
+INT-World Cup,2026,Curaçao,Trevor Doornbusch,Curaçao,GK,26,1999,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Curaçao,Tyrese Noslin,Curaçao,MF,23,2002,1,14,14,5.2,0.2,0,,0,1,14,2,0.0,0,0,0,0.0,2.81
+INT-World Cup,2026,Curaçao,Tyrick Bodak,Curaçao,GK,24,2002,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Czechia,Adam Hložek,Czechia,FW,23,2002,3,156,52,57.8,1.7,2,65,0,1,27,0,0.33,1,4,-3,-1.73,-0.94
+INT-World Cup,2026,Czechia,Alexandr Sojka,Czechia,"MF,DF",23,2003,3,141,47,52.2,1.6,2,69,0,1,4,0,0.33,2,3,-1,-0.64,1.45
+INT-World Cup,2026,Czechia,David Douděra,Czechia,MF,28,1998,1,90,90,33.3,1.0,1,90,1,0,,2,0.0,0,3,-3,-3.0,-2.5
+INT-World Cup,2026,Czechia,David Jurásek,Czechia,"DF,MF",25,2000,0,,,,,0,,0,0,,1,,,,,,
+INT-World Cup,2026,Czechia,David Zima,Czechia,DF,25,2000,1,13,13,4.8,0.1,0,,0,1,13,2,1.0,0,1,-1,-6.92,-5.87
+INT-World Cup,2026,Czechia,Denis Višinský,Czechia,FW,23,2003,1,55,55,20.4,0.6,1,55,0,0,,2,0.0,0,1,-1,-1.64,-0.38
+INT-World Cup,2026,Czechia,Hugo Sochůrek,Czechia,MF,18,2008,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Czechia,Jan Kuchta,Czechia,FW,29,1997,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Czechia,Jaroslav Zelený,Czechia,MF,33,1992,2,126,63,46.7,1.4,1,90,1,1,36,1,0.5,1,3,-2,-1.43,-0.18
+INT-World Cup,2026,Czechia,Jindřich Staněk,Czechia,GK,30,1996,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Czechia,Ladislav Krejčí,Czechia,DF,27,1999,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,2,6,-4,-1.33,
+INT-World Cup,2026,Czechia,Lukáš Horníček,Czechia,GK,23,2002,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Czechia,Lukáš Provod,Czechia,FW,29,1996,3,122,41,45.2,1.4,1,63,0,2,30,0,0.33,1,3,-2,-1.48,-0.26
+INT-World Cup,2026,Czechia,Lukáš Červ,Czechia,MF,25,2001,2,163,82,60.4,1.8,2,82,0,0,,1,0.5,1,2,-1,-0.55,1.97
+INT-World Cup,2026,Czechia,Matej Kovar,Czechia,GK,26,2000,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,2,6,-4,-1.33,
+INT-World Cup,2026,Czechia,Michal Sadílek,Czechia,MF,27,1999,3,183,61,67.8,2.0,2,78,1,1,27,0,0.33,1,5,-4,-1.97,-1.97
+INT-World Cup,2026,Czechia,Mojmír Chytil,Czechia,FW,27,1999,1,7,7,2.6,0.1,0,,0,1,7,2,0.0,0,0,0,0.0,1.37
+INT-World Cup,2026,Czechia,Patrik Schick,Czechia,FW,30,1996,3,180,60,66.7,2.0,2,77,1,1,27,0,0.33,2,2,0,0.0,4.0
+INT-World Cup,2026,Czechia,Pavel Šulc,Czechia,FW,25,2000,3,189,63,70.0,2.1,2,77,1,1,36,0,0.33,1,4,-3,-1.43,-0.32
+INT-World Cup,2026,Czechia,Robin Hranáč,Czechia,DF,26,2000,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,2,6,-4,-1.33,
+INT-World Cup,2026,Czechia,Tomáš Chorý,Czechia,FW,31,1995,2,31,16,11.5,0.3,0,,0,2,16,1,0.0,0,3,-3,-8.71,-8.33
+INT-World Cup,2026,Czechia,Tomáš Holeš,Czechia,DF,33,1993,2,153,77,56.7,1.7,2,77,1,0,,1,0.5,1,3,-2,-1.18,0.36
+INT-World Cup,2026,Czechia,Tomáš Souček,Czechia,MF,31,1995,3,137,46,50.7,1.5,1,90,1,2,24,0,0.33,1,3,-2,-1.31,0.04
+INT-World Cup,2026,Czechia,Vladimír Coufal,Czechia,"MF,DF",33,1992,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,2,6,-4,-1.33,
+INT-World Cup,2026,Czechia,Vladimír Darida,Czechia,MF,35,1990,1,54,54,20.0,0.6,1,54,0,0,,2,1.0,1,0,1,1.67,3.75
+INT-World Cup,2026,Czechia,Štěpán Chaloupek,Czechia,DF,23,2003,1,90,90,33.3,1.0,1,90,1,0,,2,0.0,1,2,-1,-1.0,0.5
+INT-World Cup,2026,Côte d'Ivoire,Alban Lafont,Côte d'Ivoire,GK,27,1999,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Côte d'Ivoire,Amad Diallo,Côte d'Ivoire,"MF,FW",23,2002,4,185,46,51.4,2.1,2,60,0,2,33,0,1.5,4,2,2,0.97,1.49
+INT-World Cup,2026,Côte d'Ivoire,Ange-Yoan Bonny,Côte d'Ivoire,FW,22,2003,4,234,59,65.0,2.6,3,66,0,1,35,0,1.5,4,2,2,0.77,1.48
+INT-World Cup,2026,Côte d'Ivoire,Bazoumana Touré,Côte d'Ivoire,MF,20,2006,3,80,27,22.2,0.9,1,55,0,2,13,1,2.0,0,0,0,0.0,-0.32
+INT-World Cup,2026,Côte d'Ivoire,Christ Inao Oulaï,Côte d'Ivoire,MF,20,2006,4,208,52,57.8,2.3,2,75,1,2,30,0,1.5,3,3,0,0.0,-0.59
+INT-World Cup,2026,Côte d'Ivoire,Christopher Opéri,Côte d'Ivoire,DF,29,1997,1,90,90,25.0,1.0,1,90,1,0,,3,3.0,2,0,2,2.0,2.33
+INT-World Cup,2026,Côte d'Ivoire,Elye Wahi,Côte d'Ivoire,FW,23,2003,3,110,37,30.6,1.2,1,55,0,2,28,1,2.0,1,1,0,0.0,-0.36
+INT-World Cup,2026,Côte d'Ivoire,Emmanuel Agbadou,Côte d'Ivoire,DF,28,1997,3,270,90,75.0,3.0,3,90,3,0,,1,1.0,3,4,-1,-0.33,-2.33
+INT-World Cup,2026,Côte d'Ivoire,Evann Guessand,Côte d'Ivoire,"FW,MF",24,2001,2,17,9,4.7,0.2,0,,0,2,9,2,0.0,0,1,-1,-5.29,-5.82
+INT-World Cup,2026,Côte d'Ivoire,Franck Kessié,Côte d'Ivoire,MF,29,1996,4,346,87,96.1,3.8,4,87,3,0,,0,1.5,5,4,1,0.26,0.26
+INT-World Cup,2026,Côte d'Ivoire,Ghislain Konan,Côte d'Ivoire,DF,30,1995,3,269,90,74.7,3.0,3,90,2,0,,1,1.0,3,4,-1,-0.33,-2.31
+INT-World Cup,2026,Côte d'Ivoire,Guéla Doué,Côte d'Ivoire,DF,23,2002,4,277,69,76.9,3.1,3,89,2,1,9,0,1.5,3,3,0,0.0,-1.08
+INT-World Cup,2026,Côte d'Ivoire,Ibrahim Sangaré,Côte d'Ivoire,MF,28,1997,4,268,67,74.4,3.0,3,85,2,1,14,0,1.5,5,3,2,0.67,1.65
+INT-World Cup,2026,Côte d'Ivoire,Jean Seri,Côte d'Ivoire,MF,34,1991,1,14,14,3.9,0.2,0,,0,1,14,3,3.0,0,0,0,0.0,-0.26
+INT-World Cup,2026,Côte d'Ivoire,Mohamed Koné,Côte d'Ivoire,GK,24,2002,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Côte d'Ivoire,Nicolas Pépé,Côte d'Ivoire,FW,31,1995,4,234,59,65.0,2.6,3,76,0,1,6,0,1.5,3,3,0,0.0,-0.71
+INT-World Cup,2026,Côte d'Ivoire,Obite N'Dicka,Côte d'Ivoire,DF,26,1999,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Côte d'Ivoire,Odilon Kossounou,Côte d'Ivoire,DF,25,2001,4,272,68,75.6,3.0,3,90,3,1,2,0,1.5,5,4,1,0.33,0.33
+INT-World Cup,2026,Côte d'Ivoire,Oumar Diakité,Côte d'Ivoire,FW,22,2003,2,28,14,7.8,0.3,0,,0,2,14,2,1.5,0,0,0,0.0,-0.27
+INT-World Cup,2026,Côte d'Ivoire,Ousmane Diomande,Côte d'Ivoire,DF,22,2003,1,90,90,25.0,1.0,1,90,1,0,,3,3.0,2,0,2,2.0,2.33
+INT-World Cup,2026,Côte d'Ivoire,Parfait Guiagon,Côte d'Ivoire,MF,25,2001,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Côte d'Ivoire,Seko Fofana,Côte d'Ivoire,MF,31,1995,2,92,46,25.6,1.0,1,76,0,1,16,2,1.5,0,1,-1,-0.98,-1.65
+INT-World Cup,2026,Côte d'Ivoire,Simon Adingra,Côte d'Ivoire,"FW,MF",24,2002,1,16,16,4.4,0.2,0,,0,1,16,3,0.0,0,1,-1,-5.63,-6.15
+INT-World Cup,2026,Côte d'Ivoire,Wilfried Singo,Côte d'Ivoire,DF,25,2000,2,171,86,47.5,1.9,2,86,1,0,,2,1.5,2,1,1,0.53,0.53
+INT-World Cup,2026,Côte d'Ivoire,Yahia Fofana,Côte d'Ivoire,GK,25,2000,4,360,90,100.0,4.0,4,90,4,0,,0,1.5,5,4,1,0.25,
+INT-World Cup,2026,Côte d'Ivoire,Yan Diomandé,Côte d'Ivoire,"MF,FW",19,2006,4,329,82,91.4,3.7,4,82,1,0,,0,1.5,5,3,2,0.55,3.45
+INT-World Cup,2026,Ecuador,Alan Franco,Ecuador,DF,27,1998,4,251,63,69.7,2.8,4,63,0,0,,0,1.0,1,3,-2,-0.72,-0.72
+INT-World Cup,2026,Ecuador,Alan Minda,Ecuador,MF,23,2003,1,55,55,15.3,0.6,1,55,0,0,,3,0.0,0,0,0,0.0,0.59
+INT-World Cup,2026,Ecuador,Anthony Valencia,Ecuador,MF,22,2003,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Ecuador,Denil Castillo,Ecuador,MF,22,2004,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Ecuador,Enner Valencia,Ecuador,FW,36,1989,4,287,72,79.7,3.2,4,72,1,0,,0,1.0,1,3,-2,-0.63,-0.63
+INT-World Cup,2026,Ecuador,Félix Torres Caicedo,Ecuador,DF,29,1997,1,6,6,1.7,0.1,0,,0,1,6,3,3.0,0,0,0,0.0,0.51
+INT-World Cup,2026,Ecuador,Gonzalo Plata,Ecuador,FW,25,2000,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,2,4,-2,-0.5,
+INT-World Cup,2026,Ecuador,Gonzalo Valle,Ecuador,GK,30,1996,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Ecuador,Hernán Galíndez,Ecuador,GK,39,1987,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,2,4,-2,-0.5,
+INT-World Cup,2026,Ecuador,Jackson Porozo,Ecuador,DF,25,2000,1,29,29,8.1,0.3,0,,0,1,29,3,0.0,0,1,-1,-3.1,-2.83
+INT-World Cup,2026,Ecuador,Jeremy Arévalo,Ecuador,FW,21,2005,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Ecuador,Joel Ordóñez,Ecuador,DF,22,2004,3,225,75,62.5,2.5,3,75,2,0,,1,1.0,2,4,-2,-0.8,-0.8
+INT-World Cup,2026,Ecuador,John Yeboah,Ecuador,MF,25,2000,4,311,78,86.4,3.5,4,78,0,0,,0,1.0,2,3,-1,-0.29,1.55
+INT-World Cup,2026,Ecuador,Jordy Alcivar,Ecuador,MF,26,1999,1,45,45,12.5,0.5,1,45,0,0,,3,1.0,0,0,0,0.0,0.57
+INT-World Cup,2026,Ecuador,Jordy Caicedo,Ecuador,FW,28,1997,3,20,7,5.6,0.2,0,,0,3,7,1,1.33,0,0,0,0.0,0.53
+INT-World Cup,2026,Ecuador,Kendry Páez,Ecuador,MF,19,2007,1,12,12,3.3,0.1,0,,0,1,12,3,0.0,0,0,0,0.0,0.52
+INT-World Cup,2026,Ecuador,Kevin Rodríguez,Ecuador,FW,26,2000,4,118,30,32.8,1.3,0,,0,4,30,0,1.0,1,1,0,0.0,0.74
+INT-World Cup,2026,Ecuador,Moisés Caicedo,Ecuador,MF,24,2001,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,2,4,-2,-0.5,
+INT-World Cup,2026,Ecuador,Moisés Ramírez,Ecuador,GK,25,2000,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Ecuador,Nilson Angulo,Ecuador,MF,22,2003,4,218,55,60.6,2.4,2,81,0,2,28,0,1.0,2,4,-2,-0.83,-0.83
+INT-World Cup,2026,Ecuador,Pedro Vite,Ecuador,MF,24,2002,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,2,4,-2,-0.5,
+INT-World Cup,2026,Ecuador,Pervis Estupiñán,Ecuador,MF,28,1998,2,89,45,24.7,1.0,1,69,0,1,20,2,2.0,1,0,1,1.01,2.01
+INT-World Cup,2026,Ecuador,Piero Hincapié,Ecuador,DF,24,2002,4,339,85,94.2,3.8,4,85,2,0,,0,1.0,1,4,-3,-0.8,-5.08
+INT-World Cup,2026,Ecuador,Willian Pacho,Ecuador,DF,24,2001,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,2,4,-2,-0.5,
+INT-World Cup,2026,Ecuador,Yaimar Medina,Ecuador,"DF,MF",21,2004,1,45,45,12.5,0.5,0,,0,1,45,3,0.0,0,0,0,0.0,0.57
+INT-World Cup,2026,Ecuador,Ángelo Preciado,Ecuador,"DF,MF",28,1998,4,109,27,30.3,1.2,0,,0,4,27,0,1.0,1,1,0,0.0,0.72
+INT-World Cup,2026,Egypt,Ahmed Fatouh,Egypt,DF,28,1998,3,267,89,55.6,3.0,3,89,2,0,,0,1.67,5,3,2,0.67,1.1
+INT-World Cup,2026,Egypt,El Mahdy Soliman,Egypt,GK,39,1987,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Egypt,Emam Ashour,Egypt,MF,28,1998,5,362,72,75.4,4.0,5,72,1,0,,0,1.2,7,4,3,0.75,2.27
+INT-World Cup,2026,Egypt,Haissem Hassan,Egypt,MF,24,2002,2,126,63,26.3,1.4,1,72,0,1,54,3,0.5,2,0,2,1.43,1.68
+INT-World Cup,2026,Egypt,Hamdy Fathy,Egypt,"DF,MF",31,1994,4,238,60,49.6,2.6,3,64,0,1,45,0,1.25,3,6,-3,-1.13,-2.62
+INT-World Cup,2026,Egypt,Hamza Abdelkarim,Egypt,FW,18,2008,4,60,15,12.5,0.7,0,,0,4,15,1,1.5,1,0,1,1.5,1.5
+INT-World Cup,2026,Egypt,Hossam Abdelmaguid,Egypt,DF,25,2001,2,59,30,12.3,0.7,0,,0,2,30,2,2.0,0,0,0,0.0,-0.21
+INT-World Cup,2026,Egypt,Ibrahim Adel,Egypt,MF,25,2001,1,3,3,0.6,0.0,0,,0,1,3,4,1.0,0,0,0,0.0,-0.19
+INT-World Cup,2026,Egypt,Karim Hafez,Egypt,DF,30,1996,3,172,57,35.8,1.9,2,85,1,1,3,2,0.67,3,4,-1,-0.52,-1.11
+INT-World Cup,2026,Egypt,Mahmoud Saber,Egypt,MF,24,2001,2,46,23,9.6,0.5,1,45,0,1,1,3,1.0,1,1,0,0.0,-0.21
+INT-World Cup,2026,Egypt,Marwan Attia,Egypt,MF,27,1998,5,434,87,90.4,4.8,4,97,3,1,45,0,1.2,7,6,1,0.21,0.21
+INT-World Cup,2026,Egypt,Mohamed Abdelmonem,Egypt,DF,27,1999,2,14,7,2.9,0.2,1,13,0,1,1,1,2.0,1,1,0,0.0,-0.19
+INT-World Cup,2026,Egypt,Mohamed Alaa,Egypt,GK,27,1999,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Egypt,Mohamed El-Shenawy,Egypt,GK,37,1988,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Egypt,Mohamed Hany,Egypt,DF,30,1996,5,480,96,100.0,5.3,5,96,5,0,,0,1.2,8,7,1,0.19,
+INT-World Cup,2026,Egypt,Mohamed Salah,Egypt,"FW,MF",33,1992,5,425,85,88.5,4.7,5,85,2,0,,0,1.2,8,7,1,0.21,0.21
+INT-World Cup,2026,Egypt,Mohanad Lasheen,Egypt,MF,30,1996,4,359,90,74.8,4.0,4,90,3,0,,0,1.25,7,5,2,0.5,1.25
+INT-World Cup,2026,Egypt,Mostafa Shobeir,Egypt,GK,26,2000,5,480,96,100.0,5.3,5,96,5,0,,0,1.2,8,7,1,0.19,
+INT-World Cup,2026,Egypt,Mostafa Ziko,Egypt,"FW,MF",29,1997,5,370,74,77.1,4.1,5,74,0,0,,0,1.2,7,5,2,0.49,1.3
+INT-World Cup,2026,Egypt,Nabil Dunga,Egypt,MF,30,1996,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Egypt,Omar Marmoush,Egypt,"FW,MF",27,1999,5,326,65,67.9,3.6,3,90,1,2,28,0,1.2,4,5,-1,-0.28,-1.44
+INT-World Cup,2026,Egypt,Ramy Rabia,Egypt,DF,33,1993,5,372,74,77.5,4.1,3,100,3,2,36,0,1.2,7,5,2,0.48,1.32
+INT-World Cup,2026,Egypt,Tarek Alaa,Egypt,DF,24,2002,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Egypt,Trézéguet,Egypt,MF,31,1994,4,164,41,34.2,1.8,1,90,1,3,25,1,1.25,2,4,-2,-1.1,-1.95
+INT-World Cup,2026,Egypt,Yasser Ibrahim,Egypt,DF,33,1993,5,467,93,97.3,5.2,4,98,4,1,77,0,1.2,7,6,1,0.19,0.19
+INT-World Cup,2026,Egypt,Zizo,Egypt,MF,30,1996,4,56,14,11.7,0.6,0,,0,4,14,1,1.25,0,0,0,0.0,-0.21
+INT-World Cup,2026,England,Anthony Gordon,England,MF,25,2001,6,396,66,52.8,4.4,5,73,1,1,30,2,2.17,10,5,5,1.14,0.37
+INT-World Cup,2026,England,Bukayo Saka,England,MF,24,2001,7,358,51,47.7,4.0,3,69,1,4,38,1,2.71,13,5,8,2.01,2.01
+INT-World Cup,2026,England,Dan Burn,England,DF,34,1992,3,35,12,4.7,0.4,0,,0,3,12,5,2.0,0,2,-2,-5.14,-6.4
+INT-World Cup,2026,England,Dean Henderson,England,GK,29,1997,1,90,90,12.0,1.0,1,90,1,0,,7,3.0,6,4,2,2.0,1.18
+INT-World Cup,2026,England,Declan Rice,England,MF,27,1999,7,557,80,74.3,6.2,7,80,3,0,,1,2.29,16,10,6,0.97,0.04
+INT-World Cup,2026,England,Djed Spence,England,DF,25,2000,8,404,51,53.9,4.5,4,78,1,4,23,0,2.38,10,6,4,0.89,-0.15
+INT-World Cup,2026,England,Eberechi Eze,England,MF,27,1998,5,211,42,28.1,2.3,1,78,0,4,33,3,2.6,7,3,4,1.71,1.04
+INT-World Cup,2026,England,Elliot Anderson,England,MF,23,2002,8,632,79,84.3,7.0,7,89,4,1,12,0,2.38,16,9,7,1.0,0.23
+INT-World Cup,2026,England,Ezri Konsa,England,DF,28,1997,8,647,81,86.3,7.2,7,90,6,1,19,0,2.38,18,12,6,0.83,-0.91
+INT-World Cup,2026,England,Harry Kane,England,FW,32,1993,7,652,93,86.9,7.2,7,93,5,0,,1,2.29,14,8,6,0.83,-1.01
+INT-World Cup,2026,England,Ivan Toney,England,FW,30,1996,2,79,40,10.5,0.9,1,78,0,1,1,6,1.5,4,3,1,1.14,0.2
+INT-World Cup,2026,England,James Trafford,England,GK,23,2002,0,,,,,0,,0,0,,8,,,,,,
+INT-World Cup,2026,England,Jarell Quansah,England,DF,23,2003,3,197,66,26.3,2.2,3,66,0,0,,3,3.0,7,4,3,1.37,0.56
+INT-World Cup,2026,England,John Stones,England,DF,32,1994,5,330,66,44.0,3.7,3,98,1,2,18,3,2.4,8,5,3,0.82,-0.25
+INT-World Cup,2026,England,Jordan Henderson,England,MF,35,1990,1,7,7,0.9,0.1,0,,0,1,7,6,3.0,3,2,1,12.86,12.01
+INT-World Cup,2026,England,Jordan Pickford,England,GK,32,1994,7,660,94,88.0,7.3,7,94,7,0,,1,2.29,14,8,6,0.82,-1.18
+INT-World Cup,2026,England,Jude Bellingham,England,MF,22,2003,8,614,77,81.9,6.8,7,86,3,1,12,0,2.38,15,9,6,0.88,-0.44
+INT-World Cup,2026,England,Kobbie Mainoo,England,MF,21,2005,0,,,,,0,,0,0,,7,,,,,,
+INT-World Cup,2026,England,Marc Guéhi,England,DF,25,2000,8,663,83,88.4,7.4,7,94,6,1,4,0,2.38,15,9,6,0.81,-1.25
+INT-World Cup,2026,England,Marcus Rashford,England,MF,28,1997,6,223,37,29.7,2.5,3,65,1,3,9,2,2.17,7,1,6,2.42,2.08
+INT-World Cup,2026,England,Morgan Rogers,England,MF,23,2002,7,339,48,45.2,3.8,3,90,3,4,17,1,2.29,11,6,5,1.33,0.67
+INT-World Cup,2026,England,Nico O'Reilly,England,DF,21,2005,7,461,66,61.5,5.1,5,86,3,2,17,1,2.29,12,8,4,0.78,-0.46
+INT-World Cup,2026,England,Noni Madueke,England,MF,24,2002,5,286,57,38.1,3.2,4,65,0,1,28,3,2.6,5,4,1,0.31,-1.04
+INT-World Cup,2026,England,Ollie Watkins,England,"FW,MF",30,1995,2,52,26,6.9,0.6,0,,0,2,26,6,3.0,2,4,-2,-3.46,-4.75
+INT-World Cup,2026,England,Reece James,England,DF,26,1999,5,319,64,42.5,3.5,3,87,2,2,29,2,2.0,8,3,5,1.41,0.78
+INT-World Cup,2026,England,Trevoh Chalobah,England,"DF,MF",26,1999,1,1,1,0.1,0.0,0,,0,1,1,6,3.0,1,1,0,0.0,-0.96
+INT-World Cup,2026,France,Adrien Rabiot,France,MF,31,1995,7,585,84,81.3,6.5,7,84,6,0,,1,2.14,16,8,8,1.23,-0.1
+INT-World Cup,2026,France,Aurélien Tchouaméni,France,MF,26,2000,4,360,90,50.0,4.0,4,90,4,0,,4,2.25,10,4,6,1.5,0.5
+INT-World Cup,2026,France,Bradley Barcola,France,MF,23,2002,8,384,48,53.3,4.3,4,72,1,4,24,0,2.25,13,4,9,2.11,1.84
+INT-World Cup,2026,France,Brice Samba,France,GK,32,1994,0,,,,,0,,0,0,,8,,,,,,
+INT-World Cup,2026,France,Dayot Upamecano,France,DF,27,1998,8,660,83,91.7,7.3,7,88,6,1,45,0,2.25,19,6,13,1.77,6.27
+INT-World Cup,2026,France,Désiré Doué,France,MF,21,2005,8,400,50,55.6,4.4,4,74,1,4,26,0,2.25,9,6,3,0.68,-1.29
+INT-World Cup,2026,France,Ibrahima Konaté,France,DF,27,1999,2,60,30,8.3,0.7,1,45,0,1,15,6,1.5,1,4,-3,-4.5,-6.27
+INT-World Cup,2026,France,Jean-Philippe Mateta,France,FW,28,1997,3,24,8,3.3,0.3,0,,0,3,8,5,3.0,1,0,1,3.75,2.59
+INT-World Cup,2026,France,Jules Koundé,France,DF,27,1998,8,599,75,83.2,6.7,7,85,3,1,1,0,2.25,16,5,11,1.65,2.4
+INT-World Cup,2026,France,Kylian Mbappé,France,FW,27,1998,8,695,87,96.5,7.7,8,87,4,0,,0,2.25,19,10,9,1.17,-2.43
+INT-World Cup,2026,France,Lucas Digne,France,DF,32,1993,6,463,77,64.3,5.1,5,84,3,1,45,2,2.0,13,4,9,1.75,1.4
+INT-World Cup,2026,France,Lucas Hernández,France,DF,30,1996,0,,,,,0,,0,0,,8,,,,,,
+INT-World Cup,2026,France,Maghnes Akliouche,France,MF,24,2002,1,8,8,1.1,0.1,0,,0,1,8,7,3.0,0,0,0,0.0,-1.26
+INT-World Cup,2026,France,Malo Gusto,France,DF,23,2003,5,121,24,16.8,1.3,1,89,0,4,8,3,2.4,4,5,-1,-0.74,-2.4
+INT-World Cup,2026,France,Manu Koné,France,MF,25,2001,5,385,77,53.5,4.3,4,85,3,1,45,3,2.4,10,2,8,1.87,1.33
+INT-World Cup,2026,France,Marcus Thuram,France,"FW,MF",28,1997,1,1,1,0.1,0.0,0,,0,1,1,7,3.0,0,0,0,0.0,-1.25
+INT-World Cup,2026,France,Maxence Lacroix,France,DF,26,2000,3,241,80,33.5,2.7,2,90,2,1,61,5,1.0,8,8,0,0.0,-1.88
+INT-World Cup,2026,France,Michael Olise,France,MF,24,2001,8,646,81,89.7,7.2,8,81,4,0,,0,2.25,19,10,9,1.25,0.04
+INT-World Cup,2026,France,Mike Maignan,France,GK,30,1995,8,720,90,100.0,8.0,8,90,8,0,,0,2.25,20,10,10,1.25,
+INT-World Cup,2026,France,N'Golo Kanté,France,MF,35,1991,0,,,,,0,,0,0,,8,,,,,,
+INT-World Cup,2026,France,Ousmane Dembélé,France,MF,29,1997,8,592,74,82.2,6.6,7,78,2,1,45,0,2.25,17,5,12,1.82,3.23
+INT-World Cup,2026,France,Rayan Cherki,France,MF,22,2003,7,130,19,18.1,1.4,1,45,0,6,14,1,2.14,2,5,-3,-2.08,-4.06
+INT-World Cup,2026,France,Robin Risser,France,GK,21,2004,0,,,,,0,,0,0,,8,,,,,,
+INT-World Cup,2026,France,Theo Hernández,France,DF,28,1997,5,257,51,35.7,2.9,3,75,2,2,16,3,1.8,7,6,1,0.35,-1.4
+INT-World Cup,2026,France,Warren Zaïre-Emery,France,MF,20,2006,2,110,55,15.3,1.2,1,90,1,1,20,6,1.5,4,6,-2,-1.64,-3.41
+INT-World Cup,2026,France,William Saliba,France,DF,25,2001,6,479,80,66.5,5.3,6,80,5,0,,2,2.5,12,2,10,1.88,1.88
+INT-World Cup,2026,Germany,Aleksandar Pavlovic,Germany,MF,22,2004,4,272,68,69.7,3.0,4,68,1,0,,0,1.75,9,4,5,1.65,0.89
+INT-World Cup,2026,Germany,Alexander Nübel,Germany,GK,29,1996,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Germany,Angelo Stiller,Germany,MF,25,2001,1,45,45,11.5,0.5,0,,0,1,45,3,0.0,0,1,-1,-2.0,-3.83
+INT-World Cup,2026,Germany,Antonio Rüdiger,Germany,DF,33,1993,4,262,66,67.2,2.9,2,100,1,2,32,0,1.75,6,3,3,1.03,-1.08
+INT-World Cup,2026,Germany,Assan Ouédraogo,Germany,MF,20,2006,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Germany,David Raum,Germany,DF,28,1998,2,108,54,27.7,1.2,1,90,1,1,18,2,1.5,3,2,1,0.83,-0.76
+INT-World Cup,2026,Germany,Deniz Undav,Germany,FW,29,1996,4,151,38,38.7,1.7,1,62,0,3,30,0,1.75,6,2,4,2.38,1.63
+INT-World Cup,2026,Germany,Felix Nmecha,Germany,MF,25,2000,4,270,68,69.2,3.0,4,68,1,0,,0,1.75,8,4,4,1.33,-0.17
+INT-World Cup,2026,Germany,Florian Wirtz,Germany,MF,23,2003,4,361,90,92.6,4.0,4,90,2,0,,0,1.75,11,4,7,1.75,4.85
+INT-World Cup,2026,Germany,Jamal Musiala,Germany,MF,23,2003,4,270,68,69.2,3.0,3,71,1,1,58,0,1.75,5,4,1,0.33,-3.42
+INT-World Cup,2026,Germany,Jamie Leweling,Germany,"FW,MF",25,2001,1,31,31,7.9,0.3,0,,0,1,31,3,3.0,2,0,2,5.81,4.8
+INT-World Cup,2026,Germany,Jonathan Tah,Germany,DF,30,1996,4,372,93,95.4,4.1,4,93,3,0,,0,1.75,9,5,4,0.97,-9.03
+INT-World Cup,2026,Germany,Joshua Kimmich,Germany,DF,31,1995,4,351,88,90.0,3.9,4,88,2,0,,0,1.75,10,4,6,1.54,1.54
+INT-World Cup,2026,Germany,Kai Havertz,Germany,FW,27,1999,4,353,88,90.5,3.9,4,88,2,0,,0,1.75,10,4,6,1.53,1.53
+INT-World Cup,2026,Germany,Leon Goretzka,Germany,MF,31,1995,3,99,33,25.4,1.1,0,,0,3,33,1,2.33,4,0,4,3.64,3.02
+INT-World Cup,2026,Germany,Leroy Sané,Germany,MF,30,1996,4,326,82,83.6,3.6,4,82,2,0,,0,1.75,9,5,4,1.1,-1.71
+INT-World Cup,2026,Germany,Malick Thiaw,Germany,"DF,MF",24,2001,2,42,21,10.8,0.5,0,,0,2,21,2,0.5,0,1,-1,-2.14,-3.95
+INT-World Cup,2026,Germany,Manuel Neuer,Germany,GK,40,1986,4,390,98,100.0,4.3,4,98,4,0,,0,1.75,11,5,6,1.38,
+INT-World Cup,2026,Germany,Maximilian Beier,Germany,"FW,MF",23,2002,1,27,27,6.9,0.3,0,,0,1,27,3,0.0,0,1,-1,-3.33,-5.07
+INT-World Cup,2026,Germany,Nadiem Amiri,Germany,MF,29,1996,2,42,21,10.8,0.5,0,,0,2,21,2,2.0,2,0,2,4.29,3.25
+INT-World Cup,2026,Germany,Nathaniel Brown,Germany,DF,22,2003,3,282,94,72.3,3.1,3,94,2,0,,0,2.33,8,3,5,1.6,0.76
+INT-World Cup,2026,Germany,Nick Woltemade,Germany,"FW,MF",24,2002,1,33,33,8.5,0.4,0,,0,1,33,3,1.0,0,0,0,0.0,-1.51
+INT-World Cup,2026,Germany,Nico Schlotterbeck,Germany,DF,26,1999,2,135,68,34.6,1.5,2,68,1,0,,0,3.0,7,2,5,3.33,2.98
+INT-World Cup,2026,Germany,Oliver Baumann,Germany,GK,36,1990,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Germany,Pascal Groß,Germany,"DF,MF",34,1991,1,18,18,4.6,0.2,0,,0,1,18,3,0.0,0,1,-1,-5.0,-6.69
+INT-World Cup,2026,Germany,Waldemar Anton,Germany,"DF,MF",29,1996,2,50,25,12.8,0.6,0,,0,2,25,2,2.0,1,0,1,1.8,0.48
+INT-World Cup,2026,Ghana,Abdul Fatawu Issahaku,Ghana,"FW,MF",22,2004,4,132,33,36.7,1.5,0,,0,4,33,0,1.0,2,1,1,0.68,1.47
+INT-World Cup,2026,Ghana,Abdul Mumin,Ghana,DF,28,1998,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Ghana,Abdul Rahman Baba,Ghana,"DF,MF",31,1994,1,1,1,0.3,0.0,0,,0,1,1,3,1.0,0,0,0,0.0,0.25
+INT-World Cup,2026,Ghana,Alidu Seidu,Ghana,DF,26,2000,1,78,78,21.7,0.9,0,,0,1,78,3,0.0,0,1,-1,-1.15,-1.15
+INT-World Cup,2026,Ghana,Antoine Semenyo,Ghana,"MF,FW",26,2000,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,2,3,-1,-0.25,
+INT-World Cup,2026,Ghana,Augustine Boakye,Ghana,"FW,MF",25,2000,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Ghana,Benjamin Asare,Ghana,GK,33,1992,3,225,75,62.5,2.5,2,90,2,1,45,1,1.33,2,2,0,0.0,0.67
+INT-World Cup,2026,Ghana,Brandon Thomas-Asante,Ghana,"FW,MF",27,1998,2,53,27,14.7,0.6,0,,0,2,27,2,1.5,2,1,1,1.7,2.28
+INT-World Cup,2026,Ghana,Caleb Yirenkyi,Ghana,MF,20,2006,4,264,66,73.3,2.9,3,86,2,1,6,0,1.0,1,1,0,0.0,0.94
+INT-World Cup,2026,Ghana,Christopher Bonsu-Baah,Ghana,MF,21,2004,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Ghana,Derrick Luckassen,Ghana,DF,30,1995,2,180,90,50.0,2.0,2,90,2,0,,2,0.0,1,3,-2,-1.0,-1.5
+INT-World Cup,2026,Ghana,Elisha Owusu,Ghana,MF,28,1997,3,151,50,41.9,1.7,2,61,0,1,29,1,1.0,0,1,-1,-0.6,-0.6
+INT-World Cup,2026,Ghana,Ernest Nuamah,Ghana,MF,22,2003,3,89,30,24.7,1.0,1,57,0,2,16,1,1.0,1,1,0,0.0,0.33
+INT-World Cup,2026,Ghana,Gideon Mensah,Ghana,DF,27,1998,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,2,3,-1,-0.25,
+INT-World Cup,2026,Ghana,Iñaki Williams,Ghana,"MF,FW",31,1994,2,126,63,35.0,1.4,2,63,0,0,,2,0.5,0,1,-1,-0.71,-0.71
+INT-World Cup,2026,Ghana,Jerome Opoku,Ghana,DF,27,1998,3,270,90,75.0,3.0,3,90,3,0,,1,1.33,1,1,0,0.0,1.0
+INT-World Cup,2026,Ghana,Jonas Adjetey,Ghana,DF,22,2003,3,225,75,62.5,2.5,3,75,2,0,,1,1.33,1,1,0,0.0,0.67
+INT-World Cup,2026,Ghana,Jordan Ayew,Ghana,FW,34,1991,4,300,75,83.3,3.3,4,75,0,0,,0,1.0,0,2,-2,-0.6,-2.1
+INT-World Cup,2026,Ghana,Joseph Anang,Ghana,GK,26,2000,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Ghana,Kamaldeen Sulemana,Ghana,"MF,FW",24,2002,2,127,64,35.3,1.4,2,64,0,0,,2,1.5,0,1,-1,-0.71,-0.71
+INT-World Cup,2026,Ghana,Kojo Peprah Oppong,Ghana,DF,22,2004,2,49,25,13.6,0.5,0,,0,2,25,2,0.5,1,1,0,0.0,0.29
+INT-World Cup,2026,Ghana,Kwasi Sibo,Ghana,MF,27,1998,4,248,62,68.9,2.8,3,78,1,1,13,0,1.0,2,3,-1,-0.36,-0.36
+INT-World Cup,2026,Ghana,Lawrence Ati-Zigi,Ghana,GK,29,1996,2,135,68,37.5,1.5,2,68,1,0,,2,1.5,0,1,-1,-0.67,-0.67
+INT-World Cup,2026,Ghana,Marvin Senaya,Ghana,DF,25,2001,4,278,70,77.2,3.1,4,70,2,0,,0,1.0,2,2,0,0.0,1.1
+INT-World Cup,2026,Ghana,Prince Kwabena Adu,Ghana,FW,22,2003,3,39,13,10.8,0.4,0,,0,3,13,1,1.33,1,0,1,2.31,2.87
+INT-World Cup,2026,Ghana,Thomas Partey,Ghana,MF,33,1993,3,270,90,75.0,3.0,3,90,3,0,,0,0.33,1,3,-2,-0.67,-1.67
+INT-World Cup,2026,Haiti,Alexandre Pierre,Haiti,GK,25,2001,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Haiti,Carl Fred Sainté,Haiti,MF,23,2002,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Haiti,Carlens Arcus,Haiti,"MF,DF",29,1996,3,146,49,54.1,1.6,2,68,1,1,11,0,0.0,0,5,-5,-3.08,-2.36
+INT-World Cup,2026,Haiti,Danley Jean-Jacques,Haiti,MF,26,2000,3,259,86,95.9,2.9,3,86,2,0,,0,0.0,2,7,-5,-1.74,6.44
+INT-World Cup,2026,Haiti,Derrick Etienne,Haiti,"FW,MF",29,1996,1,10,10,3.7,0.1,0,,0,1,10,2,0.0,0,0,0,0.0,2.08
+INT-World Cup,2026,Haiti,Dominique Simon,Haiti,MF,25,2000,2,56,28,20.7,0.6,0,,0,2,28,1,0.0,0,1,-1,-1.61,0.5
+INT-World Cup,2026,Haiti,Duckens Nazon,Haiti,"FW,MF",32,1994,1,24,24,8.9,0.3,0,,0,1,24,2,0.0,0,2,-2,-7.5,-6.04
+INT-World Cup,2026,Haiti,Duke Lacroix,Haiti,"DF,FW",32,1993,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Haiti,Frantzdy Pierrot,Haiti,FW,31,1995,3,143,48,53.0,1.6,2,68,1,1,8,0,0.0,0,5,-5,-3.15,-2.44
+INT-World Cup,2026,Haiti,Garven Metusala,Haiti,DF,26,1999,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Haiti,Hannes Delcroix,Haiti,DF,27,1999,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,2,8,-6,-2.0,
+INT-World Cup,2026,Haiti,Jean-Kevin Duverne,Haiti,DF,28,1997,2,169,85,62.6,1.9,2,85,1,0,,1,0.0,2,6,-4,-2.13,-0.35
+INT-World Cup,2026,Haiti,Jean-Ricner Bellegarde,Haiti,MF,27,1998,3,260,87,96.3,2.9,3,87,2,0,,0,0.0,2,8,-6,-2.08,-2.08
+INT-World Cup,2026,Haiti,Johny Placide,Haiti,GK,38,1988,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,2,8,-6,-2.0,
+INT-World Cup,2026,Haiti,Josué Casimir,Haiti,MF,24,2001,3,182,61,67.4,2.0,2,76,1,1,30,0,0.0,2,7,-5,-2.47,-1.45
+INT-World Cup,2026,Haiti,Josué Duverger,Haiti,GK,26,2000,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Haiti,Keeto Thermoncy,Haiti,DF,20,2006,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Haiti,Lenny Joseph,Haiti,FW,25,2000,3,117,39,43.3,1.3,1,82,0,2,18,0,0.0,2,3,-1,-0.77,2.17
+INT-World Cup,2026,Haiti,Louicius Deedson,Haiti,MF,25,2001,3,112,37,41.5,1.2,1,60,0,2,26,0,0.0,0,3,-3,-2.41,-0.7
+INT-World Cup,2026,Haiti,Martin Expérience,Haiti,"DF,MF",27,1999,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,2,8,-6,-2.0,
+INT-World Cup,2026,Haiti,Ricardo Adé,Haiti,DF,36,1990,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,2,8,-6,-2.0,
+INT-World Cup,2026,Haiti,Ruben Providence,Haiti,MF,24,2001,3,220,73,81.5,2.4,3,73,0,0,,0,0.0,2,6,-4,-1.64,1.96
+INT-World Cup,2026,Haiti,Wilguens Paugain,Haiti,DF,24,2001,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Haiti,Wilson Isidor,Haiti,FW,25,2000,3,186,62,68.9,2.1,2,71,0,1,45,0,0.0,2,3,-1,-0.48,4.87
+INT-World Cup,2026,Haiti,Woodensky Pierre,Haiti,MF,21,2004,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Haiti,Yassin Fortuné,Haiti,"FW,MF",27,1999,1,6,6,2.2,0.1,0,,0,1,6,2,0.0,0,0,0,0.0,2.05
+INT-World Cup,2026,IR Iran,Ali Alipour,IR Iran,FW,30,1995,1,38,38,14.1,0.4,0,,0,1,38,2,1.0,1,1,0,0.0,0.0
+INT-World Cup,2026,IR Iran,Ali Nemati,IR Iran,DF,30,1996,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,3,3,0,0.0,
+INT-World Cup,2026,IR Iran,Alireza Beiranvand,IR Iran,GK,33,1992,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,3,3,0,0.0,
+INT-World Cup,2026,IR Iran,Alireza Jahanbakhsh,IR Iran,"FW,MF",32,1993,2,46,23,17.0,0.5,0,,0,2,23,1,1.0,0,0,0,0.0,0.0
+INT-World Cup,2026,IR Iran,Amirhossein Hosseinzadeh,IR Iran,FW,25,2000,2,17,9,6.3,0.2,0,,0,2,9,1,1.0,0,0,0,0.0,0.0
+INT-World Cup,2026,IR Iran,Amirmohammad Razzaghinia,IR Iran,MF,20,2006,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,IR Iran,Aria Yousefi,IR Iran,MF,24,2002,1,45,45,16.7,0.5,1,45,0,0,,2,1.0,1,1,0,0.0,0.0
+INT-World Cup,2026,IR Iran,Danial Eiri,IR Iran,DF,22,2003,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,IR Iran,Dennis Eckert,IR Iran,FW,29,1997,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,IR Iran,Ehsan Hajsafi,IR Iran,DF,36,1990,2,91,46,33.7,1.0,1,65,0,1,26,1,1.0,0,0,0,0.0,0.0
+INT-World Cup,2026,IR Iran,Hossein Hosseini,IR Iran,GK,33,1992,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,IR Iran,Hossein Kanaanizadegan,IR Iran,DF,32,1994,2,135,68,50.0,1.5,2,68,1,0,,1,1.0,1,1,0,0.0,0.0
+INT-World Cup,2026,IR Iran,Mehdi Ghayedi,IR Iran,FW,27,1998,1,45,45,16.7,0.5,0,,0,1,45,2,1.0,1,1,0,0.0,0.0
+INT-World Cup,2026,IR Iran,Mehdi Taremi,IR Iran,FW,33,1992,3,259,86,95.9,2.9,3,86,2,0,,0,1.0,3,3,0,0.0,0.0
+INT-World Cup,2026,IR Iran,Mehdi Torabi,IR Iran,MF,31,1994,1,25,25,9.3,0.3,0,,0,1,25,2,1.0,0,0,0,0.0,0.0
+INT-World Cup,2026,IR Iran,Milad Mohammadi,IR Iran,DF,32,1993,3,205,68,75.9,2.3,2,90,2,1,25,0,1.0,3,3,0,0.0,0.0
+INT-World Cup,2026,IR Iran,Mohammad Ghorbani,IR Iran,MF,25,2001,1,90,90,33.3,1.0,1,90,1,0,,2,1.0,1,1,0,0.0,0.0
+INT-World Cup,2026,IR Iran,Mohammad Mohebi,IR Iran,MF,27,1998,3,244,81,90.4,2.7,3,81,1,0,,0,1.0,3,3,0,0.0,0.0
+INT-World Cup,2026,IR Iran,Payam Niazmand,IR Iran,GK,31,1995,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,IR Iran,Ramin Rezaeian,IR Iran,"DF,MF",36,1990,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,3,3,0,0.0,
+INT-World Cup,2026,IR Iran,Rouzbeh Cheshmi,IR Iran,"DF,MF",32,1993,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,IR Iran,Saeid Ezatolahi,IR Iran,MF,29,1996,3,264,88,97.8,2.9,3,88,2,0,,0,1.0,3,3,0,0.0,0.0
+INT-World Cup,2026,IR Iran,Saleh Hardani,IR Iran,DF,27,1998,2,90,45,33.3,1.0,1,45,0,1,45,1,1.0,0,0,0,0.0,0.0
+INT-World Cup,2026,IR Iran,Saman Ghoddos,IR Iran,MF,32,1993,3,208,69,77.0,2.3,3,69,0,0,,0,1.0,3,3,0,0.0,0.0
+INT-World Cup,2026,IR Iran,Shahriar Moghanlou,IR Iran,FW,31,1994,3,88,29,32.6,1.0,1,52,0,2,18,0,1.0,1,1,0,0.0,0.0
+INT-World Cup,2026,IR Iran,Shoja' Khalilzadeh,IR Iran,DF,37,1989,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,3,3,0,0.0,
+INT-World Cup,2026,Iraq,Ahmed Basil,Iraq,GK,29,1996,2,135,68,50.0,1.5,2,68,1,0,,1,0.0,0,4,-4,-2.67,2.0
+INT-World Cup,2026,Iraq,Ahmed Maknzi,Iraq,DF,24,2001,1,33,33,12.2,0.4,0,,0,1,33,2,0.0,0,3,-3,-8.18,-5.14
+INT-World Cup,2026,Iraq,Ahmed Qasem,Iraq,"MF,FW",22,2003,3,123,41,45.6,1.4,2,53,1,1,18,0,0.0,0,6,-6,-4.39,-1.33
+INT-World Cup,2026,Iraq,Aimar Sher,Iraq,MF,23,2002,1,23,23,8.5,0.3,0,,0,1,23,2,0.0,0,0,0,0.0,4.01
+INT-World Cup,2026,Iraq,Akam Hashim,Iraq,DF,27,1998,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,1,12,-11,-3.67,
+INT-World Cup,2026,Iraq,Ali Al Hamadi,Iraq,FW,24,2002,3,180,60,66.7,2.0,2,58,0,1,65,0,0.0,1,6,-5,-2.5,3.5
+INT-World Cup,2026,Iraq,Ali Jasim,Iraq,MF,22,2004,2,129,65,47.8,1.4,2,65,0,0,,1,0.0,1,4,-3,-2.09,3.01
+INT-World Cup,2026,Iraq,Ali Yousif,Iraq,FW,30,1996,1,33,33,12.2,0.4,0,,0,1,33,2,0.0,0,3,-3,-8.18,-5.14
+INT-World Cup,2026,Iraq,Amir Al Ammari,Iraq,MF,28,1997,3,247,82,91.5,2.7,3,82,2,0,,0,0.0,1,12,-11,-4.01,-4.01
+INT-World Cup,2026,Iraq,Ayman Hussein,Iraq,FW,30,1996,2,115,58,42.6,1.3,2,58,1,0,,1,0.0,1,5,-4,-3.13,0.93
+INT-World Cup,2026,Iraq,Fahad Talib,Iraq,GK,31,1994,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Iraq,Frans Dhia Putros,Iraq,DF,32,1993,1,90,90,33.3,1.0,1,90,1,0,,2,0.0,0,5,-5,-5.0,-2.0
+INT-World Cup,2026,Iraq,Hussein Ali,Iraq,DF,24,2002,2,162,81,60.0,1.8,2,81,1,0,,1,0.0,1,5,-4,-2.22,3.61
+INT-World Cup,2026,Iraq,Ibrahim Bayesh,Iraq,"MF,FW",26,2000,3,235,78,87.0,2.6,3,78,1,0,,0,0.0,1,11,-10,-3.83,-1.26
+INT-World Cup,2026,Iraq,Jalal Hassan,Iraq,GK,35,1991,2,135,68,50.0,1.5,1,90,1,1,45,1,0.0,1,8,-7,-4.67,-2.0
+INT-World Cup,2026,Iraq,Kevin Yakob,Iraq,MF,25,2000,1,24,24,8.9,0.3,0,,0,1,24,2,0.0,0,2,-2,-7.5,-4.21
+INT-World Cup,2026,Iraq,Manaf Younis,Iraq,DF,29,1996,1,75,75,27.8,0.8,0,,0,1,75,2,0.0,0,4,-4,-4.8,-1.57
+INT-World Cup,2026,Iraq,Marko Farji,Iraq,MF,22,2004,2,54,27,20.0,0.6,0,,0,2,27,1,0.0,0,2,-2,-3.33,0.42
+INT-World Cup,2026,Iraq,Merchas Doski,Iraq,DF,26,1999,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,1,12,-11,-3.67,
+INT-World Cup,2026,Iraq,Mohanad Ali,Iraq,FW,25,2000,1,13,13,4.8,0.1,0,,0,1,13,2,0.0,0,1,-1,-6.92,-3.42
+INT-World Cup,2026,Iraq,Mustafa Saadoon,Iraq,DF,25,2001,1,18,18,6.7,0.2,0,,0,1,18,2,0.0,0,2,-2,-10.0,-6.79
+INT-World Cup,2026,Iraq,Rebin Sulaka,Iraq,DF,34,1992,2,43,22,15.9,0.5,1,12,0,1,31,1,0.0,0,2,-2,-4.19,-0.62
+INT-World Cup,2026,Iraq,Youssef Amyn,Iraq,MF,22,2003,1,31,31,11.5,0.3,0,,0,1,31,2,0.0,0,1,-1,-2.9,0.86
+INT-World Cup,2026,Iraq,Zaid Ismail,Iraq,MF,24,2002,2,117,59,43.3,1.3,2,59,0,0,,1,0.0,1,4,-3,-2.31,2.4
+INT-World Cup,2026,Iraq,Zaid Tahseen,Iraq,DF,25,2001,2,149,75,55.2,1.7,2,75,1,0,,1,0.0,1,6,-5,-3.02,1.44
+INT-World Cup,2026,Iraq,Zidane Iqbal,Iraq,MF,23,2003,3,188,63,69.6,2.1,2,78,1,1,32,0,0.0,0,8,-8,-3.83,-0.54
+INT-World Cup,2026,Japan,Ao Tanaka,Japan,MF,27,1998,3,193,64,53.6,2.1,2,90,2,1,13,1,1.33,5,2,3,1.4,1.4
+INT-World Cup,2026,Japan,Ayase Ueda,Japan,FW,27,1998,4,321,80,89.2,3.6,4,80,1,0,,0,1.25,7,5,2,0.56,-1.75
+INT-World Cup,2026,Japan,Ayumu Seko,Japan,DF,26,2000,2,86,43,23.9,1.0,1,74,0,1,12,2,2.0,2,1,1,1.05,0.39
+INT-World Cup,2026,Japan,Daichi Kamada,Japan,MF,29,1996,4,329,82,91.4,3.7,4,82,2,0,,0,1.25,7,4,3,0.82,0.82
+INT-World Cup,2026,Japan,Daizen Maeda,Japan,MF,28,1997,3,244,81,67.8,2.7,3,81,1,0,,1,0.67,3,4,-1,-0.37,-3.47
+INT-World Cup,2026,Japan,Hiroki Ito,Japan,DF,27,1999,4,360,90,100.0,4.0,4,90,4,0,,0,1.25,8,5,3,0.75,
+INT-World Cup,2026,Japan,Junnosuke Suzuki,Japan,DF,22,2003,2,43,22,11.9,0.5,0,,0,2,22,2,1.5,1,1,0,0.0,-0.85
+INT-World Cup,2026,Japan,Junya Itō,Japan,MF,33,1993,4,216,54,60.0,2.4,2,84,1,2,25,0,1.25,6,1,5,2.08,3.33
+INT-World Cup,2026,Japan,Kaishū Sano,Japan,MF,25,2000,3,270,90,75.0,3.0,3,90,3,0,,1,1.33,7,4,3,1.0,1.0
+INT-World Cup,2026,Japan,Keisuke Gotō,Japan,FW,21,2005,1,7,7,1.9,0.1,0,,0,1,7,3,3.0,0,0,0,0.0,-0.76
+INT-World Cup,2026,Japan,Keisuke Ōsako,Japan,GK,26,1999,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Japan,Keito Nakamura,Japan,MF,25,2000,4,307,77,85.3,3.4,4,77,1,0,,0,1.25,7,4,3,0.88,0.88
+INT-World Cup,2026,Japan,Kento Shiogai,Japan,FW,21,2005,1,7,7,1.9,0.1,0,,0,1,7,3,1.0,1,0,1,12.86,12.35
+INT-World Cup,2026,Japan,Ko Itakura,Japan,DF,29,1997,2,128,64,35.6,1.4,2,64,1,0,,2,2.0,4,0,4,2.81,3.2
+INT-World Cup,2026,Japan,Kōki Ogawa,Japan,FW,28,1997,3,42,14,11.7,0.5,0,,0,3,14,1,0.67,1,0,1,2.14,1.58
+INT-World Cup,2026,Japan,Ritsu Doan,Japan,MF,27,1998,4,278,70,77.2,3.1,4,70,0,0,,0,1.25,6,4,2,0.65,-0.45
+INT-World Cup,2026,Japan,Shogo Taniguchi,Japan,DF,34,1991,3,232,77,64.4,2.6,2,90,2,1,52,1,0.67,4,5,-1,-0.39,-3.2
+INT-World Cup,2026,Japan,Shuto Machino,Japan,FW,26,1999,1,13,13,3.6,0.1,0,,0,1,13,2,0.0,0,1,-1,-6.92,-7.96
+INT-World Cup,2026,Japan,Takefusa Kubo,Japan,MF,25,2001,1,74,74,20.6,0.8,1,74,0,0,,1,1.0,1,2,-1,-1.22,-2.47
+INT-World Cup,2026,Japan,Takehiro Tomiyasu,Japan,DF,27,1998,3,184,61,51.1,2.0,2,84,1,1,16,1,1.33,5,2,3,1.47,1.47
+INT-World Cup,2026,Japan,Tomoki Hayakawa,Japan,GK,27,1999,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Japan,Tsuyoshi Watanabe,Japan,DF,29,1997,2,90,45,25.0,1.0,1,74,0,1,16,2,1.0,1,2,-1,-1.0,-2.33
+INT-World Cup,2026,Japan,Yuito Suzuki,Japan,"FW,MF",24,2001,1,12,12,3.3,0.1,0,,0,1,12,3,3.0,1,0,1,7.5,6.98
+INT-World Cup,2026,Japan,Yukinari Sugawara,Japan,MF,25,2000,4,148,37,41.1,1.6,1,90,1,3,19,0,1.25,3,2,1,0.61,-0.24
+INT-World Cup,2026,Japan,Yūto Nagatomo,Japan,"DF,MF",39,1986,1,16,16,4.4,0.2,0,,0,1,16,3,1.0,0,0,0,0.0,-0.78
+INT-World Cup,2026,Japan,Zion Suzuki,Japan,GK,23,2002,4,360,90,100.0,4.0,4,90,4,0,,0,1.25,8,5,3,0.75,
+INT-World Cup,2026,Jordan,Abdallah Al-Fakhouri,Jordan,GK,26,2000,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Jordan,Abdallah Nasib,Jordan,DF,32,1994,3,260,87,96.3,2.9,3,87,2,0,,0,0.0,3,7,-4,-1.38,7.62
+INT-World Cup,2026,Jordan,Ali Azaizeh,Jordan,MF,22,2004,3,54,18,20.0,0.6,1,45,0,2,5,0,0.0,0,3,-3,-5.0,-4.17
+INT-World Cup,2026,Jordan,Ali Olwan,Jordan,MF,26,2000,3,268,89,99.3,3.0,3,89,1,0,,0,0.0,3,8,-5,-1.68,-1.68
+INT-World Cup,2026,Jordan,Amer Jamous,Jordan,MF,23,2002,1,15,15,5.6,0.2,0,,0,1,15,2,0.0,0,1,-1,-6.0,-4.59
+INT-World Cup,2026,Jordan,Anas Badawi,Jordan,DF,28,1997,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Jordan,Husam Abu Dahab,Jordan,DF,26,2000,2,178,89,65.9,2.0,2,89,0,0,,1,0.0,2,5,-3,-1.52,0.44
+INT-World Cup,2026,Jordan,Ibrahim Sadeh,Jordan,MF,26,2000,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Jordan,Ihsan Haddad,Jordan,DF,32,1994,3,260,87,96.3,2.9,3,87,2,0,,0,0.0,3,7,-4,-1.38,7.62
+INT-World Cup,2026,Jordan,Mahmoud Al-Mardi,Jordan,MF,32,1993,3,130,43,48.1,1.4,1,75,0,2,28,0,0.0,2,3,-1,-0.69,1.88
+INT-World Cup,2026,Jordan,Mo Abualnadi,Jordan,DF,25,2001,1,71,71,26.3,0.8,1,71,0,0,,2,0.0,1,1,0,0.0,2.26
+INT-World Cup,2026,Jordan,Mohammad Abu Hasheesh,Jordan,DF,31,1995,1,6,6,2.2,0.1,0,,0,1,6,2,0.0,0,0,0,0.0,1.7
+INT-World Cup,2026,Jordan,Mohammad Al-Dawud,Jordan,"FW,MF",34,1992,1,3,3,1.1,0.0,0,,0,1,3,2,0.0,0,1,-1,-30.0,-28.65
+INT-World Cup,2026,Jordan,Mohammad Taha,Jordan,MF,20,2005,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Jordan,Mohannad Abu Taha,Jordan,DF,23,2003,3,264,88,97.8,2.9,3,88,2,0,,0,0.0,3,8,-5,-1.7,-1.7
+INT-World Cup,2026,Jordan,Musa Al-Taamari,Jordan,FW,29,1997,3,215,72,79.6,2.4,2,85,0,1,45,0,0.0,3,5,-2,-0.84,4.07
+INT-World Cup,2026,Jordan,Nizar Al Rashdan,Jordan,MF,27,1999,3,255,85,94.4,2.8,3,85,2,0,,0,0.0,3,7,-4,-1.41,4.59
+INT-World Cup,2026,Jordan,Noor Al Rawabdeh,Jordan,MF,29,1997,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,3,8,-5,-1.67,
+INT-World Cup,2026,Jordan,Nour Bani Attiah,Jordan,GK,33,1993,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Jordan,Odeh Al-Fakhouri,Jordan,"MF,FW",20,2005,3,148,49,54.8,1.6,2,67,0,1,15,0,0.0,1,5,-4,-2.43,-1.69
+INT-World Cup,2026,Jordan,Rajaei Ayed,Jordan,MF,32,1993,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Jordan,Saed Al-Rosan,Jordan,DF,29,1997,1,10,10,3.7,0.1,0,,0,1,10,2,0.0,0,1,-1,-9.0,-7.62
+INT-World Cup,2026,Jordan,Salim Obaid,Jordan,DF,34,1992,3,21,7,7.8,0.2,0,,0,3,7,0,0.0,0,2,-2,-8.57,-7.49
+INT-World Cup,2026,Jordan,Sharara,Jordan,FW,28,1997,2,2,1,0.7,0.0,0,,0,2,1,1,0.0,0,0,0,0.0,1.68
+INT-World Cup,2026,Jordan,Yazan Al-Arab,Jordan,DF,30,1996,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,3,8,-5,-1.67,
+INT-World Cup,2026,Jordan,Yazeed Abulaila,Jordan,GK,33,1993,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,3,8,-5,-1.67,
+INT-World Cup,2026,Korea Republic,Bae Jun-ho,Korea Republic,"FW,MF",22,2003,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Korea Republic,Cho Gue-sung,Korea Republic,FW,28,1998,2,31,16,11.5,0.3,0,,0,2,16,1,0.0,0,0,0,0.0,0.38
+INT-World Cup,2026,Korea Republic,Cho Wi-je,Korea Republic,DF,24,2001,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Korea Republic,Eom Ji-sung,Korea Republic,MF,24,2002,2,42,21,15.6,0.5,0,,0,2,21,1,1.5,1,0,1,2.14,2.93
+INT-World Cup,2026,Korea Republic,Hwang Hee-chan,Korea Republic,FW,30,1996,3,108,36,40.0,1.2,1,45,0,2,32,0,1.0,2,0,2,1.67,3.33
+INT-World Cup,2026,Korea Republic,Hwang In-beom,Korea Republic,MF,29,1996,3,263,88,97.4,2.9,3,88,2,0,,0,1.0,2,3,-1,-0.34,-0.34
+INT-World Cup,2026,Korea Republic,Jens Castrop,Korea Republic,MF,22,2003,1,45,45,16.7,0.5,0,,0,1,45,2,0.0,0,1,-1,-2.0,-2.0
+INT-World Cup,2026,Korea Republic,Jo Hyeon-woo,Korea Republic,GK,34,1991,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Korea Republic,Kim Jin-gyu,Korea Republic,MF,29,1997,2,52,26,19.3,0.6,0,,0,2,26,1,1.5,0,1,-1,-1.73,-1.73
+INT-World Cup,2026,Korea Republic,Kim Min-jae,Korea Republic,DF,29,1996,3,245,82,90.7,2.7,3,82,2,0,,0,1.0,2,3,-1,-0.37,-0.37
+INT-World Cup,2026,Korea Republic,Kim Moon-hwan,Korea Republic,MF,30,1995,1,70,70,25.9,0.8,1,70,0,0,,2,0.0,0,1,-1,-1.29,-1.29
+INT-World Cup,2026,Korea Republic,Kim Seung-gyu,Korea Republic,GK,35,1990,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,2,3,-1,-0.33,
+INT-World Cup,2026,Korea Republic,Kim Tae-hyeon,Korea Republic,DF,25,2000,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Korea Republic,Lee Dong-gyeong,Korea Republic,"FW,MF",28,1997,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Korea Republic,Lee Gi-hyuk,Korea Republic,DF,25,2000,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,2,3,-1,-0.33,
+INT-World Cup,2026,Korea Republic,Lee Han-beom,Korea Republic,DF,23,2002,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,2,3,-1,-0.33,
+INT-World Cup,2026,Korea Republic,Lee Jae-sung,Korea Republic,FW,33,1992,2,117,59,43.3,1.3,2,59,0,0,,1,1.5,0,2,-2,-1.54,-2.13
+INT-World Cup,2026,Korea Republic,Lee Kang-in,Korea Republic,FW,25,2001,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,2,3,-1,-0.33,
+INT-World Cup,2026,Korea Republic,Lee Tae-seok,Korea Republic,MF,23,2002,2,113,57,41.9,1.3,2,57,0,0,,1,1.5,1,1,0,0.0,0.57
+INT-World Cup,2026,Korea Republic,Oh Hyeon-gyu,Korea Republic,FW,25,2001,3,129,43,47.8,1.4,1,73,0,2,28,0,1.0,1,1,0,0.0,0.64
+INT-World Cup,2026,Korea Republic,Paik Seung-ho,Korea Republic,MF,29,1997,3,204,68,75.6,2.3,3,68,0,0,,0,1.0,2,2,0,0.0,1.36
+INT-World Cup,2026,Korea Republic,Park Jinseob,Korea Republic,"DF,MF",30,1995,2,32,16,11.9,0.4,0,,0,2,16,1,1.5,0,0,0,0.0,0.38
+INT-World Cup,2026,Korea Republic,Seol Young-woo,Korea Republic,MF,27,1998,3,250,83,92.6,2.8,3,83,2,0,,0,1.0,2,3,-1,-0.36,-0.36
+INT-World Cup,2026,Korea Republic,Son Heung-min,Korea Republic,FW,33,1992,3,169,56,62.6,1.9,2,62,0,1,45,0,1.0,1,3,-2,-1.07,-1.96
+INT-World Cup,2026,Korea Republic,Song Bum-keun,Korea Republic,GK,28,1997,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Korea Republic,Yang Hyun-jun,Korea Republic,"FW,MF",24,2002,1,20,20,7.4,0.2,0,,0,1,20,2,0.0,0,0,0,0.0,0.36
+INT-World Cup,2026,Mexico,Alexis Vega,Mexico,"FW,MF",28,1997,1,12,12,2.7,0.1,0,,0,1,12,4,3.0,0,0,0,0.0,-1.44
+INT-World Cup,2026,Mexico,Armando González,Mexico,FW,23,2003,1,15,15,3.3,0.2,0,,0,1,15,4,3.0,0,0,0,0.0,-1.45
+INT-World Cup,2026,Mexico,Brian Gutiérrez,Mexico,MF,22,2003,4,198,50,44.0,2.2,2,68,0,2,32,1,2.25,3,0,3,1.36,-0.06
+INT-World Cup,2026,Mexico,Carlos Acevedo,Mexico,GK,30,1996,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Mexico,César Huerta,Mexico,"FW,MF",25,2000,1,7,7,1.6,0.1,0,,0,1,7,4,3.0,0,0,0,0.0,-1.42
+INT-World Cup,2026,Mexico,César Montes,Mexico,DF,29,1997,4,314,79,69.8,3.5,4,79,2,0,,0,2.25,8,2,6,1.72,1.06
+INT-World Cup,2026,Mexico,Edson Álvarez,Mexico,"MF,DF",28,1997,4,240,60,53.3,2.7,2,90,2,2,30,1,2.25,5,1,4,1.5,0.21
+INT-World Cup,2026,Mexico,Erik Lira,Mexico,MF,26,2000,4,345,86,76.7,3.8,4,86,3,0,,1,2.25,7,3,4,1.04,-1.53
+INT-World Cup,2026,Mexico,Gilberto Mora,Mexico,MF,17,2008,4,213,53,47.3,2.4,3,63,0,1,25,1,2.25,6,3,3,1.27,-0.25
+INT-World Cup,2026,Mexico,Guillermo Martínez Ayala,Mexico,FW,31,1995,2,72,36,16.0,0.8,1,62,0,1,10,3,1.5,2,0,2,2.5,1.31
+INT-World Cup,2026,Mexico,Guillermo Ochoa,Mexico,GK,40,1985,1,13,13,2.9,0.1,0,,0,1,13,4,3.0,1,0,1,6.92,5.69
+INT-World Cup,2026,Mexico,Israel Reyes,Mexico,DF,26,2000,4,202,51,44.9,2.2,2,90,2,2,11,1,3.0,5,0,5,2.23,1.5
+INT-World Cup,2026,Mexico,Jesús Gallardo,Mexico,DF,31,1994,5,373,75,82.9,4.1,4,90,4,1,13,0,2.4,8,3,5,1.21,-1.13
+INT-World Cup,2026,Mexico,Johan Vásquez,Mexico,DF,27,1998,4,360,90,80.0,4.0,4,90,4,0,,1,2.25,7,3,4,1.0,-2.0
+INT-World Cup,2026,Mexico,Jorge Sánchez,Mexico,DF,28,1997,4,348,87,77.3,3.9,4,87,3,0,,1,2.25,8,3,5,1.29,-0.47
+INT-World Cup,2026,Mexico,Julián Quiñones,Mexico,"FW,MF",29,1997,5,410,82,91.1,4.6,5,82,1,0,,0,2.4,10,3,7,1.54,1.54
+INT-World Cup,2026,Mexico,Luis Chávez,Mexico,MF,30,1996,1,25,25,5.6,0.3,0,,0,1,25,4,3.0,1,0,1,3.6,2.33
+INT-World Cup,2026,Mexico,Luis Romo,Mexico,MF,31,1995,4,264,66,58.7,2.9,4,66,0,0,,1,2.25,6,3,3,1.02,-0.91
+INT-World Cup,2026,Mexico,Mateo Chávez,Mexico,DF,22,2004,1,77,77,17.1,0.9,1,77,0,0,,4,3.0,2,0,2,2.34,1.13
+INT-World Cup,2026,Mexico,Obed Vargas,Mexico,MF,20,2005,3,66,22,14.7,0.7,0,,0,3,22,2,3.0,1,0,1,1.36,-0.04
+INT-World Cup,2026,Mexico,Orbelín Pineda,Mexico,"FW,MF",30,1996,2,31,16,6.9,0.3,0,,0,2,16,3,3.0,0,0,0,0.0,-1.5
+INT-World Cup,2026,Mexico,Raúl Jiménez,Mexico,FW,35,1991,4,317,79,70.4,3.5,4,79,1,0,,1,2.25,7,3,4,1.14,-0.89
+INT-World Cup,2026,Mexico,Raúl Rangel,Mexico,GK,26,2000,5,437,87,97.1,4.9,5,87,4,0,,0,2.4,9,3,6,1.24,-5.69
+INT-World Cup,2026,Mexico,Roberto Alvarado,Mexico,"FW,MF",27,1998,5,428,86,95.1,4.8,5,86,3,0,,0,2.4,10,3,7,1.47,1.47
+INT-World Cup,2026,Mexico,Santiago Giménez,Mexico,FW,25,2001,4,86,22,19.1,1.0,0,,0,4,22,1,2.25,2,0,2,2.09,0.86
+INT-World Cup,2026,Mexico,Álvaro Fidalgo,Mexico,MF,29,1997,3,96,32,21.3,1.1,1,65,0,2,16,2,2.0,2,0,2,1.87,0.6
+INT-World Cup,2026,Morocco,Achraf Hakimi,Morocco,DF,27,1998,6,570,95,100.0,6.3,6,95,6,0,,0,1.83,10,6,4,0.63,
+INT-World Cup,2026,Morocco,Ahmed Reda Tagnaouti,Morocco,GK,30,1996,0,,,,,0,,0,0,,6,,,,,,
+INT-World Cup,2026,Morocco,Amine Sbai,Morocco,"FW,MF",25,2000,1,6,6,1.1,0.1,0,,0,1,6,5,0.0,0,0,0,0.0,-0.64
+INT-World Cup,2026,Morocco,Anass Salah-Eddine,Morocco,DF,24,2002,4,212,53,37.2,2.4,2,78,0,2,29,2,1.25,4,4,0,0.0,-1.01
+INT-World Cup,2026,Morocco,Ayoub El Kaabi,Morocco,FW,32,1993,1,69,69,12.1,0.8,1,69,0,0,,5,3.0,2,2,0,0.0,-0.72
+INT-World Cup,2026,Morocco,Ayoube Amaimouni,Morocco,MF,21,2004,2,18,9,3.2,0.2,0,,0,2,9,4,2.0,0,0,0,0.0,-0.65
+INT-World Cup,2026,Morocco,Ayyoub Bouaddi,Morocco,MF,18,2007,5,381,76,66.8,4.2,5,76,2,0,,1,1.6,3,3,0,0.0,-1.9
+INT-World Cup,2026,Morocco,Azzedine Ounahi,Morocco,MF,26,2000,6,435,73,76.3,4.8,5,83,1,1,21,0,1.83,6,4,2,0.41,-0.92
+INT-World Cup,2026,Morocco,Bilal El Khannouss,Morocco,"MF,FW",22,2004,6,461,77,80.9,5.1,6,77,1,0,,0,1.83,7,5,2,0.39,-1.26
+INT-World Cup,2026,Morocco,Brahim Díaz,Morocco,MF,26,1999,6,457,76,80.2,5.1,6,76,1,0,,0,1.83,7,6,1,0.2,-2.19
+INT-World Cup,2026,Morocco,Chadi Riad,Morocco,DF,22,2003,4,344,86,60.4,3.8,4,86,3,0,,2,2.0,6,4,2,0.52,-0.27
+INT-World Cup,2026,Morocco,Chemsdine Talbi,Morocco,MF,21,2005,5,179,36,31.4,2.0,1,84,0,4,24,1,1.6,3,2,1,0.5,-0.19
+INT-World Cup,2026,Morocco,Gessime Yassine,Morocco,MF,20,2005,3,80,27,14.0,0.9,0,,0,3,27,3,1.33,3,0,3,3.38,3.19
+INT-World Cup,2026,Morocco,Ismael Saibari,Morocco,FW,25,2001,5,381,76,66.8,4.2,5,76,1,0,,1,2.2,5,4,1,0.24,-1.19
+INT-World Cup,2026,Morocco,Issa Diop,Morocco,DF,29,1997,5,476,95,83.5,5.3,5,95,4,0,,1,1.6,5,4,1,0.19,-2.68
+INT-World Cup,2026,Morocco,Marwane Saâdane,Morocco,"DF,MF",34,1992,1,4,4,0.7,0.0,0,,0,1,4,5,3.0,1,0,1,22.5,22.02
+INT-World Cup,2026,Morocco,Munir,Morocco,GK,37,1989,0,,,,,0,,0,0,,6,,,,,,
+INT-World Cup,2026,Morocco,Neil El Aynaoui,Morocco,MF,24,2001,6,562,94,98.6,6.2,6,94,5,0,,0,1.83,9,6,3,0.48,-10.77
+INT-World Cup,2026,Morocco,Noussair Mazraoui,Morocco,DF,28,1997,6,477,80,83.7,5.3,5,94,4,1,8,0,1.83,7,4,3,0.57,-0.4
+INT-World Cup,2026,Morocco,Redouane Halhal,Morocco,DF,23,2003,2,180,90,31.6,2.0,2,90,2,0,,4,3.0,7,2,5,2.5,2.73
+INT-World Cup,2026,Morocco,Samir El Mourabet,Morocco,MF,20,2005,5,81,16,14.2,0.9,0,,0,5,16,1,2.2,3,0,3,3.33,3.15
+INT-World Cup,2026,Morocco,Sofyan Amrabat,Morocco,MF,29,1996,3,147,49,25.8,1.6,1,90,1,2,29,3,2.0,6,3,3,1.84,1.62
+INT-World Cup,2026,Morocco,Soufiane Rahimi,Morocco,FW,30,1996,6,163,27,28.6,1.8,0,,0,6,27,0,1.83,6,1,5,2.76,2.98
+INT-World Cup,2026,Morocco,Yassine Bounou,Morocco,GK,35,1991,6,570,95,100.0,6.3,6,95,6,0,,0,1.83,10,6,4,0.63,
+INT-World Cup,2026,Morocco,Youssef Belammari,Morocco,DF,27,1998,0,,,,,0,,0,0,,6,,,,,,
+INT-World Cup,2026,Morocco,Zakaria El Ouahdi,Morocco,"DF,MF",24,2001,1,17,17,3.0,0.2,0,,0,1,17,5,0.0,0,0,0,0.0,-0.65
+INT-World Cup,2026,Netherlands,Bart Verbruggen,Netherlands,GK,23,2002,4,390,98,100.0,4.3,4,98,4,0,,0,2.0,11,5,6,1.38,
+INT-World Cup,2026,Netherlands,Brian Brobbey,Netherlands,FW,24,2002,4,223,56,57.2,2.5,3,72,0,1,6,0,2.0,7,3,4,1.61,0.54
+INT-World Cup,2026,Netherlands,Cody Gakpo,Netherlands,FW,27,1999,4,368,92,94.4,4.1,4,92,0,0,,0,2.0,11,4,7,1.71,5.8
+INT-World Cup,2026,Netherlands,Crysencio Summerville,Netherlands,FW,24,2001,4,253,63,64.9,2.8,2,95,1,2,32,0,2.0,6,3,3,1.07,-0.9
+INT-World Cup,2026,Netherlands,Denzel Dumfries,Netherlands,"DF,MF",30,1996,4,390,98,100.0,4.3,4,98,4,0,,0,2.0,11,5,6,1.38,
+INT-World Cup,2026,Netherlands,Donyell Malen,Netherlands,FW,27,1999,3,185,62,47.4,2.1,3,62,0,0,,1,2.33,7,2,5,2.43,1.99
+INT-World Cup,2026,Netherlands,Frenkie de Jong,Netherlands,MF,29,1997,4,328,82,84.1,3.6,4,82,1,0,,0,2.0,10,5,5,1.37,-0.08
+INT-World Cup,2026,Netherlands,Guus Til,Netherlands,"FW,MF",28,1997,1,32,32,8.2,0.4,0,,0,1,32,3,3.0,1,0,1,2.81,1.56
+INT-World Cup,2026,Netherlands,Jan Paul van Hecke,Netherlands,DF,26,2000,4,390,98,100.0,4.3,4,98,4,0,,0,2.0,11,5,6,1.38,
+INT-World Cup,2026,Netherlands,Jorrel Hato,Netherlands,DF,20,2006,1,35,35,9.0,0.4,0,,0,1,35,3,1.0,0,1,-1,-2.57,-4.35
+INT-World Cup,2026,Netherlands,Justin Kluivert,Netherlands,"FW,MF",27,1999,2,27,14,6.9,0.3,0,,0,2,14,2,2.0,0,0,0,0.0,-1.49
+INT-World Cup,2026,Netherlands,Lutsharel Geertruida,Netherlands,DF,25,2000,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Netherlands,Mark Flekken,Netherlands,GK,33,1993,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Netherlands,Marten de Roon,Netherlands,"DF,MF",35,1991,1,11,11,2.8,0.1,0,,0,1,11,3,1.0,0,0,0,0.0,-1.42
+INT-World Cup,2026,Netherlands,Mats Wieffer,Netherlands,"DF,MF",26,1999,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Netherlands,Memphis,Netherlands,"FW,MF",32,1994,3,54,18,13.8,0.6,0,,0,3,18,1,2.33,1,1,0,0.0,-1.61
+INT-World Cup,2026,Netherlands,Micky van de Ven,Netherlands,"DF,MF",25,2001,3,265,88,67.9,2.9,3,88,2,0,,1,1.67,8,3,5,1.7,0.98
+INT-World Cup,2026,Netherlands,Nathan Aké,Netherlands,DF,31,1995,3,170,57,43.6,1.9,2,80,1,1,10,1,1.67,3,2,1,0.53,-1.52
+INT-World Cup,2026,Netherlands,Noa Lang,Netherlands,"FW,MF",26,1999,2,8,4,2.1,0.1,0,,0,2,4,2,3.0,0,0,0,0.0,-1.41
+INT-World Cup,2026,Netherlands,Quinten Timber,Netherlands,MF,24,2001,2,55,28,14.1,0.6,0,,0,2,28,1,1.0,0,2,-2,-3.27,-5.42
+INT-World Cup,2026,Netherlands,Robin Roefs,Netherlands,GK,23,2003,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Netherlands,Ryan Gravenberch,Netherlands,MF,24,2002,4,345,86,88.5,3.8,4,86,2,0,,0,2.0,11,3,8,2.09,6.09
+INT-World Cup,2026,Netherlands,Teun Koopmeiners,Netherlands,"DF,MF",28,1998,4,122,31,31.3,1.4,0,,0,4,31,0,2.0,2,2,0,0.0,-2.01
+INT-World Cup,2026,Netherlands,Tijjani Reijnders,Netherlands,MF,27,1998,3,199,66,51.0,2.2,3,66,0,0,,1,2.33,9,3,6,2.71,2.71
+INT-World Cup,2026,Netherlands,Virgil van Dijk,Netherlands,DF,34,1991,4,390,98,100.0,4.3,4,98,4,0,,0,2.0,11,5,6,1.38,
+INT-World Cup,2026,Netherlands,Wout Weghorst,Netherlands,FW,33,1992,1,50,50,12.8,0.6,0,,0,1,50,3,1.0,1,1,0,0.0,-1.59
+INT-World Cup,2026,New Zealand,Alex Paulsen,New Zealand,GK,23,2002,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,New Zealand,Alex Rufer,New Zealand,MF,30,1996,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,New Zealand,Ben Old,New Zealand,MF,23,2002,3,93,31,34.4,1.0,0,,0,3,31,0,0.33,1,6,-5,-4.84,-4.33
+INT-World Cup,2026,New Zealand,Ben Waine,New Zealand,FW,25,2001,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,New Zealand,Callan Elliot,New Zealand,DF,26,1999,1,13,13,4.8,0.1,0,,0,1,13,2,1.0,0,0,0,0.0,2.1
+INT-World Cup,2026,New Zealand,Callum McCowatt,New Zealand,MF,27,1999,3,159,53,58.9,1.8,2,66,0,1,27,0,0.33,4,6,-2,-1.13,2.11
+INT-World Cup,2026,New Zealand,Chris Wood,New Zealand,FW,34,1991,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,4,10,-6,-2.0,
+INT-World Cup,2026,New Zealand,Elijah Just,New Zealand,MF,26,2000,3,264,88,97.8,2.9,3,88,2,0,,0,0.33,4,10,-6,-2.05,-2.05
+INT-World Cup,2026,New Zealand,Finn Surman,New Zealand,DF,22,2003,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,4,10,-6,-2.0,
+INT-World Cup,2026,New Zealand,Francis de Vries,New Zealand,DF,31,1994,2,18,9,6.7,0.2,0,,0,2,9,1,0.0,1,2,-1,-5.0,-3.21
+INT-World Cup,2026,New Zealand,Jesse Randall,New Zealand,MF,23,2002,3,61,20,22.6,0.7,0,,0,3,20,0,0.33,1,5,-4,-5.9,-5.04
+INT-World Cup,2026,New Zealand,Joe Bell,New Zealand,MF,27,1999,3,243,81,90.0,2.7,3,81,2,0,,0,0.33,3,7,-4,-1.48,5.19
+INT-World Cup,2026,New Zealand,Kosta Barbarouses,New Zealand,"FW,MF",36,1990,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,New Zealand,Lachlan Bayliss,New Zealand,MF,23,2002,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,New Zealand,Liberato Cacace,New Zealand,DF,25,2000,3,220,73,81.5,2.4,3,73,0,0,,0,0.33,3,7,-4,-1.64,1.96
+INT-World Cup,2026,New Zealand,Logan Rogerson,New Zealand,"FW,MF",28,1998,0,,,,,0,,0,0,,2,,,,,,
+INT-World Cup,2026,New Zealand,Marko Stamenic,New Zealand,MF,24,2002,3,269,90,99.6,3.0,3,90,2,0,,0,0.33,4,10,-6,-2.01,-2.01
+INT-World Cup,2026,New Zealand,Max Crocombe,New Zealand,GK,32,1993,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,4,10,-6,-2.0,
+INT-World Cup,2026,New Zealand,Michael Boxall,New Zealand,DF,37,1988,3,207,69,76.7,2.3,2,90,2,1,27,0,0.33,4,8,-4,-1.74,1.12
+INT-World Cup,2026,New Zealand,Michael Woud,New Zealand,GK,27,1999,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,New Zealand,Nando Pijnaker,New Zealand,DF,27,1999,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,New Zealand,Ryan Thomas,New Zealand,MF,31,1994,3,83,28,30.7,0.9,1,45,0,2,19,0,0.33,0,2,-2,-2.17,-0.24
+INT-World Cup,2026,New Zealand,Sarpreet Singh,New Zealand,MF,27,1999,3,209,70,77.4,2.3,3,70,0,0,,0,0.33,3,5,-2,-0.86,5.04
+INT-World Cup,2026,New Zealand,Tim Payne,New Zealand,DF,32,1994,3,224,75,83.0,2.5,3,75,0,0,,0,0.33,3,7,-4,-1.61,2.31
+INT-World Cup,2026,New Zealand,Tommy Smith,New Zealand,DF,36,1990,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,New Zealand,Tyler Bindon,New Zealand,DF,21,2005,3,97,32,35.9,1.1,1,90,1,2,4,0,0.33,1,5,-4,-3.71,-2.67
+INT-World Cup,2026,Norway,Alexander Sørloth,Norway,FW,30,1995,5,337,67,59.1,3.7,5,67,0,0,,1,2.4,7,3,4,1.07,1.84
+INT-World Cup,2026,Norway,Andreas Schjelderup,Norway,FW,22,2004,6,252,42,44.2,2.8,2,75,0,4,26,0,2.0,7,7,0,0.0,-0.57
+INT-World Cup,2026,Norway,Antonio Nusa,Norway,FW,21,2005,6,318,53,55.8,3.5,4,64,0,2,31,0,2.0,6,4,2,0.57,0.57
+INT-World Cup,2026,Norway,David Møller Wolfe,Norway,DF,24,2002,5,430,86,75.4,4.8,5,86,2,0,,1,2.4,10,5,5,1.05,2.98
+INT-World Cup,2026,Norway,Egil Selvik,Norway,GK,28,1997,1,90,90,15.8,1.0,1,90,1,0,,5,0.0,1,4,-3,-3.0,-3.94
+INT-World Cup,2026,Norway,Erling Haaland,Norway,FW,25,2000,5,465,93,81.6,5.2,5,93,4,0,,1,2.4,12,7,5,0.97,3.54
+INT-World Cup,2026,Norway,Fredrik André Bjørkan,Norway,DF,27,1998,1,45,45,7.9,0.5,1,45,0,0,,5,0.0,1,3,-2,-4.0,-4.69
+INT-World Cup,2026,Norway,Fredrik Aursnes,Norway,"MF,DF",30,1995,6,304,51,53.3,3.4,3,69,1,3,32,0,2.0,7,7,0,0.0,-0.68
+INT-World Cup,2026,Norway,Henrik Falchener,Norway,DF,23,2003,1,65,65,11.4,0.7,1,65,0,0,,5,0.0,1,3,-2,-2.77,-3.48
+INT-World Cup,2026,Norway,Jens Petter Hauge,Norway,"DF,FW",26,1999,1,8,8,1.4,0.1,0,,0,1,8,5,0.0,0,1,-1,-11.25,-11.73
+INT-World Cup,2026,Norway,Julian Ryerson,Norway,DF,28,1997,4,223,56,39.1,2.5,4,56,1,0,,2,2.25,5,2,3,1.21,1.47
+INT-World Cup,2026,Norway,Jørgen Strand Larsen,Norway,FW,26,2000,2,105,53,18.4,1.2,1,90,1,1,15,4,0.0,1,4,-3,-2.57,-3.54
+INT-World Cup,2026,Norway,Kristian Thorstvedt,Norway,MF,27,1999,2,63,32,11.1,0.7,1,45,0,1,18,4,1.5,3,3,0,0.0,-0.36
+INT-World Cup,2026,Norway,Kristoffer Ajer,Norway,DF,28,1998,5,480,96,84.2,5.3,5,96,5,0,,1,2.4,12,7,5,0.94,3.94
+INT-World Cup,2026,Norway,Leo Østigård,Norway,DF,26,1999,5,146,29,25.6,1.6,1,90,1,4,14,1,1.8,3,7,-4,-2.47,-3.74
+INT-World Cup,2026,Norway,Marcus Pedersen,Norway,DF,25,2000,4,236,59,41.4,2.6,1,82,0,3,51,1,1.5,4,5,-1,-0.38,-1.19
+INT-World Cup,2026,Norway,Martin Ødegaard,Norway,MF,27,1998,5,470,94,82.5,5.2,5,94,4,0,,1,2.4,11,7,4,0.77,2.57
+INT-World Cup,2026,Norway,Morten Thorsby,Norway,MF,30,1996,1,45,45,7.9,0.5,0,,0,1,45,5,0.0,0,1,-1,-2.0,-2.51
+INT-World Cup,2026,Norway,Oscar Bobb,Norway,FW,22,2003,6,225,38,39.5,2.5,1,82,0,5,29,0,2.0,6,7,-1,-0.4,-1.18
+INT-World Cup,2026,Norway,Patrick Berg,Norway,MF,28,1997,6,445,74,78.1,4.9,4,98,4,2,28,0,2.0,9,10,-1,-0.2,-2.36
+INT-World Cup,2026,Norway,Sander Berge,Norway,MF,28,1998,5,480,96,84.2,5.3,5,96,5,0,,1,2.4,12,7,5,0.94,3.94
+INT-World Cup,2026,Norway,Sander Tangvik,Norway,GK,23,2002,0,,,,,0,,0,0,,6,,,,,,
+INT-World Cup,2026,Norway,Sondre Langås,Norway,DF,25,2001,1,25,25,4.4,0.3,0,,0,1,25,5,0.0,0,1,-1,-3.6,-4.1
+INT-World Cup,2026,Norway,Thelo Aasgaard,Norway,MF,24,2002,1,90,90,15.8,1.0,1,90,1,0,,5,0.0,1,4,-3,-3.0,-3.94
+INT-World Cup,2026,Norway,Torbjørn Heggem,Norway,DF,27,1999,5,443,89,77.7,4.9,5,89,3,0,,1,2.4,12,5,7,1.42,4.97
+INT-World Cup,2026,Norway,Ørjan Nyland,Norway,GK,35,1990,5,480,96,84.2,5.3,5,96,5,0,,1,2.4,12,7,5,0.94,3.94
+INT-World Cup,2026,Panama,Adalberto Carrasquilla,Panama,MF,27,1998,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Panama,Alberto Quintero,Panama,"FW,MF",38,1987,1,3,3,1.1,0.0,0,,0,1,3,2,0.0,0,0,0,0.0,1.35
+INT-World Cup,2026,Panama,Andrés Andrade Cedeño,Panama,DF,27,1998,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,0,4,-4,-1.33,
+INT-World Cup,2026,Panama,Aníbal Godoy,Panama,MF,36,1990,1,1,1,0.4,0.0,0,,0,1,1,2,0.0,0,1,-1,-90.0,-89.0
+INT-World Cup,2026,Panama,Azarías Londoño,Panama,MF,24,2001,3,56,19,20.7,0.6,0,,0,3,19,0,0.0,0,1,-1,-1.61,-0.35
+INT-World Cup,2026,Panama,Carlos Harvey,Panama,MF,26,2000,3,267,89,98.9,3.0,3,89,2,0,,0,0.0,0,4,-4,-1.35,-1.35
+INT-World Cup,2026,Panama,Cecilio Waterman,Panama,FW,35,1991,2,76,38,28.1,0.8,1,62,0,1,14,1,0.0,0,0,0,0.0,1.86
+INT-World Cup,2026,Panama,Cristian Martínez,Panama,"MF,FW",29,1997,3,242,81,89.6,2.7,3,81,2,0,,0,0.0,0,3,-3,-1.12,2.1
+INT-World Cup,2026,Panama,César Blackman,Panama,"MF,DF",28,1998,2,178,89,65.9,2.0,2,89,0,0,,1,0.0,0,1,-1,-0.51,2.43
+INT-World Cup,2026,Panama,César Samudio,Panama,GK,32,1994,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Panama,César Yanis,Panama,MF,30,1996,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Panama,Edgardo Fariña,Panama,DF,24,2001,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Panama,Erick Davis,Panama,DF,35,1991,2,4,2,1.5,0.0,0,,0,2,2,1,0.0,0,0,0,0.0,1.35
+INT-World Cup,2026,Panama,Fidel Escobar,Panama,DF,31,1995,1,90,90,33.3,1.0,1,90,1,0,,2,0.0,0,2,-2,-2.0,-1.0
+INT-World Cup,2026,Panama,Ismael Díaz,Panama,"FW,MF",29,1997,2,37,19,13.7,0.4,0,,0,2,19,1,0.0,0,1,-1,-2.43,-1.27
+INT-World Cup,2026,Panama,Jiovany Ramos,Panama,DF,29,1997,2,166,83,61.5,1.8,2,83,1,0,,1,0.0,0,2,-2,-1.08,0.65
+INT-World Cup,2026,Panama,Jorge Gutiérrez,Panama,DF,27,1998,1,87,87,32.2,1.0,1,87,0,0,,2,0.0,0,2,-2,-2.07,-1.09
+INT-World Cup,2026,Panama,José Córdoba,Panama,DF,25,2001,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,0,4,-4,-1.33,
+INT-World Cup,2026,Panama,José Fajardo,Panama,FW,32,1993,3,155,52,57.4,1.7,1,82,0,2,37,0,0.0,0,4,-4,-2.32,-2.32
+INT-World Cup,2026,Panama,José Luis Rodríguez,Panama,"MF,FW",27,1998,3,233,78,86.3,2.6,3,78,1,0,,0,0.0,0,3,-3,-1.16,1.27
+INT-World Cup,2026,Panama,Luis Mejía,Panama,GK,35,1991,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Panama,Michael Amir Murillo,Panama,"DF,MF",30,1996,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,0,4,-4,-1.33,
+INT-World Cup,2026,Panama,Orlando Mosquera,Panama,GK,31,1994,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,0,4,-4,-1.33,
+INT-World Cup,2026,Panama,Roderick Miller,Panama,DF,34,1992,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Panama,Tomás Rodríguez,Panama,FW,27,1999,2,46,23,17.0,0.5,1,45,0,1,1,1,0.0,0,0,0,0.0,1.61
+INT-World Cup,2026,Panama,Yoel Bárcenas,Panama,MF,32,1993,3,249,83,92.2,2.8,3,83,1,0,,0,0.0,0,4,-4,-1.45,-1.45
+INT-World Cup,2026,Paraguay,Alexandro Maidana,Paraguay,DF,20,2005,2,55,28,11.5,0.6,1,45,0,1,10,3,2.0,0,0,0,0.0,0.64
+INT-World Cup,2026,Paraguay,Andrés Cubas,Paraguay,MF,30,1996,5,480,96,100.0,5.3,5,96,5,0,,0,1.0,3,6,-3,-0.56,
+INT-World Cup,2026,Paraguay,Antonio Sanabria,Paraguay,FW,30,1996,2,83,42,17.3,0.9,1,61,0,1,22,3,0.5,0,3,-3,-3.25,-3.25
+INT-World Cup,2026,Paraguay,Braian Ojeda,Paraguay,MF,25,2000,1,22,22,4.6,0.2,0,,0,1,22,4,1.0,0,0,0,0.0,0.59
+INT-World Cup,2026,Paraguay,Damián Bobadilla,Paraguay,MF,24,2001,4,189,47,39.4,2.1,2,72,0,2,23,1,1.25,1,4,-3,-1.43,-1.43
+INT-World Cup,2026,Paraguay,Diego Gómez,Paraguay,MF,23,2003,4,304,76,63.3,3.4,4,76,0,0,,0,1.0,2,4,-2,-0.59,-0.08
+INT-World Cup,2026,Paraguay,Fabián Balbuena,Paraguay,DF,34,1991,1,1,1,0.2,0.0,0,,0,1,1,4,1.0,0,0,0,0.0,0.56
+INT-World Cup,2026,Paraguay,Gabriel Ávalos,Paraguay,FW,35,1990,4,141,35,29.4,1.6,2,60,0,2,11,1,1.25,1,1,0,0.0,0.8
+INT-World Cup,2026,Paraguay,Gastón Olveira,Paraguay,GK,33,1993,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Paraguay,Gatito Fernández,Paraguay,GK,38,1988,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Paraguay,Gustavo Caballero,Paraguay,"FW,MF",24,2001,2,96,48,20.0,1.1,0,,0,2,48,3,0.5,0,1,-1,-0.94,-0.47
+INT-World Cup,2026,Paraguay,Gustavo Gómez,Paraguay,DF,33,1993,5,480,96,100.0,5.3,5,96,5,0,,0,1.0,3,6,-3,-0.56,
+INT-World Cup,2026,Paraguay,Gustavo Velásquez,Paraguay,DF,35,1991,5,246,49,51.3,2.7,2,90,2,3,22,0,1.0,0,2,-2,-0.73,-0.35
+INT-World Cup,2026,Paraguay,Isidro Pitta,Paraguay,FW,26,1999,1,45,45,9.4,0.5,1,45,0,0,,4,3.0,1,0,1,2.0,2.83
+INT-World Cup,2026,Paraguay,José Canale,Paraguay,DF,29,1996,4,161,40,33.5,1.8,1,120,1,3,14,1,1.25,1,2,-1,-0.56,0.01
+INT-World Cup,2026,Paraguay,Juan Cáceres,Paraguay,DF,26,2000,5,436,87,90.8,4.8,5,87,2,0,,0,1.0,3,5,-2,-0.41,1.63
+INT-World Cup,2026,Paraguay,Julio Enciso,Paraguay,FW,22,2004,5,386,77,80.4,4.3,5,77,2,0,,0,1.0,3,5,-2,-0.47,0.49
+INT-World Cup,2026,Paraguay,Júnior Alonso,Paraguay,DF,33,1993,5,390,78,81.3,4.3,4,97,3,1,1,0,1.0,3,6,-3,-0.69,-0.69
+INT-World Cup,2026,Paraguay,Kaku,Paraguay,MF,31,1995,1,11,11,2.3,0.1,0,,0,1,11,4,0.0,0,1,-1,-8.18,-7.8
+INT-World Cup,2026,Paraguay,Matías Galarza,Paraguay,MF,24,2002,4,388,97,80.8,4.3,4,97,2,0,,1,1.25,2,2,0,0.0,2.93
+INT-World Cup,2026,Paraguay,Mauricio,Paraguay,MF,25,2001,4,173,43,36.0,1.9,0,,0,4,43,1,0.5,1,1,0,0.0,0.88
+INT-World Cup,2026,Paraguay,Miguel Almirón,Paraguay,"MF,FW",32,1994,4,282,71,58.8,3.1,4,71,0,0,,0,1.0,3,5,-2,-0.64,-0.18
+INT-World Cup,2026,Paraguay,Omar Alderete,Paraguay,DF,29,1996,4,320,80,66.7,3.6,4,80,2,0,,1,1.0,2,4,-2,-0.56,0.0
+INT-World Cup,2026,Paraguay,Orlando Gill,Paraguay,GK,26,2000,5,480,96,100.0,5.3,5,96,5,0,,0,1.0,3,6,-3,-0.56,
+INT-World Cup,2026,Paraguay,Ramón Sosa,Paraguay,"FW,MF",26,1999,1,12,12,2.5,0.1,0,,0,1,12,4,0.0,0,1,-1,-7.5,-7.12
+INT-World Cup,2026,Paraguay,Álex Arce,Paraguay,FW,30,1995,2,53,27,11.0,0.6,0,,0,2,27,3,0.5,1,1,0,0.0,0.63
+INT-World Cup,2026,Portugal,Bernardo Silva,Portugal,MF,31,1994,4,97,24,21.6,1.1,1,45,0,3,17,1,1.75,4,2,2,1.86,1.09
+INT-World Cup,2026,Portugal,Bruno Fernandes,Portugal,MF,31,1994,5,422,84,93.8,4.7,5,84,4,0,,0,1.6,6,3,3,0.64,-5.79
+INT-World Cup,2026,Portugal,Cristiano Ronaldo,Portugal,FW,41,1985,5,440,88,97.8,4.9,5,88,4,0,,0,1.6,7,3,4,0.82,-8.18
+INT-World Cup,2026,Portugal,Diogo Costa,Portugal,GK,26,1999,5,450,90,100.0,5.0,5,90,5,0,,0,1.6,8,3,5,1.0,
+INT-World Cup,2026,Portugal,Diogo Dalot,Portugal,"DF,MF",27,1999,2,65,33,14.4,0.7,0,,0,2,33,3,0.5,0,1,-1,-1.38,-2.79
+INT-World Cup,2026,Portugal,Francisco Conceição,Portugal,MF,23,2002,4,126,32,28.0,1.4,0,,0,4,32,1,1.75,4,1,3,2.14,1.59
+INT-World Cup,2026,Portugal,Francisco Trincão,Portugal,"FW,MF",26,1999,1,28,28,6.2,0.3,0,,0,1,28,4,3.0,1,0,1,3.21,2.36
+INT-World Cup,2026,Portugal,Gonçalo Guedes,Portugal,"FW,MF",29,1996,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Portugal,Gonçalo Inácio,Portugal,DF,24,2001,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Portugal,Gonçalo Ramos,Portugal,FW,24,2001,2,36,18,8.0,0.4,0,,0,2,18,3,2.0,2,0,2,5.0,4.35
+INT-World Cup,2026,Portugal,José Sá,Portugal,GK,33,1993,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Portugal,João Cancelo,Portugal,DF,32,1994,5,312,62,69.3,3.5,5,62,1,0,,0,1.6,4,2,2,0.58,-1.38
+INT-World Cup,2026,Portugal,João Félix,Portugal,MF,26,1999,3,201,67,44.7,2.2,3,67,0,0,,2,1.33,4,0,4,1.79,1.43
+INT-World Cup,2026,Portugal,João Neves,Portugal,MF,21,2004,5,390,78,86.7,4.3,4,86,3,1,45,0,1.6,7,3,4,0.92,-0.58
+INT-World Cup,2026,Portugal,Matheus Nunes,Portugal,"DF,MF",27,1998,1,1,1,0.2,0.0,0,,0,1,1,4,1.0,0,0,0,0.0,-1.0
+INT-World Cup,2026,Portugal,Nuno Mendes,Portugal,DF,23,2002,5,395,79,87.8,4.4,5,79,2,0,,0,1.6,8,2,6,1.37,3.0
+INT-World Cup,2026,Portugal,Nélson Semedo,Portugal,"DF,MF",32,1993,4,127,32,28.2,1.4,0,,0,4,32,1,1.75,4,1,3,2.13,1.57
+INT-World Cup,2026,Portugal,Pedro Neto,Portugal,MF,26,2000,5,350,70,77.8,3.9,5,70,1,0,,0,1.6,4,2,2,0.51,-2.19
+INT-World Cup,2026,Portugal,Rafael Leão,Portugal,MF,27,1999,5,158,32,35.1,1.8,1,90,1,4,17,0,1.6,3,2,1,0.57,-0.66
+INT-World Cup,2026,Portugal,Renato Veiga,Portugal,DF,22,2003,5,450,90,100.0,5.0,5,90,5,0,,0,1.6,8,3,5,1.0,
+INT-World Cup,2026,Portugal,Rui Silva,Portugal,GK,32,1994,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,Portugal,Rúben Dias,Portugal,DF,29,1997,4,360,90,80.0,4.0,4,90,4,0,,1,1.75,7,2,5,1.25,1.25
+INT-World Cup,2026,Portugal,Rúben Neves,Portugal,MF,29,1997,2,55,28,12.2,0.6,1,45,0,1,10,3,2.0,1,0,1,1.64,0.72
+INT-World Cup,2026,Portugal,Samu Costa,Portugal,MF,25,2000,1,21,21,4.7,0.2,0,,0,1,21,4,1.0,0,0,0,0.0,-1.05
+INT-World Cup,2026,Portugal,Tomás Araújo,Portugal,DF,24,2002,1,90,90,20.0,1.0,1,90,1,0,,4,1.0,1,1,0,0.0,-1.25
+INT-World Cup,2026,Portugal,Vitinha,Portugal,MF,26,2000,5,376,75,83.6,4.2,5,75,0,0,,0,1.6,5,2,3,0.72,-1.71
+INT-World Cup,2026,Qatar,Abdulaziz Hatem,Qatar,MF,36,1990,1,45,45,16.7,0.5,0,,0,1,45,2,0.0,0,1,-1,-2.0,0.8
+INT-World Cup,2026,Qatar,Ahmed Al-Ganehi,Qatar,FW,25,2000,1,36,36,13.3,0.4,0,,0,1,36,2,0.0,0,1,-1,-2.5,0.19
+INT-World Cup,2026,Qatar,Ahmed Alaaeldin,Qatar,FW,33,1993,2,43,22,15.9,0.5,0,,0,2,22,1,0.5,1,1,0,0.0,3.17
+INT-World Cup,2026,Qatar,Ahmed Fathy,Qatar,MF,33,1993,3,150,50,55.6,1.7,1,78,0,2,36,0,0.33,2,4,-2,-1.2,3.3
+INT-World Cup,2026,Qatar,Akram Afif,Qatar,"FW,MF",29,1996,3,238,79,88.1,2.6,3,79,2,0,,0,0.33,2,7,-5,-1.89,6.55
+INT-World Cup,2026,Qatar,Al-Hashmi Al-Hussain,Qatar,MF,22,2003,1,32,32,11.9,0.4,0,,0,1,32,2,0.0,0,3,-3,-8.44,-6.55
+INT-World Cup,2026,Qatar,Almoez Ali,Qatar,FW,29,1996,1,19,19,7.0,0.2,0,,0,1,19,2,0.0,0,1,-1,-4.74,-2.23
+INT-World Cup,2026,Qatar,Assim Madibo,Qatar,MF,29,1996,2,131,66,48.5,1.5,2,66,0,0,,0,0.5,0,4,-4,-2.75,-0.16
+INT-World Cup,2026,Qatar,Ayoub Al-Oui,Qatar,DF,21,2005,2,149,75,55.2,1.7,2,75,1,0,,1,0.5,0,7,-7,-4.23,-3.48
+INT-World Cup,2026,Qatar,Boualem Khoukhi,Qatar,DF,35,1990,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,2,10,-8,-2.67,
+INT-World Cup,2026,Qatar,Edmilson Junior,Qatar,"MF,FW",31,1994,3,210,70,77.8,2.3,3,70,0,0,,0,0.33,1,6,-5,-2.14,2.36
+INT-World Cup,2026,Qatar,Hassan Al-Haydos,Qatar,MF,35,1990,2,57,29,21.1,0.6,1,54,0,1,3,1,0.5,2,2,0,0.0,3.38
+INT-World Cup,2026,Qatar,Homam Ahmed,Qatar,DF,26,1999,2,122,61,45.2,1.4,2,61,1,0,,0,0.5,1,3,-2,-1.48,2.17
+INT-World Cup,2026,Qatar,Issa Laye,Qatar,"MF,DF",28,1997,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,2,10,-8,-2.67,
+INT-World Cup,2026,Qatar,Jassem Gaber,Qatar,MF,24,2002,3,149,50,55.2,1.7,3,50,0,0,,0,0.33,1,6,-5,-3.02,-0.79
+INT-World Cup,2026,Qatar,Karim Boudiaf,Qatar,MF,35,1990,2,102,51,37.8,1.1,1,71,0,1,31,1,0.5,2,2,0,0.0,4.29
+INT-World Cup,2026,Qatar,Lucas Mendes,Qatar,DF,35,1990,1,4,4,1.5,0.0,0,,0,1,4,2,0.0,0,1,-1,-22.5,-20.13
+INT-World Cup,2026,Qatar,Mahmoud Abunada,Qatar,GK,26,2000,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,2,10,-8,-2.67,
+INT-World Cup,2026,Qatar,Meshaal Barsham,Qatar,GK,28,1998,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Qatar,Mohamed Manai,Qatar,DF,23,2002,3,69,23,25.6,0.8,0,,0,3,23,0,0.33,1,4,-3,-3.91,-1.67
+INT-World Cup,2026,Qatar,Mohammed Muntari,Qatar,FW,32,1993,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Qatar,Ró-Ró,Qatar,DF,35,1990,3,270,90,100.0,3.0,3,90,3,0,,0,0.33,2,10,-8,-2.67,
+INT-World Cup,2026,Qatar,Salah Zakaria,Qatar,GK,27,1999,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Qatar,Sultan Al-Brake,Qatar,DF,30,1996,2,141,71,52.2,1.6,1,90,1,1,51,1,0.0,1,7,-6,-3.83,-2.43
+INT-World Cup,2026,Qatar,Tahsin Jamshid,Qatar,FW,19,2006,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Qatar,Yusuf Abdurisag,Qatar,FW,26,1999,2,98,49,36.3,1.1,2,49,0,0,,1,0.5,0,3,-3,-2.76,-0.14
+INT-World Cup,2026,Saudi Arabia,Abdulelah Al-Amri,Saudi Arabia,DF,29,1997,3,239,80,88.5,2.7,3,80,2,0,,0,0.67,1,5,-4,-1.51,-1.51
+INT-World Cup,2026,Saudi Arabia,Abdullah Al-Hamdan,Saudi Arabia,FW,26,1999,3,71,24,26.3,0.8,0,,0,3,24,0,0.67,0,1,-1,-1.27,0.09
+INT-World Cup,2026,Saudi Arabia,Abdullah Al-Khaibari,Saudi Arabia,MF,29,1996,3,180,60,66.7,2.0,3,60,1,0,,0,0.67,1,4,-3,-1.5,-0.5
+INT-World Cup,2026,Saudi Arabia,Ahmed Al-Kassar,Saudi Arabia,GK,35,1991,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Saudi Arabia,Alaa Al Hejji,Saudi Arabia,MF,30,1995,2,32,16,11.9,0.4,0,,0,2,16,1,0.5,0,0,0,0.0,1.51
+INT-World Cup,2026,Saudi Arabia,Ali Lajami,Saudi Arabia,DF,30,1996,3,149,50,55.2,1.7,1,90,1,2,30,0,0.67,0,4,-4,-2.42,-2.42
+INT-World Cup,2026,Saudi Arabia,Ali Majrashi,Saudi Arabia,DF,26,1999,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Saudi Arabia,Ayman Yahya,Saudi Arabia,MF,25,2001,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Saudi Arabia,Firas Al-Buraikan,Saudi Arabia,FW,26,2000,3,238,79,88.1,2.6,3,79,1,0,,0,0.67,1,5,-4,-1.51,-1.51
+INT-World Cup,2026,Saudi Arabia,Hassan Al Tambakti,Saudi Arabia,DF,27,1999,3,212,71,78.5,2.4,3,71,2,0,,0,0.67,1,5,-4,-1.7,-1.7
+INT-World Cup,2026,Saudi Arabia,Hassan Kadesh,Saudi Arabia,DF,33,1992,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Saudi Arabia,Jehad Thakri,Saudi Arabia,DF,24,2001,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Saudi Arabia,Khalid Al Ghannam,Saudi Arabia,MF,25,2000,1,1,1,0.4,0.0,0,,0,1,1,2,0.0,0,0,0,0.0,1.34
+INT-World Cup,2026,Saudi Arabia,Mohamed Kanno,Saudi Arabia,MF,31,1994,3,225,75,83.3,2.5,2,90,2,1,45,0,0.67,1,2,-1,-0.4,5.6
+INT-World Cup,2026,Saudi Arabia,Mohammed Abu Al-Shamat,Saudi Arabia,MF,23,2002,3,136,45,50.4,1.5,1,80,0,2,28,0,0.67,1,1,0,0.0,2.69
+INT-World Cup,2026,Saudi Arabia,Mohammed Al-Owais,Saudi Arabia,GK,34,1991,3,270,90,100.0,3.0,3,90,3,0,,0,0.67,1,5,-4,-1.33,
+INT-World Cup,2026,Saudi Arabia,Moteb Al-Harbi,Saudi Arabia,DF,26,2000,3,188,63,69.6,2.1,2,90,1,1,9,0,0.67,1,5,-4,-1.91,-1.91
+INT-World Cup,2026,Saudi Arabia,Musab Al Juwayr,Saudi Arabia,"MF,FW",22,2003,3,152,51,56.3,1.7,2,54,0,1,45,0,0.67,1,3,-2,-1.18,0.34
+INT-World Cup,2026,Saudi Arabia,Nasser Al-Dawsari,Saudi Arabia,MF,27,1998,3,207,69,76.7,2.3,2,90,1,1,28,0,0.67,0,5,-5,-2.17,-3.6
+INT-World Cup,2026,Saudi Arabia,Nawaf Al Aqidi,Saudi Arabia,GK,26,2000,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Saudi Arabia,Nawaf Boushal,Saudi Arabia,DF,26,1999,2,91,46,33.7,1.0,1,81,0,1,10,1,1.0,0,0,0,0.0,2.01
+INT-World Cup,2026,Saudi Arabia,Saleh Al-Shehri,Saudi Arabia,FW,32,1993,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Saudi Arabia,Salem Al-Dawsari,Saudi Arabia,MF,34,1991,3,245,82,90.7,2.7,3,82,2,0,,0,0.67,1,5,-4,-1.47,-1.47
+INT-World Cup,2026,Saudi Arabia,Saud Abdulhamid,Saudi Arabia,DF,26,1999,3,269,90,99.6,3.0,3,90,2,0,,0,0.67,1,5,-4,-1.34,-1.34
+INT-World Cup,2026,Saudi Arabia,Sultan Mendash,Saudi Arabia,MF,31,1994,1,65,65,24.1,0.7,1,65,0,0,,2,1.0,0,0,0,0.0,1.76
+INT-World Cup,2026,Saudi Arabia,Ziyad Al Johani,Saudi Arabia,MF,24,2001,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Scotland,Aaron Hickey,Scotland,DF,24,2002,1,74,74,27.4,0.8,1,74,0,0,,2,3.0,1,0,1,1.22,3.05
+INT-World Cup,2026,Scotland,Andy Robertson,Scotland,DF,32,1994,3,225,75,83.3,2.5,3,75,2,0,,0,1.0,1,3,-2,-0.8,1.2
+INT-World Cup,2026,Scotland,Angus Gunn,Scotland,GK,30,1996,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,1,4,-3,-1.0,
+INT-World Cup,2026,Scotland,Anthony Ralston,Scotland,DF,27,1998,2,11,6,4.1,0.1,0,,0,2,6,1,0.0,0,0,0,0.0,1.04
+INT-World Cup,2026,Scotland,Ben Gannon-Doak,Scotland,MF,20,2005,3,186,62,68.9,2.1,2,78,0,1,31,0,1.0,1,3,-2,-0.97,0.1
+INT-World Cup,2026,Scotland,Ché Adams,Scotland,FW,29,1996,3,145,48,53.7,1.6,2,72,0,1,1,0,1.0,1,1,0,0.0,2.16
+INT-World Cup,2026,Scotland,Craig Gordon,Scotland,GK,43,1982,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Scotland,Dominic Hyam,Scotland,DF,30,1995,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Scotland,Findlay Curtis,Scotland,MF,19,2006,2,9,5,3.3,0.1,0,,0,2,5,1,1.5,0,0,0,0.0,1.03
+INT-World Cup,2026,Scotland,George Hirst,Scotland,FW,27,1999,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Scotland,Grant Hanley,Scotland,DF,34,1991,2,180,90,66.7,2.0,2,90,2,0,,1,1.5,1,1,0,0.0,3.0
+INT-World Cup,2026,Scotland,Jack Hendry,Scotland,DF,31,1995,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,1,4,-3,-1.0,
+INT-World Cup,2026,Scotland,John McGinn,Scotland,MF,31,1994,3,259,86,95.9,2.9,3,86,0,0,,0,1.0,1,4,-3,-1.04,-1.04
+INT-World Cup,2026,Scotland,John Souttar,Scotland,DF,29,1996,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Scotland,Kenny McLean,Scotland,MF,34,1992,3,118,39,43.7,1.3,1,90,1,2,14,0,1.0,0,3,-3,-2.29,-2.29
+INT-World Cup,2026,Scotland,Kieran Tierney,Scotland,MF,29,1997,2,104,52,38.5,1.2,1,59,0,1,45,1,0.0,0,2,-2,-1.73,-1.19
+INT-World Cup,2026,Scotland,Lawrence Shankland,Scotland,FW,30,1995,2,171,86,63.3,1.9,2,86,0,0,,1,1.5,1,3,-2,-1.05,-0.14
+INT-World Cup,2026,Scotland,Lewis Ferguson,Scotland,MF,26,1999,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,1,4,-3,-1.0,
+INT-World Cup,2026,Scotland,Liam Kelly,Scotland,GK,30,1996,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Scotland,Lyndon Dykes,Scotland,"FW,MF",30,1995,2,36,18,13.3,0.4,0,,0,2,18,1,1.5,0,0,0,0.0,1.15
+INT-World Cup,2026,Scotland,Nathan Patterson,Scotland,DF,24,2001,3,185,62,68.5,2.1,2,85,0,1,16,0,1.0,0,4,-4,-1.95,-3.0
+INT-World Cup,2026,Scotland,Ross Stewart,Scotland,FW,29,1996,1,2,2,0.7,0.0,0,,0,1,2,2,0.0,0,0,0,0.0,1.01
+INT-World Cup,2026,Scotland,Ryan Christie,Scotland,MF,31,1995,3,95,32,35.2,1.1,1,70,0,2,13,0,1.0,0,1,-1,-0.95,0.08
+INT-World Cup,2026,Scotland,Scott McKenna,Scotland,DF,29,1996,1,90,90,33.3,1.0,1,90,1,0,,2,0.0,0,3,-3,-3.0,-3.0
+INT-World Cup,2026,Scotland,Scott McTominay,Scotland,MF,29,1996,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,1,4,-3,-1.0,
+INT-World Cup,2026,Scotland,Tyler Fletcher,Scotland,MF,19,2007,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Senegal,Abdoulaye Seck,Senegal,DF,34,1992,1,57,57,14.6,0.6,1,57,0,0,,3,3.0,2,0,2,3.16,3.43
+INT-World Cup,2026,Senegal,Antoine Mendy,Senegal,DF,22,2004,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Senegal,Assane Diao,Senegal,MF,20,2005,1,10,10,2.6,0.1,0,,0,1,10,3,3.0,1,0,1,9.0,9.0
+INT-World Cup,2026,Senegal,Bamba Dieng,Senegal,FW,26,2000,1,8,8,2.1,0.1,0,,0,1,8,3,0.0,1,1,0,0.0,-0.24
+INT-World Cup,2026,Senegal,Bara Sapoko Ndiaye,Senegal,MF,18,2007,1,26,26,6.7,0.3,0,,0,1,26,3,0.0,0,1,-1,-3.46,-3.96
+INT-World Cup,2026,Senegal,Cherif Ndiaye,Senegal,"FW,MF",30,1996,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Senegal,El Hadji Malick Diouf,Senegal,DF,21,2004,3,171,57,43.8,1.9,2,72,1,1,28,1,0.0,2,6,-4,-2.11,-4.16
+INT-World Cup,2026,Senegal,Habib Diarra,Senegal,MF,22,2004,3,143,48,36.7,1.6,2,64,0,1,15,1,1.0,5,2,3,1.89,2.62
+INT-World Cup,2026,Senegal,Ibrahim Mbaye,Senegal,MF,18,2008,4,157,39,40.3,1.7,1,56,0,3,34,0,0.75,4,6,-2,-1.15,-2.31
+INT-World Cup,2026,Senegal,Idrissa Gueye,Senegal,MF,36,1989,4,361,90,92.6,4.0,4,90,2,0,,0,0.75,9,7,2,0.5,3.6
+INT-World Cup,2026,Senegal,Iliman Ndiaye,Senegal,FW,26,2000,3,114,38,29.2,1.3,1,72,0,2,21,1,1.0,6,1,5,3.95,5.25
+INT-World Cup,2026,Senegal,Ismail Jakobs,Senegal,DF,26,1999,3,219,73,56.2,2.4,2,91,1,1,37,1,1.0,8,3,5,2.05,4.16
+INT-World Cup,2026,Senegal,Ismaila Sarr,Senegal,"MF,FW",28,1998,4,364,91,93.3,4.0,4,91,2,0,,0,0.75,8,7,1,0.25,0.25
+INT-World Cup,2026,Senegal,Kalidou Koulibaly,Senegal,DF,34,1991,2,161,81,41.3,1.8,2,81,1,0,,2,0.0,2,6,-4,-2.24,-4.2
+INT-World Cup,2026,Senegal,Krépin Diatta,Senegal,DF,27,1999,4,390,98,100.0,4.3,4,98,4,0,,0,0.75,10,9,1,0.23,
+INT-World Cup,2026,Senegal,Lamine Camara,Senegal,MF,22,2004,4,248,62,63.6,2.8,3,64,0,1,55,0,0.75,3,7,-4,-1.45,-4.62
+INT-World Cup,2026,Senegal,Mamadou Sarr,Senegal,DF,20,2005,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Senegal,Mory Diaw,Senegal,GK,32,1993,3,238,79,61.0,2.6,2,105,2,1,28,1,1.0,8,3,5,1.89,4.26
+INT-World Cup,2026,Senegal,Moussa Niakhaté,Senegal,DF,30,1996,4,390,98,100.0,4.3,4,98,4,0,,0,0.75,10,9,1,0.23,
+INT-World Cup,2026,Senegal,Nicolas Jackson,Senegal,FW,24,2001,4,234,59,60.0,2.6,2,86,1,2,31,0,0.75,5,6,-1,-0.38,-1.54
+INT-World Cup,2026,Senegal,Pape Gueye,Senegal,MF,27,1999,4,234,59,60.0,2.6,3,67,0,1,34,0,0.75,6,4,2,0.77,1.35
+INT-World Cup,2026,Senegal,Pape Matar Sarr,Senegal,MF,23,2002,2,67,34,17.2,0.7,0,,0,2,34,2,0.0,1,3,-2,-2.69,-3.52
+INT-World Cup,2026,Senegal,Pathé Ciss,Senegal,DF,32,1994,4,184,46,47.2,2.0,1,120,1,3,21,0,0.75,7,4,3,1.47,2.34
+INT-World Cup,2026,Senegal,Sadio Mané,Senegal,"MF,FW",34,1992,4,362,91,92.8,4.0,4,91,3,0,,0,0.75,10,8,2,0.5,3.71
+INT-World Cup,2026,Senegal,Yehvann Diouf,Senegal,GK,26,1999,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Senegal,Édouard Mendy,Senegal,GK,34,1992,2,152,76,39.0,1.7,2,76,1,0,,0,0.0,2,6,-4,-2.37,-4.26
+INT-World Cup,2026,South Africa,Aubrey Modiba,South Africa,DF,30,1995,4,346,87,96.1,3.8,4,87,3,0,,0,1.0,2,4,-2,-0.52,-0.52
+INT-World Cup,2026,South Africa,Bradley Cross,South Africa,DF,25,2001,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,South Africa,Evidence Makgopa,South Africa,FW,26,2000,4,215,54,59.7,2.4,2,88,1,2,20,0,1.0,2,0,2,0.84,3.32
+INT-World Cup,2026,South Africa,Ime Okon,South Africa,DF,22,2004,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,2,4,-2,-0.5,
+INT-World Cup,2026,South Africa,Iqraam Rayners,South Africa,FW,30,1995,4,161,40,44.7,1.8,2,70,0,2,11,0,1.0,0,4,-4,-2.24,-3.14
+INT-World Cup,2026,South Africa,Jayden Adams,South Africa,MF,25,2001,3,116,39,32.2,1.3,2,53,0,1,11,1,1.33,0,2,-2,-1.55,-1.55
+INT-World Cup,2026,South Africa,Kamogelo Sebelebele,South Africa,"DF,MF",23,2002,1,7,7,1.9,0.1,0,,0,1,7,3,1.0,0,0,0,0.0,0.51
+INT-World Cup,2026,South Africa,Khuliso Mudau,South Africa,DF,31,1995,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,2,4,-2,-0.5,
+INT-World Cup,2026,South Africa,Khulumani Ndamane,South Africa,DF,22,2004,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,South Africa,Lyle Foster,South Africa,FW,25,2000,1,55,55,15.3,0.6,1,55,0,0,,3,0.0,0,1,-1,-1.64,-1.34
+INT-World Cup,2026,South Africa,Mbekezeli Mbokazi,South Africa,DF,20,2005,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,2,4,-2,-0.5,
+INT-World Cup,2026,South Africa,Nkosinathi Sibisi,South Africa,DF,30,1995,1,90,90,25.0,1.0,1,90,1,0,,3,0.0,0,2,-2,-2.0,-2.0
+INT-World Cup,2026,South Africa,Olwethu Makhanya,South Africa,DF,22,2004,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,South Africa,Oswin Appollis,South Africa,"MF,FW",24,2001,4,255,64,70.8,2.8,3,80,2,1,14,0,1.0,1,2,-1,-0.35,0.5
+INT-World Cup,2026,South Africa,Relebohile Mofokeng,South Africa,MF,21,2004,3,169,56,46.9,1.9,2,62,0,1,45,1,1.33,2,0,2,1.07,2.95
+INT-World Cup,2026,South Africa,Ricardo Goss,South Africa,GK,32,1994,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,South Africa,Ronwen Williams,South Africa,GK,34,1992,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,2,4,-2,-0.5,
+INT-World Cup,2026,South Africa,Samukele Kabini,South Africa,DF,22,2004,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,South Africa,Sipho Chaine,South Africa,GK,29,1996,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,South Africa,Sphephelo Sithole,South Africa,MF,27,1999,3,229,76,63.6,2.5,3,76,2,0,,0,1.0,1,2,-1,-0.39,0.29
+INT-World Cup,2026,South Africa,Teboho Mokoena,South Africa,MF,29,1997,3,270,90,75.0,3.0,3,90,3,0,,0,0.33,1,4,-3,-1.0,-2.0
+INT-World Cup,2026,South Africa,Thabang Matuludi,South Africa,DF,27,1999,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,South Africa,Thalente Mbatha,South Africa,MF,26,2000,4,260,65,72.2,2.9,2,90,2,2,40,0,1.0,2,3,-1,-0.35,0.55
+INT-World Cup,2026,South Africa,Thapelo Maseko,South Africa,"MF,FW",22,2003,3,242,81,67.2,2.7,3,81,0,0,,1,1.33,2,1,1,0.37,2.66
+INT-World Cup,2026,South Africa,Themba Zwane,South Africa,"FW,MF",36,1989,1,23,23,6.4,0.3,0,,0,1,23,0,0.0,0,1,-1,-3.91,-3.65
+INT-World Cup,2026,South Africa,Tshepang Moremi,South Africa,MF,25,2000,2,34,17,9.4,0.4,0,,0,2,17,2,1.5,1,1,0,0.0,0.55
+INT-World Cup,2026,Spain,Aymeric Laporte,Spain,DF,32,1994,8,727,91,96.9,8.1,8,91,6,0,,0,2.75,13,1,12,1.49,-2.43
+INT-World Cup,2026,Spain,Borja Iglesias,Spain,FW,33,1993,1,1,1,0.1,0.0,0,,0,1,1,7,3.0,0,0,0,0.0,-1.56
+INT-World Cup,2026,Spain,Dani Olmo,Spain,MF,28,1998,8,491,61,65.5,5.5,6,75,0,2,21,0,2.75,9,1,8,1.47,-0.27
+INT-World Cup,2026,Spain,David Raya,Spain,GK,30,1995,0,,,,,0,,0,0,,8,,,,,,
+INT-World Cup,2026,Spain,Eric García,Spain,"DF,MF",25,2001,1,22,22,2.9,0.2,0,,0,1,22,7,3.0,1,0,1,4.09,2.61
+INT-World Cup,2026,Spain,Fabián Ruiz Peña,Spain,MF,30,1996,8,321,40,42.8,3.6,4,66,0,4,15,0,2.75,4,1,3,0.84,-1.26
+INT-World Cup,2026,Spain,Ferran Torres,Spain,FW,26,2000,8,288,36,38.4,3.2,1,80,0,7,30,0,2.75,5,0,5,1.56,0.0
+INT-World Cup,2026,Spain,Gavi,Spain,FW,21,2004,2,76,38,10.1,0.8,1,70,0,1,6,6,2.0,1,0,1,1.18,-0.42
+INT-World Cup,2026,Spain,Joan García,Spain,GK,25,2001,0,,,,,0,,0,0,,8,,,,,,
+INT-World Cup,2026,Spain,Lamine Yamal,Spain,"MF,FW",18,2007,8,614,77,81.9,6.8,7,85,4,1,20,0,2.75,12,1,11,1.61,0.29
+INT-World Cup,2026,Spain,Marc Cucurella,Spain,DF,27,1998,8,750,94,100.0,8.3,8,94,8,0,,0,2.75,14,1,13,1.56,
+INT-World Cup,2026,Spain,Marc Pubill,Spain,DF,22,2003,1,1,1,0.1,0.0,0,,0,1,1,7,3.0,0,0,0,0.0,-1.56
+INT-World Cup,2026,Spain,Marcos Llorente,Spain,DF,31,1995,3,187,62,24.9,2.1,2,90,2,1,7,5,2.33,1,0,1,0.48,-1.44
+INT-World Cup,2026,Spain,Martín Zubimendi,Spain,MF,27,1999,1,22,22,2.9,0.2,0,,0,1,22,7,3.0,1,0,1,4.09,2.61
+INT-World Cup,2026,Spain,Mikel Merino,Spain,MF,29,1996,8,199,25,26.5,2.2,1,59,0,7,20,0,2.75,5,0,5,2.26,0.95
+INT-World Cup,2026,Spain,Mikel Oyarzabal,Spain,FW,29,1997,8,601,75,80.1,6.7,8,75,2,0,,0,2.75,10,1,9,1.35,-1.07
+INT-World Cup,2026,Spain,Nico Williams,Spain,MF,23,2002,6,113,19,15.1,1.3,0,,0,6,19,2,2.67,2,0,2,1.59,0.04
+INT-World Cup,2026,Spain,Pau Cubarsí,Spain,DF,19,2007,8,750,94,100.0,8.3,8,94,8,0,,0,2.75,14,1,13,1.56,
+INT-World Cup,2026,Spain,Pedri,Spain,MF,23,2002,8,499,62,66.5,5.5,5,78,1,3,36,0,2.75,10,0,10,1.8,0.73
+INT-World Cup,2026,Spain,Pedro Porro,Spain,DF,26,1999,6,563,94,75.1,6.3,6,94,5,0,,2,3.0,13,1,12,1.92,1.44
+INT-World Cup,2026,Spain,Rodri,Spain,MF,29,1996,8,724,91,96.5,8.0,8,91,6,0,,0,2.75,13,1,12,1.49,-1.97
+INT-World Cup,2026,Spain,Unai Simón,Spain,GK,29,1997,8,750,94,100.0,8.3,8,94,8,0,,0,2.75,14,1,13,1.56,
+INT-World Cup,2026,Spain,Víctor Muñoz,Spain,MF,22,2003,0,,,,,0,,0,0,,8,,,,,,
+INT-World Cup,2026,Spain,Yéremy Pino,Spain,"FW,MF",23,2002,2,70,35,9.3,0.8,0,,0,2,35,6,3.0,1,0,1,1.29,-0.3
+INT-World Cup,2026,Spain,Álex Baena,Spain,"MF,FW",24,2001,7,481,69,64.1,5.3,7,69,0,0,,1,3.0,10,1,9,1.68,0.35
+INT-World Cup,2026,Spain,Álex Grimaldo,Spain,"DF,MF",30,1995,0,,,,,0,,0,0,,8,,,,,,
+INT-World Cup,2026,Sweden,Alexander Bernhardsson,Sweden,MF,27,1998,3,217,72,60.3,2.4,3,72,0,0,,1,1.33,5,6,-1,-0.41,0.84
+INT-World Cup,2026,Sweden,Alexander Isak,Sweden,FW,26,1999,4,357,89,99.2,4.0,4,89,2,0,,0,1.0,6,10,-4,-1.01,-31.01
+INT-World Cup,2026,Sweden,Anthony Elanga,Sweden,"MF,FW",24,2002,4,217,54,60.3,2.4,2,90,2,2,19,0,1.0,3,5,-2,-0.83,-0.2
+INT-World Cup,2026,Sweden,Benjamin Nygren,Sweden,MF,24,2001,4,130,33,36.1,1.4,2,59,0,2,6,0,1.0,3,5,-2,-1.38,-0.99
+INT-World Cup,2026,Sweden,Besfort Zeneli,Sweden,MF,23,2002,2,60,30,16.7,0.7,0,,0,2,30,2,0.0,1,2,-1,-1.5,-0.9
+INT-World Cup,2026,Sweden,Carl Starfelt,Sweden,DF,31,1995,1,4,4,1.1,0.0,0,,0,1,4,3,1.0,0,0,0,0.0,0.76
+INT-World Cup,2026,Sweden,Daniel Svensson,Sweden,DF,24,2002,3,98,33,27.2,1.1,1,81,0,2,9,1,1.33,1,3,-2,-1.84,-1.49
+INT-World Cup,2026,Sweden,Elliot Stroud,Sweden,MF,23,2002,4,166,42,46.1,1.8,2,70,0,2,14,0,1.0,3,3,0,0.0,1.39
+INT-World Cup,2026,Sweden,Eric Smith,Sweden,"DF,MF",29,1997,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Sweden,Gabriel Gudmundsson,Sweden,"MF,DF",27,1999,4,330,83,91.7,3.7,4,83,1,0,,0,1.0,5,10,-5,-1.36,-7.36
+INT-World Cup,2026,Sweden,Gustaf Lagerbielke,Sweden,DF,26,2000,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,7,10,-3,-0.75,
+INT-World Cup,2026,Sweden,Gustaf Nilsson,Sweden,FW,29,1997,1,2,2,0.6,0.0,0,,0,1,2,3,0.0,0,0,0,0.0,0.75
+INT-World Cup,2026,Sweden,Herman Johansson,Sweden,MF,28,1997,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Sweden,Hjalmar Ekdal,Sweden,DF,27,1998,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Sweden,Isak Hien,Sweden,DF,27,1999,3,216,72,60.0,2.4,3,72,2,0,,0,1.33,6,6,0,0.0,1.87
+INT-World Cup,2026,Sweden,Jacob Widell Zetterström,Sweden,GK,27,1998,2,180,90,50.0,2.0,2,90,2,0,,2,0.5,1,4,-3,-1.5,-1.5
+INT-World Cup,2026,Sweden,Jesper Karlström,Sweden,MF,30,1995,2,138,69,38.3,1.5,2,69,0,0,,2,1.5,4,5,-1,-0.65,0.16
+INT-World Cup,2026,Sweden,Ken Sema,Sweden,"FW,MF",32,1993,1,16,16,4.4,0.2,0,,0,1,16,3,1.0,0,0,0,0.0,0.78
+INT-World Cup,2026,Sweden,Kristoffer Nordfeldt,Sweden,GK,36,1989,2,180,90,50.0,2.0,2,90,2,0,,2,1.5,6,6,0,0.0,1.5
+INT-World Cup,2026,Sweden,Lucas Bergvall,Sweden,MF,20,2006,4,181,45,50.3,2.0,1,65,0,3,39,0,1.0,4,4,0,0.0,1.51
+INT-World Cup,2026,Sweden,Mattias Svanberg,Sweden,MF,27,1999,2,16,8,4.4,0.2,0,,0,2,8,2,1.5,1,0,1,5.63,6.67
+INT-World Cup,2026,Sweden,Taha Ali,Sweden,"FW,MF",27,1998,2,37,19,10.3,0.4,0,,0,2,19,2,0.0,0,2,-2,-4.86,-4.59
+INT-World Cup,2026,Sweden,Victor Lindelöf,Sweden,"DF,MF",31,1994,4,356,89,98.9,4.0,4,89,3,0,,0,1.0,7,10,-3,-0.76,-0.76
+INT-World Cup,2026,Sweden,Viktor Gyökeres,Sweden,FW,28,1998,4,360,90,100.0,4.0,4,90,4,0,,0,1.0,7,10,-3,-0.75,
+INT-World Cup,2026,Sweden,Viktor Johansson,Sweden,GK,27,1998,0,,,,,0,,0,0,,4,,,,,,
+INT-World Cup,2026,Sweden,Yasin Ayari,Sweden,MF,22,2003,4,339,85,94.2,3.8,4,85,2,0,,0,1.0,7,9,-2,-0.53,3.75
+INT-World Cup,2026,Switzerland,Ardon Jashari,Switzerland,MF,23,2002,3,72,24,12.0,0.8,1,45,0,2,14,3,0.67,0,3,-3,-3.75,-4.94
+INT-World Cup,2026,Switzerland,Aurèle Amenda,Switzerland,DF,22,2003,0,,,,,0,,0,0,,6,,,,,,
+INT-World Cup,2026,Switzerland,Breel Embolo,Switzerland,FW,29,1997,6,501,84,83.5,5.6,6,84,1,0,,0,1.83,8,3,5,0.9,1.81
+INT-World Cup,2026,Switzerland,Cedric Itten,Switzerland,"FW,MF",29,1996,3,42,14,7.0,0.5,0,,0,3,14,3,2.33,2,1,1,2.14,1.66
+INT-World Cup,2026,Switzerland,Christian Fassnacht,Switzerland,"FW,MF",32,1993,1,6,6,1.0,0.1,0,,0,1,6,5,3.0,0,0,0,0.0,-0.61
+INT-World Cup,2026,Switzerland,Dan Ndoye,Switzerland,"MF,FW",25,2000,6,406,68,67.7,4.5,5,79,0,1,11,0,1.83,4,1,3,0.67,0.2
+INT-World Cup,2026,Switzerland,Denis Zakaria,Switzerland,DF,29,1996,4,357,89,59.5,4.0,4,89,1,0,,2,1.25,4,2,2,0.5,-0.24
+INT-World Cup,2026,Switzerland,Djibril Sow,Switzerland,MF,29,1997,4,253,63,42.2,2.8,2,79,0,2,48,2,1.75,7,2,5,1.78,2.04
+INT-World Cup,2026,Switzerland,Eray Cömert,Switzerland,DF,28,1998,1,31,31,5.2,0.3,0,,0,1,31,5,0.0,0,2,-2,-5.81,-6.76
+INT-World Cup,2026,Switzerland,Fabian Rieder,Switzerland,"MF,FW",24,2002,5,302,60,50.3,3.4,3,86,0,2,23,1,1.6,1,2,-1,-0.3,-1.81
+INT-World Cup,2026,Switzerland,Granit Xhaka,Switzerland,MF,33,1992,6,600,100,100.0,6.7,6,100,6,0,,0,1.83,10,6,4,0.6,
+INT-World Cup,2026,Switzerland,Gregor Kobel,Switzerland,GK,28,1997,6,600,100,100.0,6.7,6,100,6,0,,0,1.83,10,6,4,0.6,
+INT-World Cup,2026,Switzerland,Johan Manzambi,Switzerland,"MF,FW",20,2005,4,199,50,33.2,2.2,2,77,0,2,23,0,2.5,8,3,5,2.26,2.49
+INT-World Cup,2026,Switzerland,Luca Jaquez,Switzerland,DF,23,2003,2,78,39,13.0,0.9,1,73,0,1,5,2,3.0,4,1,3,3.46,3.29
+INT-World Cup,2026,Switzerland,Manuel Akanji,Switzerland,DF,30,1995,6,600,100,100.0,6.7,6,100,6,0,,0,1.83,10,6,4,0.6,
+INT-World Cup,2026,Switzerland,Marvin Keller,Switzerland,GK,23,2002,0,,,,,0,,0,0,,6,,,,,,
+INT-World Cup,2026,Switzerland,Michel Aebischer,Switzerland,"MF,FW",29,1997,4,156,39,26.0,1.7,2,68,0,2,11,1,2.5,1,1,0,0.0,-0.81
+INT-World Cup,2026,Switzerland,Miro Muheim,Switzerland,"DF,MF",28,1998,3,87,29,14.5,1.0,0,,0,3,29,1,0.67,0,3,-3,-3.1,-4.33
+INT-World Cup,2026,Switzerland,Nico Elvedi,Switzerland,DF,29,1996,6,600,100,100.0,6.7,6,100,6,0,,0,1.83,10,6,4,0.6,
+INT-World Cup,2026,Switzerland,Noah Okafor,Switzerland,"FW,MF",26,2000,1,20,20,3.3,0.2,0,,0,1,20,5,3.0,0,0,0,0.0,-0.62
+INT-World Cup,2026,Switzerland,Remo Freuler,Switzerland,MF,34,1992,6,592,99,98.7,6.6,6,99,4,0,,0,1.83,10,4,6,0.91,23.41
+INT-World Cup,2026,Switzerland,Ricardo Rodríguez,Switzerland,DF,33,1992,6,517,86,86.2,5.7,6,86,3,0,,0,1.83,10,3,7,1.22,4.47
+INT-World Cup,2026,Switzerland,Ruben Vargas,Switzerland,MF,27,1998,6,284,47,47.3,3.2,3,76,0,3,19,0,1.83,9,3,6,1.9,2.47
+INT-World Cup,2026,Switzerland,Silvan Widmer,Switzerland,DF,33,1993,5,175,35,29.2,1.9,1,85,0,4,23,1,2.0,2,3,-1,-0.51,-1.57
+INT-World Cup,2026,Switzerland,Yvon Mvogo,Switzerland,GK,32,1994,0,,,,,0,,0,0,,6,,,,,,
+INT-World Cup,2026,Switzerland,Zeki Amdouni,Switzerland,"FW,MF",25,2000,4,73,18,12.2,0.8,0,,0,4,18,2,1.25,0,3,-3,-3.7,-4.89
+INT-World Cup,2026,Tunisia,Adem Arous,Tunisia,DF,21,2004,0,,,,,0,,0,0,,2,,,,,,
+INT-World Cup,2026,Tunisia,Ali Abdi,Tunisia,DF,32,1993,3,269,90,99.6,3.0,3,90,2,0,,0,0.0,2,12,-10,-3.35,-3.35
+INT-World Cup,2026,Tunisia,Anis Ben Slimane,Tunisia,"MF,FW",25,2001,3,240,80,88.9,2.7,3,80,1,0,,0,0.0,2,11,-9,-3.38,-0.38
+INT-World Cup,2026,Tunisia,Aymen Dahmen,Tunisia,GK,29,1997,2,180,90,66.7,2.0,2,90,2,0,,1,0.0,1,7,-6,-3.0,1.0
+INT-World Cup,2026,Tunisia,Dylan Bronn,Tunisia,DF,30,1995,1,45,45,16.7,0.5,1,45,0,0,,2,0.0,0,2,-2,-4.0,-0.8
+INT-World Cup,2026,Tunisia,Elias Achouri,Tunisia,"FW,MF",27,1999,3,43,14,15.9,0.5,0,,0,3,14,0,0.0,0,2,-2,-4.19,-1.01
+INT-World Cup,2026,Tunisia,Elias Saad,Tunisia,"MF,FW",26,1999,2,116,58,43.0,1.3,2,58,0,0,,1,0.0,1,5,-4,-3.1,0.4
+INT-World Cup,2026,Tunisia,Ellyes Skhiri,Tunisia,"MF,DF",31,1995,3,250,83,92.6,2.8,3,83,1,0,,0,0.0,2,10,-8,-2.88,6.12
+INT-World Cup,2026,Tunisia,Firas Chaouat,Tunisia,FW,30,1996,3,49,16,18.1,0.5,0,,0,3,16,0,0.0,0,3,-3,-5.51,-2.66
+INT-World Cup,2026,Tunisia,Hadj Mahmoud,Tunisia,MF,26,2000,2,43,22,15.9,0.5,0,,0,2,22,1,0.0,0,2,-2,-4.19,-1.01
+INT-World Cup,2026,Tunisia,Hannibal Mejbri,Tunisia,MF,23,2003,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,2,12,-10,-3.33,
+INT-World Cup,2026,Tunisia,Hazem Mastouri,Tunisia,FW,28,1997,1,89,89,33.0,1.0,1,89,0,0,,2,0.0,1,3,-2,-2.02,1.96
+INT-World Cup,2026,Tunisia,Ismaël Gharbi,Tunisia,MF,22,2004,3,127,42,47.0,1.4,1,74,0,2,27,0,0.0,1,7,-6,-4.25,-1.73
+INT-World Cup,2026,Tunisia,Khalil Ayari,Tunisia,FW,21,2005,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Tunisia,Mohamed Amine Ben Hamida,Tunisia,DF,30,1995,3,202,67,74.8,2.2,2,79,1,1,45,0,0.0,2,10,-8,-3.56,-0.92
+INT-World Cup,2026,Tunisia,Montassar Talbi,Tunisia,DF,28,1998,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,2,12,-10,-3.33,
+INT-World Cup,2026,Tunisia,Mortadha Ben Ouanes,Tunisia,"DF,MF",31,1994,1,23,23,8.5,0.3,0,,0,1,23,2,0.0,0,0,0,0.0,3.64
+INT-World Cup,2026,Tunisia,Mouhib Chamakh,Tunisia,GK,24,2001,1,90,90,33.3,1.0,1,90,1,0,,2,0.0,1,5,-4,-4.0,-1.0
+INT-World Cup,2026,Tunisia,Moutaz Neffati,Tunisia,DF,21,2004,0,,,,,0,,0,0,,2,,,,,,
+INT-World Cup,2026,Tunisia,Omar Rekik,Tunisia,DF,24,2001,2,180,90,66.7,2.0,2,90,2,0,,1,0.0,1,9,-8,-4.0,-2.0
+INT-World Cup,2026,Tunisia,Raed Chikhaoui,Tunisia,DF,22,2004,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Tunisia,Rani Khedira,Tunisia,MF,32,1994,3,149,50,55.2,1.7,2,74,0,1,1,0,0.0,2,6,-4,-2.42,2.05
+INT-World Cup,2026,Tunisia,Rayan Elloumi,Tunisia,FW,18,2007,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Tunisia,Sabri Ben Hassen,Tunisia,GK,30,1996,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Tunisia,Sebastian Tounekti,Tunisia,FW,23,2002,3,84,28,31.1,0.9,1,64,0,2,10,0,0.0,0,4,-4,-4.29,-1.38
+INT-World Cup,2026,Tunisia,Yan Valery,Tunisia,DF,27,1999,3,251,84,93.0,2.8,3,84,2,0,,0,0.0,2,10,-8,-2.87,6.61
+INT-World Cup,2026,Türkiye,Abdülkerim Bardakcı,Türkiye,DF,31,1994,3,265,88,98.1,2.9,3,88,2,0,,0,1.0,3,5,-2,-0.68,-0.68
+INT-World Cup,2026,Türkiye,Altay Bayındır,Türkiye,GK,28,1998,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Türkiye,Arda Güler,Türkiye,MF,21,2005,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,3,5,-2,-0.67,
+INT-World Cup,2026,Türkiye,Barış Alper Yılmaz,Türkiye,"MF,FW",26,2000,3,179,60,66.3,2.0,2,67,0,1,45,0,1.0,2,3,-1,-0.5,0.49
+INT-World Cup,2026,Türkiye,Can Uzun,Türkiye,MF,20,2005,2,38,19,14.1,0.4,0,,0,2,19,1,1.5,1,0,1,2.37,3.53
+INT-World Cup,2026,Türkiye,Deniz Gül,Türkiye,FW,21,2004,2,37,19,13.7,0.4,0,,0,2,19,1,0.0,0,0,0,0.0,0.77
+INT-World Cup,2026,Türkiye,Eren Elmalı,Türkiye,DF,25,2000,2,111,56,41.1,1.2,1,90,1,1,21,1,1.5,3,2,1,0.81,2.51
+INT-World Cup,2026,Türkiye,Ferdi Kadioglu,Türkiye,DF,26,1999,2,159,80,58.9,1.8,2,80,1,0,,1,0.0,0,3,-3,-1.7,-2.51
+INT-World Cup,2026,Türkiye,Hakan Çalhanoğlu,Türkiye,MF,32,1994,2,180,90,66.7,2.0,2,90,2,0,,1,0.0,0,3,-3,-1.5,-2.5
+INT-World Cup,2026,Türkiye,Kaan Ayhan,Türkiye,"DF,MF",31,1994,1,3,3,1.1,0.0,0,,0,1,3,2,3.0,1,0,1,30.0,31.01
+INT-World Cup,2026,Türkiye,Kenan Yıldız,Türkiye,MF,21,2005,3,218,73,80.7,2.4,2,87,1,1,45,0,1.0,2,4,-2,-0.83,-0.83
+INT-World Cup,2026,Türkiye,Kerem Aktürkoğlu,Türkiye,FW,27,1998,2,129,65,47.8,1.4,2,65,0,0,,1,0.0,0,3,-3,-2.09,-2.73
+INT-World Cup,2026,Türkiye,Merih Demiral,Türkiye,DF,28,1998,2,180,90,66.7,2.0,2,90,2,0,,1,0.0,0,3,-3,-1.5,-2.5
+INT-World Cup,2026,Türkiye,Mert Günok,Türkiye,GK,37,1989,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Türkiye,Mert Müldür,Türkiye,DF,27,1999,3,101,34,37.4,1.1,1,90,1,2,6,0,1.0,1,1,0,0.0,1.07
+INT-World Cup,2026,Türkiye,Orkun Kökçü,Türkiye,MF,25,2000,3,153,51,56.7,1.7,2,74,0,1,5,0,1.0,2,3,-1,-0.59,0.18
+INT-World Cup,2026,Türkiye,Ozan Kabak,Türkiye,DF,26,2000,1,90,90,33.3,1.0,1,90,1,0,,2,3.0,3,2,1,1.0,2.5
+INT-World Cup,2026,Türkiye,Oğuz Aydın,Türkiye,DF,25,2000,1,89,89,33.0,1.0,1,89,0,0,,2,3.0,2,2,0,0.0,0.99
+INT-World Cup,2026,Türkiye,Salih Özcan,Türkiye,MF,28,1998,2,100,50,37.0,1.1,1,90,1,1,10,1,1.5,3,2,1,0.9,2.49
+INT-World Cup,2026,Türkiye,Samet Akaydın,Türkiye,DF,32,1994,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Türkiye,Uğurcan Çakır,Türkiye,GK,30,1996,3,270,90,100.0,3.0,3,90,3,0,,0,1.0,3,5,-2,-0.67,
+INT-World Cup,2026,Türkiye,Yunus Akgün,Türkiye,MF,25,2000,2,88,44,32.6,1.0,1,59,0,1,29,1,0.0,0,2,-2,-2.05,-2.05
+INT-World Cup,2026,Türkiye,Zeki Çelik,Türkiye,DF,29,1997,2,163,82,60.4,1.8,2,82,0,0,,1,1.5,2,4,-2,-1.1,-1.1
+INT-World Cup,2026,Türkiye,Çağlar Söyüncü,Türkiye,DF,30,1996,1,7,7,2.6,0.1,0,,0,1,7,2,3.0,1,0,1,12.86,13.88
+INT-World Cup,2026,Türkiye,İrfan Can Kahveci,Türkiye,MF,30,1995,1,1,1,0.4,0.0,0,,0,1,1,2,3.0,1,0,1,90.0,91.0
+INT-World Cup,2026,Türkiye,İsmail Yüksek,Türkiye,MF,27,1999,2,139,70,51.5,1.5,2,70,0,0,,1,0.0,0,3,-3,-1.94,-2.63
+INT-World Cup,2026,USA,Alejandro Zendejas,USA,"FW,MF",28,1998,1,14,14,3.1,0.2,0,,0,1,14,4,0.0,0,1,-1,-6.43,-7.25
+INT-World Cup,2026,USA,Alex Freeman,USA,DF,21,2004,5,374,75,83.1,4.2,4,90,4,1,14,0,1.8,9,6,3,0.72,0.72
+INT-World Cup,2026,USA,Antonee Robinson,USA,"DF,MF",28,1997,4,348,87,77.3,3.9,4,87,2,0,,1,2.25,9,4,5,1.29,3.06
+INT-World Cup,2026,USA,Auston Trusty,USA,DF,27,1998,2,101,51,22.4,1.1,1,90,1,1,11,3,1.5,2,3,-1,-0.89,-1.92
+INT-World Cup,2026,USA,Brenden Aaronson,USA,MF,25,2000,1,76,76,16.9,0.8,1,76,0,0,,4,0.0,2,2,0,0.0,-0.72
+INT-World Cup,2026,USA,Chris Brady,USA,GK,22,2004,0,,,,,0,,0,0,,5,,,,,,
+INT-World Cup,2026,USA,Chris Richards,USA,DF,26,2000,4,360,90,80.0,4.0,4,90,4,0,,1,2.25,9,5,4,1.0,2.0
+INT-World Cup,2026,USA,Christian Pulisic,USA,MF,27,1998,4,223,56,49.6,2.5,3,63,0,1,33,0,1.5,6,4,2,0.81,0.41
+INT-World Cup,2026,USA,Cristian Roldan,USA,MF,31,1995,0,,,,,0,,0,0,,2,,,,,,
+INT-World Cup,2026,USA,Folarin Balogun,USA,FW,24,2001,4,312,78,69.3,3.5,4,78,0,0,,1,2.25,7,3,4,1.15,1.81
+INT-World Cup,2026,USA,Gio Reyna,USA,MF,23,2002,5,131,26,29.1,1.5,1,75,0,4,14,0,1.8,3,4,-1,-0.69,-1.82
+INT-World Cup,2026,USA,Haji Wright,USA,"FW,MF",28,1998,2,2,1,0.4,0.0,0,,0,2,1,3,1.5,0,1,-1,-45.0,-45.8
+INT-World Cup,2026,USA,Joe Scally,USA,DF,23,2002,2,87,44,19.3,1.0,1,76,0,1,11,3,1.5,2,2,0,0.0,-0.74
+INT-World Cup,2026,USA,Malik Tillman,USA,MF,24,2002,5,356,71,79.1,4.0,4,88,3,1,5,0,1.8,8,6,2,0.51,-0.45
+INT-World Cup,2026,USA,Mark McKenzie,USA,DF,27,1999,1,90,90,20.0,1.0,1,90,1,0,,3,0.0,2,3,-1,-1.0,-2.0
+INT-World Cup,2026,USA,Matt Freese,USA,GK,27,1998,4,360,90,80.0,4.0,4,90,4,0,,1,2.25,9,5,4,1.0,2.0
+INT-World Cup,2026,USA,Matt Turner,USA,GK,31,1994,1,90,90,20.0,1.0,1,90,1,0,,4,0.0,2,3,-1,-1.0,-2.0
+INT-World Cup,2026,USA,Max Arfsten,USA,MF,25,2001,1,1,1,0.2,0.0,0,,0,1,1,4,0.0,0,1,-1,-90.0,-90.8
+INT-World Cup,2026,USA,Miles Robinson,USA,DF,29,1997,1,90,90,20.0,1.0,1,90,1,0,,4,0.0,2,3,-1,-1.0,-2.0
+INT-World Cup,2026,USA,Ricardo Pepi,USA,FW,23,2003,5,204,41,45.3,2.3,2,82,1,3,14,0,1.8,5,5,0,0.0,-1.1
+INT-World Cup,2026,USA,Sebastian Berhalter,USA,MF,25,2001,5,187,37,41.6,2.1,1,90,1,4,24,0,1.8,3,5,-2,-0.96,-2.67
+INT-World Cup,2026,USA,Sergiño Dest,USA,MF,25,2000,5,297,59,66.0,3.3,4,71,0,1,15,0,1.8,8,3,5,1.52,2.69
+INT-World Cup,2026,USA,Tim Ream,USA,DF,38,1987,4,360,90,80.0,4.0,4,90,4,0,,1,2.25,9,5,4,1.0,2.0
+INT-World Cup,2026,USA,Timothy Weah,USA,MF,26,2000,2,76,38,16.9,0.8,1,57,0,1,19,3,1.5,3,3,0,0.0,-0.72
+INT-World Cup,2026,USA,Tyler Adams,USA,MF,27,1999,4,341,85,75.8,3.8,4,85,3,0,,1,2.25,9,4,5,1.32,2.97
+INT-World Cup,2026,USA,Weston McKennie,USA,MF,27,1998,5,443,89,98.4,4.9,5,89,2,0,,0,1.8,11,7,4,0.81,13.67
+INT-World Cup,2026,Uruguay,Agustín Canobbio,Uruguay,FW,27,1998,3,224,75,83.0,2.5,2,90,1,1,45,0,0.67,3,3,0,0.0,1.96
+INT-World Cup,2026,Uruguay,Brian Rodríguez,Uruguay,"FW,MF",26,2000,3,41,14,15.2,0.5,0,,0,3,14,0,0.67,0,0,0,0.0,0.39
+INT-World Cup,2026,Uruguay,Darwin Núñez,Uruguay,FW,26,1999,3,156,52,57.8,1.7,2,68,1,1,21,0,0.67,0,2,-2,-1.15,-1.94
+INT-World Cup,2026,Uruguay,Emiliano Martínez,Uruguay,MF,26,1999,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Uruguay,Facundo Pellistri,Uruguay,"FW,MF",24,2001,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Uruguay,Federico Valverde,Uruguay,MF,27,1998,3,236,79,87.4,2.6,3,79,2,0,,0,0.67,3,4,-1,-0.38,-0.38
+INT-World Cup,2026,Uruguay,Federico Viñas,Uruguay,FW,27,1998,3,192,64,71.1,2.1,2,79,0,1,34,0,0.67,3,3,0,0.0,1.15
+INT-World Cup,2026,Uruguay,Fernando Muslera,Uruguay,GK,39,1986,3,225,75,83.3,2.5,3,75,2,0,,0,0.67,3,4,-1,-0.4,-0.4
+INT-World Cup,2026,Uruguay,Giorgian de Arrascaeta,Uruguay,"FW,MF",32,1994,0,,,,,0,,0,0,,1,,,,,,
+INT-World Cup,2026,Uruguay,Guillermo Varela,Uruguay,DF,33,1993,3,270,90,100.0,3.0,3,90,3,0,,0,0.67,3,4,-1,-0.33,
+INT-World Cup,2026,Uruguay,Joaquín Piquerez,Uruguay,"DF,MF",27,1998,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Uruguay,José María Giménez,Uruguay,DF,31,1995,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Uruguay,Juan Manuel Sanabria,Uruguay,DF,26,2000,3,204,68,75.6,2.3,2,80,1,1,45,0,0.67,3,3,0,0.0,1.36
+INT-World Cup,2026,Uruguay,Manuel Ugarte,Uruguay,MF,25,2001,3,184,61,68.1,2.0,3,61,0,0,,0,0.67,2,4,-2,-0.98,-2.02
+INT-World Cup,2026,Uruguay,Mathías Olivera,Uruguay,DF,28,1997,3,270,90,100.0,3.0,3,90,3,0,,0,0.67,3,4,-1,-0.33,
+INT-World Cup,2026,Uruguay,Matías Viña,Uruguay,DF,28,1997,1,45,45,16.7,0.5,1,45,0,0,,2,1.0,0,1,-1,-2.0,-2.0
+INT-World Cup,2026,Uruguay,Maxi Araújo,Uruguay,"FW,MF",26,2000,3,250,83,92.6,2.8,3,83,1,0,,0,0.67,3,4,-1,-0.36,-0.36
+INT-World Cup,2026,Uruguay,Nicolás De La Cruz,Uruguay,MF,29,1997,3,86,29,31.9,1.0,0,,0,3,29,0,0.67,1,0,1,1.05,2.02
+INT-World Cup,2026,Uruguay,Rodrigo Aguirre,Uruguay,FW,31,1994,1,1,1,0.4,0.0,0,,0,1,1,2,1.0,0,0,0,0.0,0.33
+INT-World Cup,2026,Uruguay,Rodrigo Bentancur,Uruguay,MF,28,1997,3,270,90,100.0,3.0,3,90,3,0,,0,0.67,3,4,-1,-0.33,
+INT-World Cup,2026,Uruguay,Rodrigo Zalazar,Uruguay,"FW,MF",26,1999,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Uruguay,Ronald Araújo,Uruguay,DF,27,1999,0,,,,,0,,0,0,,1,,,,,,
+INT-World Cup,2026,Uruguay,Santiago Bueno,Uruguay,DF,27,1998,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Uruguay,Santiago Mele,Uruguay,GK,28,1997,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Uruguay,Sebastián Cáceres,Uruguay,DF,26,1999,3,270,90,100.0,3.0,3,90,3,0,,0,0.67,3,4,-1,-0.33,
+INT-World Cup,2026,Uruguay,Sergio Rochet,Uruguay,GK,33,1993,1,45,45,16.7,0.5,0,,0,1,45,2,0.0,0,0,0,0.0,0.4
+INT-World Cup,2026,Uzbekistan,Abbosbek Fayzullayev,Uzbekistan,MF,22,2003,3,220,73,81.5,2.4,3,73,0,0,,0,0.0,2,7,-5,-2.05,5.15
+INT-World Cup,2026,Uzbekistan,Abdukodir Khusanov,Uzbekistan,DF,22,2004,3,270,90,100.0,3.0,3,90,3,0,,0,0.0,2,11,-9,-3.0,
+INT-World Cup,2026,Uzbekistan,Abdulla Abdullaev,Uzbekistan,DF,28,1997,2,180,90,66.7,2.0,2,90,2,0,,1,0.0,1,8,-7,-3.5,-1.5
+INT-World Cup,2026,Uzbekistan,Abduvohid Nematov,Uzbekistan,GK,25,2001,2,180,90,66.7,2.0,2,90,2,0,,1,0.0,1,8,-7,-3.5,-1.5
+INT-World Cup,2026,Uzbekistan,Akmal Mozgovoy,Uzbekistan,MF,27,1999,3,216,72,80.0,2.4,2,86,1,1,45,0,0.0,2,7,-5,-2.08,4.58
+INT-World Cup,2026,Uzbekistan,Avazbek Ulmasaliev,Uzbekistan,DF,26,2000,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Uzbekistan,Aziz Gʻaniyev,Uzbekistan,MF,28,1998,2,122,61,45.2,1.4,1,90,1,1,32,1,0.0,0,8,-8,-5.9,-5.29
+INT-World Cup,2026,Uzbekistan,Azizbek Amonov,Uzbekistan,FW,28,1997,1,14,14,5.2,0.2,0,,0,1,14,2,0.0,0,1,-1,-6.43,-3.62
+INT-World Cup,2026,Uzbekistan,Bekhruz Karimov,Uzbekistan,DF,18,2007,2,179,90,66.3,2.0,2,90,1,0,,1,0.0,1,8,-7,-3.52,-1.54
+INT-World Cup,2026,Uzbekistan,Botirali Ergashev,Uzbekistan,GK,30,1995,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Uzbekistan,Dostonbek Khamdamov,Uzbekistan,MF,29,1996,2,103,52,38.1,1.1,1,58,0,1,45,1,0.0,2,2,0,0.0,4.85
+INT-World Cup,2026,Uzbekistan,Eldor Shomurodov,Uzbekistan,FW,30,1995,3,269,90,99.6,3.0,3,90,2,0,,0,0.0,2,10,-8,-2.68,87.32
+INT-World Cup,2026,Uzbekistan,Farrukh Sayfiev,Uzbekistan,"DF,MF",35,1991,1,45,45,16.7,0.5,0,,0,1,45,2,0.0,1,2,-1,-2.0,1.2
+INT-World Cup,2026,Uzbekistan,Igor Sergeev,Uzbekistan,FW,33,1993,3,28,9,10.4,0.3,0,,0,3,9,0,0.0,0,3,-3,-9.64,-7.41
+INT-World Cup,2026,Uzbekistan,Jakhongir Urozov,Uzbekistan,DF,22,2004,2,95,48,35.2,1.1,1,81,0,1,14,1,0.0,1,3,-2,-1.89,1.71
+INT-World Cup,2026,Uzbekistan,Jamshid Iskanderov,Uzbekistan,"FW,MF",32,1993,1,9,9,3.3,0.1,0,,0,1,9,2,0.0,0,1,-1,-10.0,-7.24
+INT-World Cup,2026,Uzbekistan,Khojiakbar Alijonov,Uzbekistan,MF,29,1997,2,135,68,50.0,1.5,1,90,1,1,45,1,0.0,1,5,-4,-2.67,0.67
+INT-World Cup,2026,Uzbekistan,Odiljon Hamrobekov,Uzbekistan,MF,30,1996,2,77,39,28.5,0.9,1,45,0,1,32,1,0.0,0,6,-6,-7.01,-5.61
+INT-World Cup,2026,Uzbekistan,Oston Urunov,Uzbekistan,MF,25,2000,2,63,32,23.3,0.7,1,45,0,1,18,1,0.0,0,3,-3,-4.29,-1.68
+INT-World Cup,2026,Uzbekistan,Otabek Shukurov,Uzbekistan,MF,29,1996,3,237,79,87.8,2.6,3,79,1,0,,0,0.0,2,8,-6,-2.28,5.9
+INT-World Cup,2026,Uzbekistan,Ruslanbek Jiyanov,Uzbekistan,FW,25,2001,1,1,1,0.4,0.0,0,,0,1,1,2,0.0,0,0,0,0.0,3.01
+INT-World Cup,2026,Uzbekistan,Rustam Ashurmatov,Uzbekistan,DF,29,1996,3,256,85,94.8,2.8,3,85,2,0,,0,0.0,2,10,-8,-2.81,3.62
+INT-World Cup,2026,Uzbekistan,Sherzod Esanov,Uzbekistan,MF,23,2003,1,1,1,0.4,0.0,0,,0,1,1,2,0.0,0,0,0,0.0,3.01
+INT-World Cup,2026,Uzbekistan,Sherzod Nasrullaev,Uzbekistan,"DF,MF",27,1998,3,180,60,66.7,2.0,3,60,1,0,,0,0.0,1,7,-6,-3.0,0.0
+INT-World Cup,2026,Uzbekistan,Umar Eshmurodov,Uzbekistan,DF,33,1992,0,,,,,0,,0,0,,3,,,,,,
+INT-World Cup,2026,Uzbekistan,Utkir Yusupov,Uzbekistan,GK,35,1991,1,90,90,33.3,1.0,1,90,1,0,,2,0.0,1,3,-2,-2.0,1.5
