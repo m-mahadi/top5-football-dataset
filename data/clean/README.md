@@ -43,3 +43,24 @@ barca.groupby('player').xg.sum().sort_values(ascending=False).head(10)
 
 - xG for Copa del Rey / Supercopa (patchy) and for FBref tables (stripped).
 - True pass **edges** and chance-creation **origin** coordinates (need paid event data).
+
+## sofifa_players.csv (2,790) — money + physical
+
+Current-snapshot player data from SoFIFA (EA FC 26). **Transfermarkt blocks
+automated access behind human verification**, so this is the substitute for the
+money side.
+
+`player, surname_key, positions, team, league, age, overall, potential,
+value_eur, wage_eur, release_clause_eur, contract_start, contract_end,
+pace, acceleration, sprint_speed, jumping, strength, heading,
+def_awareness, standing_tackle, sliding_tackle, defending, physical, ...`
+
+- **Values are EA's model, not Transfermarkt quotes** — directionally useful,
+  not a transfer fee. `release_clause_eur` is often the more actionable number
+  for La Liga targets.
+- `contract_end` is populated for 2,520 / 2,790 (loans and some deals lack it).
+- **Pace/acceleration/sprint are EA scouted ratings, not GPS data.** Use as a
+  screening filter for the high-line CB question, not as truth.
+- One row per player (current snapshot), **not** per season.
+- Joining: SoFIFA abbreviates first names ("K. Mbappé"), so join on
+  `surname_key` + team + age rather than full name.
